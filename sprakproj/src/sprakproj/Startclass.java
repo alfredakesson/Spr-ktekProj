@@ -1,5 +1,8 @@
 package sprakproj;
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 import info.bliki.wiki.dump.IArticleFilter;
 import info.bliki.wiki.dump.Siteinfo;
 import info.bliki.wiki.dump.WikiArticle;
@@ -14,12 +17,21 @@ public class Startclass {
 
         @Override
         public void process(WikiArticle page, Siteinfo siteinfo) throws SAXException {
-                System.out.println("----------------------------------------");
-                System.out.println(page.getId());
-                System.out.println(page.getRevisionId());
-                System.out.println(page.getTitle());
-                System.out.println("----------------------------------------");
-                System.out.println(page.getText());
+        	
+            // String to be scanned to find the pattern.
+            String line = page.getText();
+            String pattern = "fšdd_datum \\s*=\\s*(.*)";
+
+            // Create a Pattern object
+            Pattern r = Pattern.compile(pattern);
+
+            // Now create matcher object.
+            Matcher m = r.matcher(line);
+            if (m.find( )) {
+            	System.out.println(page.getTitle());
+            	System.out.println("Found value: " + m.group(1) );
+            }
+            
         }
 
 
