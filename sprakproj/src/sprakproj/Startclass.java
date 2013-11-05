@@ -26,7 +26,7 @@ public class Startclass {
 }
 
 	public static void main(String[] args) {
-    String bz2Filename = "/Users/alfredakesson/Downloads/svwiki-20131101-pages-articles.xml.bz2";
+    String bz2Filename = "../../svwiki-20131101-pages-articles.xml.bz2";
     System.out.println("hej");
     try {
             IArticleFilter handler = new DemoArticleFilter();
