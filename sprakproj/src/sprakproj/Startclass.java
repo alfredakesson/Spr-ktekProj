@@ -38,4 +38,14 @@ public class Startclass {
 
 	}
 
+	
+	/*
+	 * född
+	 * födelseår
+	 * födelsedatum
+	 * 
+	 * 
+	 * 
+	 */
+	
 }
