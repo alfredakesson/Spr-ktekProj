@@ -48,29 +48,35 @@ public class Startclass implements IArticleFilter {
 			Matcher ym = yr.matcher(dateS);
 			//System.out.println(dateS);
 			Matcher dm2 = dr2.matcher(dateS);
+			Matcher dm3 = dr3.matcher(dateS);
 			if(dm2.find()){
 				res.add(page.getTitle() + dm2.group(1));
-				System.out.println(page.getTitle()+ " fšdd " + dm2.group(1)+ " mŒndad " + dm2.group(2) + " dag " + dm2.group(3));
+				//System.out.println(page.getTitle()+ " fšdd " + dm2.group(1)+ " mŒndad " + dm2.group(2) + " dag " + dm2.group(3));
+			}else if (dm3.find()){
+				res.add(page.getTitle() + dm3.group(1));
+				//System.out.println(page.getTitle()+ " fšdd " + dm3.group(1)+ " mŒndad " + dm3.group(2) + " dag " + dm3.group(3));
 			}
 			else if(ym.find()){
-				//System.out.print(page.getTitle()+ " fšddes " + ym.group(1));
+				
 				Matcher dm = dr.matcher(dateS);
 				if(dm.find()){
 					int manad = mandToDag(dm.group(2));
 					if( manad > 0){
 						res.add(page.getTitle() + m.group(1));
-						System.out.print(" mŒnad " + manad + " dag " + dm.group(1));
+						//System.out.print(page.getTitle()+ " fšddes " + ym.group(1));
+						//System.out.print(" mŒnad " + manad + " dag " + dm.group(1));
+						//System.out.println();
 						
 					}
 				}
-				System.out.println();
+
 				
 			}
 
 			
 
 		}
-		if(num > 1000){
+		if(num > 10000){
 			throw new SAXException();
 		}
 		num++;
