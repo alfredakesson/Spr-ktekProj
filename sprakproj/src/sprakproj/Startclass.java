@@ -20,18 +20,21 @@ public class Startclass implements IArticleFilter {
 	private Pattern dr;
 	private Pattern dr2;
 	private Pattern dr3;
+	private Pattern rin;
 
 	public Startclass() {
 		String pattern = "[f|F]šd.{1,10} \\s*=\\s*(.*)";
 		String yearPattern = "(\\d{4})";// "\\[\\[\\s{0,3}(\\d{4})\\s{0,3}\\]\\]"; //"\\[\\[\\s{1,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\]\\]//\\s{0,3}\\[\\[(\\d{4})\\]\\]";
 		String datePattern = "(\\d{1,2})\\s{0,3}([a-zA-Z]{2,10})"; //"\\[\\[\\s{0,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\s{0,3}\\]\\]";
-		String datePattern2 = "\\{\\{.{0,10}\\|\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\}\\}";
+		String datePattern2 = "\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}";//"\\{\\{.{0,10}\\|\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\}\\}";
 		String datePattern3 = "(\\d{4})-(\\d{1,2})-(\\d{1,2})";
+		String inText = "fšdd.{0,50}";
 		r = Pattern.compile(pattern);
 		yr = Pattern.compile(yearPattern);
 		dr = Pattern.compile(datePattern);
 		dr2 = Pattern.compile(datePattern2);
 		dr3 = Pattern.compile(datePattern3);
+		rin = Pattern.compile(inText);
 		
 		res = new LinkedList<String>();
 	}
@@ -40,10 +43,8 @@ public class Startclass implements IArticleFilter {
 	public void process(WikiArticle page, Siteinfo siteinfo)
 			throws SAXException {
 		Matcher m = r.matcher(page.getText());
+		boolean added = false;
 		while (m.find()) {
-			
-			
-			
 			String dateS = m.group(1);
 			Matcher ym = yr.matcher(dateS);
 			//System.out.println(dateS);
@@ -51,9 +52,15 @@ public class Startclass implements IArticleFilter {
 			Matcher dm3 = dr3.matcher(dateS);
 			if(dm2.find()){
 				res.add(page.getTitle() + dm2.group(1));
+				added = true;
+				String date = dm2.group(1)+"-"+dm2.group(2)+"-"+ dm2.group(3);
+				System.out.println(page.getTitle().replaceAll(" ", "_")+",fšdd,"+date);
 				//System.out.println(page.getTitle()+ " fšdd " + dm2.group(1)+ " mŒndad " + dm2.group(2) + " dag " + dm2.group(3));
 			}else if (dm3.find()){
 				res.add(page.getTitle() + dm3.group(1));
+				added = true;
+				String date = dm3.group(1)+"-"+dm3.group(2)+"-"+ dm3.group(3);
+				System.out.println(page.getTitle().replaceAll(" ", "_")+",fšdd,"+date);
 				//System.out.println(page.getTitle()+ " fšdd " + dm3.group(1)+ " mŒndad " + dm3.group(2) + " dag " + dm3.group(3));
 			}
 			else if(ym.find()){
@@ -63,6 +70,9 @@ public class Startclass implements IArticleFilter {
 					int manad = mandToDag(dm.group(2));
 					if( manad > 0){
 						res.add(page.getTitle() + m.group(1));
+						added = true;
+						String date = ym.group(1)+"-"+manad+"-"+ dm.group(1);
+						System.out.println(page.getTitle().replaceAll(" ", "_")+",fšdd,"+date);
 						//System.out.print(page.getTitle()+ " fšddes " + ym.group(1));
 						//System.out.print(" mŒnad " + manad + " dag " + dm.group(1));
 						//System.out.println();
@@ -76,7 +86,34 @@ public class Startclass implements IArticleFilter {
 			
 
 		}
-		if(num > 10000){
+		if(!added){
+			Matcher min	 = rin.matcher(page.getText());
+			if(min.find()){
+				String dateS = min.group(0);
+				Matcher ym = yr.matcher(dateS);
+				
+				if(ym.find()){
+					
+					Matcher dm = dr.matcher(dateS);
+					if(dm.find()){
+						int manad = mandToDag(dm.group(2));
+						if( manad > 0){
+							res.add(page.getTitle());
+							String date = ym.group(1)+"-"+manad+"-"+ dm.group(1);
+							System.out.println(dateS);
+							System.out.println(page.getTitle().replaceAll(" ", "_")+",fšdd,"+date);
+							//System.out.print(page.getTitle()+ " fšddes " + ym.group(1));
+							//System.out.print(" mŒnad " + manad + " dag " + dm.group(1));
+							//System.out.println();
+							
+						}
+					}
+
+					
+				}
+			}
+		}
+		if(num > 1000){
 			throw new SAXException();
 		}
 		num++;
