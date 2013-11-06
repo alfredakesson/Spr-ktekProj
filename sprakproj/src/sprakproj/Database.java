@@ -32,18 +32,23 @@ public class Database {
 	
 	public void insertTriple(String subject, String predicate, String object){
 		object = fixDate(object);
-		Statement stmt = null;
+		PreparedStatement prepStmt = null;
 	    try {
-	     
+	    	prepStmt = c.prepareStatement("insert into DATE values(?,?,?);");
+	    	prepStmt.setString(1, subject);
+	    	prepStmt.setString(2, predicate);
+	    	prepStmt.setString(3, object);
+	    	prepStmt.execute();
 
-	      stmt = c.createStatement();
+	      /*stmt = c.createStatement();
 	      String sql = "INSERT OR REPLACE INTO DATE(Subject, Predicate, Object) " + 
 	      "VALUES(" + "\'" + subject + "\'," + "\'" + predicate + "\'," + "\'" + object + "\'" + ");";
 	      System.out.println(sql);
 	      stmt.executeUpdate(sql);
-	      stmt.close();
+	      stmt.close();*/
 	    
 	    } catch ( Exception e ) {
+	      e.printStackTrace();	
 	      System.err.println( e.getClass().getName() + ": " + e.getMessage() );
 	      System.exit(0);
 	    }
