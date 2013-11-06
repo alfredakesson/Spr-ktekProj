@@ -13,29 +13,30 @@ import org.xml.sax.SAXException;
 
 public class Startclass implements IArticleFilter {
 
-	private Pattern r;
+	private Pattern bornPattern;
 	public LinkedList<String> res;
 	public int num = 0;
-	private Pattern yr;
-	private Pattern dr;
-	private Pattern dr2;
-	private Pattern dr3;
-	private Pattern rin;
+	private Pattern yearPattern;
+	private Pattern datePattern;
+	private Pattern datePattern2;
+	private Pattern datePattern3;
+	private Pattern bornInTextPattern;
 	private Database db;
 
 	public Startclass() {
-		String pattern = "[f|F]šd.{1,10} \\s*=\\s*(.*)";
-		String yearPattern = "(\\d{4})";// "\\[\\[\\s{0,3}(\\d{4})\\s{0,3}\\]\\]"; //"\\[\\[\\s{1,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\]\\]//\\s{0,3}\\[\\[(\\d{4})\\]\\]";
-		String datePattern = "(\\d{1,2})\\s{0,3}([a-zA-Z]{2,10})"; //"\\[\\[\\s{0,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\s{0,3}\\]\\]";
-		String datePattern2 = "\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}";//"\\{\\{.{0,10}\\|\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\}\\}";
-		String datePattern3 = "(\\d{4})-(\\d{1,2})-(\\d{1,2})";
-		String inText = "fšdd.{0,50}";
-		r = Pattern.compile(pattern);
-		yr = Pattern.compile(yearPattern);
-		dr = Pattern.compile(datePattern);
-		dr2 = Pattern.compile(datePattern2);
-		dr3 = Pattern.compile(datePattern3);
-		rin = Pattern.compile(inText);
+		String stringBornpattern = "[f|F]šd.{1,10} \\s*=\\s*(.*)";
+		String stringYearPattern = "(\\d{4})";// "\\[\\[\\s{0,3}(\\d{4})\\s{0,3}\\]\\]"; //"\\[\\[\\s{1,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\]\\]//\\s{0,3}\\[\\[(\\d{4})\\]\\]";
+		String stringDatePattern = "(\\d{1,2})\\s{0,3}([a-zA-Z]{2,10})"; //"\\[\\[\\s{0,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\s{0,3}\\]\\]";
+		String stringDatePattern2 = "\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}";//"\\{\\{.{0,10}\\|\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\}\\}";
+		String stringDatePattern3 = "(\\d{4})-(\\d{1,2})-(\\d{1,2})";
+		String stringBornInTextPattern = "fšdd.{0,50}";
+
+		bornPattern = Pattern.compile(stringBornpattern);
+		yearPattern = Pattern.compile(stringYearPattern);
+		datePattern = Pattern.compile(stringDatePattern);
+		datePattern2 = Pattern.compile(stringDatePattern2);
+		datePattern3 = Pattern.compile(stringDatePattern3);
+		bornInTextPattern = Pattern.compile(stringBornInTextPattern);
 		db  = new Database();
 		
 		res = new LinkedList<String>();
@@ -44,14 +45,14 @@ public class Startclass implements IArticleFilter {
 	@Override
 	public void process(WikiArticle page, Siteinfo siteinfo)
 			throws SAXException {
-		Matcher m = r.matcher(page.getText());
+		Matcher m = bornPattern.matcher(page.getText());
 		boolean added = false;
 		while (m.find()) {
 			String dateS = m.group(1);
-			Matcher ym = yr.matcher(dateS);
+			Matcher ym = yearPattern.matcher(dateS);
 			//System.out.println(dateS);
-			Matcher dm2 = dr2.matcher(dateS);
-			Matcher dm3 = dr3.matcher(dateS);
+			Matcher dm2 = datePattern2.matcher(dateS);
+			Matcher dm3 = datePattern3.matcher(dateS);
 			if(dm2.find()){
 				res.add(page.getTitle() + dm2.group(1));
 				added = true;
@@ -69,9 +70,9 @@ public class Startclass implements IArticleFilter {
 			}
 			else if(ym.find()){
 				
-				Matcher dm = dr.matcher(dateS);
+				Matcher dm = datePattern.matcher(dateS);
 				if(dm.find()){
-					int manad = mandToDag(dm.group(2));
+					int manad = convertMonthStringToNbr(dm.group(2));
 					if( manad > 0){
 						res.add(page.getTitle() + m.group(1));
 						added = true;
@@ -92,16 +93,16 @@ public class Startclass implements IArticleFilter {
 
 		}
 		if(!added){
-			Matcher min	 = rin.matcher(page.getText());
+			Matcher min	 = bornInTextPattern.matcher(page.getText());
 			if(min.find()){
 				String dateS = min.group(0);
-				Matcher ym = yr.matcher(dateS);
+				Matcher ym = yearPattern.matcher(dateS);
 				
 				if(ym.find()){
 					
-					Matcher dm = dr.matcher(dateS);
+					Matcher dm = datePattern.matcher(dateS);
 					if(dm.find()){
-						int manad = mandToDag(dm.group(2));
+						int manad = convertMonthStringToNbr(dm.group(2));
 						if( manad > 0){
 							res.add(page.getTitle());
 							String date = ym.group(1)+"-"+manad+"-"+ dm.group(1);
@@ -144,7 +145,7 @@ public class Startclass implements IArticleFilter {
 
 	}
 	
-	private int mandToDag(String s){
+	private int convertMonthStringToNbr(String s){
 		s = s.toLowerCase();
 		if(s.equals("januari")){
 			return 1;
