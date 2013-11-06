@@ -21,6 +21,7 @@ public class Startclass implements IArticleFilter {
 	private Pattern dr2;
 	private Pattern dr3;
 	private Pattern rin;
+	private Database db;
 
 	public Startclass() {
 		String pattern = "[f|F]öd.{1,10} \\s*=\\s*(.*)";
@@ -35,6 +36,7 @@ public class Startclass implements IArticleFilter {
 		dr2 = Pattern.compile(datePattern2);
 		dr3 = Pattern.compile(datePattern3);
 		rin = Pattern.compile(inText);
+		db  = new Database();
 		
 		res = new LinkedList<String>();
 	}
@@ -55,12 +57,14 @@ public class Startclass implements IArticleFilter {
 				added = true;
 				String date = dm2.group(1)+"-"+dm2.group(2)+"-"+ dm2.group(3);
 				System.out.println(page.getTitle().replaceAll(" ", "_")+",född,"+date);
+				db.insertTriple(page.getTitle().replaceAll(" ", "_"), "född", date);
 				//System.out.println(page.getTitle()+ " född " + dm2.group(1)+ " måndad " + dm2.group(2) + " dag " + dm2.group(3));
 			}else if (dm3.find()){
 				res.add(page.getTitle() + dm3.group(1));
 				added = true;
 				String date = dm3.group(1)+"-"+dm3.group(2)+"-"+ dm3.group(3);
 				System.out.println(page.getTitle().replaceAll(" ", "_")+",född,"+date);
+				db.insertTriple(page.getTitle().replaceAll(" ", "_"), "född", date);
 				//System.out.println(page.getTitle()+ " född " + dm3.group(1)+ " måndad " + dm3.group(2) + " dag " + dm3.group(3));
 			}
 			else if(ym.find()){
@@ -73,6 +77,7 @@ public class Startclass implements IArticleFilter {
 						added = true;
 						String date = ym.group(1)+"-"+manad+"-"+ dm.group(1);
 						System.out.println(page.getTitle().replaceAll(" ", "_")+",född,"+date);
+						db.insertTriple(page.getTitle().replaceAll(" ", "_"), "född", date);
 						//System.out.print(page.getTitle()+ " föddes " + ym.group(1));
 						//System.out.print(" månad " + manad + " dag " + dm.group(1));
 						//System.out.println();
@@ -102,6 +107,7 @@ public class Startclass implements IArticleFilter {
 							String date = ym.group(1)+"-"+manad+"-"+ dm.group(1);
 							System.out.println(dateS);
 							System.out.println(page.getTitle().replaceAll(" ", "_")+",född,"+date);
+							db.insertTriple(page.getTitle().replaceAll(" ", "_"), "född", date);
 							//System.out.print(page.getTitle()+ " föddes " + ym.group(1));
 							//System.out.print(" månad " + manad + " dag " + dm.group(1));
 							//System.out.println();

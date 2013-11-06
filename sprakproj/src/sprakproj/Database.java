@@ -9,7 +9,6 @@ public class Database {
 	public Database(){
 		startDb();
 		createDateTable();
-		insertTriple("Jens", "fšdd", "1989-03-03");
 	}
 
 	private void createDateTable(){
@@ -32,6 +31,7 @@ public class Database {
 	 }
 	
 	public void insertTriple(String subject, String predicate, String object){
+		object = fixDate(object);
 		Statement stmt = null;
 	    try {
 	     
@@ -53,6 +53,17 @@ public class Database {
 	
 	
 	
+	private String fixDate(String object) {
+		String[] list = object.split("-");
+		if(list[1].length() == 1){
+			list[1] = "0"+list[1]; 
+		}
+		if(list[2].length() == 1){
+			list[2] = "0"+list[2]; 
+		}
+		return list[0]+"-"+list[1]+"-"+list[2];
+	}
+
 	private void startDb(){
 		c = null;
 		try {
