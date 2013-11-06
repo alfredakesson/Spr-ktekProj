@@ -119,7 +119,7 @@ public class Startclass implements IArticleFilter {
 				}
 			}
 		}
-		if(num > 1000){
+		if(num > 10000){
 			throw new SAXException();
 		}
 		num++;
