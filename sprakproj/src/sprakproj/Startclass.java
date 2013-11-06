@@ -23,6 +23,7 @@ public class Startclass implements IArticleFilter {
 	private Pattern bornInTextPattern;
 	private Database db;
 
+
 	public Startclass() {
 		String stringBornpattern = "[f|F]šd.{1,10} \\s*=\\s*(.*)";
 		String stringYearPattern = "(\\d{4})";// "\\[\\[\\s{0,3}(\\d{4})\\s{0,3}\\]\\]"; //"\\[\\[\\s{1,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\]\\]//\\s{0,3}\\[\\[(\\d{4})\\]\\]";
@@ -31,6 +32,7 @@ public class Startclass implements IArticleFilter {
 		String stringDatePattern3 = "(\\d{4})-(\\d{1,2})-(\\d{1,2})";
 		String stringBornInTextPattern = "fšdd.{0,50}";
 
+		
 		bornPattern = Pattern.compile(stringBornpattern);
 		yearPattern = Pattern.compile(stringYearPattern);
 		datePattern = Pattern.compile(stringDatePattern);
@@ -45,38 +47,39 @@ public class Startclass implements IArticleFilter {
 	@Override
 	public void process(WikiArticle page, Siteinfo siteinfo)
 			throws SAXException {
-		Matcher m = bornPattern.matcher(page.getText());
+
+		Matcher bornMatcher = bornPattern.matcher(page.getText());
 		boolean added = false;
-		while (m.find()) {
-			String dateS = m.group(1);
-			Matcher ym = yearPattern.matcher(dateS);
+		while (bornMatcher.find()) {
+			String dateS = bornMatcher.group(1);
+			Matcher yearMatcher = yearPattern.matcher(dateS);
 			//System.out.println(dateS);
-			Matcher dm2 = datePattern2.matcher(dateS);
-			Matcher dm3 = datePattern3.matcher(dateS);
-			if(dm2.find()){
-				res.add(page.getTitle() + dm2.group(1));
+			Matcher dateMatcher2 = datePattern2.matcher(dateS);
+			Matcher dateMatcher3 = datePattern3.matcher(dateS);
+			if(dateMatcher2.find()){
+				res.add(page.getTitle() + dateMatcher2.group(1));
 				added = true;
-				String date = dm2.group(1)+"-"+dm2.group(2)+"-"+ dm2.group(3);
+				String date = dateMatcher2.group(1)+"-"+dateMatcher2.group(2)+"-"+ dateMatcher2.group(3);
 				System.out.println(page.getTitle().replaceAll(" ", "_")+",fšdd,"+date);
 				db.insertTriple(page.getTitle().replaceAll(" ", "_"), "fšdd", date);
 				//System.out.println(page.getTitle()+ " fšdd " + dm2.group(1)+ " mŒndad " + dm2.group(2) + " dag " + dm2.group(3));
-			}else if (dm3.find()){
-				res.add(page.getTitle() + dm3.group(1));
+			}else if (dateMatcher3.find()){
+				res.add(page.getTitle() + dateMatcher3.group(1));
 				added = true;
-				String date = dm3.group(1)+"-"+dm3.group(2)+"-"+ dm3.group(3);
+				String date = dateMatcher3.group(1)+"-"+dateMatcher3.group(2)+"-"+ dateMatcher3.group(3);
 				System.out.println(page.getTitle().replaceAll(" ", "_")+",fšdd,"+date);
 				db.insertTriple(page.getTitle().replaceAll(" ", "_"), "fšdd", date);
 				//System.out.println(page.getTitle()+ " fšdd " + dm3.group(1)+ " mŒndad " + dm3.group(2) + " dag " + dm3.group(3));
 			}
-			else if(ym.find()){
+			else if(yearMatcher.find()){
 				
-				Matcher dm = datePattern.matcher(dateS);
-				if(dm.find()){
-					int manad = convertMonthStringToNbr(dm.group(2));
+				Matcher dateMatcher = datePattern.matcher(dateS);
+				if(dateMatcher.find()){
+					int manad = convertMonthStringToNbr(dateMatcher.group(2));
 					if( manad > 0){
-						res.add(page.getTitle() + m.group(1));
+						res.add(page.getTitle() + bornMatcher.group(1));
 						added = true;
-						String date = ym.group(1)+"-"+manad+"-"+ dm.group(1);
+						String date = yearMatcher.group(1)+"-"+manad+"-"+ dateMatcher.group(1);
 						System.out.println(page.getTitle().replaceAll(" ", "_")+",fšdd,"+date);
 						db.insertTriple(page.getTitle().replaceAll(" ", "_"), "fšdd", date);
 						//System.out.print(page.getTitle()+ " fšddes " + ym.group(1));
@@ -93,6 +96,8 @@ public class Startclass implements IArticleFilter {
 
 		}
 		if(!added){
+
+			
 			Matcher min	 = bornInTextPattern.matcher(page.getText());
 			if(min.find()){
 				String dateS = min.group(0);
@@ -124,7 +129,8 @@ public class Startclass implements IArticleFilter {
 			throw new SAXException();
 		}
 		num++;
-
+	
+		
 	}
 
 	public static void main(String[] args) {
