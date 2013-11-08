@@ -24,7 +24,6 @@ public class Startclass implements IArticleFilter {
 	private Database db;
 
 	public Startclass() {
-		//hej
 		String stringBornpattern = "[f|F]šd.{1,10} \\s*=\\s*(.*)";
 		String stringYearPattern = "(\\d{1,4})";// "\\[\\[\\s{0,3}(\\d{4})\\s{0,3}\\]\\]";
 												// //"\\[\\[\\s{1,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\]\\]//\\s{0,3}\\[\\[(\\d{4})\\]\\]";
