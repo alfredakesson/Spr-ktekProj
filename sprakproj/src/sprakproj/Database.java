@@ -52,7 +52,7 @@ public class Database {
 	      System.err.println( e.getClass().getName() + ": " + e.getMessage() );
 	      System.exit(0);
 	    }
-	    System.out.println("Insertion completed successfully");
+	    //System.out.println("Insertion completed successfully");
 	 }
 	
 	
@@ -60,6 +60,14 @@ public class Database {
 	
 	private String fixDate(String object) {
 		String[] list = object.split("-");
+		int toAdd = 4 -list[0].length();
+		for(int i = 0;i<toAdd;i++){
+			list[0] = "0"+list[0];
+		}
+		if(list.length == 1){
+			String[] list2 = {list[0],"00","00"};
+			list = list2;
+		}
 		if(list[1].length() == 1){
 			list[1] = "0"+list[1]; 
 		}
