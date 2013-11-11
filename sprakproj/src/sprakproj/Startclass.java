@@ -14,7 +14,7 @@ import org.xml.sax.SAXException;
 public class Startclass implements IArticleFilter {
 
 	private Pattern bornPattern;
-	public LinkedList<String> res;
+	public LinkedList<String> res; 
 	public int num = 0;
 	private Pattern yearPattern;
 	private Pattern datePattern;
@@ -24,7 +24,7 @@ public class Startclass implements IArticleFilter {
 	private Database db;
 
 	public Startclass() {
-		String stringBornpattern = "[f|F]šd.{1,10} \\s*=\\s*(.*)";
+		String stringBornpattern = "[f|F][š|…][d|D].{1,15}\\s*=\\s*(.*)";
 		String stringYearPattern = "(\\d{1,4})";// "\\[\\[\\s{0,3}(\\d{4})\\s{0,3}\\]\\]";
 												// //"\\[\\[\\s{1,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\]\\]//\\s{0,3}\\[\\[(\\d{4})\\]\\]";
 		String stringDatePattern = "(\\d{1,2})\\s{0,3}([a-zA-Z]{2,10})\\D{1,30}(\\d{1,4})"; // "\\[\\[\\s{0,3}(\\d{1,2})\\s{0,3}(\\w{2,10})\\s{0,3}\\]\\]";
@@ -83,9 +83,9 @@ public class Startclass implements IArticleFilter {
 				if (manad > 0) {
 					res.add(page.getTitle() + m.group(1));
 					added = true;
-					String date = dm.group(1) + "-" + manad + "-" + dm.group(3);
-					System.out.println(page.getTitle().replaceAll(" ", "_")
-							+ ",fšdd," + date);
+					String date = dm.group(3) + "-" + manad + "-" + dm.group(1);
+					//System.out.println(page.getTitle().replaceAll(" ", "_")
+					//		+ ",fšdd," + date);
 					db.insertTriple(page.getTitle().replaceAll(" ", "_"),
 							"fšdd", date);
 					// System.out.print(page.getTitle()+ " fšddes " +
@@ -99,8 +99,13 @@ public class Startclass implements IArticleFilter {
 			} else if (ym.find()) {
 				db.insertTriple(page.getTitle().replaceAll(" ", "_"), "fšdd",
 						ym.group(1));
-				System.out.println("hej");
+				//System.out.println("hej");
 
+			}
+			else{
+				if(!dateS.equals("==")){
+					System.out.println(dateS);					
+				}
 			}
 
 		}
@@ -133,10 +138,10 @@ public class Startclass implements IArticleFilter {
 		// }
 		// }
 		// }
-		if (num > 10000) {
-			throw new SAXException();
-		}
-		num++;
+//		if (num > 10000) {
+//			throw new SAXException();
+//		}
+//		num++;
 
 	}
 
