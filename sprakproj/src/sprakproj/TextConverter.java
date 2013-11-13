@@ -338,12 +338,6 @@ public class TextConverter
 	
 	public void visit(Template n)
 	{
-		//System.out.println(n.toString());
-		//System.out.println();
-		//System.out.println(Arrays.toString(n.getChildNames()));
-		//System.out.println(n.getNodeName());
-		//System.out.println(n.getArgs());
-		//System.out.println(n.getName());
 		visit(n.getArgs());
 	}
 	
@@ -356,8 +350,8 @@ public class TextConverter
 		//System.out.println("hej");
 		System.out.println(getText(n.getName()));
 		System.out.println(getText(n.getValue()));
-		//System.out.println(n.getName());
-		
+		visit(n.getValue());
+
 	}
 	
 	private String getText(NodeList name) {
@@ -375,7 +369,8 @@ public class TextConverter
 
 	public void visit(TemplateParameter n)
 	{
-//TOM
+
+	
 		System.out.println("HEJ");
 	}
 	
