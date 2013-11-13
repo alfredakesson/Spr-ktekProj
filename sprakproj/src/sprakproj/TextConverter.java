@@ -20,6 +20,7 @@ package sprakproj;
 
 import java.util.Arrays;
 import java.util.LinkedList;
+import java.util.Map;
 import java.util.regex.Pattern;
 
 import org.sweble.wikitext.engine.Page;
@@ -52,6 +53,7 @@ import de.fau.cs.osr.ptk.common.AstVisitor;
 import de.fau.cs.osr.ptk.common.Visitor;
 import de.fau.cs.osr.ptk.common.ast.AstNode;
 import de.fau.cs.osr.ptk.common.ast.NodeList;
+import de.fau.cs.osr.ptk.common.ast.StringContentNode;
 import de.fau.cs.osr.ptk.common.ast.Text;
 import de.fau.cs.osr.utils.StringUtils;
 
@@ -159,7 +161,7 @@ public class TextConverter
 	
 	public void visit(Text text)
 	{
-		System.out.println(text.getContent());
+		//System.out.println(text.getContent());
 		write(text.getContent());
 	}
 	
@@ -343,18 +345,34 @@ public class TextConverter
 		//System.out.println(n.getArgs());
 		//System.out.println(n.getName());
 		visit(n.getArgs());
-		
-		
 	}
+	
+	
 	
 	public void visit(TemplateArgument n)
 	{
 //TOM	
 		//System.out.println(n.getValue());
-		visit(n.getValue());
+		//System.out.println("hej");
+		System.out.println(getText(n.getName()));
+		System.out.println(getText(n.getValue()));
 		//System.out.println(n.getName());
+		
 	}
 	
+	private String getText(NodeList name) {
+		StringBuilder stb = new StringBuilder();
+		for (AstNode astNode : name) {
+			if(astNode.isNodeType(AstNode.NT_TEXT)){
+			 StringContentNode dasjlkfjdsa = (StringContentNode) astNode;
+			 stb.append(dasjlkfjdsa.getContent());
+			}
+			
+			
+		}		
+		return stb.toString();
+	}
+
 	public void visit(TemplateParameter n)
 	{
 //TOM
