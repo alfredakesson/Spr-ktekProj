@@ -21,7 +21,7 @@ public class SwebleTmp {
 	public static void main(String[] args) throws FileNotFoundException, IOException, LinkTargetException, CompilerException, JAXBException
 	{
 		args[0] = "--text";
-		args[1] = "/Users/Jens/Documents/eclipse_workspace/swc-example-basic-jar/test/Simple_page";
+		args[1] = "test/Simple_page";
 
 		if (args.length < 1)
 		{
