@@ -1,0 +1,24 @@
+{{Författare
+| namn         = Astrid Anna Emilia Lindgren
+| bild         = Lindgren 1960.jpg
+| bildstorlek  = 240px
+| bildtext     = Astrid Lindgren omkring 1960
+| pseudonym    =
+| födelsenamn  = Astrid Anna Emilia Ericsson
+| född_datum   = [[14 november]] [[1907]]
+| född_plats   = [[Vimmerby församling|Vimmerby landsförsamling]], [[Småland]], [[Sverige]]
+| död_datum    = {{Död datum och ålder|2002|1|28|1907|11|14}}
+| död_plats    = [[Stockholm]], [[Sverige]]
+| yrke         = [[Författare|Barnboksförfattare]], [[manusförfattare]]
+| nationalitet = Svensk
+| språk = [[Svenska]]
+| period       = 
+| genre        = [[Sagor]], noveller, [[drama]], [[fantasy]] med fler
+| ämne         = 
+| debutverk    = ''[[Britt-Mari lättar sitt hjärta]]'' (1944)
+| influenser   = 
+| influerade   = 
+| signatur     = 
+| hemsida      = [http://www.astridlindgren.se Astrid Lindgrens webbplats] 
+| fotnoter     = 
+}}

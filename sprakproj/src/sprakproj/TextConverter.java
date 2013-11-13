@@ -350,8 +350,7 @@ public class TextConverter
 	{
 //TOM	
 		//System.out.println(n.getValue());
-		//System.out.println(n.getName());
-		n.getNodeName();
+		System.out.println(n.getName());
 	}
 	
 	public void visit(TemplateParameter n)
