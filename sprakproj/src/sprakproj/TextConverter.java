@@ -346,8 +346,7 @@ public class TextConverter
 		for(PossibleMatch posMatch : listOfObjectsToMatch){
 			
 			if(posMatch.foundPattern(getText(n.getName()))){
-				System.out.println("*** This is what I found:");
-				//Okay, how to find the title!? Must have to create the triple... 
+				System.out.println("*** This is what I found:"); 
 				System.out.println("pageTitle: \t" + pageTitle);
 				System.out.println("name: \t" + n.getName());
 				System.out.println("value: \t" + getText(n.getValue()));

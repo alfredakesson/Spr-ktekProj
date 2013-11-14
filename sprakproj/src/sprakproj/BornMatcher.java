@@ -45,7 +45,6 @@ public class BornMatcher implements PossibleMatch {
 	
 	@Override
 	public boolean foundPattern(String wikiText) {
-		//System.out.println(wikiText);
 		Matcher m = bornPattern.matcher(wikiText);
 		return m.find();
 	}
