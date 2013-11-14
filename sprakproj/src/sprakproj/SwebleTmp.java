@@ -92,7 +92,7 @@ public class SwebleTmp {
 		}
 		else
 		{
-			TextConverter p = new TextConverter(config, wrapCol);
+			TextConverter p = new TextConverter(config, wrapCol, null);
 			return (String) p.go(cp.getPage());
 		}
 	}

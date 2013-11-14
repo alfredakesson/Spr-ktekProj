@@ -46,7 +46,7 @@ public class Startclass implements IArticleFilter {
 		
 		// Compile the retrieved page
 		CompiledPage cp = compiler.postprocess(pageId, wikitext, null);
-		p = new TextConverter(config, wrapCol);
+		p = new TextConverter(config, wrapCol, page.getTitle()); //I have added the third argument so that we can extract the title of the article
 		p.go(cp.getPage());
 
 		

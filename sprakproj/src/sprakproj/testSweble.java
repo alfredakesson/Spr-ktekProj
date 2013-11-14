@@ -41,7 +41,7 @@ public class testSweble {
 		// Compile the retrieved page
 		CompiledPage cp = compiler.postprocess(pageId, wikitext, null);
 		
-		TextConverter p = new TextConverter(config, wrapCol);
+		TextConverter p = new TextConverter(config, wrapCol, null);
 		p.go(cp.getPage());
 						
 	}
@@ -68,7 +68,7 @@ public class testSweble {
 		// Compile the retrieved page
 		CompiledPage cp = compiler.postprocess(pageId, wikitext, null);
 		
-		TextConverter p = new TextConverter(config, wrapCol);
+		TextConverter p = new TextConverter(config, wrapCol, null);
 		p.go(cp.getPage());
 	}
 	
@@ -108,7 +108,7 @@ public class testSweble {
 		}
 		else
 		{
-			TextConverter p = new TextConverter(config, wrapCol);
+			TextConverter p = new TextConverter(config, wrapCol, null);
 			return (String) p.go(cp.getPage());
 		}
 	}

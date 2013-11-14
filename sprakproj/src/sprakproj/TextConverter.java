@@ -94,12 +94,14 @@ public class TextConverter
 	private boolean noWrap;
 	private LinkedList<Integer> sections;
 	
-	private ArrayList<PossibleMatch> listOfObjectsToMatch; 
+	private ArrayList<PossibleMatch> listOfObjectsToMatch;
+	private String pageTitle;
 	
 	// =========================================================================
 	
-	public TextConverter(SimpleWikiConfiguration config, int wrapCol)
+	public TextConverter(SimpleWikiConfiguration config, int wrapCol, String pageTitle)
 	{
+		this.pageTitle = pageTitle;
 		this.config = config;
 		this.wrapCol = wrapCol;
 		listOfObjectsToMatch = new ArrayList<PossibleMatch>();
@@ -107,7 +109,7 @@ public class TextConverter
 	}
 	
 	private void addObjectsToList() {
-		listOfObjectsToMatch.add(new WasBornOnDateMatcher());		
+		listOfObjectsToMatch.add(new BornMatcher());		
 	}
 
 	@Override
@@ -342,14 +344,16 @@ public class TextConverter
 	public void visit(TemplateArgument n)
 	{
 		for(PossibleMatch posMatch : listOfObjectsToMatch){
+			
 			if(posMatch.foundPattern(getText(n.getName()))){
 				System.out.println("*** This is what I found:");
-				System.out.println(getText(n.getValue()));
+				//Okay, how to find the title!? Must have to create the triple... 
+				System.out.println("pageTitle: \t" + pageTitle);
+				System.out.println("name: \t" + n.getName());
+				System.out.println("value: \t" + getText(n.getValue()));
+				System.out.println("---------------------------------");
 			}
 		}
-		/*System.out.println(getText(n.getName()));
-		System.out.println(getText(n.getValue()));*/
-
 	}
 	
 	private String getText(NodeList name) {

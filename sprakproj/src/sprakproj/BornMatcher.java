@@ -7,7 +7,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-public class WasBornOnDateMatcher implements PossibleMatch {
+public class BornMatcher implements PossibleMatch {
 	private Database db;
 	
 	private Pattern bornPattern;
@@ -18,19 +18,18 @@ public class WasBornOnDateMatcher implements PossibleMatch {
 	
 	public LinkedList<String> res;
 	
-	public WasBornOnDateMatcher(){
-		String stringBornpattern = "[f|F][ö|Ö][d|D].{1,15}\\s*=\\s*(.*)";
-		bornPattern = Pattern.compile(stringBornpattern);
-		
+	public BornMatcher(){
+		String stringBornpattern = "[f|F][ö|Ö][d|D].{1,15}\\s*";
+		bornPattern = Pattern.compile(stringBornpattern);		
 	}	
 	
-	public WasBornOnDateMatcher(boolean matchWasFound){
+	public BornMatcher(boolean matchWasFound){
 		db = Database.getInstance();
 		initRegex();
 	}
 	
 	private void initRegex(){
-		String stringBornpattern = "[f|F][ö|Ö][d|D].{1,15}\\s*=\\s*(.*)";
+		String stringBornpattern = "[f|F][ö|Ö][d|D].{1,15}\\s*";
 		String stringYearPattern = "(\\d{1,4})";
 		String stringDatePattern = "(\\d{1,2})\\s{0,3}([a-zA-Z]{2,10})\\D{1,30}(\\d{1,4})";
 		String stringDatePattern2 = "\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}";
@@ -46,6 +45,7 @@ public class WasBornOnDateMatcher implements PossibleMatch {
 	
 	@Override
 	public boolean foundPattern(String wikiText) {
+		//System.out.println(wikiText);
 		Matcher m = bornPattern.matcher(wikiText);
 		return m.find();
 	}
