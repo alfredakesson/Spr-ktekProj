@@ -98,13 +98,12 @@ public class Sweble implements IArticleFilter {
 		// Render the compiled page as HTML
 		StringWriter w = new StringWriter();
 
-		Page cccp = cp.getPage();
 
 		HtmlPrinter p = new HtmlPrinter(w, pageTitle.getFullTitle());
 		p.setCssResource("/org/sweble/wikitext/engine/utils/HtmlPrinter.css", "");
 		p.setStandaloneHtml(true, "");
-		p.go(cp.getPage());
 		System.out.println(w.toString());
+		p.go(cp.getPage());
 		throw new SAXException(); 
 	}
 

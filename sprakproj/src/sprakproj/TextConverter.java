@@ -18,9 +18,8 @@ package sprakproj;
  */
 
 
-import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.Map;
 import java.util.regex.Pattern;
 
 import org.sweble.wikitext.engine.Page;
@@ -50,7 +49,6 @@ import org.sweble.wikitext.lazy.utils.XmlCharRef;
 import org.sweble.wikitext.lazy.utils.XmlEntityRef;
 
 import de.fau.cs.osr.ptk.common.AstVisitor;
-import de.fau.cs.osr.ptk.common.Visitor;
 import de.fau.cs.osr.ptk.common.ast.AstNode;
 import de.fau.cs.osr.ptk.common.ast.NodeList;
 import de.fau.cs.osr.ptk.common.ast.StringContentNode;
@@ -84,27 +82,19 @@ public class TextConverter
         extends
             AstVisitor
 {
-	private static final Pattern ws = Pattern.compile("\\s+");
-	
+	private static final Pattern ws = Pattern.compile("\\s+");	
 	private final SimpleWikiConfiguration config;
-	
 	private final int wrapCol;
-	
 	private StringBuilder sb;
-	
 	private StringBuilder line;
-	
 	private int extLinkNum;
-	
 	private boolean pastBod;
-	
 	private int needNewlines;
-	
 	private boolean needSpace;
-	
 	private boolean noWrap;
-	
 	private LinkedList<Integer> sections;
+	
+	private ArrayList<PossibleMatch> listOfObjectsToMatch; 
 	
 	// =========================================================================
 	
@@ -112,8 +102,14 @@ public class TextConverter
 	{
 		this.config = config;
 		this.wrapCol = wrapCol;
+		listOfObjectsToMatch = new ArrayList<PossibleMatch>();
+		addObjectsToList();
 	}
 	
+	private void addObjectsToList() {
+		listOfObjectsToMatch.add(new WasBornOnDateMatcher());		
+	}
+
 	@Override
 	protected boolean before(AstNode node)
 	{
@@ -345,12 +341,14 @@ public class TextConverter
 	
 	public void visit(TemplateArgument n)
 	{
-
-		//System.out.println(n.getValue());
-		//System.out.println("hej");
-		System.out.println(getText(n.getName()));
-		System.out.println(getText(n.getValue()));
-
+		for(PossibleMatch posMatch : listOfObjectsToMatch){
+			if(posMatch.foundPattern(getText(n.getName()))){
+				System.out.println("*** This is what I found:");
+				System.out.println(getText(n.getValue()));
+			}
+		}
+		/*System.out.println(getText(n.getName()));
+		System.out.println(getText(n.getValue()));*/
 
 	}
 	
@@ -358,11 +356,9 @@ public class TextConverter
 		StringBuilder stb = new StringBuilder();
 		for (AstNode astNode : name) {
 			if(astNode.isNodeType(AstNode.NT_TEXT)){
-			 StringContentNode dasjlkfjdsa = (StringContentNode) astNode;
-			 stb.append(dasjlkfjdsa.getContent());
+				StringContentNode stringContentNode = (StringContentNode) astNode;
+				stb.append(stringContentNode.getContent());
 			}
-			
-			
 		}		
 		return stb.toString();
 	}

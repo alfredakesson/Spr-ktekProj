@@ -2,14 +2,21 @@ package sprakproj;
 
 import java.sql.*;
 
+
 public class Database {
+	private static Database instance = null;
 	private Connection c; 
 	
-	
-	public Database(){
+	private Database(){
 		startDb();
 		createDateTable();
 	}
+	public static Database getInstance() {
+	      if(instance == null) {
+	         instance = new Database();
+	      }
+	      return instance;
+	   }
 
 	private void createDateTable(){
 		
