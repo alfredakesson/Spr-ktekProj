@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.regex.Pattern;
 
-import matcher.BornMatcher;
+import matcher.BornDateMatcher;
 import matcher.DeathMatcher;
 import matcher.PossibleMatch;
 
@@ -113,7 +113,7 @@ public class TextConverter
 	}
 	
 	private void addObjectsToList() {
-		listOfObjectsToMatch.add(new BornMatcher());	
+		listOfObjectsToMatch.add(new BornDateMatcher());	
 		listOfObjectsToMatch.add(new DeathMatcher());	
 	}
 

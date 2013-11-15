@@ -9,14 +9,14 @@ import java.util.regex.Pattern;
 import sprakproj.Database;
 
 
-public class BornMatcher extends DateMatcher implements PossibleMatch{
+public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 	private Database db;
 	private Pattern bornPattern;
 
 	
 	public LinkedList<String> res;
 	
-	public BornMatcher(){
+	public BornDateMatcher(){
 		super();
 		db = Database.getInstance();
 		String stringBornpattern = "[f|F][ö|Ö][d|D].{1,15}\\s*";
