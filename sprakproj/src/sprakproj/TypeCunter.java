@@ -18,7 +18,6 @@ package sprakproj;
  */
 
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.regex.Pattern;
 
@@ -78,7 +77,7 @@ import de.fau.cs.osr.utils.StringUtils;
  * value of the call to <code>visit(c)</code>.</li>
  * </ul>
  */
-public class TextConverter
+public class TypeCunter
         extends
             AstVisitor
 {
@@ -94,23 +93,17 @@ public class TextConverter
 	private boolean noWrap;
 	private LinkedList<Integer> sections;
 	
-	private ArrayList<PossibleMatch> listOfObjectsToMatch;
-	private String pageTitle;
+
+	private Database db = Database.getInstance();
 	
 	// =========================================================================
 	
-	public TextConverter(SimpleWikiConfiguration config, int wrapCol, String pageTitle)
+	public TypeCunter(SimpleWikiConfiguration config, int wrapCol)
 	{
-		this.pageTitle = pageTitle;
 		this.config = config;
 		this.wrapCol = wrapCol;
-		listOfObjectsToMatch = new ArrayList<PossibleMatch>();
-		addObjectsToList();
 	}
-	
-	private void addObjectsToList() {
-		listOfObjectsToMatch.add(new BornMatcher());		
-	}
+
 
 	@Override
 	protected boolean before(AstNode node)
@@ -130,7 +123,6 @@ public class TextConverter
 	@Override
 	protected Object after(AstNode node, Object result)
 	{
-		finishLine();
 		
 		// This method is called by go() after visitation has finished
 		// The return value will be passed to go() which passes it to the caller
@@ -142,9 +134,7 @@ public class TextConverter
 	public void visit(AstNode n)
 	{
 		// Fallback for all nodes that are not explicitly handled below
-		write("<");
-		write(n.getNodeName());
-		write(" />");
+
 	}
 	
 	public void visit(NodeList n)
@@ -160,31 +150,25 @@ public class TextConverter
 	public void visit(Text text)
 	{
 		//System.out.println(text.getContent());
-		write(text.getContent());
 	}
 	
 	public void visit(Whitespace w)
 	{
-		write(" ");
 	}
 	
 	public void visit(Bold b)
 	{
-		write("**");
 		iterate(b.getContent());
-		write("**");
 	}
 	
 	public void visit(Italics i)
 	{
-		write("//");
 		iterate(i.getContent());
-		write("//");
 	}
 	
 	public void visit(XmlCharRef cr)
 	{
-		write(Character.toChars(cr.getCodePoint()));
+
 	}
 	
 	public void visit(XmlEntityRef er)
@@ -192,28 +176,22 @@ public class TextConverter
 		String ch = EntityReferences.resolve(er.getName());
 		if (ch == null)
 		{
-			write('&');
-			write(er.getName());
-			write(';');
+
 		}
 		else
 		{
-			write(ch);
+
 		}
 	}
 	
 	public void visit(Url url)
 	{
-		write(url.getProtocol());
-		write(':');
-		write(url.getPath());
+
 	}
 	
 	public void visit(ExternalLink link)
 	{
-		write('[');
-		write(extLinkNum++);
-		write(']');
+
 	}
 	
 	public void visit(InternalLink link)
@@ -228,22 +206,22 @@ public class TextConverter
 		{
 		}
 		
-		write(link.getPrefix());
+
 		if (link.getTitle().getContent() == null
 		        || link.getTitle().getContent().isEmpty())
 		{
-			write(link.getTarget());
+
 		}
 		else
 		{
 			iterate(link.getTitle());
 		}
-		write(link.getPostfix());
+
 	}
 	
 	public void visit(Section s)
 	{
-		finishLine();
+
 		StringBuilder saveSb = sb;
 		boolean saveNoWrap = noWrap;
 		
@@ -251,7 +229,7 @@ public class TextConverter
 		noWrap = true;
 		
 		iterate(s.getTitle());
-		finishLine();
+
 		String title = sb.toString().trim();
 		
 		sb = saveSb;
@@ -279,11 +257,7 @@ public class TextConverter
 			title = sb2.toString();
 		}
 		
-		newline(2);
-		write(title);
-		newline(1);
-		write(StringUtils.strrep('-', title.length()));
-		newline(2);
+
 		
 		noWrap = saveNoWrap;
 		
@@ -297,21 +271,19 @@ public class TextConverter
 	public void visit(Paragraph p)
 	{
 		iterate(p.getContent());
-		newline(2);
+
 	}
 	
 	public void visit(HorizontalRule hr)
 	{
-		newline(1);
-		write(StringUtils.strrep('-', wrapCol));
-		newline(2);
+		
 	}
 	
 	public void visit(XmlElement e)
 	{
 		if (e.getName().equalsIgnoreCase("br"))
 		{
-			newline(1);
+	
 		}
 		else
 		{
@@ -343,16 +315,18 @@ public class TextConverter
 	
 	public void visit(TemplateArgument n)
 	{
-		for(PossibleMatch posMatch : listOfObjectsToMatch){
-			
-			if(posMatch.foundPattern(getText(n.getName()))){
-				System.out.println("*** This is what I found:"); 
-				System.out.println("pageTitle: \t" + pageTitle);
-				System.out.println("name: \t" + n.getName());
-				System.out.println("value: \t" + getText(n.getValue()));
-				System.out.println("---------------------------------");
-			}
-		}
+
+//TOM	
+		//System.out.println(n.getValue());
+		//System.out.println("hej");
+		String nam = getText(n.getName());
+		String val = getText(n.getValue());
+		
+		db.insertTTriple(nam.trim(), "un", val.trim());
+		
+		//System.out.println(getText(n.getName()));
+		//System.out.println(getText(n.getValue()));
+		//visit(n.getValue());
 	}
 	
 	private String getText(NodeList name) {
@@ -383,94 +357,6 @@ public class TextConverter
 	
 	// =========================================================================
 	
-	private void newline(int num)
-	{
-		if (pastBod)
-		{
-			if (num > needNewlines)
-				needNewlines = num;
-		}
-	}
 	
-	private void wantSpace()
-	{
-		if (pastBod)
-			needSpace = true;
-	}
-	
-	private void finishLine()
-	{
-		sb.append(line.toString());
-		line.setLength(0);
-	}
-	
-	private void writeNewlines(int num)
-	{
-		finishLine();
-		sb.append(StringUtils.strrep('\n', num));
-		needNewlines = 0;
-		needSpace = false;
-	}
-	
-	private void writeWord(String s)
-	{
-		int length = s.length();
-		if (length == 0)
-			return;
-		
-		if (!noWrap && needNewlines <= 0)
-		{
-			if (needSpace)
-				length += 1;
-			
-			if (line.length() + length >= wrapCol && line.length() > 0)
-				writeNewlines(1);
-		}
-		
-		if (needSpace && needNewlines <= 0)
-			line.append(' ');
-		
-		if (needNewlines > 0)
-			writeNewlines(needNewlines);
-		
-		needSpace = false;
-		pastBod = true;
-		line.append(s);
-	}
-	
-	private void write(String s)
-	{
-		if (s.isEmpty())
-			return;
-		
-		if (Character.isSpaceChar(s.charAt(0)))
-			wantSpace();
-		
-		String[] words = ws.split(s);
-		for (int i = 0; i < words.length;)
-		{
-			writeWord(words[i]);
-			if (++i < words.length)
-				wantSpace();
-		}
-		
-		if (Character.isSpaceChar(s.charAt(s.length() - 1)))
-			wantSpace();
-	}
-	
-	private void write(char[] cs)
-	{
-		write(String.valueOf(cs));
-	}
-	
-	private void write(char ch)
-	{
-		writeWord(String.valueOf(ch));
-	}
-	
-	private void write(int num)
-	{
-		writeWord(String.valueOf(num));
-	}
 }
 

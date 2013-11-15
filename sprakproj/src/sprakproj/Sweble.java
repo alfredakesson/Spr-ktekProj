@@ -43,6 +43,11 @@ public class Sweble implements IArticleFilter {
 	}
 
 
+
+
+	private int num;
+
+
 	
 	
 	public void process(WikiArticle page, Siteinfo siteinfo)
@@ -78,7 +83,7 @@ public class Sweble implements IArticleFilter {
 		} catch (LinkTargetException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
-			System.exit(1);
+			return;
 		}
 		
 		PageId pageId = new PageId(pageTitle, -1);
@@ -92,19 +97,29 @@ public class Sweble implements IArticleFilter {
 		} catch (CompilerException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			System.exit(1);
+			return;
 		}
 		
 		// Render the compiled page as HTML
 		StringWriter w = new StringWriter();
 
 
-		HtmlPrinter p = new HtmlPrinter(w, pageTitle.getFullTitle());
-		p.setCssResource("/org/sweble/wikitext/engine/utils/HtmlPrinter.css", "");
-		p.setStandaloneHtml(true, "");
-		System.out.println(w.toString());
-		p.go(cp.getPage());
-		throw new SAXException(); 
+		Page cccp = cp.getPage();
+		TypeCounter tc = new TypeCounter(config, wrapCol);
+		tc.go(cccp);
+//		if (num > 10000) {
+//			throw new SAXException();
+//		}
+		System.out.println(num);
+		num++;
+
+//		HtmlPrinter p = new HtmlPrinter(w, pageTitle.getFullTitle());
+//		p.setCssResource("/org/sweble/wikitext/engine/utils/HtmlPrinter.css", "");
+//		p.setStandaloneHtml(true, "");
+//		p.go(cp.getPage());
+//		System.out.println(w.toString());
+//		throw new SAXException(); 
+
 	}
 
 }

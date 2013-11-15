@@ -26,8 +26,11 @@ public class Database {
 	      stmt = c.createStatement();
 	      String sql = "CREATE TABLE IF NOT EXISTS DATE" +
 	      "(Subject TEXT, Predicate TEXT, Object TEXT);";
-	    		  
+	      
+	      String sql2 = "CREATE TABLE IF NOT EXISTS TYPE" +
+	    	      "(Subject TEXT, Predicate TEXT, Object TEXT);";
 	   	  stmt.executeUpdate(sql);
+	   	  stmt.executeUpdate(sql2);
 
 
 	    } catch ( Exception e ) {
@@ -62,6 +65,29 @@ public class Database {
 	    //System.out.println("Insertion completed successfully");
 	 }
 	
+	public void insertTTriple(String subject, String predicate, String object){
+		PreparedStatement prepStmt = null;
+	    try {
+	    	prepStmt = c.prepareStatement("insert into TYPE values(?,?,?);");
+	    	prepStmt.setString(1, subject);
+	    	prepStmt.setString(2, predicate);
+	    	prepStmt.setString(3, object);
+	    	prepStmt.execute();
+
+	      /*stmt = c.createStatement();
+	      String sql = "INSERT OR REPLACE INTO DATE(Subject, Predicate, Object) " + 
+	      "VALUES(" + "\'" + subject + "\'," + "\'" + predicate + "\'," + "\'" + object + "\'" + ");";
+	      System.out.println(sql);
+	      stmt.executeUpdate(sql);
+	      stmt.close();*/
+	    
+	    } catch ( Exception e ) {
+	      e.printStackTrace();	
+	      System.err.println( e.getClass().getName() + ": " + e.getMessage() );
+	      System.exit(0);
+	    }
+	    //System.out.println("Insertion completed successfully");
+	 }
 	
 	
 	
