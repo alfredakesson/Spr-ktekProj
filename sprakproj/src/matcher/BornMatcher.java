@@ -9,35 +9,21 @@ import java.util.regex.Pattern;
 import sprakproj.Database;
 
 
-public class BornMatcher implements PossibleMatch {
+public class BornMatcher extends DateMatcher implements PossibleMatch{
 	private Database db;
-	
 	private Pattern bornPattern;
-	private Pattern yearPattern;
-	private Pattern datePattern;
-	private Pattern datePattern2;
-	private Pattern datePattern3;
+
 	
 	public LinkedList<String> res;
 	
-	public BornMatcher(){		
+	public BornMatcher(){
+		super();
 		db = Database.getInstance();
-		initRegex();
+		String stringBornpattern = "[f|F][ö|Ö][d|D].{1,15}\\s*";
+		bornPattern = Pattern.compile(stringBornpattern);
 	}
 	
-	private void initRegex(){
-		String stringBornpattern = "[f|F][ö|Ö][d|D].{1,15}\\s*";
-		String stringYearPattern = "(\\d{1,4})";
-		String stringDatePattern = "(\\d{1,2})\\s{0,3}([a-zA-Z]{2,10})\\D{1,30}(\\d{1,4})";
-		String stringDatePattern2 = "\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}";
-		String stringDatePattern3 = "(\\d{4})-(\\d{1,2})-(\\d{1,2})";
 
-		bornPattern = Pattern.compile(stringBornpattern);
-		yearPattern = Pattern.compile(stringYearPattern);
-		datePattern = Pattern.compile(stringDatePattern);
-		datePattern2 = Pattern.compile(stringDatePattern2);
-		datePattern3 = Pattern.compile(stringDatePattern3);
-	}
 	
 	
 	@Override
