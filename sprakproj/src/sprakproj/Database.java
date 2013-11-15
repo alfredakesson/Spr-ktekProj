@@ -9,23 +9,28 @@ public class Database {
 	
 	private Database(){
 		startDb();
-		createDateTable();
+		createTables();
 	}
+	private void createTables() {
+		createTable("bornDate");
+		createTable("deathDate");
+	}
+	
 	public static Database getInstance() {
 	      if(instance == null) {
 	         instance = new Database();
 	      }
 	      return instance;
 	   }
-
-	private void createDateTable(){
+	
+	private void createTable(String tableName){
 		
 		
 		Statement stmt = null;
 	    try {
 	      stmt = c.createStatement();
-	      String sql = "CREATE TABLE IF NOT EXISTS DATE" +
-	      "(Subject TEXT, Predicate TEXT, Object TEXT);";
+	      String sql = "CREATE TABLE IF NOT EXISTS " + tableName +
+	      " (Subject TEXT, Predicate TEXT, Object TEXT);";
 	      
 	      String sql2 = "CREATE TABLE IF NOT EXISTS TYPE" +
 	    	      "(Subject TEXT, Predicate TEXT, Object TEXT);";
@@ -37,25 +42,19 @@ public class Database {
 	      System.err.println( e.getClass().getName() + ": " + e.getMessage() );
 	      System.exit(0);
 	    }
-	    System.out.println("Table with name DATE created/opened successfully");
+	    System.out.println("Table with name " + tableName + " created/opened successfully");
 	 }
 	
-	public void insertTriple(String subject, String predicate, String object){
+	public void insertTriple(String subject, String predicate, String object, String TYPE){
 		object = fixDate(object);
 		PreparedStatement prepStmt = null;
 	    try {
-	    	prepStmt = c.prepareStatement("insert into DATE values(?,?,?);");
+	    	prepStmt = c.prepareStatement("insert into " +TYPE + " values(?,?,?);");
 	    	prepStmt.setString(1, subject);
 	    	prepStmt.setString(2, predicate);
 	    	prepStmt.setString(3, object);
 	    	prepStmt.execute();
 
-	      /*stmt = c.createStatement();
-	      String sql = "INSERT OR REPLACE INTO DATE(Subject, Predicate, Object) " + 
-	      "VALUES(" + "\'" + subject + "\'," + "\'" + predicate + "\'," + "\'" + object + "\'" + ");";
-	      System.out.println(sql);
-	      stmt.executeUpdate(sql);
-	      stmt.close();*/
 	    
 	    } catch ( Exception e ) {
 	      e.printStackTrace();	
