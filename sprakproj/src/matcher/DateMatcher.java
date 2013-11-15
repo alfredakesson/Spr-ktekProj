@@ -24,4 +24,36 @@ public abstract class DateMatcher {
 		datePattern2 = Pattern.compile(stringDatePattern2);
 		datePattern3 = Pattern.compile(stringDatePattern3);
 	}
+	
+	
+	protected int convertMonthStringToNbr(String s) {
+		s = s.toLowerCase();
+		if (s.equals("januari")) {
+			return 1;
+		} else if (s.equals("februari")) {
+			return 2;
+		} else if (s.equals("mars")) {
+			return 3;
+		} else if (s.equals("april")) {
+			return 4;
+		} else if (s.equals("maj")) {
+			return 5;
+		} else if (s.equals("juni")) {
+			return 6;
+		} else if (s.equals("juli")) {
+			return 7;
+		} else if (s.equals("augusti")) {
+			return 8;
+		} else if (s.equals("september")) {
+			return 9;
+		} else if (s.equals("oktober")) {
+			return 10;
+		} else if (s.equals("november")) {
+			return 11;
+		} else if (s.equals("december")) {
+			return 12;
+		} else {
+			return -1;
+		}
+	}
 }

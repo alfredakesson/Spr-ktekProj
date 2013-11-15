@@ -23,6 +23,7 @@ import java.util.LinkedList;
 import java.util.regex.Pattern;
 
 import matcher.BornMatcher;
+import matcher.DeathMatcher;
 import matcher.PossibleMatch;
 
 import org.sweble.wikitext.engine.Page;
@@ -112,7 +113,8 @@ public class TextConverter
 	}
 	
 	private void addObjectsToList() {
-		listOfObjectsToMatch.add(new BornMatcher());		
+		listOfObjectsToMatch.add(new BornMatcher());	
+		listOfObjectsToMatch.add(new DeathMatcher());	
 	}
 
 	@Override
