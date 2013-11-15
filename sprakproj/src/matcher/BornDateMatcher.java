@@ -1,8 +1,5 @@
 package matcher;
 
-import info.bliki.wiki.dump.WikiArticle;
-
-import java.util.LinkedList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -13,9 +10,6 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 	private Database db;
 	private Pattern bornPattern;
 
-	
-	public LinkedList<String> res;
-	
 	public BornDateMatcher(){
 		super();
 		db = Database.getInstance();
@@ -33,56 +27,53 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 	}
 
 	@Override
-	public void saveStringToDb(WikiArticle page) {
-		Matcher m = bornPattern.matcher(page.getText());
-		while (m.find()) {
-			String dateS = m.group(1);
-			Matcher ym = yearPattern.matcher(dateS);
-			Matcher dm = datePattern.matcher(dateS);
-			Matcher dm2 = datePattern2.matcher(dateS);
-			Matcher dm3 = datePattern3.matcher(dateS);
+	public void saveStringToDb(String wikiName, String wikiValue, String pageTitle) {
+		
+			Matcher ym = yearPattern.matcher(wikiValue);
+			Matcher dm = datePattern.matcher(wikiValue);
+			Matcher dm2 = datePattern2.matcher(wikiValue);
+			Matcher dm3 = datePattern3.matcher(wikiValue);
 			if (dm2.find()) {
-				res.add(page.getTitle() + dm2.group(1));
+				System.out.println(dm2.group(0));//
 				String date = dm2.group(1) + "-" + dm2.group(2) + "-"
 						+ dm2.group(3);
 				
-				db.insertTriple(page.getTitle().replaceAll(" ", "_"), "född",
+				db.insertTriple(pageTitle.replaceAll(" ", "_"), "född",
 						date);
 				
 			} else if (dm3.find()) {
-				res.add(page.getTitle() + dm3.group(1));
+				System.out.println(dm3.group(0));//
 				String date = dm3.group(1) + "-" + dm3.group(2) + "-"
 						+ dm3.group(3);
 				
-				db.insertTriple(page.getTitle().replaceAll(" ", "_"), "född",
+				db.insertTriple(pageTitle.replaceAll(" ", "_"), "född",
 						date);
 				
 			} else if (dm.find()) {
-
+				System.out.println(dm.group(0));//
 				int manad = convertMonthStringToNbr(dm.group(2));
 				if (manad > 0) {
-					res.add(page.getTitle() + m.group(1));
 					String date = dm.group(3) + "-" + manad + "-" + dm.group(1);
 
-					db.insertTriple(page.getTitle().replaceAll(" ", "_"),
+					db.insertTriple(pageTitle.replaceAll(" ", "_"),
 							"född", date);
 					
 
 				}
 
 			} else if (ym.find()) {
-				db.insertTriple(page.getTitle().replaceAll(" ", "_"), "född",
+				db.insertTriple(pageTitle.replaceAll(" ", "_"), "född",
 						ym.group(1));
 
 
 			}
 			else{
-				if(!dateS.equals("==")){
-					System.out.println(dateS);					
+				if(!wikiValue.equals("==")){
+					System.out.println(wikiValue);					
 				}
 			}
 
-		}
+		
 		
 	}
 

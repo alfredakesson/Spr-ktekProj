@@ -14,7 +14,7 @@ public class BornLocationMathcer implements PossibleMatch {
  */ 
 	
 	@Override
-	public void saveStringToDb(WikiArticle page) {
+	public void saveStringToDb(String wikiText, String wikiValue, String pageTitle) {
 		// TODO Auto-generated method stub
 
 	}

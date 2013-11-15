@@ -62,7 +62,7 @@ public class Startclass implements IArticleFilter {
 			runSweble(page, siteinfo);
 		} catch(Exception e){
 			e.printStackTrace();
-			System.out.println("Couldn't init Sweble");
+			return;
 		}
 	}
 
