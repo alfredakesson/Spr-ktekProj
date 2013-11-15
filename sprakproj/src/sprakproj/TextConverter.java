@@ -23,7 +23,6 @@ import java.util.LinkedList;
 import java.util.regex.Pattern;
 
 import matcher.BornDateMatcher;
-import matcher.DeathMatcher;
 import matcher.PossibleMatch;
 
 import org.sweble.wikitext.engine.Page;
@@ -114,7 +113,7 @@ public class TextConverter
 	
 	private void addObjectsToList() {
 		listOfObjectsToMatch.add(new BornDateMatcher());	
-		listOfObjectsToMatch.add(new DeathMatcher());	
+		//listOfObjectsToMatch.add(new DeathMatcher());	
 	}
 
 	@Override
@@ -351,11 +350,14 @@ public class TextConverter
 		for(PossibleMatch posMatch : listOfObjectsToMatch){
 			
 			if(posMatch.foundPattern(getText(n.getName()))){
+				posMatch.saveStringToDb(getText(n.getName()), getText(n.getValue()), pageTitle);
+				/*
 				System.out.println("*** This is what I found:"); 
 				System.out.println("pageTitle: \t" + pageTitle);
 				System.out.println("name: \t" + getText(n.getName()));
 				System.out.println("value: \t" + getText(n.getValue()));
 				System.out.println("---------------------------------");
+				*/
 			}
 		}
 	}
