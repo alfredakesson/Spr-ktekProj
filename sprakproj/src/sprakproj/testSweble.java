@@ -17,46 +17,62 @@ import org.sweble.wikitext.engine.utils.HtmlPrinter;
 import org.sweble.wikitext.engine.utils.SimpleWikiConfiguration;
 import org.sweble.wikitext.lazy.LinkTargetException;
 
-public class SwebleTmp {
+
+public class testSweble {
 	public static void main(String[] args) throws FileNotFoundException, IOException, LinkTargetException, CompilerException, JAXBException
 	{
-		args[0] = "--text";
-		args[1] = "test/Simple_page";
-
-		if (args.length < 1)
-		{
-			System.err.println("Usage: java -jar scm-example.jar [--html|--text] TITLE");
-			System.err.println();
-			System.err.println("  The program will look for a file called `TITLE.wikitext',");
-			System.err.println("  parse the file and write an HTML version to `TITLE.html'.");
-			return;
-		}
+		String path = "test/Simple_page";
+		int wrapCol = 80; //VET INTE RIKTIGT VAD DEN HÄR GÖR! 
+				
+		// Set-up a simple wiki configuration
+		SimpleWikiConfiguration config = new SimpleWikiConfiguration(
+				        "classpath:/org/sweble/wikitext/engine/SimpleWikiConfiguration.xml");
 		
-		boolean renderHtml = true;
+		// Instantiate a compiler for wiki pages
+		Compiler compiler = new Compiler(config);
 		
-		int i = 0;
-		if (args[i].equalsIgnoreCase("--html"))
-		{
-			renderHtml = true;
-			++i;
-		}
-		else if (args[i].equalsIgnoreCase("--text"))
-		{
-			renderHtml = false;
-			++i;
-		}
+		// Retrieve a page
+		PageTitle pageTitle = PageTitle.make(config, path + ".wikitext");
 		
-		String fileTitle = args[i];
+		PageId pageId = new PageId(pageTitle, -1);
 		
-		String html = run(
-		        new File(fileTitle + ".wikitext"),
-		        fileTitle,
-		        renderHtml);
+		String wikitext = FileUtils.readFileToString(new File(path + ".wikitext"));
 		
-		FileUtils.writeStringToFile(
-		        new File(fileTitle + (renderHtml ? ".html" : ".text")),
-		        html);
+		// Compile the retrieved page
+		CompiledPage cp = compiler.postprocess(pageId, wikitext, null);
+		
+		TextConverter p = new TextConverter(config, wrapCol, null);
+		p.go(cp.getPage());
+						
 	}
+		
+	public void initSweble() throws FileNotFoundException, IOException, LinkTargetException, CompilerException, JAXBException
+	{
+		String path = "test/Simple_page";
+		int wrapCol = 80; //VET INTE RIKTIGT VAD DEN HÄR GÖR! 
+				
+		// Set-up a simple wiki configuration
+		SimpleWikiConfiguration config = new SimpleWikiConfiguration(
+				        "classpath:/org/sweble/wikitext/engine/SimpleWikiConfiguration.xml");
+		
+		// Instantiate a compiler for wiki pages
+		Compiler compiler = new Compiler(config);
+		
+		// Retrieve a page
+		PageTitle pageTitle = PageTitle.make(config, path + ".wikitext");
+		
+		PageId pageId = new PageId(pageTitle, -1);
+		
+		String wikitext = FileUtils.readFileToString(new File(path + ".wikitext"));
+		
+		// Compile the retrieved page
+		CompiledPage cp = compiler.postprocess(pageId, wikitext, null);
+		
+		TextConverter p = new TextConverter(config, wrapCol, null);
+		p.go(cp.getPage());
+	}
+	
+		
 	
 	static String run(File file, String fileTitle, boolean renderHtml) throws FileNotFoundException, IOException, LinkTargetException, CompilerException, JAXBException
 	{
