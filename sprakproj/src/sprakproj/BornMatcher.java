@@ -18,12 +18,7 @@ public class BornMatcher implements PossibleMatch {
 	
 	public LinkedList<String> res;
 	
-	public BornMatcher(){
-		String stringBornpattern = "[f|F][ö|Ö][d|D].{1,15}\\s*";
-		bornPattern = Pattern.compile(stringBornpattern);		
-	}	
-	
-	public BornMatcher(boolean matchWasFound){
+	public BornMatcher(){		
 		db = Database.getInstance();
 		initRegex();
 	}

@@ -109,7 +109,7 @@ public class TextConverter
 	}
 	
 	private void addObjectsToList() {
-		listOfObjectsToMatch.add(new BornMatcher());		
+		listOfObjectsToMatch.add(new BornMatcher());
 	}
 
 	@Override
