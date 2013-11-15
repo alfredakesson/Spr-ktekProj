@@ -1,10 +1,12 @@
-package sprakproj;
+package matcher;
 
 import info.bliki.wiki.dump.WikiArticle;
 
 import java.util.LinkedList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import sprakproj.Database;
 
 
 public class BornMatcher implements PossibleMatch {

@@ -1,4 +1,4 @@
-package sprakproj;
+package countOccurencesOfTypes;
 
 import info.bliki.wiki.dump.IArticleFilter;
 import info.bliki.wiki.dump.Siteinfo;

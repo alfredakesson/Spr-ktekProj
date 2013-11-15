@@ -22,6 +22,9 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.regex.Pattern;
 
+import matcher.BornMatcher;
+import matcher.PossibleMatch;
+
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageTitle;
 import org.sweble.wikitext.engine.utils.EntityReferences;

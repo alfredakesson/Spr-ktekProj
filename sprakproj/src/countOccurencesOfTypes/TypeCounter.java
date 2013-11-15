@@ -1,4 +1,4 @@
-package sprakproj;
+package countOccurencesOfTypes;
 
 /**
  * Copyright 2011 The Open Source Research Group,
@@ -47,6 +47,8 @@ import org.sweble.wikitext.lazy.preprocessor.XmlComment;
 import org.sweble.wikitext.lazy.utils.XmlCharRef;
 import org.sweble.wikitext.lazy.utils.XmlEntityRef;
 
+import sprakproj.Database;
+
 import de.fau.cs.osr.ptk.common.AstVisitor;
 import de.fau.cs.osr.ptk.common.ast.AstNode;
 import de.fau.cs.osr.ptk.common.ast.NodeList;
@@ -77,7 +79,7 @@ import de.fau.cs.osr.utils.StringUtils;
  * value of the call to <code>visit(c)</code>.</li>
  * </ul>
  */
-public class TypeCunter
+public class TypeCounter
         extends
             AstVisitor
 {
@@ -98,7 +100,7 @@ public class TypeCunter
 	
 	// =========================================================================
 	
-	public TypeCunter(SimpleWikiConfiguration config, int wrapCol)
+	public TypeCounter(SimpleWikiConfiguration config, int wrapCol)
 	{
 		this.config = config;
 		this.wrapCol = wrapCol;

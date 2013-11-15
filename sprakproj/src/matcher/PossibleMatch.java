@@ -1,4 +1,4 @@
-package sprakproj;
+package matcher;
 
 import info.bliki.wiki.dump.WikiArticle;
 
