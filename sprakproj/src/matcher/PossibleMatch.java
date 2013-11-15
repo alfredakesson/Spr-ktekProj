@@ -1,6 +1,5 @@
 package matcher;
 
-import info.bliki.wiki.dump.WikiArticle;
 
 public interface PossibleMatch {
 
