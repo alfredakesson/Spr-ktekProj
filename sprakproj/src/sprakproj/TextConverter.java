@@ -351,7 +351,7 @@ public class TextConverter
 			if(posMatch.foundPattern(getText(n.getName()))){
 				System.out.println("*** This is what I found:"); 
 				System.out.println("pageTitle: \t" + pageTitle);
-				System.out.println("name: \t" + n.getName());
+				System.out.println("name: \t" + getText(n.getName()));
 				System.out.println("value: \t" + getText(n.getValue()));
 				System.out.println("---------------------------------");
 			}
