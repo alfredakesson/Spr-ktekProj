@@ -81,7 +81,7 @@ import de.fau.cs.osr.utils.StringUtils;
  * value of the call to <code>visit(c)</code>.</li>
  * </ul>
  */
-public class TextConverter
+public class TypeCunter
         extends
             AstVisitor
 {
@@ -111,7 +111,7 @@ public class TextConverter
 	
 	// =========================================================================
 	
-	public TextConverter(SimpleWikiConfiguration config, int wrapCol)
+	public TypeCunter(SimpleWikiConfiguration config, int wrapCol)
 	{
 		this.config = config;
 		this.wrapCol = wrapCol;
