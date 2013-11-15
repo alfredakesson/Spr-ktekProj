@@ -15,8 +15,8 @@ public class DeathMatcher extends DateMatcher implements PossibleMatch {
 	public DeathMatcher(){
 		super();
 		db = Database.getInstance();
-		String stringBornpattern = "[d|D][ö|Ö][d|D].{1,15}\\s*";
-		deathPattern = Pattern.compile(stringBornpattern);
+		String stringDeathpattern = "[d|D][ö|Ö][d|D].{1,15}\\s*";
+		deathPattern = Pattern.compile(stringDeathpattern);
 	}
 	
 	@Override
