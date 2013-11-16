@@ -2,7 +2,6 @@ package sprakproj;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.LinkedList;
 import javax.xml.bind.JAXBException;
 import info.bliki.wiki.dump.IArticleFilter;
 import info.bliki.wiki.dump.Siteinfo;
@@ -18,14 +17,10 @@ import org.sweble.wikitext.lazy.LinkTargetException;
 import org.xml.sax.SAXException;
 
 public class Startclass implements IArticleFilter {
-
-	
 	private TextConverter p;
-	public LinkedList<String> res; 
 
 	
 	public Startclass() {
-		res = new LinkedList<String>();
 	}
 	
 	public void runSweble(WikiArticle page, Siteinfo siteinfo) throws FileNotFoundException, IOException, LinkTargetException, CompilerException, JAXBException, SAXException
@@ -74,7 +69,6 @@ public class Startclass implements IArticleFilter {
 			wxp.parse();
 		} catch (Exception e) {
 			e.printStackTrace();
-			System.out.println(handler.res.size());
 		}
 
 	}
