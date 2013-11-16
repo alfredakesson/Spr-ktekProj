@@ -16,10 +16,7 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 		String stringBornpattern = "[f|F][ö|Ö][d|D].{1,15}\\s*";
 		bornPattern = Pattern.compile(stringBornpattern);
 	}
-	
 
-	
-	
 	@Override
 	public boolean foundPattern(String wikiText) {
 		Matcher m = bornPattern.matcher(wikiText);
