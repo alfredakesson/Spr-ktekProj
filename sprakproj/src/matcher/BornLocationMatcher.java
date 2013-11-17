@@ -6,14 +6,14 @@ import java.util.regex.Pattern;
 import sprakproj.Database;
 import info.bliki.wiki.dump.WikiArticle;
 
-public class LandMatch implements PossibleMatch {
+public class BornLocationMatcher implements PossibleMatch {
 
 	private Database db;
 	private Pattern landPattern;
 	private Pattern getLandPattern;
 	private Pattern getLandWithoutBracketPattern;
 
-	public LandMatch() {
+	public BornLocationMatcher() {
 		db = Database.getInstance();
 		String stringLandpattern = "(^|\\W)(födelseplats|födelseort|födelsestad|födelseland|född_plats)(\\W|$)";
 		String getLand = "\\[\\[(.+?)(\\]\\]|\\|)";

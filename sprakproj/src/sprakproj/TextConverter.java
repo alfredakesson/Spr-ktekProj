@@ -24,7 +24,7 @@ import java.util.regex.Pattern;
 
 import matcher.BornDateMatcher;
 
-import matcher.LandMatch;
+import matcher.BornLocationMatcher;
 import matcher.DeathDateMatcher;
 import matcher.PossibleMatch;
 
@@ -116,7 +116,7 @@ public class TextConverter
 	
 	private void addObjectsToList() {
 		//listOfObjectsToMatch.add(new BornDateMatcher());
-		listOfObjectsToMatch.add(new LandMatch());
+		listOfObjectsToMatch.add(new BornLocationMatcher());
 		//listOfObjectsToMatch.add(new DeathMatcher());	
 		listOfObjectsToMatch.add(new BornDateMatcher());	
 		listOfObjectsToMatch.add(new DeathDateMatcher());	
