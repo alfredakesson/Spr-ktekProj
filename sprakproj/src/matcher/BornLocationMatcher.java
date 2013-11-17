@@ -17,7 +17,7 @@ public class BornLocationMatcher implements PossibleMatch {
 		db = Database.getInstance();
 		String stringLandpattern = "(^|\\W)(födelseplats|födelseort|födelsestad|födelseland|född_plats)(\\W|$)";
 		String getLand = "\\[\\[(.+?)(\\]\\]|\\|)";
-		String getLandWithoutBracket = "[A-ZÅÄÖØÆ]\\w+";
+		String getLandWithoutBracket = "[A-ZÅÄÖØÆ]\\w+";//matcha åäö!!!och andra danska ön osv...
 		landPattern = Pattern.compile(stringLandpattern);
 		getLandPattern = Pattern.compile(getLand);
 		getLandWithoutBracketPattern = Pattern.compile(getLandWithoutBracket);
@@ -49,6 +49,8 @@ int i = 0;
 i++;
 				System.out.println(m2.group(0));
 				if(i>1){
+					System.out.println("wikiname=\t"+wikiName);//okej vårat ast-träd failar här!
+					System.out.println("wikival=\t"+wikiValue);
 					System.out.println(pageTitle);	//  Benedikta Ebbesdotter      
 													//	födelseplats = Knardrup på Själland i Danmark 
 													//	HÄR BLIR DET FEL!!!!
