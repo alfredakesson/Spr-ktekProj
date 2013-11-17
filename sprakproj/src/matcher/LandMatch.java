@@ -35,22 +35,29 @@ public class LandMatch implements PossibleMatch {
 		wikiValue = wikiValue.trim();
 		boolean found = true;
 		System.out.println("------------------------");
-		System.out.println(wikiName);
-		System.out.println(wikiValue);
+		//System.out.println(wikiName);
+		//System.out.println(wikiValue);
 		Matcher m = getLandPattern.matcher(wikiValue);
 		while (m.find()) {
 			found = false;
-			System.out.println(m.group(1));
+			//System.out.println(m.group(1));
 		}
 		if (found) {
 			Matcher m2 = getLandWithoutBracketPattern.matcher(wikiValue);
-			if (m2.find()) {
-
+int i = 0;
+			while (m2.find()) {//ändrade tilll while här
+i++;
 				System.out.println(m2.group(0));
+				if(i>1){
+					System.out.println(pageTitle);	//  Benedikta Ebbesdotter      
+													//	födelseplats = Knardrup på Själland i Danmark 
+													//	HÄR BLIR DET FEL!!!!
+					System.exit(1);
+				}
 			}
 		}
 		System.out.println(pageTitle);
-		System.out.println("------------------------");
+		//System.out.println("------------------------");
 
 	}
 
