@@ -3,8 +3,10 @@ package matcher;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.sweble.wikitext.lazy.preprocessor.TemplateArgument;
+
+
 import sprakproj.Database;
-import info.bliki.wiki.dump.WikiArticle;
 
 public class BornLocationMatcher implements PossibleMatch {
 
@@ -31,7 +33,7 @@ public class BornLocationMatcher implements PossibleMatch {
 
 	@Override
 	public void saveStringToDb(String wikiName, String wikiValue,
-			String pageTitle) {
+			String pageTitle, TemplateArgument tArg) {
 		wikiValue = wikiValue.trim();
 		boolean found = true;
 		System.out.println("------------------------");
@@ -60,7 +62,7 @@ i++;
 		}
 		System.out.println(pageTitle);
 		//System.out.println("------------------------");
-
+	
 	}
 
 }

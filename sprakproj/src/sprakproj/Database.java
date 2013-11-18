@@ -14,6 +14,8 @@ public class Database {
 	private void createTables() {
 		createTable("bornDate");
 		createTable("deathDate");
+		createTable("dateNotInserted");
+		createTable("dateNotInserted2");
 	}
 	
 	public static Database getInstance() {

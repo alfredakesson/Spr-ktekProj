@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>/Users/Jens/Dropbox/LTH/Språkteknologi projekt/Spr-ktekProj/sprakproj/test/Simple page</title>
+	<style type="text/css">
+		<!--
+			/**
+			 * Copyright 2011 The Open Source Research Group,
+			 *                University of Erlangen-Nürnberg
+			 *
+			 * Licensed under the Apache License, Version 2.0 (the "License");
+			 * you may not use this file except in compliance with the License.
+			 * You may obtain a copy of the License at
+			 *
+			 *     http://www.apache.org/licenses/LICENSE-2.0
+			 *
+			 * Unless required by applicable law or agreed to in writing, software
+			 * distributed under the License is distributed on an "AS IS" BASIS,
+			 * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+			 * See the License for the specific language governing permissions and
+			 * limitations under the License.
+			 */
+			
+			/******************************************************************************* 
+			 * Default CSS styles for HtmlPrinters
+			 ******************************************************************************/
+			h1,h2,h3,h4,h5,h6 {
+				background: none repeat scroll 0 0 transparent;
+				border-bottom: 1px solid #AAAAAA;
+				color: black;
+				font-weight: normal;
+				margin: 0;
+				padding-bottom: 0.17em;
+				width: auto;
+				text-align: left;
+			}
+			
+			h1,h2 {
+				margin-bottom: 0.6em;
+			}
+			
+			h3,h4,h5,h6 {
+				border-bottom: medium none;
+				font-weight: bold;
+			}
+			
+			h3,h4,h5 {
+				margin-bottom: 0.3em;
+			}
+			
+			h1 {
+				font-size: 188%;
+			}
+			
+			h2 {
+				font-size: 150%;
+			}
+			
+			h3 {
+				font-size: 132%;
+			}
+			
+			p {
+				line-height: 1.5em;
+				margin: 0.4em 0 0.5em;
+				/* DEBUG: */
+				border: 1px solid silver;
+				margin: 1px;
+			}
+			
+			pre {
+				padding: 1em;
+				border: 1px dashed #2F6FAB;
+				color: black;
+				background-color: #F9F9F9;
+				line-height: 1.1em;
+				font-family: monospace, "Courier New";
+			}
+			
+			.content {
+				line-height: 1.5em;
+				color: black;
+				font-family: sans-serif;
+			}
+			
+			.article-heading {
+				font-size: 1.6em;
+				line-height: 1.2em;
+				margin-bottom: 0.1em;
+				margin-top: 0;
+				padding-bottom: 0;
+				padding-top: 0;
+			}
+			
+			.article-content {
+				line-height: 1.5em;
+				position: relative;
+				width: 100%;
+				font-size: 0.8em;
+			}
+			
+			.section {
+				padding-top: 0.5em;
+				/* DEBUG: */
+				border-left: 2px solid #FF6633;
+				padding-top: 0;
+				padding-left: 1em;
+				margin-top: 1em;
+				margin-bottom: 1em;
+			}
+			
+			/******************************************************************************* 
+			 * Images 
+			 ******************************************************************************/
+			div.thumb {
+				background-color: transparent;
+				border-color: white;
+				border-style: solid;
+				margin-bottom: 0.5em;
+				max-width: 234px;
+			}
+			
+			div.thumbinner {
+				background-color: #F9F9F9;
+				border: 1px solid #CCCCCC;
+				font-size: 94%;
+				overflow: hidden;
+				padding: 3px !important;
+				text-align: center;
+			}
+			
+			img.thumbimage {
+				border: 1px solid #CCCCCC;
+				max-width: 220px;
+				max-height: 225px;
+			}
+			
+			img.plainimage {
+				max-width: 220px;
+				max-height: 225px;
+			}
+			
+			div.thumbcaption {
+				border: medium none;
+				font-size: 94%;
+				line-height: 1.4em;
+				padding: 3px !important;
+				text-align: left;
+			}
+			
+			div.tright {
+				border-width: 0.5em 0 0.8em 1.4em;
+				clear: right;
+				float: right;
+			}
+			
+			div.tleft {
+				border-width: 0.5em 1.4em 0.8em 0;
+				clear: left;
+				float: left;
+				margin-right: 0.5em;
+			}
+			
+			img.thumbborder {
+				border: 1px solid #DDDDDD;
+			}
+			
+			/******************************************************************************* 
+			 * Misc 
+			 ******************************************************************************/
+			.illegal {
+				color: #CC3300;
+				font-weight: normal;
+			}
+			
+			.redirect {
+				color: #FFCC00;
+				font-weight: normal;
+			}
+			
+			.magic-word {
+				color: #9900CC;
+				font-weight: bold;
+			}
+			
+			/******************************************************************************* 
+			 * Tables 
+			 ******************************************************************************/
+			table {
+				font-size: 100%;
+				color: black;
+				background-color: white;
+			}
+			
+			fieldset table {
+				background: none;
+			}
+			
+			table.wikitable {
+				background: none repeat scroll 0 0 #F9F9F9;
+				border: 1px solid #AAAAAA;
+				border-collapse: collapse;
+				margin: 1em 1em 1em 0;
+			}
+			
+			.wikitable th,.wikitable td {
+				border: 1px solid #AAAAAA;
+				padding: 0.2em;
+			}
+			
+			.wikitable th {
+				background: none repeat scroll 0 0 #F2F2F2;
+				text-align: center;
+			}
+			
+			.wikitable caption {
+				font-weight: bold;
+			}
+			
+			table.collapsed tr.collapsable {
+				display: none;
+			}
+			
+			/******************************************************************************* 
+			 * Debug 
+			 ******************************************************************************/
+			.unknown-node {
+				color: #FFBBBB;
+				font-weight: normal;
+			}
+			/******************************************************************************* 
+			 * End of file 
+			 ******************************************************************************/
+		-->
+	</style>
+	</head>
+	<body>
+<div class="content">
+	<h1 class="article-heading">/Users/Jens/Dropbox/LTH/Språkteknologi projekt/Spr-ktekProj/sprakproj/test/Simple page</h1>
+	<div class="article-content">
+		<p>
+			<span class="unknown-node">{{Infobox komiker
+|...}}</span>
+
+
+		</p>
+		<p>
+			<b>Carl <i>Robert</i> Olof Gustafsson</b>, född  <a href="20 december">20 december</a> <a href="1964">1964</a> i <a href="Katrineholm">Katrineholm</a> (uppvuxen i <a href="Skövde">Skövde</a>), är en  <a href="Sverige">svensk</a> <a href="svensk skådespelare">skådespelare</a> och <a href="komiker">komiker</a> som har utsetts till världens roligaste man av svenska folket i SVT:s program <i><a href="Folktoppen">Folktoppen</a></i> 2006<span class="unknown-node">&lt;ref>...&lt;/ref></span>. Han är en del i <a href="Killinggänget">Killinggänget</a>. Gustafsson är bosatt i <a href="Stockholm">Stockholmsförorten</a> <a href="Mälarhöjden">Mälarhöjden</a>. 
+
+
+		</p>
+		<div class="section">
+			<h2>Biografi</h2>
+			<div class="section-body">
+				
+
+
+				<div class="section">
+					<h3>Barndom och uppväxt</h3>
+					<div class="section-body">
+						
+
+						<p>
+							Robert Gustafsson föddes den 20 december 1964 i Katrineholm som yngste son till <a href="egenföretagare">egenföretagaren</a>, <a href="tapetserare">tapetseraren</a> Olle och <a href="hemmafru">hemmafrun</a> Inger Gustafsson. Hans tre år äldre bror Kristian föddes med <a href="hjärta">hjärtfel</a> och avled i januari 2004.<span class="unknown-node">&lt;ref>...&lt;/ref></span><span class="unknown-node">&lt;ref>...&lt;/ref></span><span class="unknown-node">&lt;ref>...&lt;/ref></span> 1970, när Robert var sex år gammal, flyttade familjen till <a href="Skövde">Skövde</a> i <a href="Skaraborgs län">Skaraborgs län</a>. Mellan åren 1975 och 1980 var Robert Gustafsson <a href="tävling">tävlings</a><a href="cyklist">cyklist</a>.<span class="unknown-node">&lt;ref>...&lt;/ref></span>
+
+
+						</p>
+					</div>
+				</div>
+				<div class="section">
+					<h3>Karriären</h3>
+					<div class="section-body">
+						
+
+						<p>
+							Han började sin komikerkarriär i slutet av <a href="1970-talet">1970-talet</a> då han spelade revy med <a href="komiker">komikern</a> <a href="Runo Sundberg">Runo Sundberg</a> hemma i Skövde. Ett av hans första uppdrag för TV var barnserien <i><a href="Skrotnisse och hans vänner">Skrotnisse och hans vänner</a></i> där Robert gjorde Skrotnisses son Kalles röst. Mer <a href="barnprogram">barnprogram</a> blev det när han fick spela Björnes kompis i <i><a href="Björnes magasin">Björnes magasin</a></i> i slutet av <a href="1980-talet">1980-talet</a>. Sedan dess har det blivit en lång rad TV-produktioner bland annat <i><a href="Gäster med gester">Gäster med gester</a></i>, <i><a href="Rena rama Rolf">Rena rama Rolf</a></i>, <i><a href="NileCity 105,6">NileCity 105,6</a></i>, <i><a href="Percy Tårar">Percy Tårar</a></i>, <i><a href="Parlamentet">Parlamentet</a></i> och <i><a href="Time Out">Time Out</a></i>. Julen 2005 medverkade han i <a href="SVT">SVT</a>:s julkalender <i><a href="En decemberdröm">En decemberdröm</a></i>, där han spelade rollen som &quot;Chefen&quot; i Underjorden.
+
+
+						</p>
+						<p>
+							Gustafsson har medverkat i en mängd <a href="teater">teaterproduktioner</a>, bland annat Apollorevyn i <a href="Täby">Täby</a>, <a href="Bosse Parnevik">Bosse Parneviks</a> revy på <a href="Cirkus">Cirkus</a>, <a href="krog">krogshowen</a> <i><a href="I manegen med Glenn Killing">I manegen med Glenn Killing</a></i> på <a href="Berns">Berns</a>, titelrollen i <i>Arne Anka</i> på <a href="Stockholms stadsteater">Stockholms stadsteater</a>, <i>Lektionen</i> på <a href="Dramaten">Dramaten</a>, farserna <i><a href="Hotelliggaren">Hotelliggaren</a></i>, <i>Revisorn</i> och <i>Lögn i helvete</i> på <a href="Chinateatern">Chinateatern</a> och <i>Maken till fruar</i> på <a href="Oscarsteatern">Oscarsteatern</a>. Han turnerade med <a href="Robert Wells">Robert Wells</a> i <i><a href="Rhapsody in Rock">Rhapsody in Rock</a></i> 2002 där han fick visa prov på sin sångröst. Åren 2004 och 2005 turnerade han med showen <i>Tältprojektet</i>.
+
+
+						</p>
+						<p>
+							Gustafsson är <a href="imitatör">imitatör</a> och har gjort många uppskattade, porträttlika imitationer av bland annat <a href="Sven Wollter">Sven Wollter</a>, <a href="Peps Persson">Peps Persson</a>, <a href="Per Gessle">Per Gessle</a>, <a href="Göran Persson">Göran Persson</a>,  <a href="Ingmar Bergman">Ingmar Bergman</a>, <a href="Ernst-Hugo Järegård">Ernst-Hugo Järegård</a>, <a href="Tony Rickardsson">Tony Rickardsson</a>, <a href="Robert Aschberg">Robert Aschberg</a>, <a href="Magnus Härenstam">Magnus Härenstam</a>, <a href="Carl Bildt">Carl Bildt</a> och <a href="Jonas Gardell">Jonas Gardell</a>. Många minns hans medverkan vid Kungagalan i <a href="Globen">Globen</a> då kung <a href="Carl XVI Gustaf">Carl XVI Gustaf</a> fyllde 50 år. I finalprogammet av <i><a href="Allsång på Skansen">Allsång på Skansen</a></i> har Robert överraskat med galna upptåg varje sommar sedan mitten av <a href="1990-talet">1990-talet</a>.
+
+
+						</p>
+						<p>
+							Han har tillsammans med de övriga i <a href="Killinggänget">Killinggänget</a> skrivit manuskript till filmen <i><a href="Fyra nyanser av brunt">Fyra nyanser av brunt</a></i> (2004) som belönades med flertalet film- och TV-priser över hela världen. I det svenska tv-programmet <i>Folktoppen</i> 2006 röstades Robert Gustafsson fram till världens roligaste man. År 1998 tilldelades Robert <a href="Karl Gerhards Hederspris">Karl Gerhards Hederspris</a>.
+
+
+						</p>
+						<p>
+							År 2008 väckte han åter liv i sin gamla rollfigur Roland Järverup från filmen <i><a href="Torsk på Tallinn">Torsk på Tallinn</a></i> (1999) genom att skapa dansbandet <a href="Rolandz">Rolandz</a> tillsammans med Joakim Nordborg där Järverup figurerar som sångare.
+
+
+						</p>
+						<p>
+							2009 Blev Gustafsson &quot;roastad&quot; i TV-programmet <i><a href="Roast på Berns">Roast på Berns</a></i>.
+
+
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section">
+			<h2>Roll i Killinggänget</h2>
+			<div class="section-body">
+				
+
+				<p>
+					Av alla medlemmar i <a href="Killinggänget">Killinggänget</a> är det ingen som har fått gestalta lika många olika rollfigurer som Gustafsson. Det är ett flertal bara i <i><a href="NileCity 105.6">NileCity 105.6</a></i> och dessutom har han gjort flera andra roller i Killinggängets andra TV-serier och filmer. Många av de roller som Gustafsson spelat i samband med Killinggänget har ofta dykt upp i andra sammanhang både med och utan gruppen. Bland dem finns Greger Hawkwind - brandchefen från <i>NileCity 105.6</i> - som ett par gånger har dykt upp i <i><a href="Allsång på Skansen">Allsång på Skansen</a></i>. Roland, den väldigt snälla dansbandsfantasten från filmen <i><a href="Torsk på Tallinn">Torsk på Tallinn</a></i> och många andra. 
+
+
+				</p>
+				<p>
+					Förutom att spela olika roller så skriver han också mycket manus till Killinggängets olika produktioner.
+
+
+				</p>
+			</div>
+		</div>
+		<div class="section">
+			<h2>Medverkan i Allsång på Skansen</h2>
+			<div class="section-body">
+				
+
+				<p>
+					Från mitten på 1990-talet och fram till och med år 2008 deltog Gustafsson varje år i finalprogrammet av <a href="Allsång på Skansen">Allsång på Skansen</a>. Vid framträdandena spelade han olika påhittade figurer och/eller imiterade kända personer. 2009 deltog han också i allsången fast i program tre istället. Även 2013 deltog han i programmet.
+Enligt en artikel i <a href="Aftonbladet">Aftonbladet</a> har Gustafsson endast varit frånvarande från allsången i två säsonger under åren 1994-2013.<span class="unknown-node">&lt;ref>...&lt;/ref></span> Han har alltså deltagit en gång varje säsong i 18 av 20 år.
+
+
+				</p>
+				<p>
+					Här nedan följer en lista över Gustafssons framträdanden i allsången genom åren (alla framträdande före 2009 är i finalprogrammt)
+
+				</p>
+				<ul>
+					<li><a href="9 augusti">9 aug</a> <a href="TV-året 1994">1994</a> – Okänt framträdande.</li>
+					<li><a href="8 augusti">8 aug</a> <a href="TV-året 1995">1995</a> – <i>Ett fenomen – En kille berättar om fenomenet <a href="déjà vu">déjà vu</a> och upprepar samma sak om och om igen.</i></li>
+					<li><a href="12 augusti">12 aug</a> <a href="TV-året 1997">1997</a> – <i>Berit – medelålders singelkvinna som pratar om karlar.</i></li>
+					<li><a href="11 augusti">11 aug</a> <a href="TV-året 1998">1998</a> – <i>Einar Stolt – gammal pensionär (man) i rullstol.</i></li>
+					<li><a href="10 augusti">10 aug</a> <a href="TV-året 1999">1999</a> – <i>Adrian Petrén – Ansvarig för ordningsfrågor på Skansen. Påpekar för publiken vad man inte får göra med djuren på Skansen.</i></li>
+					<li><a href="8 augusti">8 aug</a> <a href="TV-året 2000">2000</a> – <i>Imitation av <a href="Ingmar Bergman">Ingmar Bergman</a>.<span class="unknown-node">&lt;ref>...&lt;/ref></span></i></li>
+					<li><a href="7 augusti">7 aug</a> <a href="TV-året 2001">2001</a> – <i>Pappan Joel och hans dotter från Dillnäs.<span class="unknown-node">&lt;ref>...&lt;/ref></span></i></li>
+					<li><a href="6 augusti">6 aug</a> <a href="TV-året 2002">2002</a> – <i>Einar Stolt – gammal pensionär (man) i rullstol samt <a href="Homosexualitet">homosexuella</a> brandchefen Greger Hawkwind som sjunger <a href="Elvis Presley">Elvis</a>.</i></li>
+					<li><a href="5 augusti">5 aug</a> <a href="TV-året 2003">2003</a> – <i>Imitation av <a href="Sten Broman">Sten Broman</a> samt <a href="Alkoholism">alkoholisten</a> Fred Asp med illern Göran.</i></li>
+					<li><a href="10 augusti">10 aug</a> <a href="TV-året 2004">2004</a> – <i>Imitation av <a href="Peps Persson">Peps Persson</a>.<span class="unknown-node">&lt;ref>...&lt;/ref></span></i></li>
+					<li><a href="9 augusti">9 aug</a> <a href="TV-året 2005">2005</a> – <i>Imitation av Peps Persson tillsammans med den riktiga Peps Persson.<span class="unknown-node">&lt;ref>...&lt;/ref></span></i></li>
+					<li><a href="1 augusti">1 aug</a> <a href="TV-året 2006">2006</a> – <i><a href="Homosexualitet">Homosexuella</a> brandchefen Greger Hawkwind.<span class="unknown-node">&lt;ref>...&lt;/ref></span></i></li>
+					<li><a href="7 augusti">7 aug</a> <a href="TV-året 2007">2007</a> – <i>Vaktmästaren Herman som gång på gång påpekar att det var bättre förr, (medverkade senare i TV-serien <a href="Gustafsson 3 tr">Gustafsson 3 tr</a>) samt Imitation av Peps Persson tillsammans med Elias (Elias medverkade i <a href="Talang 2007">Talang 2007</a>).<span class="unknown-node">&lt;ref>...&lt;/ref></span></i></li>
+					<li><a href="5 augusti">5 aug</a> <a href="TV-året 2008">2008</a> – <i>Imitation av <a href="Tony Rickardsson">Tony Rickardsson</a>.</i></li>
+					<li><a href="7 juli">7 jul</a> <a href="TV-året 2009">2009</a> – <i><a href="Roland Järverup">Roland Järverup</a> sjunger låtar tillsammans med sitt dansband <a href="Rolandz">Rolandz</a> (program tre).</i></li>
+					<li><a href="23 juli">23 jul</a> <a href="TV-året 2013">2013</a> – <i><a href="Roland Järverup">Roland Järverup</a> sjunger låtar tillsammans med sitt dansband <a href="Rolandz">Rolandz</a> (program fem).</i></li>
+				</ul>
+				
+
+
+			</div>
+		</div>
+		<div class="section">
+			<h2>Kända rollfigurer</h2>
+			<div class="section-body">
+				
+
+				<p>
+					Robert Gustafsson är den som - utan tvekan - spelat mest olika roller - både i Killinggängets produktioner och på egen hand. Galleriet är stort och man hittar rollfigurer från hela Roberts historia som komiker.
+
+
+				</p>
+				<p>
+					;Nils &quot;Nisse&quot; Gustav Bertil Lind
+
+				</p>
+				<dl>
+					<dd>Gustafsson gestaltade Nisse i <i><a href="Rena rama Rolf">Rena rama Rolf</a></i> under de tre första säsongerna.</dd>
+				</dl>
+				
+
+
+				<p>
+					;Roland Järverup
+
+				</p>
+				<dl>
+					<dd> I <i><a href="Torsk på Tallinn">Torsk på Tallinn</a></i> fick man för första gången stifta bekantskap med den stora (och ensamma) dansbandsfantasten <a href="Roland Järverup">Roland Järverup</a>. Han är en mycket trevlig och sympatisk värmlänning som åker på resan till Tallinn för att kunna skaffa sig ett trevligt sällskap att dela vardagen med.</dd>
+				</dl>
+				
+
+
+				<dl>
+					<dd>Roland dök aldrig upp i ytterligare produktioner med <a href="Killinggänget">Killinggänget</a> men man har sett honom på <i><a href="Tältprojektet">Tältprojektet</a></i> och i <i><a href="Melodifestivalen">Melodifestivalen</a></i>.</dd>
+				</dl>
+				
+
+
+				<dl>
+					<dd>Nu har Gustafsson i rollen som Roland startat ett eget dansband som heter <a href="Rolandz">Rolandz</a> och sommaren <a href="2009">2009</a> turnerade de i Sverige. I december <a href="2009">2009</a> släpptes den musikaliska roadmovien <i>Rolandz - The Movie</i> på DVD. Den handlar om Roland Järverups resa från de mörka skogarna till de stora scenerna.</dd>
+				</dl>
+				
+
+
+				<p>
+					;Greger Hawkwind
+
+				</p>
+				<dl>
+					<dd>Greger Hawkwind syntes för första gången i <i><a href="NileCity 105.6">NileCity 105.6</a></i>. Han är en <a href="homosexuell">homosexuell</a> man med machoimage, iklädd <a href="kilt">kilt</a>, vita <a href="pumps">pumps</a>, <a href="bältesväska">magväska</a> och med en <a href="rökpipa">pipa</a> i munnen. Han blev senare även gravid och led då av svåra ryggsmärtor.</dd>
+				</dl>
+				
+
+
+				<dl>
+					<dd>Under de gånger som Gustafsson uppträdde på <i><a href="Allsång på Skansen">Allsång på Skansen</a></i> var han Greger några gånger.</dd>
+				</dl>
+				
+
+
+				<p>
+					;Fred Asp
+
+				</p>
+				<dl>
+					<dd>Fred Asp är en alkoholiserad man som ofta har &quot;fest&quot; med sin <a href="iller">iller</a> Göran. Hans debut var i <i><a href="I manegen med Glenn Killing">I manegen med Glenn Killing</a></i> men han har sedan dess medverkat i andra sammanhang utanför Killinggänget.</dd>
+				</dl>
+				
+
+
+				<p>
+					;Bertil
+
+				</p>
+				<dl>
+					<dd>Förutom att vara med i Killinggänget så har Gustafsson också jobbat ensam, till exempel med figuren Bertil. En trevlig och hämmad man som gjorde olika program dit man kunde skicka frågor. Som Bertil har han gjort <i>Fråga Bertil</i>, <i>Bertils Jultips</i>, <i>Bertils Påsktips</i>, <i>Bertils Semestertips</i>, <i>Bertils Kulturnötter</i> samt <i>Bertils Turistnötter</i>. Det utmärkande var att han väldigt ofta skadade sig allvarligt men fortsatte till synes oberörd.</dd>
+				</dl>
+				
+
+
+				<dl>
+					<dd>Rollfiguren är inspirerad av programledaren Bertil Svensson (<i>Mitt hem och min trädgård</i>) som 1986 hade ett söndagsprogram om växter och råkade skära sig i tummen i direktsändning men fortsatte programmet till synes oberörd, trots att blod rann från hans tumme..<span class="unknown-node">&lt;ref>...&lt;/ref></span><span class="unknown-node">&lt;ref>...&lt;/ref></span><span class="unknown-node">&lt;ref>...&lt;/ref></span></dd>
+				</dl>
+				
+
+
+				<p>
+					;Veiron i Ottan
+
+				</p>
+				<dl>
+					<dd>Veiron syntes för första gången i <i><a href="NileCity 105.6">NileCity 105.6</a></i>. Han är ursprungligen från norra Norrland, men har lärt sig göteborgska efter att ha gått en ALU-kurs. Varje morgon exakt klockan 03.30 inleder han sändningarna i Nile City 105,6. Med sig i studion har han en kaffetermos, en flaska vodka, snusstock och porrtidningar. Han ringer upp och väcker folk på måfå, leker ordlekar, fritolkar deras jobb och uttrycker förakt för stockholmare, samtidigt som han jobbar med tunga och högljudda maskiner. Trots sitt norrländska ursprung framställer han sig som en riktig urgöteborgare, vars sympatier för arbetarklassen är starka, något som även kan ses genom att han kör en gaffeltruck till jobbet. Inspirationen till figuren kom från <i><a href="Weiron Holmberg">Weiron Holmberg</a></i> och <i><a href="Frank Gunnarsson">Frank Gunnarsson</a></i>.</dd>
+				</dl>
+				
+
+
+			</div>
+		</div>
+		<div class="section">
+			<h2>Filmer och TV-serier</h2>
+			<div class="section-body">
+				
+
+				<ul>
+					<li> <a href="TV-året 1985">1985</a> - <i><a href="Skrotnisse och hans vänner">Skrotnisse och hans vänner</a></i> (TV-serie, röst)</li>
+					<li> <a href="TV-året 1987">1987</a> - <i><a href="Björnes magasin">Björnes magasin</a></i> (barnprogram)</li>
+					<li> <a href="filmåret 1991">1991</a> - <i><a href="Underjordens hemlighet">Underjordens hemlighet</a></i> (film)</li>
+					<li> 1991 - <i>Felix &amp; Fenix</i> (TV-serie)</li>
+					<li> <a href="TV-året 1992">1992</a> - <i><a href="I manegen med Glenn Killing">I manegen med Glenn Killing</a></i> (TV-serie med <a href="Killinggänget">Killinggänget</a>)</li>
+					<li> <a href="filmåret 1993">1993</a> - <i><a href="Drömkåken">Drömkåken</a></i> (film)</li>
+					<li> 1993 - <i><a href="Pariserhjulet">Pariserhjulet</a></i> (film)</li>
+					<li> 1993 - <i><a href="Sunes sommar (film)">Sunes sommar</a></i> (film)</li>
+					<li> <a href="TV-året 1994">1994</a> - <i><a href="I manegen med Glenn Killing - Live från Berns">I manegen med Glenn Killing - Live från Berns</a></i> (TV-serie med Killinggänget)</li>
+				</ul>
+				
+
+				<p>
+					<span class="unknown-node">{{F2|...}}</span>
+
+				</p>
+				<ul>
+					<li> 1994-1995 - <i><a href="Rena rama Rolf">Rena rama Rolf</a></i> (TV-serie)</li>
+					<li> 1994 - <i><a href="Ni bad om det">Ni bad om det</a></i> (TV-serie)</li>
+					<li> <a href="filmåret 1995">1995</a> - <i><a href="Alfred (film)">Alfred</a></i> (film)</li>
+					<li> 1995 - <i><a href="NileCity 105,6">NileCity 105,6</a></i> (TV-serie med <a href="Killinggänget">Killinggänget</a>)</li>
+					<li> <a href="TV-året 1996">1996</a> - <i><a href="Percy Tårar">Percy Tårar</a></i> (TV-serie)</li>
+					<li> 1996 - <i><a href="Att stjäla en tjuv">Att stjäla en tjuv</a></i> (film)</li>
+					<li> <a href="filmåret 1997">1997</a> - <i><a href="Lilla Jönssonligan på styva linan">Lilla Jönssonligan på styva linan</a></i> (film)</li>
+					<li> <a href="filmåret 1999">1999</a> - <i><a href="Fyra små filmer">Fyra små filmer</a></i> (4 TV-filmer med Killinggänget)
+					<ul>
+						<li><i><a href="Gunnar Rehlin - En liten film om att göra någon illa">Gunnar Rehlin - En liten film om att göra någon illa</a></i></li>
+						<li><i><a href="Ben & Gunnar - En liten film om manlig vänskap">Ben & Gunnar - En liten film om manlig vänskap</a></i></li>
+						<li><i><a href="På sista versen - En liten film om döden">På sista versen - En liten film om döden</a></i></li>
+						<li><i><a href="Torsk på Tallinn - En liten film om ensamhet">Torsk på Tallinn - En liten film om ensamhet</a></i></li>
+					</ul>
+					</li>
+					<li> <a href="TV-året 2000">2000</a> - <i><a href="Glenn Killing på Grand">Glenn Killing på Grand</a></i> (TV-serie med Killinggänget)</li>
+					<li><span class="unknown-node">{{TV2|...}}</span></li>
+					<li> 2000 - <a href="Naken (film)">Naken</a> (film)</li>
+					<li> <a href="filmåret 2001">2001</a> och framåt - <i><a href="Parlamentet">Parlamentet</a></i> (TV-serie, medverkar fortfarande)</li>
+					<li> 2001 - <i><a href="Monsters, Inc.">Monsters, Inc.</a></i> (film, svensk röst)</li>
+					<li> 2001 - <i><a href="Pangbulle">Pangbulle</a></i> (TV-serie)</li>
+					<li> <a href="Filmåret 2002">2002</a> - <i><a href="Ice Age">Ice Age</a></i> (film, svensk röst)</li>
+					<li> <a href="filmåret 2003">2003</a> - <i><a href="Skenbart – en film om tåg">Skenbart – en film om tåg</a></i> (film)</li>
+					<li> <a href="filmåret 2003">2003</a> - <i><a href="Time Out">Time Out</a> (TV-serie)</i></li>
+					<li> <a href="filmåret 2004">2004</a> - <i><a href="Fyra nyanser av brunt">Fyra nyanser av brunt</a></i> (4 TV-filmer med Killinggänget)</li>
+					<li> <a href="Filmåret 2005">2005</a> - <i><a href="Robotar">Robotar</a></i> (film, svensk röst)</li>
+					<li> 2005 - <i><a href="En decemberdröm">En decemberdröm</a></i> (TV-serie)</li>
+					<li> <a href="Filmåret 2006">2006</a> - <i><a href="Ice Age 2">Ice Age 2</a></i> (film, svensk röst)</li>
+					<li> <a href="TV-året 2007">2007</a> -  <i><a href="Hjälp! (TV-serie)">Hjälp!</a></i> (TV-serie)</li>
+					<li> <a href="Filmåret 2009">2009</a> - <i><a href="Ice Age 3">Ice Age 3</a></i> (film, svensk röst)</li>
+					<li> 2009 - <i>Rolandz - The Movie</i> (DVD-film)</li>
+					<li> <a href="Filmåret 2010">2010</a> - <i>Planet 51 (film, svensk röst)</i></li>
+					<li> <a href="TV-året 2011">2011</a>–<a href="TV-året 2012">2012</a> – <i><a href="Gustafsson 3 tr">Gustafsson 3 tr</a></i> (TV-serie)</li>
+					<li> <a href="2012">2012</a> - <i><a href="Ice Age 4">Ice Age 4</a></i> (film, svensk röst)</li>
+					<li> <a href="TV-året 2012">2012</a>–<a href="TV-året 2013">2013</a> – <i><a href="Stjärnorna på slottet">Stjärnorna på slottet</a></i> (TV-serie)</li>
+					<li> <a href="Filmåret 2013">2013</a> - <i><a href="Hundraåringen som klev ut genom fönstret och försvann (film)">Hundraåringen som klev ut genom fönstret och försvann</a></i> (film)</li>
+				</ul>
+				
+
+
+				<p>
+					Han har även medverkat i TV-programmen <i><a href="Gäster med gester">Gäster med gester</a></i> och <i><a href="Har du hört den förut?">Har du hört den förut?</a></i>
+
+
+				</p>
+			</div>
+		</div>
+		<div class="section">
+			<h2>Scenframträdanden</h2>
+			<div class="section-body">
+				
+
+				<ul>
+					<li> <a href="1993">1993</a> - <i>Arne Anka</i>  - (Stadsteatern, Stockholm)</li>
+					<li> <a href="1997">1997</a> - <i>Hotelliggaren</i> - (Chinateatern, Stockholm, spelades till 1998)</li>
+					<li> <a href="2000">2000</a> - <i>Maken till fruar</i>  - (Chinateatern, Stockholm)</li>
+					<li> <a href="2001">2001</a> - <i>Nysningen</i>  - (Stadsteatern, Stockholm)</li>
+					<li> <a href="2002">2002</a> - <i>Revisorn</i>  - (Chinateatern, Stockholm)</li>
+					<li> <a href="2002">2002</a> - <i>Rhapsody in rock</i> - (turné)</li>
+					<li> <a href="2004">2004</a> - <i>Fångad på nätet</i> - (Chinateatern och Lorensbergsteatern, spelaeds till 2005)</li>
+					<li> <a href="2004">2004</a> - <i>Tältprojektet</i> - (turné)</li>
+					<li> <a href="2005">2005</a> - <i>Tältprojektet</i> - (turné)</li>
+					<li> <a href="2006">2006</a> - <i>Lögn i helvete</i>  - (Chinateatern och Lorensbersteatern, spelades till 2007)</li>
+					<li> <a href="2007">2007</a> - <i>Rivierans Guldgossar</i> - (Chinateatern, spelades till 2008)</li>
+					<li> <a href="2008">2008</a> - <i>Lånta Fjädrar</i> - (Kalmar Friluftsteater, spelas på sommaren)</li>
+					<li> <a href="2009">2009</a> - <i><a href="Rolandz">Rolandz</a></i> - (dansbandsturné)</li>
+					<li> <a href="2009">2009</a> - <i>Drömmen om Herrön</i> - (Dramaten, Stockholm, med <a href="Killinggänget">Killinggänget</a>)</li>
+					<li> 2010 - <i>Zpanska flugan</i> - (Kalmar Friluftsteater, spelas på sommaren)</li>
+					<li> 2010 - <i>Robert Gustafsson - 25 års jubileum</i> (Rondo, Göteborg)</li>
+					<li> 2011 - <i>Robert Gustafsson - 25 års jubileum</i> (Amiralen, Malmö)</li>
+					<li> 2012 -  <i>Hjälten från Kalmarsund</i> - (Kalmar Friluftsteater, spelas på sommaren)</li>
+					<li> 2012 - <i>Robert Gustafsson - 25 års jubileum</i> (Cirkus, Stockholm)</li>
+					<li> 2013 - &quot;RainMan&quot; (Rival, Stockholm)</li>
+				</ul>
+				
+
+
+			</div>
+		</div>
+		<div class="section">
+			<h2>Samlingsdvd</h2>
+			<div class="section-body">
+				
+
+
+				<ul>
+					<li> 2001 - <i>Ur Löjlig Synvinkel 2.0 - Collector&#39;s Editon</i></li>
+					<li> 2002 - <i>En rejäl omgång</i></li>
+					<li> 2006 - <i>Jag ä inte bitter</i></li>
+					<li> 2006 - <i>Robert Gustafsson - Sveriges roligaste man</i> (DVD-box)</li>
+					<li> 2007 - <i>Fullpackat</i></li>
+					<li> 2008 - <i>Complete Bertil</i></li>
+					<li> 2008 - <i>Nyblandad grogg</i></li>
+					<li> 2008 - <i>Lösvikt</i></li>
+					<li> 2009 - <i>De&#39; ä kanon</i></li>
+					<li> 2009 - <i>Arne Anka - En afton på Zekes</i></li>
+					<li> 2010 - <i>Galleri Gustafsson</i></li>
+					<li> 2012 - &quot;Kulgodis&quot;</li>
+					<li> 2012 - &quot;25-års jubileumsrevyn - Kungen av humor&quot;</li>
+				</ul>
+				
+
+
+			</div>
+		</div>
+		<div class="section">
+			<h2>Böcker</h2>
+			<div class="section-body">
+				
+
+				<ul>
+					<li>2010 - <i>Från vaggan till deadline</i> (självbiografi)</li>
+					<li>2012 - Herrarna i hagen</li>
+				</ul>
+				
+
+
+			</div>
+		</div>
+		<div class="section">
+			<h2>Ljudboksuppläsningar (urval)</h2>
+			<div class="section-body">
+				
+
+				<ul>
+					<li> 2008 - <i><a href="Hur du tränar din drake">Hur du tränar din drake</a></i> av Cressida Cowell</li>
+					<li> 2008 - <i><a href="Hur du blir pirat">Hur du blir pirat</a></i> av Cressida Cowell</li>
+					<li> 2009 - <i><a href="Hur du pratar med drakar">Hur du pratar med drakar</a></i> av Cressida Cowell</li>
+					<li> 2009 - <i><a href="Hur du stjäl en potatis">Hur du stjäl en potatis</a></i> av Cressida Cowell</li>
+					<li> 2011 - <i><a href="Hur du blir en riktig hjälte">Hur du blir en riktig hjälte</a></i> av Cressida Cowell</li>
+					<li> 2013 - <i><a href="Hur du (nästan) korsar Atlanten">Hur du (nästan) korsar Atlanten</a></i> av Cressida Cowell</li>
+				</ul>
+				
+
+
+
+			</div>
+		</div>
+		<div class="section">
+			<h2>Referenser</h2>
+			<div class="section-body">
+				
+
+				<p>
+					<span class="unknown-node">&lt;references /></span>
+
+
+				</p>
+			</div>
+		</div>
+		<div class="section">
+			<h2>Externa länkar</h2>
+			<div class="section-body">
+				
+
+				<ul>
+					<li> <a href="http://www.robertgustafsson.se/">Officiell webbplats</a> </li>
+				</ul>
+				
+
+				<p>
+					<span class="unknown-node">{{IMDb-namn|...}}</span>
+
+
+				</p>
+				<p>
+					<span class="unknown-node">{{Killinggänget}}</span>
+<span class="unknown-node">{{Parlamentet}}</span>
+<span class="unknown-node">{{GuldbaggenBästaSkådespelare 1991–2010|...}}</span>
+
+
+				</p>
+				<p>
+					<span class="unknown-node">{{STANDARDSORTERING:Gustafsson, Robert}}</span>
+<a href="Kategori:Killinggänget">Kategori:Killinggänget</a>
+<a href="Kategori:Svenska skådespelare">Kategori:Svenska skådespelare</a>
+<a href="Kategori:Svenska komiker">Kategori:Svenska komiker</a>
+<a href="Kategori:Födda 1964">Kategori:Födda 1964</a>
+<a href="Kategori:Män">Kategori:Män</a>
+<a href="Kategori:Levande personer">Kategori:Levande personer</a>
+<a href="Kategori:Guldbaggen för bästa manliga huvudroll">Kategori:Guldbaggen för bästa manliga huvudroll</a>
+<a href="Kategori:Personer från Skövde">Kategori:Personer från Skövde</a>
+
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+	</body>
+</html>

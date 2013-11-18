@@ -1,969 +1,358 @@
-{{För|skådespelerskan|Astrid Lindgren (skådespelare)}}
-{{Författare
-| namn         = Astrid Anna Emilia Lindgren
-| bild         = Lindgren 1960.jpg
-| bildstorlek  = 240px
-| bildtext     = Astrid Lindgren omkring 1960
-| pseudonym    =
-| födelsenamn  = Astrid Anna Emilia Ericsson
-| född_datum   = [[14 november]] [[1907]]
-| född_plats   = [[Vimmerby församling|Vimmerby landsförsamling]], [[Småland]], [[Sverige]]
-| död_datum    = {{Död datum och ålder|2002|1|28|1907|11|14}}
-| död_plats    = [[Stockholm]], [[Sverige]]
-| yrke         = [[Författare|Barnboksförfattare]], [[manusförfattare]]
-| nationalitet = Svensk
-| språk = [[Svenska]]
-| period       = 
-| genre        = [[Sagor]], noveller, [[drama]], [[fantasy]] med fler
-| ämne         = 
-| debutverk    = ''[[Britt-Mari lättar sitt hjärta]]'' (1944)
-| influenser   = 
-| influerade   = 
-| signatur     = 
-| hemsida      = [http://www.astridlindgren.se Astrid Lindgrens webbplats] 
-| fotnoter     = 
-}}
-[[Fil:Hansta naturreservat Lindgrens berg 2013c.jpg|miniatyr|Lindgrens namnteckning på en minnessten på [[Astrid Lindgrens berg]] i [[Hansta naturreservat]].]]
-'''Astrid Anna Emilia Lindgren''', född ''Ericsson'' [[14 november]] [[1907]] i [[Vimmerby församling]] i [[Småland]], död [[28 januari]] [[2002]] i sin lägenhet på Dalagatan 46 i [[Stockholm]] ([[Gustav Vasa församling]]), var en svensk [[barnbok]]s-, [[sångtext]]- och [[manusförfattare]]. Hon är känd över hela världen för sina barnböcker om bland andra [[Pippi Långstrump]], [[Emil i Lönneberga]] och [[Karlsson på taket]]. Beräknad siffra 2010 för försäljningen av böcker är 145 miljoner exemplar och de har översatts till 95 språk. Många av Lindgrens böcker har filmatiserats. Merparten är svenska [[spelfilm]]er och återkommande i Lindgrens filmer är kompositören [[Georg Riedel]], regissören [[Olle Hellbom]] och skådespelaren [[Allan Edwall]]. Det har även producerats några utländska filmer och animeringar av Lindgrens böcker och noveller.
+:''För militären som var Gustav III:s gunstling, se [[Evert Taube (1737–1799)]].''
 
-Lindgren tilldelades ett stort antal nationella och internationella priser för sina böcker, bland annat [[Svenska Akademien]]s [[stora priset|stora guldmedalj]]. Hon utsågs även till [[hedersdoktor]] vid [[Linköpings universitet]], universitetet i [[Leicester]] och universitetet i [[Warszawa]]. Flera priser har även instiftats i hennes namn, där det främsta är [[Litteraturpriset till Astrid Lindgrens minne]] instiftat 2002 av Sveriges regering. Prissumman är på fem miljoner kronor <ref>{{Harvnb|-|2002|p=Om priset - fakta om priset}}</ref>, vilket gör det till världens största litteraturpris efter Nobelpriset i litteratur.
+{{Infobox musiker
+ |namn          = Evert Taube
+ |bild          = Evert Taube 1961.JPG
+ |bildtext     = Evert Taube på scenen 1961.
+ |bildstorlek  = 250px 
+ |färg          = sångare 
+ |födelsenamn   = Axel Evert Taube
+ |pseudonym(er) = 
+ |född          = [[12 mars]] [[1890]] <br /> [[Göteborg]], [[Sverige]] 
+ |död           = {{Död datum och ålder|1976|1|31|1890|3|12}} <br /> [[Stockholm]], [[Sverige]]
+ |bakgrund      = {{Flaggbild|Sverige}} [[Sverige]] 
+ |instrument    = Sång, [[svensk luta|luta]], [[gitarr]]
+ |genre         = [[Visa]]
+ |roll          = [[Sångare]], [[musiker]], [[poet]], [[författare]], [[låtskrivare|visdiktare]], [[konstnär]]
+ |aktiva_år     = 1918–74
+}} 
+'''Axel ''Evert'' Taube''', född [[12 mars]] [[1890]] på [[Stora Badhusgatan]] 7<ref>''Bilden av Göteborg, färgfotografier 1910-1970'', Robert Garellick, Göteborgstryckeriet 2004 ISBN 91-631-4036-5, s. 109</ref> i [[Göteborg]], död [[31 januari]] [[1976]] i [[Stockholm]]<ref>Taube var vid frånfället skriven på [[Södermalmstorg]] 4, 5 trappor. Källa: {{bokref|titel=Sveriges dödbok 1901-2009 Swedish death index 1901-2009|utgåva=Version 5.0|år=2010|utgivare=Sveriges släktforskarförbund|utgivningsort=Solna|språk=swe|isbn=978-91-87676-59-8|libris=11931231}}</ref>, var en [[svenskar|svensk]] [[författare]], [[kompositör]], [[trubadur]], [[svensk luta|lutspelare]] och [[konstnär]]. Taube var också argentinsk medborgare.<ref>{{bokref |efternamn= Timm|förnamn=Mikael |författarlänk=Mikael Timm |medförfattare= |redaktör= |övriga= |titel= Evert Taube|origdatum= |origår=1998 |origmånad= |url= |format= |hämtdatum= |hämtår= |hämtmånad= |upplaga= |serie= |datum= |år= |månad= |utgivare=Albert Bonniers Förlag |utgivningsort= |språk= |isbn=91-0-055971-7 |oclc= |doi= |libris= |id= |sid= |kapitel=sid.128 |kapitelurl= |citat=”Ett praktexempel är berättelsen om hur han blev argentinsk medborgare genom att hitta en [[depesch]] som presidenten [[Sáenz Peña]] tappat bort på väg till en broinvigning. När Taube överlämnat den får han medborgarskap och medalj på stället.”}}</ref> Han tillhörde en [[Lågadel|obetitlad]] gren av adliga ätten [[Taube#Wolter_Ludvig_Taubes_gren|Taube]].<ref>{{NE|url=http://www.ne.se/taube|titel=Taube|författare=Hans Gillingstam|hämtdatum=23 augusti 2010}}</ref>
 
-Lindgren var även i senare delen av sitt liv en betydande samhällsdebattör. I [[Riksdagsvalet_i_Sverige_1976|valrörelsen 1976]] publicerades hennes novell ''[[Pomperipossa i Monismanien]]'' i ''[[Expressen]]'', där hon ansåg att det var absurt att egenföretagare kunde få betala mer i [[marginalskatt]] än de tjänade. Novellen fick stor uppmärksamhet och den och regeringens bemötande av Lindgren anses ha varit en bidragande faktor till att [[Socialdemokraterna (Sverige)|socialdemokraterna]] förlorade regeringsmakten. Hon engagerade sig för barns rättigheter, mot kärnkraften och i [[Djurskydd]]skampanjen med ett flertal [[debatt]]artiklar i ''Expressen''. 
+Taubes bidrag till den svenska [[visa|visskatten]] får honom att räknas som en av Sveriges [[nationalskald]]er. Hans rika produktion omfattar [[prosa]] och [[poesi]] samt [[teckning]]ar, [[akvarell]]- och [[oljemålning]]ar, men det är för visorna, sammanlagt över 200, han är mest känd. Hans prosa omfattar bland annat reseskildringar och romaner.
 
-Astrid Lindgren kommer att överta [[Selma Lagerlöf]]s plats som motiv på den svenska [[20-kronorssedeln]] från och med 2014.
+Taube gifte sig den [[14 januari]] [[1925]] i [[Sankt Jakobs kyrka]] i Stockholm med konstnären [[Astri Taube|Astri Bergman]]. Makarna Taube vilar på [[Maria Magdalena kyrkogård]] i [[Stockholm]], mitt emot [[Lasse Lucidor]]s minnessten. År 1960 hade Astri Taube skulpterat en byst av Evert, som gjuten på en pelare blev hans gravsten. Han hade uttryckligen sagt att han ville ha det så.<ref>''Evert Taube i våra hjärtan'', Andra reviderade utgåvan, redaktörer: Agneta Jonsson, Agneta Hyllén, Semic, Sundbyberg 1976 ISBN 91-552-1705-2, s. 96</ref>
+
+Evert Taube kommer att finnas som motiv på den svenska 50-kronorssedeln från och med 2014.<ref>[http://www.riksbank.se/templates/Page.aspx?id=46686 Riksbankens sida om de nya sedlarna]</ref>
 
 == Biografi ==
-[[Fil:Barndomsbild på Astrid Lindgren.jpg|miniatyr|left|Barndomsbild på Astrid Lindgren tillsammans med sina föräldrar och syskon.]]
-=== Uppväxt och skolgång ===
-[[Fil:Lindgren 1923.jpg|mini|200px|Astrid Lindgren, 1923.]]
-Hennes föräldrar [[arrendator]]n Samuel August Ericsson och Hanna, född Jonsson, gifte sig 1905 och bosatte sig på gården Näs, nära [[Vimmerby]]. 1906 fick de sonen [[Gunnar Ericsson (centerpolitiker)|Gunnar Ericsson]] och 1907 dottern Astrid. Familjen utökades senare med Stina (1911-2002) och Ingegerd (1916-1997). Astrid Lindgren fastnade tidigt för läsning och berättar att hon ungefär fem år gammal fick höra en saga om Jätten Bam-Bam och feen Viribunda, läst av en granne Kristin. När Lindgren kunde läsa själv letade hon efter böcker att läsa och minns den första egna boken om ''Snövit'' med omslag av Jenny Nyström. Boken köptes genom småskollärarinnan som före varje jul hade med sig material där barnen kunde läsa om vilka jultidningar och böcker som gick att beställa.<ref>{{Harvnb|Lindgren|1999|p=79-80}}</ref>
+[[Fil:Evert Taube från nothäfte 1942.jpg|miniatyr|256px|Evert Taube med sin [[svensk luta|luta]], 1942.]]
+När Evert Taube föddes, som fjärde barnet i en skara som blev tretton syskon, var familjen bosatt på ön [[Vinga]] utanför Göteborg. Föräldrarna hette Carl Gunnar Taube och Julia Sofia Jacobsdotter från [[Strömstad]];<ref>http://www.everttaube.info/index.php?id=234&=Karl Gunnar Taube&lang=sv</ref> fadern var [[sjökapten]] och [[fyr]]mästare på [[Vinga fyr]]. I syskonskaran ingick systrarna [[Märta Taube-Ivarsson]] och [[Karin Parrow]]. Farfadern var Otto Reinhold Taube (1816-1892), tullförvaltare samt styrelseledamot i Evangeliska missionsföreningen i Göteborg 1868–1872, och hans fru Fredrika Kjellerstedt kom från [[Skellefteå]].<ref>http://www.everttaube.info/index.php?id=233</ref> Farfaderns [[föräldrar]] var [[major]]en Arvid Joachim Taube och Jeanette Mesterson från [[Skottland]].<ref>''Evangeliska missionsföreningens i Göteborg uppkomst och femtioåriga utveckling 1860–1910: Minnesskrift utg. till 50-årsfesten 1910 på föranstaltande av missionsföreningens styrelse'', Evangeliska missionsföreningen, Göteborg 1910 s. 197</ref><ref>''Jag kommer av ett brusand' hav : barndomsminnen från Vinga och Göteborg på Oscar II:s tid'', Evert Taube, Albert Bonniers Förlag, Stockholm 1952 s. 12-13</ref>
 
-Den 7 augusti 1914 började Astrid Lindgren i Vimmerbys småskola. Första dagen var hon rädd och grät, men i boken ''Astrid Lindgren - en levnadsteckning'' av [[Margareta Strömstedt]] berättar hon om hur hon kom över blygheteten. Hon började 1917 på samrealskola där hennes lärare ofta läste hennes uppsatser högt för klassen. 13 år gammal, 1920, publicerades en av hennes uppsatser i ''[[Vimmerby Tidning]]''.<ref>{{Harvnb|Astridlindgren.se|2011b}}</ref> Lindgren klarade skolan galant och tog [[realexamen]] med höga betyg.
-=== Familjeliv och yrkesliv ===
-[[Fil:Astrid Lindgren 1924.jpg|140px|vänster|Astrid Lindgren 1924]]
-Efter realexamen med höga betyg, bland annat A i modersmålet, blev Lindgren [[korrektur]]läsare och skrev notiser och korta reportage på ''[[Vimmerby Tidning]]'', för en månadslön på 60 kronor.<ref>http://www.vimmerbytidning.se/article/articleview/2769</ref> Där arbetade hon i två år innan hon 1926 flyttade till [[Stockholm]] och lärde sig maskinskrivning och [[stenografi]]. Då väntade hon dock barn med [[chefredaktör]]en [[Reinhold Blomberg]] (1877–1947) på ''Vimmerby Tidning''. Han ville gifta sig med henne, men hon avstod och födde 1926 som ogift sonen Lars i [[Köpenhamn]]. Han fick bo i fosterfamilj där under sina första år. 1929 fick hon en ny anställning på [[Kungliga Automobil Klubben]], där hon mötte kontorschefen Sture Lindgren.<ref name="Astridlindgren 2011i" >{{Harvnb|Astridlindgren.se|2011i}}</ref> År 1930 tillbringade hon en tid i Köpenhamn då sonen Lars fostermor blev sjuk. Han fick då flytta hem till Lindgrens barndomsgård Näs. År 1931 gifte hon sig med sin chef [[Sture Lindgren]] (1898–1952) och de fick en tvårumslägenhet. Hon fick möjlighet att ha hand om sin son och bli hemmafru. Sonen har i en intervju berättat att "Hon var inte en sån där mamma som satt stilla i parken på en bänk och tittade på sina lekande barn. Hon ville leka själv och jag misstänker att hon tyckte det var minst lika roligt som jag!".<ref name="Astridlindgren 2011i" />
+Evert Taube föddes i ett hus vid foten av berget [[Otterhällan]] i Göteborg, med adress Stora Badhusgatan 7/Bryggaregatan, det så kallade ''Keillerska huset'' (rivet 1969), där hans farfar hade sitt hem.<ref>''När jag var en ung caballero : Evert Taube ; En bildbiografi'', [Serie : Bonniers folkbibliotek], Evert Taube & Inga-Britt Fredholm, Bonnier, Stockholm 1970 s. 17-18</ref><ref>''Hus för hus i Göteborgs stadskärna'', red. Gudrun Lönnroth, utgiven av Göteborgs stadsbyggnadskontor & Göteborgs stadsmuseum 2003 ISBN 91-89088-12-3 s. 372</ref> Han konstaterades först vara dödfödd och lades därför undan på ett bord, men när doktor Silfverskiöld kom för att skriva [[dödsattest]]en upptäckte han att det fanns liv i den lilla kroppen. Sin första sjöresa gjorde Evert Taube till Vinga - bara några dagar gammal - med [[bogserbåt]]en ''Arthur'' från Röda Bolaget, under skeppare Gustafssons befäl.<ref>''När jag var en ung caballero : Evert Taube ; En bildbiografi'', [Serie : Bonniers folkbibliotek], Evert Taube & Inga-Britt Fredholm, Bonnier, Stockholm 1970, s. 17</ref>
 
-[[Fil:Dalagatan 2008c.jpg|mini|200px|[[Dalagatan]] 46 i Stockholm, en trappa upp var Astrid Lindgrens bostad under drygt 60 år.]]
-Den 21 maj 1934 föddes Astrid Lindgrens andra barn, [[Karin Nyman|Karin]], som senare blev översättare. Familjen flyttade 1941 till lägenheten vid [[Dalagatan]], med utsikt över [[Vasaparken, Stockholm|Vasaparken]], där Lindgren bodde till sin död. Somrarna tillbringades oftast i makens föräldrahem i [[Furusund]]. 1939 anställdes Astrid Lindgren som sekreterare till kriminologen [[Harry Söderman]] som under [[andra världskriget]] organiserade norska [[polistrupper]] i Sverige. De insikter i kriminalteknik som hon skaffade sig hos honom inspirerade henne till böckerna om [[Kalle Blomkvist|Mästerdetektiven Blomkvist]].{{källa behövs|datum=2011-06-04}} Lindgrens bror Gunnar Ericsson som var djupt engagerad i [[Bondeförbundet]] medverkade till att hon fick uppdragen att skriva julberättelser i tidningarna ''Landsbygdens jul'' och ''[[Stockholms-Tidningen]]''.<ref name=ahlen100>[http://www.ahlens.se/media/v43_07_astrid_100ar/ Astrid Lindgren 100 år]{{Död länk|datum=2010-01}}. ''Åhléns''. Läst 6 november 2007.</ref>  I hennes yrkeskarriär kan även nämnas att hon under [[andra världskriget]] i hemlighet arbetade på underrättelsetjänstens avdelning för brevcensur, där hon läste de inkallades brev.<ref>{{Harvnb|Bergsten|2007}}</ref> Lindgren fick 1947 en deltidsanställning som förlagsredaktör och ansvarig för barnboksavdelningen på Rabén & Sjögren. Där arbetade hon fram till 1970 då hon gick i pension.<ref>{{Harvnb|Astridlindgren.se|2011c}}</ref>
+Taube har beskrivit sin barndom som mycket lycklig, präglad av fiske, sjöfart och historier om främmande länder och livet till sjöss. På [[Vinga]] fanns då fyra andra familjer och öns tio barn hade egen skola, där Taube gick till sitt trettonde skolår.<ref>''ANNO 76'', [Årskalender], red. Madaleine Stevelius & Lars Lagerstedt, Förlagshuset Norden & Svenska Dagbladet, Malmö 1977, s. 105, [[nekrolog]]</ref> Men hans undervisning skedde inte bara i den lilla lotsskolan på Vinga, utan också i hög grad i hemmet genom fadern, vilken hade ett stort intresse för både litteratur och språk. Taube beskriver sin rörande känsla för skolan: "''"Långt före denna tid, när jag var endast fyra år gammal, höll skolan till i en liten lotsstuga som låg nära hamnen på östra sidan av ön. De två små rummen i stugan hade väggfasta kojer som i skansarna på fartyg. Där var fyra kojer i vart rum, två och två över varandra. I västra kammarns fönster kunde man se lanterninen på Vinga fyr (över den bergknalt där numera överlotsens stora hus ligger) och i östra kammarns fönster såg man Hättan, det vackra skäret i hamninloppet...''".<ref>''Evert Taube - poet, musikant, artist'', Georg Svensson, Bokklubben Svalan/Bonniers 1976 ISBN 91-0-041195-7, s. 12</ref>
 
-=== Senare liv ===
-1961 avled Lindgrens mor och åtta år senare fadern. Hon skrev då en [[novell]] om sina föräldrar, ''[[Samuel August från Sevedstorp och Hanna i Hult]]'', som en följetong i tidningen ''[[Vi (tidskrift)|Vi]]''. Den utkom senare även som bok. Hon utgick från sin fars berättelser och kärleksbrev som hon funnit i barndomshemmet. Samuel August förälskade sig i Hanna då hon bara var nio år och han var tretton. I början av 1970-talet gick Lindgren i pension från bokförlaget Rabén & Sjögren, och flera närstående avled, däribland brodern Gunnar. Hon mottog flera utmärkelser och gav sig även in i samhällsdebatten (se nedan). Detta fortsatte under 1980-talet då hon bland annat engagerade sig för djurs rättigheter. Hon förlorade 1986 sin son Lars. Astrid Lindgrens åttioårsdag 14 november 1987 firades på [[Göta Lejon]] i Stockholm. Under 1990-talet mottog hon fler utmärkelser. 1996 uppkallade [[Ryska vetenskapsakademin]] en [[asteroid]] efter henne ([[3204 Lindgren]]), något som fick henne att utbrista ''”Hädanefter får ni kalla mig Asteroid Lindgren”''. Samma år som hon fyllde 90 år utnämndes hon till [[Årets svensk i världen]], något som hon också skämtade om.
+Familjen var mycket musikintresserad och enligt Taube spelade man och sjöng bland annat [[Gluntarne]] och [[Carl Michael Bellman|Bellmans]] visor i föräldrahemmet.
 
-=== Död och begravning ===
-[[Fil:Dalagatan 2008a.jpg|miniatyr|200px|[[Dalagatan]] 46 i Stockholm var Astrid Lindgrens hem mellan 1941 och 2002.]]
-Den 28 januari 2002 avled Lindgren i sitt hem i [[Vasastaden, Stockholm|Vasastan]] i [[Stockholm]], 94 år gammal. Hennes [[begravning]] ägde rum i [[Storkyrkan]] i [[Gamla stan]]. Bland gästerna återfanns bland andra [[Sveriges monarki|kung]] [[Carl XVI Gustaf]] med [[drottning Silvia]] och den övriga kungafamiljen, [[Sveriges statsminister|statsminister]] [[Göran Persson]], [[Sveriges kulturminister|kulturminister]] [[Marita Ulvskog]], [[Sveriges riksdag|riksdagens]] [[Sveriges riksdags talman|talman]] [[Birgitta Dahl]], [[landshövdingen i Stockholms län]] [[Mats Hellström]] och [[Stockholms kommun|kommunstyrelsens ordförande]] [[Carl Cederschiöld]]. Gudstjänsten leddes av Regina Karacsonyi. ''[[Dagens Nyheter]]'' beskrev ceremonin som "det närmaste man kan komma en [[statsbegravning]]".<ref name="Hagerfors 2002">{{Harvnb|Hagerfors|2002}}</ref>
+Läsåret 1904–1905 bodde Taube hos sin farbror [[Axel Taube]] i Malmö, där han gick i Borgarskolan på Gamla Väster. De bodde i ''Villa Axeltorp'' på Fridhemsvägen 19. Hans betyg var medelmåttiga, och bästa ämnena (AB+) var välskrivning, sång och svenska. Sämst var matematiken med B minus. Under malmövistelsen fick där bland annat teckningslektioner av sin kusin Mathias, som var en etablerad konstnär och utbildad på Akademien i Köpenhamn. Taube avreste till Göteborg den 8 maj 1905.<ref>''Evert Taube-sällskapet : Årsskrift 2003'', "Oss trubadurer emellan" & , redaktör: Edvard Matz, Stockholm 2003 ISSN 0349-1005, s. 123ff</ref>
 
-Astrid Lindgrens kista fördes genom Stockholm från [[Adolf Fredriks kyrka]] till Storkyrkan. Den svarta vagnen var av trä och hade lånats från [[Skärkinds kyrka]]. Bakom vagnen ledde en flicka en vit osadlad [[hingst]], en gammal begravningssymbol vid kungliga begravningar. Kortegen eskorterades av ridande poliser och [[livdragon]]er från [[Livgardet|Kungliga Livgardet]]. För musiken i Storkyrkan svarade bland andra [[Adolf Fredriks musikklasser]], som bland annat sjöng "[[Idas sommarvisa]]". [[Tommy Körberg]] sjöng "Fattig bonddräng" ur filmen ''[[Emil i Lönneberga (film)|Emil i Lönneberga]]'' (1971). Melodin återkom sedan som [[improvisation]] på [[orgel]] när kistan bars ut. Ceremonin direktsändes i [[SVT 2]]. Lindgren gravsattes i hemstaden [[Vimmerby]].<ref name="Hagerfors 2002"/>
+Evert Taubes far befordrades till överlots och personalchef vid Kungliga Lotskontoret<ref>''ANNO 76'', (1977), s. 105, nekrolog</ref> 1905 och familjen flyttade till [[Kustens varv]] i [[Göteborg]]. Planerna var att Evert Taube skulle börja i [[läroverk]], men eftersom han inte klarade provet i matematik, gick han i lära hos teatermålaren Jens Christian Andrésen på [[Stora Teatern, Göteborg|Stora Teatern i Göteborg]]. Han tog även kvällslektioner på [[Konsthögskolan Valand]] i Göteborg.
 
-== Författarskap ==
-=== Första böckerna ===
-Astrid Lindgren började skriva på 1940-talet. När Lindgrens dotter var sjuk i lunginflammation bad hon om att få höra en berättelse och när modern då frågade:
-{{Citat|'Vad ska jag berätta?' svarade hon 'Berätta om Pippi Långstrump!' Hon hittade på det namnet just i det ögonblicket.|Astrid Lindgren|<ref>{{Harvnb|Heurling|1993|p=211}}</ref>}}
+I april 1906 flyttade familjen Taube in disponentbostaden vid [[Kustens varv]] i [[Majorna]] i Göteborg, det senare [[Taubehuset]]<ref>''Evert Taube i våra hjärtan'', Andra reviderade utgåvan, redaktörer: Agneta Jonsson, Agneta Hyllén, Semic, Sundbyberg 1976 ISBN 91-552-1705-2, s. 7</ref>. Samma år rymde Evert Taube till [[Stockholm]] för att bli konstnär. Väl i Stockholm, tillbringade han sin första natt på en bänk på [[Klara kyrkogård]], precis bredvid [[Carl Michael Bellman]]s grav.<ref name="Vega 2002">''Vi från Vega'', nr 1 2001-2002, utgiven av Gamla Vegapojkars Kamratförening, Göteborg 2002, s. 32</ref> Hans planer var att komma in på [[Kungliga Akademien för de fria konsterna|Konstakademien]] för att studera måleri. Livet i [[Stockholm]] kom att präglas av [[bohemeri]]. Tidvis bodde han hos sin kusin, konstnären och skådespelaren [[Mathias Taube]], men emellanåt tvingades han övernatta utomhus då kontanter saknades. Han fick några teckningar publicerade i [[Dagens Nyheter]] och [[Svenska Dagbladet]] och knöt nyttiga kontakter med etablerade konstnärer. Slutligen beviljades han även inträde i [[Kungliga Akademien för de fria konsterna|Konstakademien]].
 
-Berättelserna om Pippi uppskattades av både Lindgrens dotter och hennes kamrater, i flera år. Därför passade Lindgren på att skriva ner berättelserna om när hon var tvungen att vila i samband med en illa stukad fot. I maj 1944 fick dottern Karin ett renskrivet manuskript med berättelsen om Pippi. Lindgren bestämde sig också för att skicka en kopia till ett förlag, trots att hon misstänkte att det skulle refuseras på grund av den figur som Pippi var.<ref name="Heurling 1993">{{Harvnb|Heurling|1993|p=212}}</ref> Hon skickade manuskriptet till [[Albert Bonniers Förlag|Bonniers förlag]], men refuserades av förläggaren [[Gerard Bonnier]] som många år senare erkände att han tyckte att boken var för kontroversiell och att han inte vågade ge ut den.<ref name=statkultur>[http://www.alma.se/templates/KR_Page.aspx?id=863&epslanguage=SV Barnboksrevolutionen började på sängkanten]{{Död länk|datum=2010-01}}. Kansliet för litteraturpriset till Astrid Lindgrens minne ''Statens kulturråd''. Läst 6 november 2007.</ref><ref>{{Harvnb|Astridlindgren.se|2011d}}</ref> Under tiden som hon väntade på besked skrev hon ännu en berättelse. Då blev det en flickbok, ''[[Britt-Marie lättar sitt hjärta]]''. Detta manuskript sändes in till Rabén & Sjögren som hade utlyst en tävling för flickböcker.  Manuset fick andra pris och Lindgren gladdes åt vinsten. 1945 hade Rabén & Sjögren en ny tävling och till denna skickade författaren in en omarbetad version av Pippi<ref name="Heurling 1993">{{Harvnb|Heurling|1993|p=212}}</ref> där Pippi inte var lika elak och uppnosig.<ref>{{Harvnb|Edström|1992|p=80-118}}</ref> Det fick första pris. Pippi blev ett genombrott för författaren<ref name="Heurling 1993"/> och boken blev en succé julen 1945.<ref>{{Harvnb|Alsing|Lundh|1999|p=140}}</ref> 1946 hade förlaget en pristävling för detektivböcker för unga. Detta inspirerade Lindgren till att skriva ''[[Mästerdetektiven Blomkvist]]'' och den fick ett delat första pris. Det blev den sista tävlingen, men skrivandet fortsatte.<ref name="Heurling 1993"/>
+=== Evert Taube går till sjöss ===
+Evert Taubes far oroade sig över sin sons bohemiska liv i [[Stockholm]]. År 1907 tog han tåget upp och träffade då sin son i ett tämligen eländigt skick. Evert Taube ställdes inför ett ultimatum av sin far: Antingen skulle han börja i en internatskola, eller också måste han gå till sjöss. Evert Taube valde det sistnämnda och mönstrade på som [[eldare]] på s/s Australic hemmahörande i [[Göteborg]]. Han seglade bland annat på [[Sydafrika]], [[Ceylon]] och [[Röda havet]], innan han 1909 återvände till [[Sverige]]. Under dessa år till sjöss samlade han många erfarenheter, som han senare skulle komma att använda som stoff i sina visor och annan diktning.
 
-===Fortsatt författarskap===
-Författandet omfattar nästan 40 böcker, bilderböcker, några teaterpjäser och visor. Dessutom skrev Lindgren filmmanus, radio- och tv-serier.<ref name="Heurling 1993"/> Andra tidiga böcker var ''[[Mästerdetektiven Blomkvist]]'' (1946), de två böckerna om Bullerbyn, ''[[Alla vi barn i Bullerbyn]]'' (1947) och ''[[Mera om oss barn i Bullerbyn]]'' (1949). Första boken, ''Alla vi barn i Bullerbyn'', skickades in till samma tävling som hon 1945 skickade in Pippi Långstrump-manuset till. Trots att ''Alla vi barn i Bullerbyn'' då inte vann något pris köpte Rabén & Sjögren det för utgivning.{{källa behövs|datum=2011-06-04}}(Möjligen astridlindgren 1941-1950)
+=== Evert Taube i Sydamerika ===
+År 1910 arbetade sig Taube över till [[Argentina]] genom att ta hyra på den engelska [[hjulångare]]n ''Princess of Wales'' som sålts av Great Eastern Railway till Mihanovich y Compañia i Buenos Aires, dit fartyget skulle föras.<ref>Timm, sid 89</ref> Han kom att tillbringa fem år i [[Sydamerika]]. Där hade han en mängd olika arbeten, bland annat som [[förman]] vid kanalbyggen, [[adjutant]] hos den argentinske presidenten och [[gaucho]] (spanska för "cowboy"). Förutom engelska, som han kunde sedan tidigare, lärde han sig tala spanska och italienska, och att spela [[gitarr]]. Han återvände till Sverige år 1915 till följd av [[första världskriget]]s utbrott.
 
-Ett flertal av Lindgrens böcker har filmatiserats och först ut var ''[[Mästerdetektiven Blomkvist (film)|Mästerdetektiven Blomkvist]]'' (1947).<ref name=labyrint>[http://www.labyrint.nu/text.asp?id=1561 Astrid Lindgren: personligt]{{Död länk|datum=2010-01}}. ''Labyrint''. 28 januari 2002. Läst 6 november 2007.</ref> 1950 tilldelades Astrid Lindgren [[Nils Holgersson-plaketten]] till [[Selma Lagerlöf]]s minne. Efter detta började hennes böcker att sälja i mångmiljonupplagor och översättas till många språk. Bland de mest kända figurerna kan nämnas ''[[Kalle Blomkvist]]'' (1951) ''[[Mio, min Mio]]'' ([[Litteraturåret 1954|1954]]), ''[[Karlsson på taket|Lillebror och Karlsson på taket]]'' (1955), ''[[Madicken]]'' (1960), ''[[Emil i Lönneberga]]'' (1963), ''[[Saltkråkan|Barnen på Saltkråkan]]'' (1964), ''[[Bröderna Lejonhjärta]]'' (1973) och ''[[Ronja Rövardotter]]'' (1981).
+=== Konstnärskarriären tar fart ===
+[[Fil:Maria Magdalena kyrka september 2011e.jpg|thumb|upright|210px|Evert Taubes gravvård på [[Maria Magdalena kyrka|Maria Magdalena kyrkogård]] i Stockholm.]]
+Efter första världskriget fick Evert Taube erbjudande om att resa till Australien och skriva en reseskildring för Bonniers förlag. England vägrade dock författare och publicister [[visum]], och Taube fick lämna tillbaka förskottet han fått samt reste till Stockholm istället.<ref name="ReferenceA">''Evert Taube i våra hjärtan'', Andra reviderade utgåvan, redaktörer: Agneta Jonsson, Agneta Hyllén, Semic, Sundbyberg 1976 ISBN 91-552-1705-2, s. 10</ref> Åter i [[Stockholm]] gjorde han sin värnplikt i [[Flottan]] åren 1916-17 och inledde därpå sin karriär som författare, konstnär och visdiktare. Han fick bland annat en visa publicerad i [[Albert Engström]]s tidskrift [[Söndags-Nisse]].
 
-Astrid Lindgren tilldelas 1958 [[H.C. Andersen-medaljen]]. Hon valdes 1963 in i [[Samfundet de nio]], som första barnboksförfattare. 1970 gick Lindgren i pension från Rabén & Sjögren och året efter mottog hon [[Stora priset|Svenska Akademins stora guldmedalj]] och Litteris et Artibu.<ref name="ahlen100"/> {{Död länk|datum=2010-01}} Än idag upptäcker många nya barn Lindgrens böcker, och Pippi Långstrump är fortfarande en av de mest lånade böckerna på svenska [[bibliotek]].<ref name="labyrint"/>{{Död länk|datum=2010-01}} Siffror från 2010 talar om  att den världsomspännande försäljningen av böcker är 145 miljoner exemplar.<ref name="Astridlindgren.se 2011e">{{Harvnb|Astridlindgren.se|2011e}}</ref>
+Den 1 februari 1918 debuterade han på [[Smögen]]s [[godtemplare]]loge med egna och andras visor. Taube berättar i boken ''Berättelser under ett fikonträd'' om sin tveksamhet till att börja som trubadur: "''Jag minns att jag som tribunartist tog farväl av någonting inom mig själv. Jag hade aldrig velat sälja min naturliga glädje och som betald vissångare kände jag mig prostituerad.''" <ref name="Vega 2002"/> Samma år publicerades hans första bok, novellsamlingen ''Inte precis om kvinnorna''.
 
-=== Översättningar ===
-2012 räknades antalet översättningar till 95 språk och språkvarianter. Utöver detta finns första kapitlet av Ronja Rövardotter på latin och Emil på Pitebondska publicerat i en tidning. Dessutom har Idas Sommarvisa översatts till Transpiranto i Grönköpings veckoblad.<ref>{{Harvnb|Astridlindgren.se|2011f}}</ref> Uppskattningsvis har det utanför Sverige kommit 3&nbsp;000 utgåvor som totalt sålt i över 145 miljoner exemplar.<ref name="boras"/> {{död länk|datum=2011-06}} Många av hennes verk har översatts till engelska av översättaren [[Joan Tate]].
+Efter att i januari 1919 ha gjort succé på [[Cabaret Läderlappen]] som spelades på [[Hotell Gillet, Stockholm|Hotell Gillet]] i Stockholm, och då han enligt egen uppgift tog [[luta]]n från trubaduren [[Gunnar Bohman]] och sjöng visan [[Karl-Alfred och Ellinor]]<ref name="ReferenceA"/>, insjuknade Evert Taube i [[spanska sjukan]] och lades in på sjukhus. Under våren skrev han vissamlingen ''Sju sjömansvisor och Byssan lull''.
 
-Den första tyska översättningen som gavs ut var ''[[Pippi Långstrump]]'' (1949) på förlaget [[Verlag Friedrich Oetinger]], men ''Pippi Långstrump'' hade tidigare översatts till danska, finska, norska och isländska. Oetinger Förlaget grundades 1946 och 1949 var [[Friedrich Oetinger]] på besök i Stockholm för att träffa [[Gunnar Myrdal]]. I en bokhandel fick han höra talas om Pippi Långstrump och tog snabbt kontakt med förlaget för att skaffa sig utgivningsrätten på tyska. Då hade redan fem tyska förlag tackat nej när Rabén & Sjögrens förlag försökte sälja Pippi Långstrump. Oetinger har gett ut alla hennes böcker i ungefär 20 miljoner exemplar.{{källa behövs|datum=2011-06-04}}(Möjligen astridlindgren 1941-1950)<ref name=sjavig>[http://www.astridlindgren.se/omastrid/oetinger.htm En sjavig bokraggare från Hamburg]{{Död länk|datum=2010-01}}. ''www.astridlindgren.se''. Läst 6 november 2007.</ref> Tyskland är ett av de länder där Lindgren och hennes böcker fått störst uppmärksamhet, exempelvis bär 186 tyska skolor hennes namn.<ref>{{Harvnb|Knutsen-Öy|2007}}</ref> Den franska utgåvan av Pippi Långstrump som gavs ut [[litteraturåret 1951|1951]] av Hachette var dock inte särskilt bokstavstrogen gentemot författaren. I den utgåvan har förlaget tagit bort långa stycken och gjort om texten för att inte ta med sådant som ansågs vara anarkism och provokationer. En ny komplett översättning till franska kom först 1995.<ref>{{Harvnb|Astridlindgren.se|2011h}}</ref>
+Till Hotell Continental i Stockholm - och en enkel inspelningsstudio - kom Evert Taube i januari 1921. Han gjorde denna vinterdag sina fyra första grammofonskivor, och "Karl Alfred", "Fritiof Andersson" och "Resan till Spanien" var de tre första han spelade in för Concert Record Grammophone. På skivetiketten stod det ""Sång till luta av cabaretångare Evert Taube". Taube gjorde elva inspelningar för His Master's Voice redan samma år, och gaget uppgick till 750 kronor om året.<ref>Fredholm, (1972), s. 17</ref>
 
-1973 kom Emil i Lönneberga, ''Zozo la tornade'' på franska, men översättaren hade gjort om Emil till en läspande fransk bondpojke. Sedan mars 2008 finns dock Emil i en ny fransk översättning, trogen originalet (alla tre Emil-böckerna kom ut samtidigt). Där har han dessutom döpts om och heter nu Emil även på franska. I [[Sovjetunionen]] har Lindgrens böcker getts ut i enorma upplagor. Särskilt populär har Karlsson på taket varit som översattes till ryska redan 1957. Den ryska översättningen var dock under all kritik: "rar liten gumma" översattes till "sällsynt liten gumma" och "[[Saab J 29 Tunnan|Flygande tunnan]]" översattes till "flygande ölfat".<ref>{{Harvnb|Kvint|1997}}</ref> Astrid Lindgrens böcker har sålts i över 10 miljoner exemplar och Karlsson på taket är så populär att dåvarande statsminister [[Ingvar Carlsson]] fick höra att han är "fel Karlsson" när han besökte Moskva.<ref name="Astridlindgren.se 2011e"/>
+Taube skriver i december 1921 till sin mor om sina intäkter: "''Grammofonbolaget His Masters Voice betalar mig nu årligen 750 kronor för rätten till mina visor, som korrespondent för Stockholms-Tidningen har jag en grundlön av 100 kronor i veckan och när jag uppträder har jag aldrig mer än hundra.''" Men redan på 1930-talet tillhörde Taube en av de högst betalda författarna i Sverige, och fick infört löpande serier av berättelser från Bohuslän och Göteborgstrakten på prosa och vers samt egna teckningar i både [[Svenska Dagbladet]] och [[Göteborgs Handels- och Sjöfartstidning]] med starkt stöd från redaktionerna.<ref>Fredholm, (1972), s. 17, 98</ref>
 
-== Mottagande - kritik och analys ==
-[[Fil:Briefmarke Astrid Lindgren.jpg|miniatyr|200px|Tyskt frimärke med Astrid Lindgren och "Emil i Lönneberga".]]
+På [[Gyldene Freden]] 1924 bildade Evert Taube sällskapet ''Pax Aurea'' eller ''Riddarna kring Gyldene Fredens Runda Bord under den Lysande Trumman'' (en gammal trumma från Svea garde utstrålade ett "gyllene sken" genom kalvskinnet). Det var i boken "Den Gyldene Fredens ballader" som sällskapet först figurerade.<ref>Fredholm, (1972), s. 27f</ref>
 
-Den första boken om Pippi Långstrump fick mycket stor uppmärksamhet och i huvudsak goda recensioner. Exempelvis skrev recensenten Emmy Reventberg  i ''[[Norrköpings Tidningar]]'': "En så frisk, originell och genomrolig barnbok som Pippi Långstrump har inte undertecknad läst på mycket länge."<ref>''Norrköpings Tidningar'' 27 december 1945</ref> och ''[[Dagens Nyheter]]'' skriver att: 
-{{Citat|Det är damen som gör vad som faller henne in, men man kan knappast oroa sig för att läsarna kommer att imitera henne, därtill är upptågen för befängda. Roligt får de emellertid, och Pippi är innanför galenskaperna så rar, att de kommer att tycka om henne också.|Dagens Nyheter|Recension av [[Pippi Långstrump (bok)]]}}<ref>[http://www.sbi.kb.se/pippirec.pdf Svenska barnboksinstitutet, klipp ur Pippi-recensioner]{{Död länk|datum=2010-01}}. ''Dagens Nyheter''. 29 november 1945. Läst 6 november 2007.</ref> Ytterligare två böcker om Pippi gavs ut, ''[[Pippi Långstrump går ombord]]'' (1946) och ''[[Pippi Långstrump i Söderhavet]]'' (1948).
+Evert och Astri Taube hade sin första gemensamma konstutställning i november 1925 i Göteborg, då Astri ställde ut ett antal skulpturer i marmor, brons och sten.<ref>Fredholm, (1972), s. 58</ref>
 
-==Forskning==
-Eva Wahlström har i en avhandling från [[Göteborgs universitet]] visat att Astrid Lindgren tidigt inspirerats starkt av två tidigare barnboksförfattare, [[Karin Michaëlis]] och [[Ester Blenda Nordström]]. Deras huvudpersoner Bibi respektive Ann-Mari uppvisar både till språk och handling många paralleller till främst Pippi Långstrump, men även till Emil i Lönneberga. En av Wahlströms slutsatser är att Lindgren skall ses mer som en traditionalist än en förnyare i barnboksgenren.<ref>{{Harvnb|Wahlström|2011}}</ref>
+=== Äktenskap och familj ===
+[[Bild:Evert Taube-Gullers.jpg|mini|Evert Taube 1953.]]
+Tidigt var Evert Taube under två år förlovad med Malin Engström, dotter till [[Albert Engström]]. 
+På våren 1920 träffade Evert Taube [[Astri Taube|Astri Bergman]] och hennes akademikamrat Lilly Åkerholm på ''Café à la Rotonde'' i [[Paris]]. Taube erbjöd kvinnorna att följa med honom till [[San Remo]]. Bergman och Taube blev då förälskade och [[förlovning|förlovade]] sig efter ett par månader på trappan till domkyrkan i [[Florens]].<ref>Fredholm, (1972), s. 10ff</ref> Hennes far konstgjutaren [[Herman Bergman]] blev mycket upprörd, kallade hem sin dotter och krävde att förlovningen skulle slås upp. Anledningen var att hon redan var förlovad samt att fadern inte ansåg att den bohemiske Evert Taube hade någon möjlighet att försörja en familj genom sitt diktande och målande.
 
-Bettina Kümmerling-Meibauer från Tyskland innehar för närvarande (2011) [[Linnéuniversitetet]]s gästprofessur till Astrid Lindgrens minne. Kümmerling-Meibauer har bland annat ägnat studier åt fotografisamlingar från olika delar av Lindgrens liv. 
+År 1924 kom Evert Taube att lära känna Astri Bergmans far bättre, och då Taube nu stadgat sig, givit ut flera böcker, vissamlingar och grammofonskivor, gav fadern sitt samtycke till att förlovningen återupptogs. De förlovade sig på nytt i oktober 1924, och gifte sig den 14 januari 1925 i [[Jakobs kyrka]] i Stockholm. Vigselförrättare var pastor August Lindh.<ref>Fredholm, (1972), s. 43</ref> Bröllopsresan gick av stapeln med ''s/s Najaden'' från Göteborg till [[Ligurien]] i Italien den 10 april 1925. Där bodde de i Villa Evelina, sommarbostad för kejsarinnan av Ryssland. Under bröllopsresan diktade Evert Taube nya ballader, pastoraler och dansvisor. Vid juletid samma år utgavs "Bröllopsballader och rosenrim".<ref>Fredholm, (1972), s. 50, 52, 55</ref> Paret fick fyra barn tillsammans: [[arkitekt]] Per-Evert Taube (1926–2009), Rosemarie<ref>Stavningen Rose-Marie och Rosemarie varierar mellan olika källor.</ref> (född/död 1928; hon dog i februari efter drygt två veckor på sjukhuset av [[lunginflammation]]<ref>{{bokref|titel=Sveriges dödbok 1901-2009 Swedish death index 1901-2009|utgåva=Version 5.0|år=2010|utgivare=Sveriges släktforskarförbund|utgivningsort=Solna|språk=swe|isbn=978-91-87676-59-8|libris=11931231}}</ref><ref>''Ord och många visor'', / Sven-Bertil Taube ; berättat för Petter Karlsson : bildredaktör: Jacob Forsell. - 2007. - ISBN 978-91-0-011341-4 (inb), s. 9</ref>), Ellinor (1930–1998) och [[Sven-Bertil Taube|Sven-Bertil]] (född 1934). Taube var även far till Kirsten Kruse (1920–1983), från en romans med danskan Ingeborg Østergaard (1886–1969).<ref>''Till bords med Evert Taube : Mat av Jesper Taube'', [recept och biografiska anteckningar], Jesper Taube, Petter Karlsson, Pia Schmidt de Graaf (Taube-arkivet), Bokförlaget Max Ström, Stockholm 2000 ISBN 91-89204-22-0 s. 209. "Få visste emellertid att Taube hade en dotter, Kirsten Kruse, från en ungdomsromans med danskan Ingeborg Østergaard - populärt kallad Skagens ros och författaren [[Holger Drachmann]]s sista älskarinna. Astri tillåter aldrig att far och dotter träffas. Men Kirsten och Ingeborg dyker upp en afton på Freden på 1930-talet, då Taube sjunger i trappan."</ref>
 
-5 februari 2010 talade gästprofessor Astrid Surmatz, den första att inneha ämbetet till Astrid Lindgrens minne, vid Linnéuniversitetet om Astrid Lindgren, om förebilden Pippi Långstrump samt  om  entreprenörskapsandan i böckerna och i Vimmerby.
-Childhood research in literature, language and learning (CHILLL) är en forskargrupp vid just Linnéuniveritetet som ägnar sig åt bland annat Astrid Lindgren-forskning.
-Mellan 18 och 20 september 2008 hölls en konferens i Växjö, Astrid Lindgren: Internationality and Intermediality. Fokus var på Lindgren i utländsk forskning.<ref>[http://lnu.se/sok?q=bettina+k%C3%BCmmerling Om Bettina Kummerling]. Läst 2011114.</ref><ref>[http://lnu.se/forskargrupper/chilll om CHILLL-projektet]. Läst 20111114.</ref><ref>[http://lnu.se/research-groups/forum-for-intermedial-studies/events/conferences/astrid-lindgren-internationality-and-intermediality?l=en Om konferensen 2008]. Läst 20111114.</ref>
+Evert Taube tillhörde adliga ätten [[Taube]] (nr. 734), yngre grenen. Ätten har sitt ursprung i [[Livland]] och [[Estland]] (möjligen [[Danmark]]) på [[1300-talet]].<ref>''Sveriges ridderskap och adels kalender 1998'', utgiven av Riddarhusdirektionen, Nordstedts 1997 ISBN 91-971722-2-7 ISSN 0347-9633 s. 628</ref>
 
-== Lindgren i samhällsdebatten ==
-{{POV|Avsnittet innehåller värdeladdade uttryck och beskrivningar|datum=2012-09}}
-Lindgrens medkänsla för de svaga kan utläsas i hennes böcker. Bortsett från ett fåtal undantag höll hon sig dock undan från den offentliga debatten tills hon vid 70 års ålder steg in i debatten i [[Riksdagsvalet i Sverige 1976|valrörelsen till riksdagsvalet 1976]]. Hon var själv övertygad socialdemokrat och röstade socialdemokratiskt från mitten av 1940-talet<ref>{{Harvnb|Strömstedt|1977}}</ref> men blev mycket upprörd då hon upptäckte att de skatter som hon som [[egenföretagare]] skulle betala, [[arbetsgivaravgift]] och [[inkomstskatt]], innebar att hennes sammanräknade [[marginalskatt]] skulle uppgå till 102%. Hon har i flera intervjuer uttalat att hon "med glädje betalar skatt", men i detta fall överträffade verkligheten sagan. För att påvisa denna absurditet valde hon att skriva en saga, ''[[Pomperipossa i Monismanien]]''<ref>{{Harvnb|Lindgren|1976}}</ref> i [[Expressen]].<ref name="Astridlindgren 2011a">{{Harvnb|Astridlindgren.se|2011a}}</ref> Sagan väckte stor uppmärksamhet och dåvarande [[finansminister]] [[Gunnar Sträng]] kommenterade den med: "Artikeln är en intressant kombination av stimulerande litterär förmåga och djup okunskap om skattepolitikens irrgångar. Men det begär vi ju inte att Astrid Lindgren ska klara."<ref>{{Harvnb|Norlin|2002}}</ref> Lindgren svarade honom med: 
-{{Citat|Ja, han säger att 'det begär vi inte att Astrid Lindgren ska klara,' men jag begär att Gunnar Sträng ska klara det! Och jag tycker inte det verkar som att han räknar så stort mycket bättre än jag – det här som han påstår är felräknat det är i så fall Riksskatteverket som har räknat fel, för jag har siffrorna därifrån."|Astrid Lindgren|Pomperipossa-debatten Expressen 10 mars 1976}}
-samt att: "Berätta sagor har Gunnar Sträng nog lärt sig, men räkna det duger han inte till! Det vore bättre om vi bytte jobb!"<ref name=boras>[http://web.archive.org/web/20110618181521/http://www.boras.se/download/18.974c516114ab53462380008144/Astrid+Lindgren+PM.pdf Astrid Anna Emilia Lindgren 100 år]{{död länk|2/8-2011|datum=2011-08}}. ''Borås konstmuseum''. Läst [[6 november]] [[2007]].</ref> Ett stort skatteuppror startade i Sverige på grund av denna händelse och socialdemokraterna kritiserades för dels utformningen av skattesystemet, men också för det hånfulla bemötande som Sträng och regeringen hade gett Lindgren. Samma år förlorade den [[Socialdemokraterna (Sverige)|socialdemokratiska]] regeringen makten vid [[Riksdagsvalet i Sverige 1976|riksdagsvalet]], för första gången på 40 år. Sagan användes i valrörelsen och bedöms, tillsammans med det ovan nämnda bemötandet, att ha påverkat valresultatet.<ref name="Hansson 2002">{{Harvnb|Hansson|2002}}</ref> 
+Taube led av en svår [[astma]] och hade dessutom lätt för att få både [[bronkit]] och [[lunginflammation]].<ref>''Evert Taube : Ett personligt porträtt av Marianne Greenwood'', [[Marianne Greenwood]], Förlags AB Wiken 1985 ISBN 91-7024-165-1, s. 21</ref>
 
-Hon tog tydligt ställning mot [[kärnkraft]] inför omröstningen 1980 och hon skrev: 
-{{Citat|Detta land är inte till salu, det tillhör oss och våra barn och vi vill behålla det så att vi kan leva där. Dess sockel av granit ska inte proppas med radioaktivt avfall, som i alla evighet ska ligga där och hota ofödda generationer.|Astrid Lindgren|Inför folkomröstningen om kärnkraft <ref name="Hansson 2002"/>}}
+=== Bostäder ===
+På sensommaren 1927 flyttade familjen från [[Linnégatan, Stockholm|Linnégatan]] till [[Bellmansgatan, Stockholm|Bellmansgatan]] i Stockholm.<ref>Fredholm, (1972), s. 65</ref> Under många år bodde familjen Taube på Grev Turegatan i Stockholm, men i mitten av 1960-talet bestämde Stockholm stad att huset skulle rivas. Familjen krävde att staden skulle hitta en lämplig ersättningsbostad, något man inte lyckades med. Änkan efter Evert Taubes konstnärskollega [[Kurt Jungstedt]] erbjöd då sin våning på Södermalmstorg 4 - som även [[Anders Zorn]] hade bott i - vilket paret accepterade och flyttade in år 1966.<ref>Taube och Mehr, sid 64</ref>
 
-Det som engagerade henne mest var dock barn- och djurskyddsfrågor. Hon skrev boken ''[[Min ko vill ha roligt]]'' tillsammans med veterinären Kristina Forslund och förde en djurskyddskampanj i Expressen under tre år. Den började med en debattartikel hon skrev i [[Dagens nyheter]] [[1985]]. Hon skrev bland annat "Kor och hagar behöver varandra, och vi behöver hagar och kor, friska kor, men så bra får det inte längre vara i Sverige." <ref>''[[Dagens Nyheter]]'' 3 maj 1985</ref>{{källa behövs|2011-08-06|datum=2011-08-06}}
+Per telegram 1928 uppmanade Evert Taube sin hustru Astri "Köp sjösalen", ett femton [[tunnland]] stort område med berg, ängar, sandstrand och skog. Namnet ''[[Sjösala]]'' fick det eftersom det såg ut som en sjösal. Egendomen låg mitt emot Astri Taubes föräldrars hus på Gammelboda i Värmdö skeppslag. År 1937 byggdes huset.<ref>''Evert Taube - en del av vår vardag och vår glädje'', red. Agneta Jonsson (medred. Bo Strömstedt & Edvard Matz), Bra Böcker, Nacka 1975, s. 30</ref> Familjen Taube tillbringade här somrarna, på [[Hölö]] nära [[Fågelbrolandet]], sydöst om [[Värmdö]] i Stockholms södra skärgård. År 1969 brändes Sjösala ned av den psykiskt sjuka [[Mona Wallén-Hjerpe]]. Taube var mycket fäst vid Sjösala och sa dagen efter branden att ''"Det känns som den största förlust jag någonsin gjort"''.<ref>{{webbref|titel=Sjösala|url=http://everttaube.info/index.php?id=186|hämtdatum=11 januari 2012}}</ref>
 
-Statsminister [[Ingvar Carlsson]] gav henne på åttioårsdagen en djurskyddslag, [[Lex Lindgren]], då han lärt sig av historiska misstag i att inte se Lindgrens opinionsbildande makt. Lindgren var först mycket glad för lagen, men beskrev den senare som "fisig", då den inte höll det han utlovat.<ref name="Astridlindgren 2011a">{{Harvnb|Astridlindgren.se|2011a}}</ref> Engagemanget bidrog dock till att konsumenterna fick upp ögonen för djurskyddsfrågor i högre grad.
+===Evert Taube och miljön===
+Redan på 1920-talet engagerade sig Evert Taube för stockholmsmiljön under parollen ”än kan Bellmans Stockholm räddas”. 1955 ledde Evert Taube kampanjen för att rädda Riddarfjärden från att bli soptipp efter det att [[Sten Selander]] i en artikel berättat om att politikerna i Stadshuset planerade att börja tippa rivningsmassor från [[Klararivningarna]] i Riddarfjärden. Man planerade att med hjälp av två pråmar sänka rivningsmassor motsvarande 8% av Riddarfjärdens vattenvolym. Evert Taubes insats var betydande, och borgarrådet [[Helge Berglund]] fick retirera. År 1958 engagerade sig Taube mot det [[Kooperativa Förbundet]]s planer på att riva [[Mosebacke torg|Mosebacke]] – Södra teatern - och i dess ställe bygga ett kontorshus. Som en del av protesten instiftade Evert Taube tillsammans med [[Erik Asklund]] ''Stockholms litterära Akademi'' med säte på Mosebacke. Både Riddarfjärden och Mosebacke räddades. När [[Vindelälven]] hotades, skrev Taube 1967 ett förtvivlat [[telegram]] till statsminister [[Tage Erlander]], vilket publicerades i tidningen [[Expressen]]. Taube hotade på fullt allvar med att fly från Sverige för att aldrig återkomma om älven förstördes; "''... Då flyr jag från detta land för att aldrig hit återkomma vare sig levande eller död och det är inte i vredesmod men i djupaste sorg över att Sverige som jag älskat och besjungit och som ännu i min ungdom var en uppenbarelse av kristallklara floder kristallklara brusande vattenfall kristallklara sjöar och kristallklara kusthav ...''". Älven räddades så småningom.<ref>Taube och Mehr, sid 49</ref>
 
-Då hon 1978 tilldelats tyska bokhandelns fredspris skrev hon talet ''Aldrig våld!'', men efter att ha läst det ville inte arrangörerna att hon skulle hålla det, då hon jämförde våld i hemmen med våld i världen, något som ansågs kunna uppröra den tyska publiken. Lindgren menade att om man gav priset till en barnboksförfattarinna fick man räkna med att hon skulle utgå från barnkammaren, och om hon inte fick hålla talet skulle hon avstå från att komma. Hon höll talet, det trycktes i stora upplagor och fick därigenom genomslagskraft. Sverige fick en ny lag mot [[barnaga]] året efter, så Lindgrens uttalande låg väl i tiden. [[Svenska institutet]] och Riksutställningar skapade 2003 två utställningar ''Trygghet och frihet – leken som kraftkälla'' inspirerad av Astrid Lindgren. De kommenterade kopplingen som följer: "Det är naturligt att koppla Astrid Lindgren till frågor rörande barnens rättigheter i samhället. Hon förde fram barnens rättigheter 50 år före FN:s barnkonvention och 30 år före den svenska lagen mot barnaga."<ref>{{Harvnb|Axelsson|2003}}</ref>
+== Priser och utmärkelser ==
+[[Fil:Taube Riddarholmen 2011.jpg|miniatyr|256px|Skulptur av [[Willy Gordon]] på [[Evert Taubes terrass]], [[Stockholms stadshus]] i bakgrunden.]]
+* [[litteraturåret 1950|1950]] [[Svenska Akademien]]s [[Bellmanpriset|Bellmanpris]] på Taubes 60-årsdag 
+* [[litteraturåret 1959|1959]] [[De Nios stora pris]] 
+* 1960 [[Evert Taube-stipendiet]]
+* 1960 Hedersmedlem i [[SKAP]]<ref>{{webbref |url=http://skap.se/upload/file/SKAP:s%20historia/60%20Evert%20Taube%20i%20SKAP.pdf|titel= Evert Taube i SKAP|hämtdatum= 2009-07-28|författare= [[Håkan Elmquist]]|efternamn= |förnamn= |författarlänk= |medförfattare= H|datum= |år= |månad= |format= |verk= |utgivare=SKAP |sid= |språk=swe |doi= |arkivurl= |arkivdatum= |citat=}}</ref> 
+* 1960 [[Illis Quorum]]
+* [[litteraturåret 1962|1962]] [[Gustaf Fröding-stipendiet]] 
+* 1966 [[Filosofie hedersdoktor]] vid [[Göteborgs universitet]]. [[Doktorspromotion]] 22 oktober på [[Göteborgs konserthus]].<ref>''Panorama 67 - en [[bokfilm]]'', red. [[Per-Erik Lindorm]], utgiven av Bonniers Folkbibliotek, [[Albert Bonniers förlag]], Stockholm 1967 s. 20</ref>
+* [[musikåret 1970|1970]] Invald som ledamot nr. 743 av [[Kungliga Musikaliska Akademien]] den 15 oktober<ref>{{bokref
+|efternamn=Nyström
+|förnamn=Pia
+|medförfattare=Kyhlberg-Boström Anna, Elmquist Anne-Marie
+|titel=Kungl. Musikaliska akademien: matrikel 1771-1995
+|utgåva=2., rev. och utök. uppl.
+|serie=Kungl. Musikaliska akademiens skriftserie, 0347-5158 ; 84
+|år=1996
+|utgivare=Musikaliska akad.
+|utgivningsort=Stockholm
+|språk=swe
+|isbn=91-85428-99-X (inb.)
+|libris=7749167
+}}</ref>
+* 1970 [[Evert Taube-stipendiet]] instiftas
+* 1973 [[Stockholms stads hederspris]]<ref name="skap.se">{{webbref |url=http://skap.se/upload/file/SKAP:s%20historia/60%20Evert%20Taube%20i%20SKAP.pdf|titel= Evert Taube i SKAP|hämtdatum= 2009-07-28|författare= [[Håkan Elmquist]]|efternamn= |förnamn= |författarlänk= |medförfattare=  |datum= |år= |månad= |format= |verk= |utgivare=SKAP |sid= |språk=swe |doi= |arkivurl= |arkivdatum= |citat=}}</ref>
+* [[musikåret 1990|1990]] [[SKAP:s stipendiefond till Evert Taubes minne]] instiftas<ref name="skap.se"/>
 
-Astrid Lindgren var medlem i den [[Antiimperialism|antiimperialistiska]] organisationen [[Folket i Bild/Kulturfront]].<ref>{{webbref|efternamn=Gilly|förnamn=Pierre|titel=Bokbål i Växjö?|url=http://pierregilly.blogspot.se/2011/08/bokbal-i-vaxjo.html|verk=Författaren Pierre Gillys blogg|utgivare=Pierre Gilly|hämtdatum=29 november 2012}}</ref><ref>{{tidskriftsref|författare=Strömbäck, Jan-Ewert|rubrik=Astrid Lindgren: jag ger alldeles blanka sjutton i trenderna|år=1985|tidskrift=[[Folket i Bild/Kulturfront|''Folket i bild-kulturfront'' (Print)]]|volym=14(1985):1,|sid=6-7|id=0345-3073|issn=0345-3073|libris=9244276}}</ref>
+== Visorna ==
+Taubes visor har till viss del ett återkommande persongalleri. De två vanligaste figurerna är sjömannen och äventyraren [[Fritiof Andersson]] och Sjösalabon och barnafadern [[Rönnerdahl]], vilka bägge ofta antas vara Taubes alter egon. Därutöver finns många andra personer i Taube-visor som baseras på människor han mött i verkliga livet. Utöver sina egna visor gjorde Taube en insats i visans tjänst när han 1936 grundade [[Samfundet Visans vänner]] tillsammans med skeppsredare [[Sven Salén]] och borgmästare [[Gunnar Fant (borgmästare)|Gunnar Fant]].
 
-Lindgren engagerade sig även djupt i flyktingfrågor, i och med utvisningen av familjen Sincari från [[Åsele]]. Astrid Lindgren satte sig in i fallet och slutligen började hon stödja familjen och betalade Rojda och Jinda Sincaris [[läkare|läkar-]] och [[Biomedicin (utbildning)|biomedicinarestudier]] ur egen ficka.<ref name="Hansson 2002"/><ref>{{Harvnb|Falkengård|2006}}</ref>
+Under krigsåren 1942-45 bodde Taube i perioder på [[Ängön]] i [[Bohuslän]]. Vistelsen hade rekommenderats av hans läkare, professor [[Ernst Salén]] - bror till Taubes gode vän [[Sven Salén]] - för att komma ifrån det "bohemiska livet" i staden. Han bodde hos familjen Hulda och Anders Johansson i ett gavelrum på vinden, och producerade här bland annat hela boken ''Ballader i Bohuslän'' med visor som ''Maj på Malö'' (om Maj Strömberg), ''Vals på Ängön'', ''Brudvals i Bohuslän'' samt ''Huldas Karin'' (1943), dottern i huset. På ön fanns även "Handelsman Flink", som egentligen hette Gustaf Johansson och som förekommer i flera visor och dikter.<ref>Matz, Edvard, 1921-2007.. – ’’Sällsamheter i Bohuslän och Dalsland : en bok om historiska platser, om saga och sägen och litterära miljöer’’; [översiktskartor av Ninni Asp, detaljkartor av förf.]. - 1985 - 2., omarb. uppl.. - ISBN 91-29-57346-7 (inb), s. 24ff</ref>
 
-== Minnesmärken - konstverk och sedel ==
-[[Fil:Hansta naturreservat Lindgrens berg 2013e.jpg|200px|miniatyr|Minnessten på [[Astrid Lindgrens berg]].]]
-[[Fil:Sagornas död.jpg|miniatyr|200px|''Källa Astrid'', placerad på Lindgrens barndomsgård Näs.]]
-[[Fil:Astrid lindgren skulptur.png|miniatyr|200px|Majalisa Alexandersons skulptur i Tegnérlunden i Stockholm, från 1996, föreställande Astrid Lindgren.]]
-[[Fil:Lindgren Filmstaden.jpg|miniatyr|200px|Astrid Lindgren-skulptur av Herta Hillfon, vid [[Filmstaden, Solna]] (i fönstret syns [[Ingmar Bergman]]).]]
-[[Fil:Astrid Lindgrens Terrass 2009.jpg|thumb|200px|[[Astrid Lindgrens Terrass]] i [[Vasaparken, Stockholm|Vasaparken]], invigd år 2006. I bakgrunden Lindgrens bostadshus (med röda markiser).]]
+Evert Taube bodde sommaren 1954 i "ett hönshus" på [[Otterö]] utanför [[Grebbestad]] i [[Tanums kommun]]. Under vistelsen på Otterö skrev Taube bland annat ''En solig morgon'' och ''Så länge skutan kan gå''. Vistelsen på Otterö avsatte även en brevväxling med öbon Siv Sjöstrand. Breven överlämnades sommaren 2007 till Evert Taubes arkiv vid [[Göteborgs universitetsbibliotek]].
 
-===Astrid Lindgrens berg===
-[[Astrid Lindgrens berg]] är ett 55 meter högt berg i [[Hansta naturreservat]] i norra [[Stockholm]]. Sedan 1960-talet gjordes upprepade försök att bebygga trakten med bostadshus och centrumanläggning. På grund av protester skrinlades samtliga planer. En person som engagerade sig i kampanjen "Rädda Hansta" var Astrid Lindgren, efter henne uppkallades ett berget inne i naturreservatet med en minnessten som restes i maj 1989. Minnesstenen bär Lindgrens namnteckning och en kopparskylt med texten: "Invigd den 21 maj 1989 som tack för Astrid Lindgrens stöd för Hanstas bevarande - Föreningen Rädda Järvafältet".
-
-=== Astrid Lindgren-statyn och konstverket Källa Astrid i Vimmerby ===
-1 juni 2007 <ref name="vimmerby.se">http://www.vimmerby.se/templates/www_page____5307.aspx {{död länk|2/8-2011|datum=2011-08}}</ref> invigdes en Astrid Lindgren-staty utförd av konstnären [[Marie-Louise Ekman]] på Stora Torget i Vimmerby. Den 2 juni 2007 invigdes konstverket ''Källa Astrid'' av [[Berit Lindfeldt]], avsett för Stortorget i Vimmerby, men som efter protester har placerats i trädgården på Astrid Lindgrens barndomsgård Näs.<ref name="vimmerby.se"/> Detta efter beslut av Vimmerby kommun den 8 mars 2005.<ref>{{Harvnb|SVT|2005}}</ref>
-
-===Andra minnesmärken ===
-Maja-Lisa Alexandersson har gjort en skulptur som är placerad i Tegnérlunden i Stockholm. Dessutom finns en skulptur av Herta Hillfon vid Filmstaden i Solna.
-
-=== Sedel ===
-I april 2011 meddelade Sveriges Riksbank att en av de nya sedlar som planeras att ges ut från 2014-2015 kommer att prydas av ett porträtt av Astrid Lindgren. Hon, tillsammans med de övriga, har valts utifrån att ha fyllt kriterierna: "att personerna ska ha haft sin verksamhet under 1900-talet, de ska ha en folklig förankring och gärna ett internationellt anseende. Dessutom ska de representera olika delar av Sverige."<ref name="- 2011">{{Harvnb|-|2011|p=Sveriges nya sedlar och mynt}}</ref> Astrid Lindgren och Småland kommer att pryda den nya 20-kronorssedeln.<ref name="- 2011"/>
-
-=== Astrid Lindgren-arkivet på världsarvslista ===
-Samlingen med Astrid Lindgrens originalmanuskript i [[Kungliga Biblioteket]] blev 2005 uppsatt på [[Unesco]]s [[världsminne]]slista.<ref>{{Harvnb|-|2005|p=Astrid Lindgren-arkivet, UNESCO}}</ref>
-
-== Illustratörer ==
-Fyra tecknare har i huvudsak illustrerat Astrid Lindgrens verk: [[Ingrid Vang Nyman]], som stod för teckningarna till böckerna om Pippi, [[Björn Berg (konstnär)|Björn Berg]], som illustrerade Emil-böckerna, [[Eric Palmquist]], som tecknade böckerna om Rasmus liksom i senare upplagor av böckerna om Kalle Blomkvist, samt [[Ilon Wikland]], som tecknade böckerna om Lotta, Karlsson på taket, Madicken, Saltkråkan, Nils Karlsson Pyssling (undantaget äldre upplagor), Ronja, Mio, Bröderna Lejonhjärta samt novellsamlingen ''Sunnanäng''. Bullerbybarnen och Kajsa Kavat har tolkats av såväl Vang Nyman som Wikland.
-
-Utöver dessa fyra kom även ett antal illustratörer att teckna för enskilda böcker:
-
-De äldre upplagorna av ''Nils Karlsson Pyssling'' och ''Kalle Blomkvist''-trilogin tecknades av Ewa Billow respektive Eva Laurell och [[Kerstin Thorvall]]. Marika Delin gjorde bilderna till novellen ''[[Assar Bubbla]]'' och Lindgrens fristående bilderböcker illustrerades av Ilon Wikland, [[Marit Törnqvist]], Birgitta Nordenskjöld, [[Hans Arnold]], Svend Otto S, [[Harald Wiberg]], [[Lars Klinting]] och [[Pija Lindenbaum]]. Teckningarna till flickbokstrilogin om Kati gjordes av Margit Uppenberg (Kati i Amerika och Kati i Italien) och Maivor Persson Malm (Kati i Paris), medan ''Britt-Mari lättar sitt hjärta'' illustrerades av [[Ulla Sundin-Wickman]]. ''Kerstin och jag'' saknar illustrationer.
-
-== Utmärkelser och priser==
-* {{flaggbild|Sverige}} Medaljen [[Litteris et Artibus]] i guld ([[Litteraturåret 1975|1975]])
-* {{flaggbild|Sverige}} Medaljen [[Illis Quorum]] i guld av 12:e storleken ([[Litteraturåret 1985|1985]])
-* {{flaggbild|Sverige}} Stockholms stads [[S:t Eriksmedaljen]] i guld ([[Litteraturåret 1993|1993]])
-* {{flaggbild|Slovenien}} Frihetsorden i brons ([[Litteraturåret 1996|1996]])
-* {{flaggbild|Frankrike}} Officer av [[Arts et Lettres-orden]] ([[Litteraturåret 1991|1991]])
-
-<br />
-* [[Litteraturåret 1944|1944]] - Andra pris i [[Rabén & Sjögren]]s pristävlan om flickböcker (Britt-Mari lättar sitt hjärta)
-* [[Litteraturåret 1945|1945]] - Första pris i [[Rabén & Sjögren]]s pristävlan om barnböcker (Pippi-Långstrump)
-* [[Litteraturåret 1945|1945]] - [[Svenska Dagbladets litteraturpris]]
-* [[Litteraturåret 1950|1950]] - [[Nils Holgersson-plaketten]] (Nils-Karlsson Pyssling)
-* [[Litteraturåret 1956|1956]] - Tyska Sonderpreis (Mio, min Mio)
-* [[litteraturåret 1956|1956]] - [[Deutscher Jugendliteraturpreis]]
-* [[litteraturåret 1957|1957]] - Statens stipendium åt författare av hög litterär förtjänst
-* [[Litteraturåret 1958|1958]] - [[H C Andersen-medaljen]] (Rasmus på luffen)
-* [[Litteraturåret 1963|1963]] - Astrid Lindgren blev som första barnboksförfattare invald i [[Samfundet de Nio]]
-* [[Litteraturåret 1966|1966]] - [[Svensk Damtidning]]s litteraturstipendium
-* [[Litteraturåret 1970|1970]] - [[Expressens Heffaklump]] (Än lever Emil i Lönneberga)
-* [[Litteraturåret 1970|1970]] - Tyska bokhandelns fredspris
-* [[Litteraturåret 1970|1970]] - [[Litteraturfrämjandet]]s hederspris [[Guldskeppet]]
-* [[Litteraturåret 1970|1970]] - [[Lewis Carroll Shelf Award]] (Jul i stallet, bilder av [[Harald Wiberg]])
-* [[Litteraturåret 1971|1971]] - [[Svenska Akademien]]s [[Stora priset|stora guldmedalj]]
-* [[Litteraturåret 1973|1973]] - [[BMF-plaketten]]
-* [[Litteraturåret 1973|1973]] - [[Hedersdoktor]] vid [[Linköpings universitet]]
-* [[Litteraturåret 1973|1973]] - [[The Brooklyn Art Books For Children Citations]] (Jul i stallet, bilder av [[Harald Wiberg]])
-* [[Litteraturåret 1973|1973]] - [[Lewis Carroll Shelf Award]] (Pippi Långstrump)
-* [[Litteraturåret 1974|1974]] - Polska utmärkelsen ''Medalj för leende''
-* [[Litteraturåret 1975|1975]] - Holländska utmärkelsen [[Silvergaffel]]
-* [[Litteraturåret 1977|1977]] - [[Svenska Deckarakademin]]s pris för Barn- och ungdomsdeckare
-* [[Litteraturåret 1978|1978]] - [[Friedenspreis des Deutschen Buchhandels]]
-* [[Litteraturåret 1978|1978]] - International Writer's Prize, Wales (Welsh Arts Council)
-* [[Litteraturåret 1978|1978]] - [[Hedersdoktor]] vid [[universitet]]et i [[Leicester]]
-* [[Litteraturåret 1979|1979]] - Janusz Korczak-priset (Bröderna Lejonhjärta) (polska sektionen av IBBY)
-* [[Litteraturåret 1983|1983]] - [[Vimmerby kommun#Kultur- och fritidspris|Vimmerby kommuns kulturpris]]
-* [[Litteraturåret 1984|1984]] - [[Dag Hammarskjöld]]-medaljen ([[Svenska Turistföreningen]])
-* [[Litteraturåret 1985|1985]] - Jovanovic Zmaj-priset (Jugoslaviskt barnbokspris)
-* [[Litteraturåret 1985|1985]] - [[Karen Blixen-priset]] (Dansk Akademi)
-* [[Litteraturåret 1985|1985]] - Franska utmärkelsen Loisirs jeune élu par l'enfant
-* [[litteraturåret 1986|1986]] - [[Stiftelsen Selma Lagerlöfs litteraturpris]]
-* [[litteraturåret 1986|1986]] - [[Årets djurvän]] ([[Svenska djurskyddsföreningen]])
-* [[Litteraturåret 1987|1987]] - [[Tolstojmedaljen]]
-* [[Litteraturåret 1989|1989]] - [[Hedersdoktor]] vid [[Universitet]]et i [[Warszawa]]
-* [[Litteraturåret 1989|1989]] - Albert Schweitzer-medaljen, Washington
-* [[Litteraturåret 1990|1990]] - [[Gustaf Fröding-stipendiet|Frödingstipendiet]]
-* [[Litteraturåret 1992|1992]] - [[Årets smålänning]]
-* [[Litteraturåret 1993|1993]] - [[Unesco Book Award]]
-* [[Litteraturåret 1994|1994]] - [[Right Livelihood Award]] för sin kamp både för barns och djurs rättigheter
-* [[Litteraturåret 1994|1994]] - [[Albert Engström-priset]]
-* [[Litteraturåret 1997|1997]] - [[Mensapriset]]
-* [[Litteraturåret 1997|1997]] - [[Årets svensk i världen]]
-* [[Litteraturåret 2000|2000]] - Hedersdoktor vid [[Linköpings universitet]]
-* [[Litteraturåret 2001|2001]]- [[Grammisgalan 1997-2006|Grammis (Juryns hederspris)]] tillsammans med [[Georg Riedel]]
-Uppgifterna kommer från www.astridlindgren.se.<ref>{{Harvnb|Astridlindgren.se|2011g}}</ref>
-
-=== Utmärkelser uppkallade efter Astrid Lindgren ===
-* [[Astrid Lindgren-priset]] - instiftat [[1967]] av Rabén & Sjögren
-* [[Litteraturpriset till Astrid Lindgrens minne]] (''Astrid Lindgren Memorial Award'') instiftat [[2002]] av Sveriges regering. Prissumman är på 5 miljoner kronor, vilket är världens största litteraturpris efter [[Nobelpriset i litteratur]]
-* [[Samfundet De Nios Astrid Lindgren-pris]] instiftat [[1997]] och prissumman är på 125 000 kronor
-* [[Emil-priset]] instiftat [[1995]] av [[Smålands akademi]]
-* [[Astrid Lindgren-gästprofessuren]] vid [[Linnéuniversitetet]] i Växjö/Kalmar
-
-== Figurer ==
-[[Fil:Pippi Langstrumpf Pippi Longstocking.jpg|230 px|miniatyr|Pippi Långstrump på tyskt [[frimärke]].]]
-* [[Pippi Långstrump]] (skapad 1945, figurerar i 3 romaner, 1 novell och 9 bilderböcker)
-* [[Kalle Blomkvist]] (1946, 3 romaner)
-* [[Barnen i Bullerbyn]] (1947, 3 romaner och 3 bilderböcker)
-* [[Nils Karlsson Pyssling]] (1949, 1 novell och 1 bilderbok)
-* [[Kati (figur)|Kati]] (1949-1950, 3 romaner)
-* [[Kajsa Kavat]] (1950, 1 novell och 1 bilderbok)
-* [[Mio, min Mio|Mio]] (1954, 1 roman)
-* [[Karlsson på taket]] (1955, 3 romaner)
-* [[Rasmus på luffen]]  (1956, 1 roman)
-* [[Rasmus, Pontus och Toker|Rasmus Persson]] (1957, 1 roman)
-* [[Lotta på Bråkmakargatan]] (1958, 2 romaner och 3 bilderböcker)
-* [[Madicken]] (1960, 2 romaner, 2 noveller och 1 bilderbok)
-* [[Emil i Lönneberga]] (1963, 3 romaner, 3 noveller och 4 bilderböcker)
-* [[Saltkråkan|Tjorven]] (1964, 1 roman och 1 bilderbok)
-* [[Bröderna Lejonhjärta]] (1973, 1 roman)
-* [[Ronja Rövardotter]] (1981, 1 roman)
+=== Några av Taubes visor ===
+{{spaltstart}}
+* ''[[Balladen om briggen "Blue Bird" av Hull]]''
+* ''[[Brevet från Lillan]]'' ("Pappa kom hem")
+* ''[[Byssan lull]]''
+* ''[[Calle Schewens vals]]''
+* ''[[Dansen på Sunnanö]]''
+* ''Den glade bagaren i San Remo''
+* ''[[Sjuttonde balladen]]''
+* ''Eldarevalsen''
+* ''[[En solig morgon]]''
+* ''[[Fiorella från Caramella]]''
+* ''[[Flickan i Havanna]]''
+* ''Fragancia''
+* ''Fritiof Anderssons paradmarsch''
+* ''Fritjof i Arkadien''
+* ''[[Fritiof och Carmencita]]'' ("Samborombon")
+* ''Havsörnsvals
+* ''Himlajord''
+* ''[[Huldas Karin]]''
+* ''Här Rosemarie, syns blåa Nämdöfjärden''
+* ''[[Här är den sköna sommar]]''
+* ''[[Inbjudan till Bohuslän]]''
+* ''Ingrid Dardels polska''
+* ''Linnéa''
+* ''[[Maj på Malö]]''
+{{spaltbryt}}
+* ''[[Min älskling]]'' (du är som en ros)
+* ''[[Muren och böckerna]]'' (egentligen en dikt, uppläst till musik)
+* ''[[Möte i monsunen]]''
+* ''[[Natt i Ligurien]]''
+* ''[[Nocturne (Taube)|Nocturne]]'' ("Sov på min arm")
+* ''[[Norr och Söder, Öst och Väst]]''
+* ''Nudistpolka'' ("Den lycklige nudisten")
+* ''[[När jag var en ung caballeiro]]''
+* ''[[Oxdragarsång]]''
+* ''Pierina'' ("Blå anemonerna")
+* ''Rosa på bal''
+* ''[[Sjösala vals]]'' ("Rönnerdahl han skuttar")
+* ''Sololá''
+* ''Som stjärnor små...''
+* ''Sommarnatt'' ("Kom i min famn")
+* ''[[Stockholmsmelodi]]'' ("Stockholm, i ditt sköte vill jag drömma")
+* ''[[Så länge skutan kan gå]]''
+* ''[[Så skimrande var aldrig havet]]''
+* ''Vals i Furusund''
+* ''Vals på Mysingen''
+* ''Vals på Ängön''
+* ''Västanvind''
+* ''Älskliga blommor små...
+* ''Än En Gång Däran!''
+* ''[[Änglamark]]'' ("Kalla den Änglamarken eller Himlajorden om du vill")
+{{spaltslut}}
 
 == Bibliografi ==
-=== Barn-, flick-, och ungdomsböcker samt novellsamlingar ===
-* [[Litteraturåret 1944|1944]] - ''[[Britt-Mari lättar sitt hjärta]]''
-* [[Litteraturåret 1945|1945]] - ''[[Pippi Långstrump (bok)|Pippi Långstrump]]''
-* [[Litteraturåret 1945|1945]] - ''[[Kerstin och jag]]'' 
-* [[Litteraturåret 1946|1946]] - ''[[Pippi Långstrump går ombord]]''
-* [[Litteraturåret 1946|1946]] - ''[[Mästerdetektiven Blomkvist]]''
-* [[Litteraturåret 1947|1947]] - ''[[Alla vi barn i Bullerbyn]]''
-* [[Litteraturåret 1948|1948]] - ''[[Pippi Långstrump i Söderhavet]]''
-* [[Litteraturåret 1949|1949]] - ''[[Mera om oss barn i Bullerbyn]]''
-* [[Litteraturåret 1949|1949]] - ''[[Nils Karlsson Pyssling (bok)|Nils Karlsson Pyssling]]'' (novellsamling)
-* [[Litteraturåret 1950|1950]] - ''[[Kajsa Kavat (bok)|Kajsa Kavat]]'' (novellsamling)
-* [[Litteraturåret 1950|1950]] - ''[[Kati i Amerika]]'' 
-* [[Litteraturåret 1951|1951]] - ''[[Mästerdetektiven Blomkvist lever farligt]]''
-* [[Litteraturåret 1952|1952]] - ''[[Kati på Kaptensgatan]]'' (senare omdöpt till [[Kati i Italien]])
-* [[Litteraturåret 1952|1952]] - ''[[Bara roligt i Bullerbyn]]''
-* [[Litteraturåret 1953|1953]] - ''[[Kalle Blomkvist och Rasmus]]''
-* [[Litteraturåret 1954|1954]] - ''[[Mio, min Mio]]''
-* [[Litteraturåret 1954|1954]] - ''[[Kati i Paris]]''
-* [[Litteraturåret 1955|1955]] - ''[[Lillebror och Karlsson på taket]]''
-* [[Litteraturåret 1956|1956]] - ''[[Rasmus på luffen]]''
-* [[Litteraturåret 1957|1957]] - ''[[Rasmus, Pontus och Toker]]''
-* [[Litteraturåret 1958|1958]] - ''[[Barnen på Bråkmakargatan]]''
-* [[Litteraturåret 1959|1959]] - ''[[Sunnanäng (bok)|Sunnanäng]]'' (novellsamling)
-* [[Litteraturåret 1960|1960]] - ''[[Madicken]]''
-* [[Litteraturåret 1961|1961]] - ''[[Lotta på Bråkmakargatan]]''
-* [[Litteraturåret 1962|1962]] - ''[[Karlsson på taket flyger igen]]''
-* [[Litteraturåret 1963|1963]] - ''[[Emil i Lönneberga]]''
-* [[Litteraturåret 1964|1964]] - ''[[Vi på Saltkråkan]]''
-* [[Litteraturåret 1966|1966]] - ''[[Nya hyss av Emil i Lönneberga]]''
-* [[Litteraturåret 1968|1968]] - ''[[Karlsson på taket smyger igen]]''
-* [[Litteraturåret 1970|1970]] - ''[[Än lever Emil i Lönneberga]]''
-* [[Litteraturåret 1973|1973]] - ''[[Bröderna Lejonhjärta]]''
-* [[Litteraturåret 1976|1976]] - ''[[Madicken och Junibackens Pims]]''
-* [[Litteraturåret 1981|1981]] - ''[[Ronja Rövardotter]]''
 
-=== Noveller ===
-* [[Litteraturåret 1949|1949]] - ''[[I skymningslandet]]''
-* [[Litteraturåret 1979|1979]] - ''[[Pippi Långstrump har julgransplundring]]''
-* [[Litteraturåret 1984|1984]] - ''[[När lilla Ida skulle göra hyss]]''
-* [[Litteraturåret 1985|1985]] - ''[[Emils hyss nr 325]]''
-* [[Litteraturåret 1986|1986]] - ''[[Inget knussel, sa Emil i Lönneberga]]''
-* [[Litteraturåret 1987|1987]] - ''[[Assar Bubbla eller Det var nära ögat att det inte blev någon bok om Pippi Långstrump]]''
-* [[Litteraturåret 1991|1991]] - ''[[När Lisabet pillade in en ärta i näsan]]''
-* [[Litteraturåret 1993|1993]] - ''[[Jullov är ett bra påhitt, sa Madicken]]''
+Taubes böcker utkom i många upplagor och även i samlingsvolymer. Detta [[kronologisk]]a avsnitt innehåller endast förstaupplagor och, i förekommande fall, omarbetade utgåvor.
 
-=== Bilderböcker ===
-* 1947 - Jag vill inte gå och lägga mej (illustrationer av [[Birgitta Nordenskjöld]] - senare släppt i nyupplaga med illustrationer av Ilon Wikland)
-* 1947 - Känner du Pippi Långstrump?
-* 1951 - Jag vill också gå i skolan (illustrationer av Birgitta Nordenskjöld - senare släppt i nyupplaga med illustrationer av Ilon Wikland)
-* 1954 - Jag vill också ha ett syskon (illustrationer av Birgitta Nordenskjöld - senare släppt i nyupplaga med illustrationer av Ilon Wikland)
-* 1956 - Nils Karlsson-Pyssling flyttar in
-* 1958 - Kajsa Kavat hjälper mormor
-* 1961 - Jul i stallet  (ill. [[Harald Wiberg]], nyutgåva: ill. [[Lars Klinting]])
-* 1963 - Jul i Bullerbyn
-* 1965 - Vår i Bullerbyn
-* 1966 - Barnens Dag i Bullerbyn
-* 1967 - Skrållan och sjörövarna
-* 1969 - Pippi flyttar in
-* 1969 - Pippi ordnar allt
-* 1970 - Pippi är starkast i världen
-* 1970 - Pippi håller kalas
-* 1971 - Visst kan Lotta cykla
-* 1971 - På rymmen med Pippi Långstrump
-* 1971 - Pippi går till sjöss
-* 1971 - Pippi vill inte bli stor
-* 1972 - Den där Emil
-* 1973 - Allrakäraste syster (ur novellsamlingen ''Nils Karlsson Pyssling'', ill. [[Hans Arnold]])
-* 1976 - När Emil skulle dra ut Linas tand
-* 1977 - Visst kan Lotta nästan allting
-* 1983 - Titta, Madicken, det snöar!
-* 1984 - Spelar min lind, sjunger min näktergal (ur novellsamlingen ''Sunnanäng'', ill. [[Svend Otto S]])
-* 1985 - [[Draken med de röda ögonen]] (ill. Ilon Wikland)
-* 1986 - [[Skinn Skerping - Hemskast av alla spöken i Småland]] (ill. Ilon Wikland)
-* 1989 - När Bäckhultarn for till stan (ill. [[Marit Törnqvist]])
-* 1990 - Visst är Lotta en glad unge
-* 1991 - När Adam Engelbrekt blev tvärarg (ur novellsamlingen ''Kajsa Kavat'', ill. Marit Törnqvist)
-* 1994 - [[I skymningslandet]] (ur novellsamlingen ''Nils Karlsson Pyssling'', ill. Marit Törnqvist)
-* 1995 - Emil med paltsmeten
-* 1997 - Emil och soppskålen
-* 2000 - Pippi Långstrump i Humlegården
-* 2002 - Mirabell (ur novellsamlingen ''Nils Karlsson Pyssling'', ill. [[Pija Lindenbaum]])
-* 2003 - Sunnanäng (ur novellsamlingen ''Sunnanäng'', ill. Marit Törnqvist)
+;Prosa
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Inte precis om kvinnorna |år=1918 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1659643}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Mina damer och herrar-: ur välborne herr Arvid Joachim Stracks anteckningar |år=1919 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1659644}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=På böljan blå, i städer och på land. |år=1920 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1659645}}{{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt |titel=Samlade berättelser med tillhörande visor och ballader. 1, Jag kommer av ett brusand' hav : från tecknar- och målartiden, 1 |år=1966 |utgivningsort=Stockholm |språk=swe |libris=8081182}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Oss emellan |år=1921 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1483021}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Jungstedt Kurt |titel=På kryss med Ellinor: från Stockholms ström Sverige runt till Kosterfjorden |utgåva=Ny, lätt rev. uppl. |år=1963 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1280342}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Jungstedt Kurt |titel=På kryss med Ellinor från Stockholms ström Sverige runt till Kosterfjorden |år=1923 |utgivare=Sv. andelsförl. |utgivningsort=Stockholm |språk=swe |libris=1483022}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Svärmare och stigmän |år=1925 |utgivare=Norstedt |utgivningsort=Stockholm |språk=swe |libris=1483023}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=På gott och ont: roman |år=1927 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=8211388}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel="Många hundra gröna mil" |år=1951 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1448607}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Jag kommer av ett brusand' hav: barndomsminnen från Vinga och Göteborg på Oscar II:s tid |utgåva=1. uppl. |serie=Bonniers folkbibliotek |år=1952 |utgivningsort=Stockholm |språk=swe |libris=365280}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=I najadernas gränd |utgåva=4. tus. |år=1954 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1448606}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Strövtåg i Ranrike |utgåva=[2. uppl.] |år=1955 |utgivare=Rabén & Sjögren/Vi |utgivningsort=Stockholm |språk=swe |libris=1448609}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=De fyra vindarnas gata |år=1950 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=2071827}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Vallfart till Trubadurien och Toscana |år=1957 |utgivare=Rabén & Sjögren/Vi |utgivningsort=Stockholm |språk=swe |libris=78374}}
+* {{bokref |efternamn=Jungstedt |förnamn=Kurt |medförfattare=Taube Evert |titel=Västlig horisont |år=1957 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1973814}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Klara och jag |år=1957 |utgivare=Esselte |utgivningsort=Stockholm |språk=swe |libris=1793725}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Svarta tjurar. |år=1958 |utgivningsort=Stockholm |språk=swe |libris=2143503}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Berättelser under ett fikonträd. |år=1960 |utgivare=Rabén & Sjögren |utgivningsort=Stockholm |språk=swe |libris=627843}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Guatemala |år=1961 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=490883}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Greenwood Marianne |titel=Återkomst |år=1961 |utgivare=Rabén & Sjögren |utgivningsort=Stockholm |språk=swe |libris=1164829}}
+* {{bokref |efternamn=Otto-Wasow |förnamn=Kurt |medförfattare=Taube Evert |titel=Rivieran |år=1961 |utgivare=Rabén & Sjögren |utgivningsort=Stockholm |språk=swe |libris=2269184}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Don Diego Karlsson de la Rosas roman. |år=1962 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1159943}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt, Bergman-Taube Astri |titel=Vid tiden för Astri och Apollon: okända dikter och berättelser |år=1964 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1246736}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Flyg till Pampas |år=1968 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=29323}}
 
-=== Fotoberättelser ===
-Fotografier av [[Anna Riwkin-Brick]].
-* 1956 - [[Eva möter Noriko-San]]
-* 1958 - [[Sia bor på Kilimandjaro]]
-* 1959 - [[Mina svenska kusiner]]
-* 1960 - [[Sötast i världen]]
-* 1960 - [[Lilibet, cirkusbarn]]
-* 1962 - [[Marko bor i Jugoslavien]]
-* 1963 - [[Jackie bor i Holland]]
-* 1965 - [[Randi bor i Norge]]
-* 1966 - [[Noy bor i Thailand]]
-* 1968 - [[Matti bor i Finland]]
+;Pjäser
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Rikard Lejonhjärta och Filip II: skådespel i tre akter med prolog och epilog |år=1970 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=876961}}
+* ''Apollon ombord.'' Publicerad 1982 i {{bokref |titel=Årsskrift |år=1979-2003 |utgivare=Evert Taube-sällskapet |utgivningsort=Stockholm |språk=swe |libris=3685857}}
+* ''Tillgång och efterfrågan.'' Publicerad 1986 i {{bokref |titel=Årsskrift |år=1979-2003 |utgivare=Evert Taube-sällskapet |utgivningsort=Stockholm |språk=swe |libris=3685857}}
 
-=== Biografier ===
-* [[Litteraturåret 1971|1971]] - ''[[Mina påhitt]]''
-* [[Litteraturåret 1975|1975]] - ''[[Samuel August från Sevedstorp och Hanna i Hult]]''
+;Prosasamlingar
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fischerström Iwan W |titel=Med skum om bogen: berättelser och bilder ur pionjärers, sjöfarares, konstnärers och känt folks liv och leverne |år=1939 |utgivare=Åhlén & Åkerlund |utgivningsort=Stockholm |språk=swe |libris=1380240}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Hänninger Nils |titel=Evert Taube diktar och berättar: ett urval vers och prosa med inledning, studieuppgifter och förklaringar av Nils Hänninger |serie=Skönlitteratur i skolan, 0583-4910 |år=1964 |utgivare=Sv. bokförl. (Bonnier) |utgivningsort=Stockholm |språk=swe |libris=1209953}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt, Sundin-Wickman Ulla |titel=Än spelar Pan: berättelser |år=1965 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1933575}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt |titel=Samlade berättelser med tillhörande visor och ballader. 1, Jag kommer av ett brusand' hav : från tecknar- och målartiden, 1 |år=1966 |utgivningsort=Stockholm |språk=swe |libris=8081182}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt, Jungstedt Kurt |titel=Samlade berättelser med tillhörande visor och ballader. 2, På kryss med Ellinor ; Många hundra gröna mil ; Från tecknar- och målartiden. 2 |år=1966 |utgivningsort=Stockholm |språk=swe |libris=8081176}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt |titel=Samlade berättelser med tillhörande visor och ballader. 3, I najadernas gränd ; Ur Strövtåg i Ranrike |år=1966 |utgivningsort=Stockholm |språk=swe |libris=8081178}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt, Jungstedt Kurt |titel=Samlade berättelser med tillhörande visor och ballader. 4, De fyra vindarnas gata ; Västlig horisont |år=1966 |utgivningsort=Stockholm |språk=swe |libris=8081175}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt, Taube Ellinor |titel=Samlade berättelser med tillhörande visor och ballader. 5, Ur Septentrion ; Ur Och skulle det så vara ; Vallfart till Trubadurien och Toscana |år=1967 |utgivningsort=Stockholm |språk=swe |libris=8081177}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt, Jungstedt Kurt |titel=Samlade berättelser med tillhörande visor och ballader. 6, Svarta tjurar ; Berättelser under ett fikonträd |år=1967 |utgivningsort=Stockholm |språk=swe |libris=8081179}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt |titel=Samlade berättelser med tillhörande visor och ballader. 7, Don Diego Karlsson de la Rosas roman |år=1967 |utgivningsort=Stockholm |språk=swe |libris=8081180}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt, Taube Astri |titel=Samlade berättelser med tillhörande visor och ballader. 8, Återkomst ; Ur Guatemala ; Vid tiden för Astri och Apollon |år=1967 |utgivningsort=Stockholm |språk=swe |libris=8081181}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Fredholm Inga-Britt, Taube Astri, Taube Evert |titel=Eldflugorna dansar: berättelser |år=1978 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |isbn=91-0-043724-7 (inb.) |libris=7145916}}
 
-=== Övriga böcker ===
-* [[Litteraturåret 1959|1959]] - ''[[Pjäser för barn och ungdom]]''
-* [[Litteraturåret 1991|1991]] - ''[[Hujedamej och andra visor av Astrid Lindgren]]''
+;Visor och lyrik
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Jungstedt Kurt |titel=[[Sju sjömansvisor och Byssan Lull]] |år=1919 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1659646}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Jungstedt Kurt |titel=[[Flickan i Havanna och ett par visor till]] - |år=1922 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1483020}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Den Gyldene Freden (Taube)|Den Gyldene Freden]] |år=1924 |utgivare=Wahlström & Widstrand |utgivningsort=Stockholm |språk=swe |libris=1483019}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Bröllopsballader och rosenrim]] en Gyldene Fredens bok |år=1925 |utgivare=Norstedt |utgivningsort=Stockholm |språk=swe |libris=1483018}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Kärleksvisor och sjöballader diktade och tonsatta]]. |år=1927 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1336106}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Fritiof Anderssons visbok]] |år=1929 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1336105}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Nilsson Martin, Norlander Emil, Lagercrantz Jacob, Nylund Gunnar |titel=[[Den Gyldene Fredens folianter|Den Gyldene fredens folianter: valda dikter och visor]] |år=1934 |utgivare=[[Elkan & Schildknecht|Elkan & Schildknecht, Emil Carelius]] |utgivningsort=Stockholm |språk=swe |libris=1405319}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Lybeck Bertil |titel=[[Ultra Marin|Ultra marin]] |år=1936 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1380242}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Himlajord]]: dikter, melodier och målningar |år=1938 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1380239}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Detta är lilla Ellinors bok]]: den handlar om flickan Fiorella från Caramella |år=1941 |utgivare=Åhlén & Åkerlund |utgivningsort=Stockholm |språk=swe |libris=1430564}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Söderlundh Lille Bror, Svensson Roland |titel=[[Sjösalaboken]] nya dikter och melodier |år=1942 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1430572}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Ballader i Bohuslän]] |år=1943 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1430563}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Svärmerier]] |år=1946 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1430574}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Söderström Nils B., Henschen Helga |titel=[[Ballader i det blå]]: dikter och melodier |år=1948 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1252093}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Pepita dansar och andra nya visor]]. |år=1950 |utgivare=Sv. visförl. |utgivningsort=Stockholm |språk=swe |libris=1430570}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Söderlundh Lille Bror, Söderström Nils B. |titel=[[I dina drömmar]] |år=1953 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1448605}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=[[Förlustelse och frid]]: dikter och melodier [Musiktryck] |år=1957 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=2684250}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Septentrion: [dikter] |år=1958 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=1245937}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Taube Evert, Hahn Gunnar |titel=Och skulle det så vara ballader och visor |år=1959 |utgivare=Albert Bonniers förlag |utgivningsort=Stockholm |språk=swe |libris=11529039}}
 
-=== Samlingsvolymer ===
-* [[Litteraturåret 1952|1952]] - ''[[Boken om Pippi Långstrump]]'' (Innehåller ''Pippi Långstrump'', ''Pippi Långstrump går ombord'' och ''Pippi Långstrump i Söderhavet'' - samtliga dock i redigerat skick)
-* [[Litteraturåret 1961|1961]] - ''[[Bullerbyboken]]'' (Innehåller ''Alla vi barn i Bullerbyn'', ''Mera om oss barn i Bullerbyn'' och ''Bara roligt i Bullerbyn'')
-* [[Litteraturåret 1967|1967]] - ''[[Salikons rosor]]'' (Innehåller novellsamlingarna ''Sunnanäng'' och ''Nils Karlsson-Pyssling'' samt första kapitlet ur ''Mio, min Mio'')
-* [[Litteraturåret 1972|1972]] - ''[[Allt om Karlsson på taket]]'' (Innehåller ''Lillebror och Karlsson på taket'', ''Karlsson på taket flyger igen'' och ''Karlsson på taket smyger igen''
-* [[Litteraturåret 1980|1980]] - ''[[Sagorna]]'' (Innehåller novellsamlingarna ''Nils Karlsson-Pyssling'' och ''Sunnanäng'' samt ''Draken med de röda ögonen'' och avsnitt ur ''Bröderna Lejonhjärta'', ''Karlsson på taket flyger igen'' och ''Mio, min Mio'')
-* [[Litteraturåret 1982|1982]] - ''[[Småländsk tjurfäktare]]'' (Innehåller novellsamlingen ''Kajsa Kavat'' och ''Barnen på Bråkmakargatan'', samt ''Bäckhultarn far till stan'', och avsnitt ur ''Vi på Saltkråkan'', ''Mera om oss barn i Bullerbyn'', ''Madicken'' och ''Än lever Emil i Lönneberga'')
-* [[Litteraturåret 1983|1983]] - ''[[Allas vår Madicken]]'' (Innehåller ''Madicken'' och ''Madicken och Junibackens Pims'')
-* [[Litteraturåret 1984|1984]] - ''[[Stora Emilboken]]'' (Innehåller ''Emil i Lönneberga'', ''Nya hyss av Emil i Lönneberga'' och ''Än lever Emil i Lönneberga'')
-* [[Litteraturåret 1985|1985]] - ''[[Julberättelser]]'' (Innehåller avsnitt ur ''Kajsa Kavat'', ''Mera om oss barn i Bullerbyn'', ''Madicken'', ''Nya hyss av Emil i Lönneberga'', ''Än lever Emil i Lönneberga'', samt bilderböckerna ''Jul i stallet'', ''Kajsa Kavat hjälper mormor'', ''Titta, Madicken, det snöar'' och ''Visst kan Lotta nästan allting'')
-* [[Litteraturåret 1989|1989]] - ''[[Ida och Emil i Lönneberga]]'' (Innehåller ''Emils hyss nr 325'', ''När lilla Ida skulle göra hyss'' och ''Inget knussel, sa Emil i Lönneberga'')
-* [[Litteraturåret 1992|1992]] - ''[[God Jul i Stugan]]'' (Innehåller avsnitt ur ''Kajsa Kavat'', ''Alla vi barn i Bullerbyn'', ''Mera om oss barn i Bullerbyn'' och ''Madicken'', samt bilderböckerna ''Jul i stallet'', ''Jul i Bullerbyn'', ''Kajsa Kavat hjälper mormor'', ''Titta, Madicken, det snöar!'' och ''Visst kan Lotta nästan allting'')
-* [[Litteraturåret 1993|1993]] - ''[[Lottas komihågbok]]'' (Innehåller ''Visst kan Lotta cykla'', ''Visst kan Lotta nästan allting'' och ''Visst är Lotta en glad unge'')
-* [[Litteraturåret 2002|2002]] - ''[[Alla mina barn]]'' (Innehåller utdrag ur böcker med samtliga de fjorton huvudfigurerna)
+;Samlingar av visor och lyrik
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Evert Taubes bästa |år=1937 |utgivare=Åhlén & Åkerlund |utgivningsort=Stockholm |språk=swe |libris=1380237}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Nilsson Tage |titel=Evert Taubes nya bästa: tio valda visor |år=1944 |utgivare=Åhlén & Åkerlund |utgivningsort=Stockholm |språk=swe |libris=1430565}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Samlade visor 1, Sju sjömansvisor och Byssan lull samt Flickan i Havanna |år=1945 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=2687396}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Samlade visor 2, Fritiof Anderssons visbok [Musiktryck] |år=1945 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=2687397}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Samlade visor 3, Himlajord : dikter, melodier och målningar |år=1945 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=2687398}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Samlade visor 4, Den Gyldene fredens ballader : med förf:s teckningar och melodier |år=1946 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=2687399}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Samlade visor 5, Bröllopsballader och rosenrim : en Gyldene fredens bok : med melodier och akvareller av förf. |år=1946 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=2687400}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Jungstedt Kurt |titel=Samlade visor 6, Kärleksvisor och sjöballader och visorna ur På kryss med Ellinor |år=1946 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=2687401}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Ultra marin: Med teckningar av Bertil Lybeck. [Illustr.] |serie=Taube, E., Samlade visor ; 7. 1947 |år=1947 |utgivningsort=Stockholm |språk=swe |libris=3118770}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Sjösalaboken: Nya dikter och melodier. För luta, gitarr och piano av Lille Bror Söderlundh. Illustr. Roland Svensson |serie=Taube, E., Samlade visor ; 8. 1947 |år=1947 |utgivningsort=Stockholm |språk=swe |libris=3118764}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Ballader i Bohuslän |serie=Samlade visor ; 9 |år=1947 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=3118753}}
+*{{bokref |redaktör=Taube Evert |titel=[[Svenska ballader och visor från medeltiden till våra dagar]] |år=1948 |utgivningsort=Stockholm |språk=swe |libris=23404}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Svärmerier |serie=Samlade visor ; [10] |år=1951 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=3118765}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Söderström Nils B., Henschen Helga |titel=Ballader i det blå: dikter och melodier |serie=Samlade visor ; 11 |år=1951 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=3118754}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Evert Taubes bästa 1954 |serie=Tidskriftsböckerna |år=1954 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=3118757}}
+* {{bokref |efternamn=Taube |förnamn=Evert |titel=Dikter |serie=Den svenska lyriken, 99-0110782-2Vår tids lyrik, 99-0158080-3 |år=1955 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=12620}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Taube Sven-Bertil, Jungstedt Kurt |titel=Så länge skutan kan gå ---: sextionio visor och en dikt |utgåva=41/60. tus. |serie=Bonniers folkbibliotek, 99-0133706-2 |år=1966 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |libris=557288}}
+* {{bokref |efternamn=Taube |förnamn=Evert |medförfattare=Svensson Georg, Taube Evert |titel=Evert Taube i våra hjärtan: alla de populäraste visorna med musik |år=1981 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |isbn=91-0-045430-3 (inb.) |libris=7146529}}
 
-== Filmografi ==
-=== Svenska spelfilmer ===
-{{huvudartikel|Astrid Lindgren-filmer}}
+== Taube-arrangemang ==
+* [[Evert Taubes Värld]] är ett upplevelsecentrum på [[Liseberg]], [[Göteborg]]. Här blandas modern teknik med Evert Taubes verk. Upplevelsecentrumet invigdes 26 april 2008.
+* Varje år sedan 1995 har ''Taubespelen''<ref>[http://www.taubespelen.com/ Taubespelen]</ref> arrangerats på [[Ängön]]/[[Flatön]] i juli månad. Bland annat har följande [[artist]]er deltagit: [[Gösta Taube]], [[Sven-Bertil Taube]], [[Jan Malmsjö]], [[Peter Harryson]], [[Christer Sjögren]], [[The Real Group]], [[Mikael Samuelson]], [[Sanna Nielsen]], [[Ewert Ljusberg]] och [[Lasse Kronér]].
 
-=== Animerade filmatiseringar ===
-* [[Filmåret 1968|1968]] - ''[[Malysj I Karlson|Малыш и Карлсон]]'' ("Malysj i Karlson", [[Sovjetunionen]])
-* [[Filmåret 1970|1970]] - ''[[Karlson vernulsia|Карлсон вернулся]]'' ("Karlson vernulsia", [[Sovjetunionen]])
-* [[Filmåret 1997|1997]] - ''[[Pippi Långstrump (1997)|Pippi Långstrump]]'' ([[Kanada]]/[[Tyskland]]/[[Sverige]])
-* [[Filmåret 1998|1998]] - ''[[Pippi Långstrump (animerad TV-serie)|Pippi Långstrump]]'' (TV-serie i 26 avsnitt, [[Kanada]]/[[Tyskland]]/[[Sverige]])
-* [[Filmåret 2002|2002]] - ''[[Karlsson på taket (2002)|Karlsson på taket]]'' ([[Norge]]/Sverige)
-* [[Filmåret 2002|2002]] - ''[[Karlsson på taket (animerad TV-serie)|Karlsson på taket]]'' (TV-serie i 26 avsnitt, Norge/Sverige)
+== Skulpturgalleri ==
+<Gallery widths=180px heights=130px>
+File:Evert Taubestaty i Gamla stan.jpg|Evert Taube av [[Karl Göte Bejemark|K.G. Bejemark]],  rest 1985 på [[Järntorget, Stockholm|Järntorget]] framför [[Södra Bankohuset]], [[Stockholm]].
+Fil:Hanski taube01.JPG|[[Evert Taube (staty, 1996)|Evert Taube]] står skulptur i [[Göteborgs hamn]]. Utanför Operan. Skulpturen gjord av [[Eino Hanski]].
+Fil:Ewert Taube 2006.jpg|Evert Taube, skulptur av [[Willy Gordon]] på [[Riddarholmen]] i Stockholm.
+</Gallery>
 
-Anmärkning:
-* Avsnitt av 1998 års TV-serie med Pippi Långstrump har även omredigerats till filmer - bland dessa märks speciellt ''[[Pippi i Söderhavet]]'' som fick biopremiär och består av seriens tre sista avsnitt.
-
-=== Utländska spelfilms-filmatiseringar ===
-* [[Filmåret 1971|1971]] - ''[[Erazem in Potepuh]]'' (TV-serie, [[Jugoslavien]], närmare bestämt [[Slovenien]] - se vidare [http://sl.wikipedia.org/wiki/Erazem_in_potepuh])
-* [[Filmåret 1976|1976]] - ''[[Priklyucheniya Kalle-syschika]]'' ([[Sovjetunionen]], närmare bestämt [[Litauen]] - se vidare [http://www.imdb.com/title/tt1480293/ imdb])
-* [[Filmåret 1978|1978]] - ''[[Rasmus brodjaga]]'' ([[Sovjetunionen]] - se vidare [http://photofile.ru/users/kinolik/214629/])
-* [[Filmåret 1984|1984]] - ''[[Пеппи Длинныйчулок]]'' ("Peppi Dlinnyjtjulok", TV-film, [[Sovjetunionen]])
-* [[Filmåret 1985|1985]] - ''[[Emila nedarbi]]'' (TV-film, [[Lettland]])
-* [[Filmåret 1985|1985]] - ''[[Pippi Långstrump (1985)|Pippi Långstrump]]'' (TV-film, [[USA]])
-* [[Filmåret 1988|1988]] - ''[[Pippi Långstrump - Starkast i världen]]'' (USA)
+Det finns en staty av Evert Taube i Grebbestad, utförd av [[Willy Gordon]] och tillkommen på initiativ av [http://prinsarna.grebbestad.com/index.php?option=com_content&view=category&layout=blog&id=3&Itemid=5&limitstart=10 GrebbestadsPrinsarna].
 
 == Se även ==
-* [[Junibacken]]
-* [[Astrid Lindgrens Värld]]
-* [[Astrid Lindgrens Terrass]]
+* [[Taube]], släkt
 
 == Referenser ==
 === Noter ===
-<references />
+<references/>
 
-=== Källor ===
-====Tryckta källor====
-*{{Citation
- | last =
- | first =
- | author-link =
- | last2 =
- | first2 =
- | author2-link =
- | year =1999
- | date =
- | publication-date =
- | contribution =
- | contribution-url =
- | editor-last = Alsing
- | editor-first = Rolf
- | editor-link =
- | editor2-last = Lundh
- | editor2-first = Jonas
- | editor2-link =
- | title =1900-talet - en bok från Aftonbladet
- | edition =
- | series =
- | place =
- | publication-place = Stockholm
- | publisher = Aftonbladet med stöd av Statens skolverk
- | volume =
- | pages =
- | id =
- | isbn =91-630-8939-4
- |CITEREFAlsing Lund 1999}}
-*{{Citation
- | last = Edström
- | first = Vivi
- | author-link =
- | publication-date =
- | date =
- | year =1992
- | title = Astrid Lindgren - Vildtoring och lägereld
- | edition =
- | volume =
- | publication-place =Stockholm
- | place =
- | publisher = Rabén & Sjögren
- | pages =
- | page =
- | id =
- | isbn =91-29-59611-4
-|CITEREFEdström 1992}}
-*{{Citation
- | last =Heurling
- | first =Bo
- | author-link =
- | publication-date =
- | date =
- | year =1993
- | title =Författaren själv: ett biografiskt lexikon av och om 1189 samtida svenska författare
- | edition =
- | volume =
- | series =
- | publication-place =Höganäs
- | place =
- | publisher =Wiken
- | pages =
- | page =
- | id =
- | isbn =91-7119-105-4
- |CITEREFHeurling 1993}}
-*{{Citation
- | last = Kvint
- | first = Kerstin
- | author-link =
- | publication-date =
- | date =
- | year =1997
- | title = Astrid i vida världen
- | edition =
- | volume =
- | publication-place =Stockholm
- | place =
- | publisher = Kvints
- | pages =
- | page =
- | id =
- | isbn =91-88374-16-5
-|CITEREFKvint 1997}}
-*{{Citation
- | last =Lindgren
- | first =Astrid
- | year =1977
- | date =
- | publication-date =
- | contribution = Astrid Lindgren berättar om sig själv
- | contribution-url =
- | editor-last = Ørvig
- | editor-first = Mary
- | title = En bok om Astrid Lindgren
- | edition =
- | series =
- | place =
- | publication-place = Stockholm
- | publisher = Rabén & Sjögren
- | volume =
- | pages =10-13
- | id =
- | isbn =91-29-47547-3
- |CITEREFLindgren 1977}}
-*{{Citation
- | last =Lindgren
- | first =Astrid
- | year =1999
- | date =
- | publication-date =1999
- | contribution =
- | contribution-url =
- | editor-last =
- | editor-first = 
- | title = Samuel August från Sevedstorp och Hanna i Hult - barndomsminnen och essäer
- | edition =3
- | series =
- | place =
- | publication-place = Stockholm
- | publisher = Rabén & Sjögren
- | volume =
- | pages =
- | id =
- | isbn =91-29-64586-7
- |CITEREFLindgren 1999}}
-*{{Citation
- | last = Strömstedt
- | first = Margareta
- | author-link =
- | publication-date =
- | date =
- | year =1977
- | title = Astrid Lindgren - en levnadsteckning
- | edition =
- | volume =
- | publication-place =Stockholm
- | place =
- | publisher = Rabén & Sjögren
- | pages =
- | page =
- | id =
- | isbn =91-29-50279-9
-|CITEREFStrömstedt 1977}}
-*{{Citation
- | last = Wahlström
- | first = Eva
- | author-link =
- | publication-date =
- | date =
- | year =2011
- | title = Fria flickor före Pippi: Ester Blenda Nordström och Karin Michaëlis - Astrid Lindgrens föregångare
- | edition = 1
- | volume = Skrifter / utgivna av Svenska barnboksinstitutet, 0347-5387 ; 114
- | publication-place = Göteborg
- | place =
- | publisher = Makadam förlag
- | pages = 301
- | page =
- | id =
- | isbn =978-91-7061-094-3
-|CITEREFWahlström 2011}}
+=== Tryckta källor ===
+* {{bokref
+|efternamn=Rhedin
+|förnamn=Per
+|titel=Gamla go'a Göteborg: en kavalkad med minnesbilder, sid 188
+|år=1990
+|utgivare=[Typografia]
+|utgivningsort=[Göteborg]
+|språk=swe
+|isbn=91-630-0205-1 (inb.)
+|libris=7448354
+}}
+*{{bokref
+|efternamn=Taube
+|förnamn=Evert
+|medförfattare=Mehr Stefan
+|titel=Evert Taube i Expressen
+|år=1976
+|utgivare=Utg.
+|utgivningsort=Stockholm
+|språk=swe
+|isbn=(Inb.)
+|libris=133860
+}}
+*''Kom i min famn : Evert Taube 1920-1971 : en bildbiografi'', Inga-Britt Fredholm, Bonnier, Stockholm 1972 ISBN 91-0-037701-5
 
-====Webbkällor====
-*{{Citation
- | last =-
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2002
- | title = Om priset – fakta om priset
- | periodical = 
- | series =
- | publication-place =
- | place =
- | publisher =Statens kulturråd, Litteraturpriset till Astrid Lindgrens minne (ALMA)
- |archiveurl= http://www.webcitation.org/60euqR4Ud
-|archivedate=2011-08-03
- | url = http://www.alma.se/sv/Om-priset/Fakta-om-priset/
- | accessdate =2011-08-03
- |CITEREF 2011
-}}
-*{{Citation
- | last =-
- | first =
- | author-link =
- | publication-date =
- | date =	
- | year =2005
- | title = Astrid Lindgren Archive
- | periodical = 
- | series =
- | publication-place =
- | place =
- | publisher =UNESCO
- |archiveurl= http://www.webcitation.org/60fLoDDrR
- |archivedate=2011-08-03
- | url = http://www.unesco.org/new/en/communication-and-information/flagship-project-activities/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-1/astrid-lindgren-archives/
- | accessdate =2011-08-03
- |CITEREF- 2005
-}}
-*{{Citation
- | last =-
- | first =
- | author-link =
- | publication-date =6/4-2011
- | date =
- | year =2011
- | title = Sveriges nya sedlar och mynt
- | periodical = 
- | series =
- | publication-place =
- | place =
- | publisher =Sveriges riksbank
- |archiveurl= http://www.webcitation.org/60euNjXJY
-|archivedate=2011-08-03
- | url = http://www.riksbank.se/templates/Page.aspx?id=46686
- | accessdate =2011-08-03
- |CITEREF- 2011
-}}
-*{{Citation
- | last =Bergsten
- | first =Magnus
- | author-link =
- | publication-date =20 september 2007
- | date =
- | year =2007
- | title = Astrid Lindgren – från A till Ö
- | periodical = Populär historia
- | series =
- | publication-place =
- | place =
- | publisher =LRF Media
- |archiveurl= http://www.webcitation.org/60jMqaBtG
- |archivedate=2011-08-06
- | url = http://www.popularhistoria.se/artiklar/astrid-lindgren-fran-a-till-o/
- | accessdate =2011-08-06
- |CITEREFBergsten 2007
-}}
-*{{Citation
- | last =Astridlindgren.se
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2011a
- | title =Människan - opinionsbildaren
- | periodical =
- | series =
- | publication-place =astridlindgren.se
- | place =
- | publisher =Saltkråkan AB
- | url =http://www.astridlindgren.se/manniskan/opinionsbildaren
- | accessdate =2011-08-01
- |CITEREFAstridlindgren.se 2011a
-}}
-*{{Citation
- | last =Astridlindgren.se
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2011b
- | title =Människan – privatlivet, skolan
- | periodical =
- | series =
- | publication-place =astridlindgren.se
- | place =
- | publisher =Saltkråkan AB
- | url =http://www.astridlindgren.se/manniskan/privatlivet/skolan
- | accessdate =2011-08-01
- |CITEREFAstridlindgren.se 2011b
-}}
-*{{Citation
- | last =Astridlindgren.se
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2011c
- | title =Människan – yrkeslivet
- | periodical =
- | series =
- | publication-place =astridlindgren.se
- | place =
- | publisher =Saltkråkan AB
- | url =http://www.astridlindgren.se/manniskan/yrkeslivet
- | accessdate =2011-08-01
- |CITEREFAstridlindgren.se 2011c
-}}
-*{{Citation
- | last =Astridlindgren.se
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2011d
- | title =Mer fakta – utvalda årtal
- | periodical =
- | series =
- | publication-place =astridlindgren.se
- | place =
- | publisher =Saltkråkan AB
- | url =http://www.astridlindgren.se/mer-fakta/utvalda-artal
- | accessdate =2011-08-01
- |CITEREFAstridlindgren.se 2011d
-}}
-*{{Citation
- | last =Astridlindgren.se
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2011e
- | title =Världen runt – Astrid i världen
- | periodical =
- | series =
- | publication-place =astridlindgren.se
- | place =
- | publisher =Saltkråkan AB
- | url =http://www.astridlindgren.se/varlden-runt/astrid-i-varlden
- | accessdate =2011-08-01
- |CITEREFAstridlindgren.se 2011e
-}}
-*{{Citation
- | last =Astridlindgren.se
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2011f
- | title =FAQ vanliga frågor
- | periodical =
- | series =
- | publication-place =astridlindgren.se
- | place =
- | publisher =Saltkråkan AB
- | url =http://www.astridlindgren.se/faq
- | accessdate =2011-08-01
- |CITEREFAstridlindgren.se 2011f
-}}
-*{{Citation
- | last =Astridlindgren.se
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2011g
- | title =Mer fakta – priser och utmärkelser
- | periodical =
- | series =
- | publication-place =astridlindgren.se
- | place =
- | publisher =Saltkråkan AB
- | url =http://www.astridlindgren.se/mer-fakta/priser-och-utmarkelser
- | accessdate =2011-08-01
- |CITEREFAstridlindgren.se 2011g
-}}
-*{{Citation
- | last =Astridlindgren.se
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2011h
- | title =Världen runt – Karaktärerna i andra länder
- | periodical =
- | series =
- | publication-place =astridlindgren.se
- | place =
- | publisher =Saltkråkan AB
- | url =http://www.astridlindgren.se/varlden-runt/karaktarerna-i-andra-lander
- | accessdate =2011-08-01
- |CITEREFAstridlindgren.se 2011h
-}}
-*{{Citation
- | last =Astridlindgren.se
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2011i
- | title =Människan – Kort biografi
- | periodical =
- | series =
- | publication-place =astridlindgren.se
- | place =
- | publisher =Saltkråkan AB
- | url =http://www.astridlindgren.se/manniskan/kort-biografi
- | accessdate =2011-08-01
- |CITEREFAstridlindgren.se 2011i
-}}
-*{{Citation
- | last=Astridlindgren.se
- | first=
- | title=www.astridlindgren.se
- | publisher=Saltkråkan AB
- | place=Lidingö
- | year=2011
- | url = http://www.astridlindgren.se/
- | accessdate = 2011-05-12
- |CITEREFAstridlindgren.se 2011}}
-*{{Citation
- | last =Axelsson
- | first =Ann-Sofie
- | author-link =
- | publication-date =
- | date =
- | year =2003
- | title = Trygghet och frihet
- | periodical = Riksutställningar
- | series =nr 3
- | publication-place =
- | place =
- | publisher = Riksutställningar Swedish Travelling Exhibitions
- |archiveurl= http://www.webcitation.org/60jPOoEle
- |archivedate=2011-08-06
- | url = http://www.riksutstallningar.se/Templates/Article____832.aspx
- | accessdate =2011-08-06
- |CITEREFAxelsson 2003
-}}
-*{{Citation
- | last =Falkengård
- | first =Christina
- | author-link =
- | publication-date = Februari 2006
- | date =
- | year =2006
- | title = Tillbaka i Sverige för att bli läkare
- | periodical = Läkartidningen
- | series =nr 5
- | publication-place =
- | place =
- | publisher = Läkartidningen Förlag AB
- |archiveurl= http://www.webcitation.org/60jP60whq
- |archivedate=2011-08-06
- | url = http://www.lakartidningen.se/store/articlepdf/3/3023/277_278.pdf
- | accessdate =2011-08-06
- |CITEREFFalkengård 2006
-}}
-*{{Citation
- | last =Hagerfors
- | first =Anna-Maria
- | author-link =
- | publication-date =8/3-2002
- | date =
- | year =2002
- | title = Astrids sista farväl
- | periodical = Dagens nyheter
- | series =
- | publication-place =
- | place =
- | publisher =
- | archiveurl=http://www.webcitation.org/60dwnPE2y|archivedate=2011-08-02
- | url=http://www.dn.se/2.738/astrids-sista-farval-1.70914
- | accessdate =2011-08-02
- |CITEREFHagerfors 2002
-}}
-*{{Citation
- | last =Hansson
- | first =Anita
- | author-link =
- | publication-date =29/1-2002
- | date =
- | year =2002
- | title = Sagan som blev regeringens fall
- | periodical = Aftonbladet
- | series =
- | publication-place =
- | place =
- | publisher =
- |archiveurl= http://www.webcitation.org/60jKwrNPb
-|archivedate=2011-08-02
- | url = http://www.aftonbladet.se/nyheter/article56051.ab
- | accessdate =2011-08-02
- |CITEREFHansson 2002
-}}
-*{{Citation
- | last =Knutsen-Öy
- | first =Maria
- | author-link =
- | publication-date =31 mars 2007
- | date =
- | year =2007
- | title = Astrid Lindgren – en folkkär rebell
- | periodical = Stockholms fria
- | series =
- | publication-place =
- | place =
- | publisher = Mediekooperativet Fria Tidningar
- |archiveurl= http://www.webcitation.org/60jNhJwzj
- |archivedate=2011-08-06
- | url = http://www.stockholmsfria.nu/artikel/19035
- | accessdate =2011-08-06
- |CITEREFKnutsen-Öy 2007
-}}
-*{{Citation
- | last =Lindgren
- | first =Astrid
- | author-link =
- | publication-date =
- | date =
- | year =1976
- | title = Pomperipossa i Monismanien
- | periodical = 
- | series =
- | publication-place =
- | place =
- | publisher =Expressen
- |archiveurl= http://www.webcitation.org/60fICdhUI
- |archivedate=2011-08-03
- | url = http://www.expressen.se/noje/bocker/1.924415/pomperipossa-i-monismanien
- | accessdate =2011-08-03
- |CITEREFLindgren 1976
-}}
-*{{Citation
- | last =Norlin
- | first =Arne
- | author-link =
- | publication-date =28 januari 2002
- | date =
- | year =2002
- | title = Så föddes vår största författare
- | periodical = Aftonbladet
- | series =
- | publication-place =
- | place =
- | publisher = 
- |archiveurl= http://www.webcitation.org/60jPlYN18
- |archivedate=2011-08-06
- | url = http://www.aftonbladet.se/nyheter/article55965.ab
- | accessdate =2011-08-06
- |CITEREFNorlin 2002
-}}
-*{{Citation
- | last =SVT
- | first =
- | author-link =
- | publication-date =
- | date =
- | year =2005
- | title = Källa Astrid byggs vid barndomshemmet
- | periodical = 
- | series =
- | publication-place =svt.se
- | place =
- | publisher =Sveriges television |archiveurl= http://www.webcitation.org/60dtYh1XM|archivedate=2011-08-02
- | url =http://svt.se/2.22660/1.348505/kalla_astrid_byggs_vid_barndomshemmet?lid=is_search527895&lpos=14&queryArt527895=%22Astrid+Lindgren%22&sortOrder527895=2&doneSearch=true&sd=47225&from=siteSearch&pageArt527895=1
- | accessdate =2011-08-02
- |CITEREFSVT 2005
+== Vidare läsning ==
+*Anthin, David ''Evert Taubes värld'' Atlantis 2012 (Svenska humanistiska förbundets skriftserie 126)
+* {{bokref |efternamn=Fredholm |förnamn=Inga-Britt |titel=Evert Taube: en bildbiografi |serie=Bonniers folkbibliotek |√•r=1970 |utgivare=Bonnier |utgivningsort=Stockholm |spr√•k=swe |libris=627423}}
+* {{bokref |efternamn=Fredholm |förnamn=Inga-Britt |titel=Kom i min famn: Evert Taube 1920-1971 : en bildbiografi |år=1972 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |isbn=91-0-037701-5 |libris=7143753}}
+* {{bokref |efternamn=Svensson |förnamn=Georg |medförfattare=Taube Evert |titel=Evert Taube: poet, musikant, artist |serie=Bokklubben Svalan, 99-0120395-3 |år=1976 |utgivare=Bonnier |utgivningsort=Stockholm |språk=swe |isbn=91-0-041195-7 (inb.) |libris=7145089}}
+* {{bokref |efternamn=Svensson |förnamn=Georg |titel=Ett sätt att vara: minnen av Evert Taube |serie=Törnrosböcker, 99-0130968-9 |år=1977 |utgivare=Alba |utgivningsort=Stockholm |språk=swe |isbn=91-7458-076-0 |libris=7642715}}
+* {{bokref |efternamn=Greenwood |förnamn=Marianne |medförfattare=Wahlbärj Johnne |titel=Evert Taube: ett personligt porträtt |år=1984 |utgivare=Wiken |utgivningsort=Höganäs |språk=swe |isbn=91-7024-165-1 (inb.) |libris=7591505}}
+* {{bokref |efternamn=Schill |förnamn=Rigmor |titel=Evert Taubes genombrott |serie=Årsskrift / Evert Taube-sällskapet, 0349-1005 ; 1984 |år=1984 |utgivare=Evert Taube-sällsk. |utgivningsort=Stockholm |språk=swe |libris=457040}}
+* {{bokref |efternamn=Matz |förnamn=Edvard |medförfattare=Nilsson Gunnar |titel=Äventyret Evert: en bok om färder med Evert Taube till hans diktnings landskap |år=1986 |utgivare=Rabén & Sjögren |utgivningsort=Stockholm |språk=swe |isbn=91-29-57840-X (inb.) |libris=7235962}}
+* {{bokref |efternamn=Fredholm |förnamn=Inga-Britt |titel="Tänk, inspirera herr Andersson": glimtar från mina arbetsår med Evert Taube |år=1990 |utgivare=Sällsk. Astri & Evert Taubes vänner |utgivningsort=Farsta |språk=swe |isbn=91-7970-972-9 (inb.) |libris=7678659}}
+* {{bokref |titel=Årsskrift |år=1979-2003 |utgivare=Evert Taube-sällskapet |utgivningsort=Stockholm |språk=swe |libris=3685857}}
+* {{bokref
+|efternamn=Timm
+|förnamn=Mikael
+|titel=Evert Taube: livet som konst, konsten som liv
+|år=1998
+|utgivare=Bonnier
+|utgivningsort=Stockholm
+|språk=swe
+|isbn=91-0-055971-7 (inb.)
+|libris=7149301
 }}
 
 == Externa länkar ==
-{{Wikiquotelänk}}
-{{commons|Category:Astrid Lindgren}}
-* [http://www.astridlindgren.se Astrid Lindgrens officiella webbplats]
-* [http://www.alv.se Astrid Lindgrens värld]
-* [http://www.astridlindgrensnas.se Astrid Lindgrens Näs]
-* [http://www.astridlindgrensallskapet.se/ Astrid Lindgren-sällskapet]
-* [http://samlaren.se-swed.net/lindgren/ Omslag till böckerna]
-* {{Libris namn|Lindgren|Astrid|år=1907-2002|auth=71639}}
-* {{IMDb-namn|id=0511807}}
-* {{SFDb|person=58344}}
+{{Commonscat}}
+* [http://www.everttaube.info/ Evert Taubes hemsida] (inofficiell)
+* [http://www.taubesallskapet.se/ Taubesällskapet]
+* [http://www.abc.se/~m8169/taube/taube-2.html Lista med Everts samtliga vistitlar]
+* [http://www.vinga.net/vi.htm Bilder och ljud från Vinga - Evert Taubes barndomsö]
+* {{Libris namn|Taube|Evert|år=1890-1976|auth=137901}}
+* [http://www.ub.gu.se/aktuellt/detaljvy.xml?id=1067 ''Otteröbreven'' överlämnade till Evert Taubes arkiv vid Göteborgs universitetsbibliotek]
 
-=== Videoklipp ===
-* [http://www.youtube.com/watch?v=6uo_IkW16Tk/ Astrid Lindgren hos Hylands hörna, 1963-01-02]
-* [http://www.youtube.com/watch?v=EG6644cwuF4/ Astrid Lindgren läser ur sin bok "Mio min Mio". SVT-programmet Sagostunden]
-* [http://www.youtube.com/watch?v=-ILflwIDD5Q/ Astrid Lindgren läser ur sin bok "Jul i stallet"(1979)]
-
-{{Astrid Lindgren}}
-{{Litterära figurer av Astrid Lindgren}}
-{{Svenska Astrid Lindgren-filmatiseringar}}
-{{H.C. Andersen-medaljen}}
-
-{{STANDARDSORTERING:Lindgren, Astrid}}
-[[Kategori:Kvinnor]]
-[[Kategori:Astrid Lindgren| ]]
-[[Kategori:Hedersdoktorer vid Linköpings universitet]]
-[[Kategori:Svenskspråkiga författare av barn- och ungdomslitteratur]]
-[[Kategori:Svenska författare av barn- och ungdomslitteratur]]
-[[Kategori:Svenska fantasyförfattare]]
-[[Kategori:Småländska författare]]
-[[Kategori:Personer från Vimmerby]]
-[[Kategori:Författare från Stockholm]]
-[[Kategori:Sommarvärdar 1993]]
-[[Kategori:Födda 1907]]
-[[Kategori:Avlidna 2002]]
-[[Kategori:Svenskspråkiga fantasyförfattare]]
-[[Kategori:Svenska författare under 1900-talet]]
-[[Kategori:Ledamöter av Samfundet De Nio]]
-{{Link GA|no}}
+{{STANDARDSORTERING:Taube, Evert}}
+[[Kategori:Födda 1890]]
+[[Kategori:Avlidna 1976]]
+[[Kategori:Evert Taube| ]]
+[[Kategori:Svenska viskompositörer]]
+[[Kategori:Svenska konstnärer]]
+[[Kategori:Svenska gitarrister]]
+[[Kategori:Svenska lutspelare]]
+[[Kategori:Svenska vissångare]]
+[[Kategori:Svenskspråkiga författare]]
+[[Kategori:Svenskspråkiga poeter]]
+[[Kategori:Svenska sjömän]]
+[[Kategori:Män]]
+[[Kategori:Hedersdoktorer vid Göteborgs universitet]]
+[[Kategori:Södermalmsprofiler]]
+[[Kategori:Ledamöter av Konstakademien]]
+[[Kategori:Ledamöter av Kungliga Musikaliska Akademien]]
+[[Kategori:Musiker från Göteborg]]
+[[Kategori:Personer i Sverige under 1900-talet]]
