@@ -3,6 +3,9 @@ package matcher;
 import java.util.LinkedList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import org.sweble.wikitext.lazy.preprocessor.TemplateArgument;
+
 import sprakproj.Database;
 
 public class DeathDateMatcher extends DateMatcher implements PossibleMatch {
@@ -25,7 +28,7 @@ public class DeathDateMatcher extends DateMatcher implements PossibleMatch {
 	}
 	
 	@Override
-	public void saveStringToDb(String wikiName, String wikiValue, String pageTitle) {
+	public void saveStringToDb(String wikiName, String wikiValue, String pageTitle, TemplateArgument tArg) {
 		
 			Matcher ym = yearPattern.matcher(wikiValue);
 			Matcher dm = datePattern.matcher(wikiValue);
@@ -37,21 +40,25 @@ public class DeathDateMatcher extends DateMatcher implements PossibleMatch {
 			if (dm2.find()) {
 				String date = dm2.group(1) + "-" + dm2.group(2) + "-" + dm2.group(3);
 				db.insertTriple(pageTitle.replaceAll(" ", "_"), "deathDate", date, type);
-				
+			
 			} else if (dm3.find()) {
 				String date = dm3.group(1) + "-" + dm3.group(2) + "-" + dm3.group(3);
 				db.insertTriple(pageTitle.replaceAll(" ", "_"), "deathDate", date, type);
+			
 				
 			} else if (dm.find()) {
 				int manad = convertMonthStringToNbr(dm.group(2));
 				if (manad > 0) {
 					String date = dm.group(3) + "-" + manad + "-" + dm.group(1);
 					db.insertTriple(pageTitle.replaceAll(" ", "_"), "deathDate", date, type);
+				
 				}
 
 			} else if (ym.find()) {
 				db.insertTriple(pageTitle.replaceAll(" ", "_"), "deathDate", ym.group(1), type);
+	
 			}
+		
 	}
 
 }

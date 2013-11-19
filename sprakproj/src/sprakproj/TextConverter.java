@@ -21,13 +21,8 @@ package sprakproj;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.regex.Pattern;
-
 import matcher.BornDateMatcher;
-
-import matcher.BornLocationMatcher;
-import matcher.DeathDateMatcher;
 import matcher.PossibleMatch;
-
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageTitle;
 import org.sweble.wikitext.engine.utils.EntityReferences;
@@ -116,10 +111,10 @@ public class TextConverter
 	
 	private void addObjectsToList() {
 		//listOfObjectsToMatch.add(new BornDateMatcher());
-		listOfObjectsToMatch.add(new BornLocationMatcher());
+	//	listOfObjectsToMatch.add(new BornLocationMatcher());
 		//listOfObjectsToMatch.add(new DeathMatcher());	
 		listOfObjectsToMatch.add(new BornDateMatcher());	
-		listOfObjectsToMatch.add(new DeathDateMatcher());	
+		//listOfObjectsToMatch.add(new DeathDateMatcher());	
 	}
 
 	@Override
@@ -155,6 +150,7 @@ public class TextConverter
 		write("<");
 		write(n.getNodeName());
 		write(" />");
+
 	}
 	
 	public void visit(NodeList n)
@@ -354,18 +350,15 @@ public class TextConverter
 	public void visit(TemplateArgument n)
 	{
 		for(PossibleMatch posMatch : listOfObjectsToMatch){
-			
-			if(posMatch.foundPattern(getText(n.getName()))){
-				posMatch.saveStringToDb(getText(n.getName()), getText(n.getValue()), pageTitle);
-				/*
-				System.out.println("*** This is what I found:"); 
-				System.out.println("pageTitle: \t" + pageTitle);
-				System.out.println("name: \t" + getText(n.getName()));
-				System.out.println("value: \t" + getText(n.getValue()));
-				System.out.println("---------------------------------");
-				*/
+			String wikiName;
+			wikiName = getText(n.getName());
+			if(posMatch.foundPattern(wikiName)){
+				String wikiValue = getText(n.getValue());
+				posMatch.saveStringToDb(wikiName, wikiValue, pageTitle, n);
 			}
 		}
+		
+	
 	}
 	
 	private String getText(NodeList name) {
@@ -375,6 +368,7 @@ public class TextConverter
 				StringContentNode stringContentNode = (StringContentNode) astNode;
 				stb.append(stringContentNode.getContent());
 			}
+
 		}		
 		return stb.toString();
 	}
@@ -382,8 +376,6 @@ public class TextConverter
 	public void visit(TemplateParameter n)
 	{
 
-	
-		System.out.println("HEJ");
 	}
 	
 	public void visit(TagExtension n)
