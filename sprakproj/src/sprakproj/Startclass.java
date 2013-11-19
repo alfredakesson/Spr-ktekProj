@@ -56,7 +56,7 @@ public class Startclass implements IArticleFilter {
 		try{
 			runSweble(page, siteinfo);
 		} catch(Exception e){
-			e.printStackTrace();
+			//e.printStackTrace();
 			return;
 		}
 	}
@@ -68,7 +68,7 @@ public class Startclass implements IArticleFilter {
 			WikiXMLParser wxp = new WikiXMLParser(bz2Filename, handler);
 			wxp.parse();
 		} catch (Exception e) {
-			e.printStackTrace();
+			//e.printStackTrace();
 		}
 
 	}

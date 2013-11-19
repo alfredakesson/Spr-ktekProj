@@ -5,6 +5,8 @@ import java.util.regex.Pattern;
 
 import org.sweble.wikitext.lazy.preprocessor.TemplateArgument;
 
+import de.fau.cs.osr.ptk.common.ast.NodeList;
+
 import sprakproj.Database;
 
 
@@ -58,6 +60,8 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 				db.insertTriple(pageTitle.replaceAll(" ", "_"), "bornDate", ym.group(1), type);
 				
 			}else{
+
+				//Agnes Carlsson
 				DateConverter dc = new DateConverter(null, 80, pageTitle);
 				dc.visit(n.getValue());
 			}
@@ -91,11 +95,9 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 		
 		} else{
 			//dateNotInserted
-			System.out.println(dateString);
 			db.insertTriple(pageTitle.replaceAll(" ", "_"), "dateNotInserted", dateString, "dateNotInserted");
 		}
 		if(dateString.length() > 11 || dateString.length() < 9){
-			System.out.println(dateString);
 			db.insertTriple(pageTitle.replaceAll(" ", "_"), "dateNotInserted", dateString, "dateNotInserted2");
 		}
 

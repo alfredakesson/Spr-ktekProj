@@ -8,6 +8,7 @@ public abstract class DateMatcher {
 	protected Pattern datePattern2;
 	protected Pattern datePattern3;
 	
+	
 	public DateMatcher(){
 		initRegex();
 	}
@@ -19,6 +20,8 @@ public abstract class DateMatcher {
 		String stringDatePattern2 = "\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}";
 		//TROR INTE ATT DATEPATTERN 2 behövs längre. Diskutera mera! //jens
 		String stringDatePattern3 = "(\\d{4})-(\\d{1,2})-(\\d{1,2})";
+		
+
 		
 		yearPattern = Pattern.compile(stringYearPattern);
 		datePattern = Pattern.compile(stringDatePattern);
