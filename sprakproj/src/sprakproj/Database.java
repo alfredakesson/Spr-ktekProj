@@ -25,7 +25,6 @@ public class Database {
 	
 	private void createTable(String tableName){
 		
-		
 		Statement stmt = null;
 	    try {
 	      stmt = c.createStatement();

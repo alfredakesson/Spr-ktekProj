@@ -19,8 +19,6 @@ package countOccurencesOfTypes;
 
 
 import java.util.LinkedList;
-import java.util.regex.Pattern;
-
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageTitle;
 import org.sweble.wikitext.engine.utils.EntityReferences;
@@ -54,7 +52,7 @@ import de.fau.cs.osr.ptk.common.ast.AstNode;
 import de.fau.cs.osr.ptk.common.ast.NodeList;
 import de.fau.cs.osr.ptk.common.ast.StringContentNode;
 import de.fau.cs.osr.ptk.common.ast.Text;
-import de.fau.cs.osr.utils.StringUtils;
+
 
 /**
  * A visitor to convert an article AST into a pure text representation. To
@@ -83,15 +81,8 @@ public class TypeCounter
         extends
             AstVisitor
 {
-	private static final Pattern ws = Pattern.compile("\\s+");	
 	private final SimpleWikiConfiguration config;
-	private final int wrapCol;
 	private StringBuilder sb;
-	private StringBuilder line;
-	private int extLinkNum;
-	private boolean pastBod;
-	private int needNewlines;
-	private boolean needSpace;
 	private boolean noWrap;
 	private LinkedList<Integer> sections;
 	
@@ -103,7 +94,6 @@ public class TypeCounter
 	public TypeCounter(SimpleWikiConfiguration config, int wrapCol)
 	{
 		this.config = config;
-		this.wrapCol = wrapCol;
 	}
 
 
@@ -112,11 +102,7 @@ public class TypeCounter
 	{
 		// This method is called by go() before visitation starts
 		sb = new StringBuilder();
-		line = new StringBuilder();
-		extLinkNum = 1;
-		pastBod = false;
-		needNewlines = 0;
-		needSpace = false;
+		new StringBuilder();
 		noWrap = false;
 		sections = new LinkedList<Integer>();
 		return super.before(node);

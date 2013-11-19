@@ -6,28 +6,25 @@ import info.bliki.wiki.dump.WikiArticle;
 import info.bliki.wiki.dump.WikiXMLParser;
 
 import java.io.FileNotFoundException;
-import java.io.StringWriter;
-import java.util.regex.Matcher;
 
 import javax.xml.bind.JAXBException;
 
-import org.apache.commons.io.FileUtils;
 import org.sweble.wikitext.engine.CompiledPage;
 import org.sweble.wikitext.engine.Compiler;
 import org.sweble.wikitext.engine.CompilerException;
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageId;
 import org.sweble.wikitext.engine.PageTitle;
-import org.sweble.wikitext.engine.utils.HtmlPrinter;
+
 import org.sweble.wikitext.engine.utils.SimpleWikiConfiguration;
 import org.sweble.wikitext.lazy.LinkTargetException;
 import org.xml.sax.SAXException;
 
 public class Sweble implements IArticleFilter {
-	
+
 	public static void main(String[] args) {
 		String bz2Filename = "../../svwiki-20131101-pages-articles.xml.bz2";
-		//System.out.println("hej");
+		// System.out.println("hej");
 		Sweble handler = new Sweble();
 		try {
 			WikiXMLParser wxp = new WikiXMLParser(bz2Filename, handler);
@@ -42,40 +39,30 @@ public class Sweble implements IArticleFilter {
 
 	}
 
-
-
-
 	private int num;
 
-
-	
-	
 	public void process(WikiArticle page, Siteinfo siteinfo)
 			throws SAXException {
-		page.getTitle();
-		page.getText();
-		
-		
-		
+
 		SimpleWikiConfiguration config = null;
 		try {
 			config = new SimpleWikiConfiguration(
-			        "classpath:/org/sweble/wikitext/engine/SimpleWikiConfiguration.xml");
+					"classpath:/org/sweble/wikitext/engine/SimpleWikiConfiguration.xml");
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			System.exit(1);
+			return;
 		} catch (JAXBException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			System.exit(1);
+			return;
 		}
-		
+
 		final int wrapCol = 80;
-		
+
 		// Instantiate a compiler for wiki pages
 		Compiler compiler = new Compiler(config);
-		
+
 		// Retrieve a page
 		PageTitle pageTitle = null;
 		try {
@@ -85,11 +72,11 @@ public class Sweble implements IArticleFilter {
 			e1.printStackTrace();
 			return;
 		}
-		
+
 		PageId pageId = new PageId(pageTitle, -1);
-		
+
 		String wikitext = page.getText();
-		
+
 		// Compile the retrieved page
 		CompiledPage cp = null;
 		try {
@@ -99,26 +86,25 @@ public class Sweble implements IArticleFilter {
 			e.printStackTrace();
 			return;
 		}
-		
-		// Render the compiled page as HTML
-		StringWriter w = new StringWriter();
 
+		// Render the compiled page as HTML
 
 		Page cccp = cp.getPage();
 		TypeCounter tc = new TypeCounter(config, wrapCol);
 		tc.go(cccp);
-//		if (num > 10000) {
-//			throw new SAXException();
-//		}
+		// if (num > 10000) {
+		// throw new SAXException();
+		// }
 		System.out.println(num);
 		num++;
 
-//		HtmlPrinter p = new HtmlPrinter(w, pageTitle.getFullTitle());
-//		p.setCssResource("/org/sweble/wikitext/engine/utils/HtmlPrinter.css", "");
-//		p.setStandaloneHtml(true, "");
-//		p.go(cp.getPage());
-//		System.out.println(w.toString());
-//		throw new SAXException(); 
+		// HtmlPrinter p = new HtmlPrinter(w, pageTitle.getFullTitle());
+		// p.setCssResource("/org/sweble/wikitext/engine/utils/HtmlPrinter.css",
+		// "");
+		// p.setStandaloneHtml(true, "");
+		// p.go(cp.getPage());
+		// System.out.println(w.toString());
+		// throw new SAXException();
 
 	}
 
