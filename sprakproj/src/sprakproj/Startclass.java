@@ -18,6 +18,7 @@ import org.xml.sax.SAXException;
 
 public class Startclass implements IArticleFilter {
 	private TextConverter p;
+	int num = 0;
 
 	
 	public Startclass() {
@@ -43,7 +44,8 @@ public class Startclass implements IArticleFilter {
 		CompiledPage cp = compiler.postprocess(pageId, wikitext, null);
 		p = new TextConverter(config, wrapCol, page.getTitle());
 		p.go(cp.getPage());
-
+		
+		System.out.println(num++);
 		
 		//		throw new SAXException(); 
 

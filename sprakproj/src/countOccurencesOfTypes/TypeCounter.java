@@ -18,9 +18,6 @@ package countOccurencesOfTypes;
  */
 
 
-import java.util.LinkedList;
-import java.util.regex.Pattern;
-
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageTitle;
 import org.sweble.wikitext.engine.utils.EntityReferences;
@@ -54,7 +51,7 @@ import de.fau.cs.osr.ptk.common.ast.AstNode;
 import de.fau.cs.osr.ptk.common.ast.NodeList;
 import de.fau.cs.osr.ptk.common.ast.StringContentNode;
 import de.fau.cs.osr.ptk.common.ast.Text;
-import de.fau.cs.osr.utils.StringUtils;
+
 
 /**
  * A visitor to convert an article AST into a pure text representation. To
@@ -83,17 +80,8 @@ public class TypeCounter
         extends
             AstVisitor
 {
-	private static final Pattern ws = Pattern.compile("\\s+");	
 	private final SimpleWikiConfiguration config;
-	private final int wrapCol;
 	private StringBuilder sb;
-	private StringBuilder line;
-	private int extLinkNum;
-	private boolean pastBod;
-	private int needNewlines;
-	private boolean needSpace;
-	private boolean noWrap;
-	private LinkedList<Integer> sections;
 	
 
 	private Database db = Database.getInstance();
@@ -103,7 +91,6 @@ public class TypeCounter
 	public TypeCounter(SimpleWikiConfiguration config, int wrapCol)
 	{
 		this.config = config;
-		this.wrapCol = wrapCol;
 	}
 
 
@@ -112,13 +99,6 @@ public class TypeCounter
 	{
 		// This method is called by go() before visitation starts
 		sb = new StringBuilder();
-		line = new StringBuilder();
-		extLinkNum = 1;
-		pastBod = false;
-		needNewlines = 0;
-		needSpace = false;
-		noWrap = false;
-		sections = new LinkedList<Integer>();
 		return super.before(node);
 	}
 	
@@ -224,50 +204,13 @@ public class TypeCounter
 	public void visit(Section s)
 	{
 
-		StringBuilder saveSb = sb;
-		boolean saveNoWrap = noWrap;
-		
-		sb = new StringBuilder();
-		noWrap = true;
 		
 		iterate(s.getTitle());
-
-		String title = sb.toString().trim();
 		
-		sb = saveSb;
-		
-		if (s.getLevel() >= 1)
-		{
-			while (sections.size() > s.getLevel())
-				sections.removeLast();
-			while (sections.size() < s.getLevel())
-				sections.add(1);
-			
-			StringBuilder sb2 = new StringBuilder();
-			for (int i = 0; i < sections.size(); ++i)
-			{
-				if (i < 1)
-					continue;
-				
-				sb2.append(sections.get(i));
-				sb2.append('.');
-			}
-			
-			if (sb2.length() > 0)
-				sb2.append(' ');
-			sb2.append(title);
-			title = sb2.toString();
-		}
-		
-
-		
-		noWrap = saveNoWrap;
 		
 		iterate(s.getBody());
 		
-		while (sections.size() > s.getLevel())
-			sections.removeLast();
-		sections.add(sections.removeLast() + 1);
+	
 	}
 	
 	public void visit(Paragraph p)

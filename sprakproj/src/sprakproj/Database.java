@@ -16,6 +16,8 @@ public class Database {
 		createTable("deathDate");
 		createTable("dateNotInserted");
 		createTable("dateNotInserted2");
+		createTable("typeCounter");
+		createTable("templates");
 	}
 	
 	public static Database getInstance() {
@@ -26,7 +28,6 @@ public class Database {
 	   }
 	
 	private void createTable(String tableName){
-		
 		
 		Statement stmt = null;
 	    try {
