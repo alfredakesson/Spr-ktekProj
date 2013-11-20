@@ -1,12 +1,12 @@
 package matcher;
 
+import java.io.FileNotFoundException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import javax.xml.bind.JAXBException;
+
 import org.sweble.wikitext.lazy.preprocessor.TemplateArgument;
-
-import de.fau.cs.osr.ptk.common.ast.NodeList;
-
 import sprakproj.Database;
 
 
@@ -29,7 +29,7 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 	}
 
 	@Override
-	public void saveStringToDb(String wikiName, String wikiValue, String pageTitle, TemplateArgument n) {
+	public void saveStringToDb(String wikiName, String wikiValue, String pageTitle, TemplateArgument n) throws FileNotFoundException, JAXBException {
 		
 			Matcher ym = yearPattern.matcher(wikiValue);
 			Matcher dm = datePattern.matcher(wikiValue);
@@ -63,11 +63,11 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 
 				//Agnes Carlsson
 				DateConverter dc = new DateConverter(null, 80, pageTitle);
-				dc.visit(n.getValue());
+				dc.start(n);
 			}
 	}
 	
-	public void saveDateConvertedString(String pageTitle, String dateString) {
+	public boolean saveDateConvertedString(String pageTitle, String dateString) {
 		Matcher ym = yearPattern.matcher(dateString);
 		Matcher dm = datePattern.matcher(dateString);
 		Matcher dm2 = datePattern2.matcher(dateString);
@@ -78,29 +78,32 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 		if (dm2.find()) {
 			String date = dm2.group(1) + "-" + dm2.group(2) + "-" + dm2.group(3);
 			db.insertTriple(pageTitle.replaceAll(" ", "_"), "bornDate", date, type);
+			return true;
 			
 		} else if (dm3.find()) {
 			String date = dm3.group(1) + "-" + dm3.group(2) + "-" + dm3.group(3);
 			db.insertTriple(pageTitle.replaceAll(" ", "_"), "bornDate", date, type);
+			return true;
 			
 		} else if (dm.find()) {
 			int manad = convertMonthStringToNbr(dm.group(2));
 			if (manad > 0) {
 				String date = dm.group(3) + "-" + manad + "-" + dm.group(1);
 				db.insertTriple(pageTitle.replaceAll(" ", "_"), "bornDate", date, type);
+				return true;
 			}
 
 		} else if (ym.find()) {
 			db.insertTriple(pageTitle.replaceAll(" ", "_"), "bornDate", ym.group(1), type);
+			return true;
 		
 		} else{
 			//dateNotInserted
 			db.insertTriple(pageTitle.replaceAll(" ", "_"), "dateNotInserted", dateString, "dateNotInserted");
-		}
-		if(dateString.length() > 11 || dateString.length() < 9){
-			db.insertTriple(pageTitle.replaceAll(" ", "_"), "dateNotInserted", dateString, "dateNotInserted2");
+			
 		}
 
 
+		return false;
 	}
 }

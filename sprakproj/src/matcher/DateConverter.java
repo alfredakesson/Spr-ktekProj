@@ -1,5 +1,8 @@
 package matcher;
 
+
+import java.util.ArrayList;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.sweble.wikitext.engine.utils.SimpleWikiConfiguration;
@@ -14,7 +17,9 @@ import sprakproj.TextConverter;
 
 public class DateConverter extends TextConverter {
 	private StringBuilder dateStringBuilder;
-	private String pageTitle;
+	private String pageTitle, savedString;
+	
+	BornDateMatcher bornDateMatcher;
 
 	public DateConverter(SimpleWikiConfiguration config, int wrapCol,
 			String pageTitle) {
@@ -22,50 +27,79 @@ public class DateConverter extends TextConverter {
 		
 		dateStringBuilder = new StringBuilder();
 		this.pageTitle = pageTitle;
+		
+		bornDateMatcher = new BornDateMatcher();
 	}
 
+	
+	public void start(TemplateArgument n) {
+		
+		saveNodeListAsString(n);
+		visit(n.getValue());
+		
+	}
+	
+	
+	public void visit(NodeList n)
+	{
+		iterate(n);
+	}
+
+	
 	public void visit(Template n)
 	{
-		if(pageTitle.equals("Agnes Carlsson")){
-			System.out.println("kommer in");
-		}
-		if(pageTitle.equals("Agnes_Carlsson")){
-			System.out.println("kommer in");
-		}
-		
 		visit(n.getArgs());
-		insertTriple();
-		
-		if(pageTitle.equals("Agnes Carlsson")){
-			System.out.println("går ut");
-		}
-		if(pageTitle.equals("Agnes_Carlsson")){
-			System.out.println("går ut");
+		if(!insertTriple(dateStringBuilder.toString())){
+			findDateInSavedString();
 		}
 	}
 	
+
+	private void findDateInSavedString() {
+		ArrayList<String> tmpRes = new ArrayList<String>();
+		String stringTextPattern = "\\[Text\\((.*?)\\)\\]";
+		String stringYearPattern = "\"(\\d{1,4})\"";
+		
+		Pattern textPattern = Pattern.compile(stringTextPattern);
+		Pattern yearPattern = Pattern.compile(stringYearPattern);
+		
+		Matcher mText =  textPattern.matcher(savedString);
+		Matcher mYear;
+		
+		while(mText.find()){
+			String foundText = mText.group(1);
+			tmpRes.add(foundText);
+		}
+		boolean append = false;
+		StringBuilder dateBuilder = new StringBuilder(); 
+		for(String s : tmpRes){
+			
+			mYear = yearPattern.matcher(s);
+			if(mYear.find()){
+				append = true; 
+			}
+			if(append){
+				dateBuilder.append(mYear.group(1));
+				dateBuilder.append("-");	
+			}
+		}
+		insertTriple(dateBuilder.toString());
+
+	}
+
+
 	public void visit(TemplateArgument n)
 	{
 		dateStringBuilder.append(getText(n.getValue()));
 		dateStringBuilder.append("-");
 	}	
 	
+
 	
-	
-	
-	
-	private void insertTriple() {
-		BornDateMatcher bornDateMatcher = new BornDateMatcher();
-		bornDateMatcher.saveDateConvertedString(pageTitle, dateStringBuilder.toString());
-		
-		if(pageTitle.equals("Agnes_Carlsson")){
-			System.out.println("datum hittat=\t" + dateStringBuilder.toString());
-		}
-		
-		
-		//Pattern datePattern4;
-		//String stringDatePatter43 = "\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}";
+	private boolean insertTriple(String dateInput) {
+		return bornDateMatcher.saveDateConvertedString(pageTitle, dateInput);
 	}
+	
 	private String getText(NodeList name) {
 		StringBuilder stb = new StringBuilder();
 		for (AstNode astNode : name) {
@@ -73,9 +107,20 @@ public class DateConverter extends TextConverter {
 				StringContentNode stringContentNode = (StringContentNode) astNode;
 				stb.append(stringContentNode.getContent());
 			}
-
 		}		
 		return stb.toString();
+	}
+
+	private void saveNodeListAsString(AstNode node){
+		 StringBuilder emergencyBuilder = new StringBuilder();
+		 if (node != null)
+	     {
+	             for (AstNode n : node){
+	            	 emergencyBuilder.append(n);
+	             }
+	                  
+	     }
+	     savedString = emergencyBuilder.toString();
 	}
 	
 	

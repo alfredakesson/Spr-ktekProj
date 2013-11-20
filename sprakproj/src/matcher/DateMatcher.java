@@ -18,7 +18,6 @@ public abstract class DateMatcher {
 		String stringYearPattern = "(\\d{1,4})";
 		String stringDatePattern = "(\\d{1,2})\\s{0,3}([a-zA-Z]{2,10})\\D{1,30}(\\d{1,4})";
 		String stringDatePattern2 = "\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}";
-		//TROR INTE ATT DATEPATTERN 2 behövs längre. Diskutera mera! //jens
 		String stringDatePattern3 = "(\\d{4})-(\\d{1,2})-(\\d{1,2})";
 		
 

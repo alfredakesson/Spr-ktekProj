@@ -18,9 +18,13 @@ package sprakproj;
  */
 
 
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.regex.Pattern;
+
+import javax.xml.bind.JAXBException;
+
 import matcher.BornDateMatcher;
 import matcher.PossibleMatch;
 import org.sweble.wikitext.engine.Page;
@@ -141,7 +145,35 @@ public class TextConverter
 		// The return value will be passed to go() which passes it to the caller
 		return sb.toString();
 	}
+	///////
 	
+    /**
+     * Dispatches to the appropriate visit() method and returns the result of
+     * the visitation. If the given node is <code>null</code> this method
+     * returns immediately with <code>null</code> as result.
+     */
+	/*
+	@Override
+    protected final Object dispatch(AstNode node)
+    {
+            if (node == null)
+                    return null;
+            return resolveAndVisit(node);
+    }
+    
+    protected final void iterate(AstNode node)
+    {
+            if (node != null)
+            {
+                    for (AstNode n : node)
+                            dispatch(n);
+            }
+    }*/
+	
+
+	
+	
+	//////
 	// =========================================================================
 	
 	public void visit(AstNode n)
@@ -155,6 +187,7 @@ public class TextConverter
 	
 	public void visit(NodeList n)
 	{
+		
 		iterate(n);
 	}
 	
@@ -347,7 +380,7 @@ public class TextConverter
 	
 	
 	
-	public void visit(TemplateArgument n)
+	public void visit(TemplateArgument n) throws FileNotFoundException, JAXBException
 	{
 		for(PossibleMatch posMatch : listOfObjectsToMatch){
 			String wikiName;
