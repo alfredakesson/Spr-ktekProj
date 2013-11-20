@@ -18,7 +18,6 @@ package countOccurencesOfTypes;
  */
 
 
-import java.util.LinkedList;
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageTitle;
 import org.sweble.wikitext.engine.utils.EntityReferences;
@@ -83,8 +82,6 @@ public class TypeCounter
 {
 	private final SimpleWikiConfiguration config;
 	private StringBuilder sb;
-	private boolean noWrap;
-	private LinkedList<Integer> sections;
 	
 
 	private Database db = Database.getInstance();
@@ -102,9 +99,6 @@ public class TypeCounter
 	{
 		// This method is called by go() before visitation starts
 		sb = new StringBuilder();
-		new StringBuilder();
-		noWrap = false;
-		sections = new LinkedList<Integer>();
 		return super.before(node);
 	}
 	
@@ -210,50 +204,13 @@ public class TypeCounter
 	public void visit(Section s)
 	{
 
-		StringBuilder saveSb = sb;
-		boolean saveNoWrap = noWrap;
-		
-		sb = new StringBuilder();
-		noWrap = true;
 		
 		iterate(s.getTitle());
-
-		String title = sb.toString().trim();
 		
-		sb = saveSb;
-		
-		if (s.getLevel() >= 1)
-		{
-			while (sections.size() > s.getLevel())
-				sections.removeLast();
-			while (sections.size() < s.getLevel())
-				sections.add(1);
-			
-			StringBuilder sb2 = new StringBuilder();
-			for (int i = 0; i < sections.size(); ++i)
-			{
-				if (i < 1)
-					continue;
-				
-				sb2.append(sections.get(i));
-				sb2.append('.');
-			}
-			
-			if (sb2.length() > 0)
-				sb2.append(' ');
-			sb2.append(title);
-			title = sb2.toString();
-		}
-		
-
-		
-		noWrap = saveNoWrap;
 		
 		iterate(s.getBody());
 		
-		while (sections.size() > s.getLevel())
-			sections.removeLast();
-		sections.add(sections.removeLast() + 1);
+	
 	}
 	
 	public void visit(Paragraph p)

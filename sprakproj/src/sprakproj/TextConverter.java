@@ -21,8 +21,11 @@ package sprakproj;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.regex.Pattern;
+
 import matcher.BornDateMatcher;
 import matcher.PossibleMatch;
+import matcher.TypeCounter;
+
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageTitle;
 import org.sweble.wikitext.engine.utils.EntityReferences;
@@ -113,8 +116,9 @@ public class TextConverter
 		//listOfObjectsToMatch.add(new BornDateMatcher());
 	//	listOfObjectsToMatch.add(new BornLocationMatcher());
 		//listOfObjectsToMatch.add(new DeathMatcher());	
-		listOfObjectsToMatch.add(new BornDateMatcher());	
+		//listOfObjectsToMatch.add(new BornDateMatcher());	
 		//listOfObjectsToMatch.add(new DeathDateMatcher());	
+		listOfObjectsToMatch.add(new TypeCounter());
 	}
 
 	@Override
@@ -342,6 +346,7 @@ public class TextConverter
 	
 	public void visit(Template n)
 	{
+		//Database.getInstance().insertTriple(getText(n.getName()).trim(), "temp", "nao", "templates");
 		visit(n.getArgs());
 	}
 	
