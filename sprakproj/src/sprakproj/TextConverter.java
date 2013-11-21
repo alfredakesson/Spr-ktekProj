@@ -27,7 +27,7 @@ import java.util.regex.Pattern;
 import javax.xml.bind.JAXBException;
 import matcher.BornDateMatcher;
 import matcher.PossibleMatch;
-import countOccurencesOfTypes.TypeCounter;
+import matcher.TypeCounter;
 
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageTitle;
@@ -119,9 +119,9 @@ public class TextConverter
 		//listOfObjectsToMatch.add(new BornDateMatcher());
 	//	listOfObjectsToMatch.add(new BornLocationMatcher());
 		//listOfObjectsToMatch.add(new DeathMatcher());	
-		listOfObjectsToMatch.add(new BornDateMatcher());	
+		//listOfObjectsToMatch.add(new BornDateMatcher());	
 		//listOfObjectsToMatch.add(new DeathDateMatcher());	
-		//listOfObjectsToMatch.add(new TypeCounter());
+		listOfObjectsToMatch.add(new TypeCounter());
 	}
 
 	@Override
@@ -378,8 +378,8 @@ public class TextConverter
 	
 	public void visit(Template n)
 	{
-		Database.getInstance().insertTriple(getText(n.getName()).trim(), "temp", "nao", "templates");
-		//visit(n.getArgs());
+		//Database.getInstance().insertTriple(getText(n.getName()).trim(), "temp", "nao", "templates");
+		visit(n.getArgs());
 	}
 	
 	
