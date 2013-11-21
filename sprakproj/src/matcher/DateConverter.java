@@ -83,7 +83,9 @@ public class DateConverter extends TextConverter {
 				dateBuilder.append("-");	
 			}
 		}
-		insertTriple(dateBuilder.toString());
+		if(!insertTriple(dateBuilder.toString())){
+			bornDateMatcher.insertError(pageTitle);
+		}
 
 	}
 

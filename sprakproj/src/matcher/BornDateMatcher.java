@@ -1,3 +1,17 @@
+//Dubletter
+/*
+ * Ørjan Nilsen
+ * Armin_van_Buuren
+ * Markus_Krunegård
+ * 
+ * 
+ * 
+ * BORDE HITTAT
+ * Hanna Åberg 
+ * 
+ * 
+ */
+
 package matcher;
 
 import java.io.FileNotFoundException;
@@ -60,8 +74,6 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 				db.insertTriple(pageTitle.replaceAll(" ", "_"), "bornDate", ym.group(1), type);
 				
 			}else{
-
-				//Agnes Carlsson
 				DateConverter dc = new DateConverter(null, 80, pageTitle);
 				dc.start(n);
 			}
@@ -105,5 +117,9 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 
 
 		return false;
+	}
+
+	public void insertError(String pageTitle) {
+		db.insertTriple(pageTitle.replaceAll(" ", "_"), "pageError", "pageError", "pageError");		
 	}
 }

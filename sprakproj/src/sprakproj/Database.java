@@ -19,6 +19,7 @@ public class Database {
 		createTable("dateNotInserted2");
 		createTable("typeCounter");
 		createTable("templates");
+		createTable("pageError");
 	}
 	
 	public static Database getInstance() {
