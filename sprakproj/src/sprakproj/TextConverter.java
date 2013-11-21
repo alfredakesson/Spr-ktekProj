@@ -346,8 +346,8 @@ public class TextConverter
 	
 	public void visit(Template n)
 	{
-		//Database.getInstance().insertTriple(getText(n.getName()).trim(), "temp", "nao", "templates");
-		visit(n.getArgs());
+		Database.getInstance().insertTriple(getText(n.getName()).trim(), "temp", "nao", "templates");
+		//visit(n.getArgs());
 	}
 	
 	

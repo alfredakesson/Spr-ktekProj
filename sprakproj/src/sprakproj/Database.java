@@ -10,6 +10,7 @@ public class Database {
 	private Database(){
 		startDb();
 		createTables();
+		closeDb();
 	}
 	private void createTables() {
 		createTable("bornDate");
@@ -28,7 +29,7 @@ public class Database {
 	   }
 	
 	private void createTable(String tableName){
-		
+		startDb();
 		Statement stmt = null;
 	    try {
 	      stmt = c.createStatement();
@@ -46,9 +47,11 @@ public class Database {
 	      System.exit(0);
 	    }
 	    System.out.println("Table with name " + tableName + " created/opened successfully");
+	    closeDb();
 	 }
 	
 	public void insertTriple(String subject, String predicate, String object, String TYPE){
+		startDb();
 		object = fixDate(object);
 		PreparedStatement prepStmt = null;
 	    try {
@@ -65,9 +68,11 @@ public class Database {
 	      System.exit(0);
 	    }
 	    //System.out.println("Insertion completed successfully");
+	    closeDb();
 	 }
 	
 	public void insertTTriple(String subject, String predicate, String object){
+		startDb();
 		PreparedStatement prepStmt = null;
 	    try {
 	    	prepStmt = c.prepareStatement("insert into TYPE values(?,?,?);");
@@ -89,6 +94,7 @@ public class Database {
 	      System.exit(0);
 	    }
 	    //System.out.println("Insertion completed successfully");
+	    closeDb();
 	 }
 	
 	
@@ -122,6 +128,15 @@ public class Database {
 			System.exit(0);
 		}
 		System.out.println("Opened database successfully");
+	}
+	
+	private void closeDb(){
+		try {
+			c.close();
+		} catch (SQLException e) {
+			e.printStackTrace();
+			System.exit(1);
+		}
 	}
 	
 	public static void main(String args[]) {
