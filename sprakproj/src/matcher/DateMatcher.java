@@ -1,16 +1,20 @@
 package matcher;
 
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import sprakproj.Database;
 
 public abstract class DateMatcher {
 	protected Pattern yearPattern;
 	protected Pattern datePattern;
 	protected Pattern datePattern2;
 	protected Pattern datePattern3;
-	
+	protected Database db;
 	
 	public DateMatcher(){
 		initRegex();
+		db = Database.getInstance();
 	}
 	
 	private void initRegex(){
@@ -58,6 +62,45 @@ public abstract class DateMatcher {
 		} else {
 			return -1;
 		}
+	}
+	
+	public boolean saveDateConvertedString(String pageTitle, String dateString, String type) {
+		Matcher ym = yearPattern.matcher(dateString);
+		Matcher dm = datePattern.matcher(dateString);
+		Matcher dm2 = datePattern2.matcher(dateString);
+		Matcher dm3 = datePattern3.matcher(dateString);
+
+		
+		if (dm2.find()) {
+			String date = dm2.group(1) + "-" + dm2.group(2) + "-" + dm2.group(3);
+			db.insertTriple(pageTitle.replaceAll(" ", "_"), type, date, type);
+			return true;
+			
+		} else if (dm3.find()) {
+			String date = dm3.group(1) + "-" + dm3.group(2) + "-" + dm3.group(3);
+			db.insertTriple(pageTitle.replaceAll(" ", "_"), type, date, type);
+			return true;
+			
+		} else if (dm.find()) {
+			int manad = convertMonthStringToNbr(dm.group(2));
+			if (manad > 0) {
+				String date = dm.group(3) + "-" + manad + "-" + dm.group(1);
+				db.insertTriple(pageTitle.replaceAll(" ", "_"), type, date, type);
+				return true;
+			}
+
+		} else if (ym.find()) {
+			db.insertTriple(pageTitle.replaceAll(" ", "_"), type, ym.group(1), type);
+			return true;
+		
+		} else{
+			//dateNotInserted
+			db.insertTriple(pageTitle.replaceAll(" ", "_"), "dateNotInserted", type, "dateNotInserted");
+			
+		}
+
+
+		return false;
 	}
 		/*
 		 * OLD PATTERN: 

@@ -1,42 +1,333 @@
-{{Infobox musiker
-|namn                = Ørjan Nilsen
-|bild                = 
-|bildtext            = 
-|bildstorlek         = 
-|färg                = icke_uppträdande_personal
-|födelsenamn         = Ørjan Nilsen
-|pseudonym(er)       = DJ Govenor
-|född                = {{flaggbild|Norge}} {{ålder|1982|06|14}}
-|död                 = 
-|bakgrund            = 
-|instrument          = 
-|genre               = [[Trance]] <br /> [[Progressiv trance]]
-|roll                = 
-|aktiva_år           = [[2004]]–
-|skivbolag           = [http://www.armadamusic.nl Armada]
-|associerade_akter   = 
-|medlemmar           = 
-|tidigare_medlemmar  = 
-|inspiratörer        = 
-|inspirerat          = 
-|hemsida             = [http://www.orjannilsen.com/ orjannilsen.com]
+{{Andra betydelser}}
+{{Regent
+ |             namn = Karl XII
+ |             bild = Karl XII 1706.jpg
+ |         bildtext = Porträtt av Karl XII från 1706 av [[David von Krafft]]
+ |       succession = [[Lista över Sveriges regenter|Kung av Sverige]]<br>[[Hertig]] till [[Pfalz-Zweibrücken]]<br>Hertig till [[Bremen-Verden]]
+ |      företrädare = [[Karl XI]]
+ |     regeringstid = 5 april 1697–30 november 1718<br />({{Ålder i år och dagar|1697|4|5|1718|11|30}})
+ |     efterträdare = [[Ulrika Eleonora]] (regerande drottning av Sverige)
+ |          kröning = 14 december 1697 i Stockholm
+ |         valspråk = Herren (är vorden) min beskyddare ({{Lang-la|(Factus est) Dominus protector meus}}<br />Med Guds hjälp
+ |              ätt = [[Pfalziska ätten]]
+ |              far = [[Karl XI]]
+ |              mor = [[Ulrika Eleonora av Danmark]]
+ |     födelsedatum = 17 juni ([[gamla stilen|g.s.]]) 1682
+ |     födelseplats = [[Slottet Tre Kronor]], Stockholm, Sverige
+ |        dödsdatum = 30 november ([[gamla stilen|g.s.]]) 1718<br />({{Ålder i år och dagar|1682|6|17|1718|11|30}})
+ |        dödsplats = [[Halden|Fredrikshald]], Norge
+ |     begravddatum = 26 februari 1719
+ | begravningsplats = [[Karolinska gravkoret]] i [[Riddarholmskyrkan]] i Stockholm
+ |     namnteckning = Autograf, Carl XII, Nordisk familjebok.png
+}}
+'''Karl XII''', född 17 juni 1682 på [[Slottet Tre Kronor]], död 30 november 1718 i [[Halden|Fredrikshald]], Norge, var [[kung av Sverige]] från 1697 till sin död. Huvuddelen av hans regeringstid spenderade han i fält i [[stora nordiska kriget]], där han försökte försvara stormaktsväldet, men trots hans förmåga som fältherre och spektakulära inledande framgångar vände krigslyckan från och med [[slaget vid Poltava]] och till slut gick nästan alla erövringar i öst och i Tyskland förlorade. Han genomförde också juridiska och skattemässiga reformer. Han är den mest omdebatterade och omdiskuterade av de svenska kungarna, då bilden av honom varierar väldigt mycket i de olika verk som har skrivits om honom.
+
+Karl tog makten över Sverige efter en sju månaders förmyndarregering, vid femton års ålder. Han var överbefälhavare för de svenska styrkorna under kriget mot trippelalliansen [[Danmark-Norge]], [[Sachsen]]-[[Polen]] och [[Ryssland]], som inleddes år 1700. Hans ledarskap och taktiska färdigheter bidrog de till de svenska styrkornas inledande triumfer under kriget, och år 1706 hade han besegrat nästan alla deltagare, förutom Ryssland.
+
+År 1707 ledde han sina styrkor i ett [[Karl XII:s ryska fälttåg|fälttåg mot Ryssland]], men som fick ett katastrofalt slut med nederlagen i [[Slaget vid Poltava|Poltava]] och [[Kapitulationen vid Perevolotjna|Perevolochna]], som fick honom att fly till [[Osmanska riket]] där han inrättade [[Karl XII:s vistelse i Bender|en exilregering]]. Han kom att stanna där i fem år tills han återvände till Sverige för att ta itu med Danmark-Norge. Efter [[Karl XII:s norska fälttåg|två misslyckade fälttåg]] blev han 30 november 1718 nedskjuten under [[Belägringen av Fredrikstens fästning|Fredrikstens belägring]]. Sverige förlorade kriget, och hade efter fredsavtalen förlorat sin [[stormakt]]sställning i [[Nordeuropa]] till [[Ryska imperiet|Ryssland]]. Det [[kungliga enväldet]] försvagades kraftigt och Sverige gick in i en period där makten samlades i [[Sveriges riksdag|riksdagen]] som kom att kallas för [[frihetstiden]], som varade i ett halvt [[sekel]] tills det tog slut i och med [[Gustav III]]:s [[statskupp]].
+
+Han var son till [[Karl XI]] och [[Ulrika Eleonora av Danmark|Ulrika Eleonora d.ä.]], bror till [[Ulrika Eleonora|Ulrika Eleonora d.y.]] samt [[kusin]] till [[August den starke]], [[Fredrik IV av Danmark]] och [[Fredrik IV av Holstein-Gottorp]] (se vidare [[#Anfäder|''Anfäder'']] nedan). Han äktade ingen hustru och fick inga barn.  Han efterträddes av sin syster Ulrika Eleonora, som i sin tur lämnade över kungakronan till sin make, [[Fredrik I]].
+
+Han regerade även som [[hertig]] Karl II över [[Pfalz-Zweibrücken]] 1697-1718.
+
+== Titel ==
+Karl XII:s fullständiga titel på svenska löd: ''Carl [[Kungadömet av Guds nåde|med Guds Nåde]], [[Sveriges konung|Sveriges]], [[Götes konung|Götes]] och [[Vendes Konung]], [[Storfurste av Finland|Storfurste till Finland]], Hertig  uti Skåne, Estland, Livland, Karelen, Bremen, Verden, Stettin, Pommern, Kassuben och Venden, Furste till Rügen, Herre över Ingermanland och Wismar, så och [[Pfalzgreve]] vid Rhen, i Bayern, samt till Jülich, Kleve och Berg Hertig. Greve till Valdens, Spanheim, Mark och Ravensburg och Herre till Ravenstein.''<ref>http://eurulers.angelfire.com/sweden.html</ref>
+
+== Barndomen ==
+Karl XII föddes på [[slottet Tre Kronor]] den 17 juni [[gamla stilen|g.s.]] (27 juni, [[Nya stilen|n.s.]]) 1682. Hans far Karl XI skrev i sin almanacka:
+:''Den 17 juni, som var om lördagsmorgonen klockan tre fjärdingar på sju, blev min gemål förlossad och födde en son. Gud vare därför innerligen tack och lov, som haver hulpit henne, han hjälpe henne snart till sin förra hälsa igen!''<ref>Liljegren, Bengt (2000), sid. 16</ref>
+Karl XII fick en omfattande utbildning. Bland hans lärare märks särskilt professorn vid [[Uppsala universitet]] [[Andreas Nicolai]] (Norcopensis, adlad Nordenhielm), kanslirådet [[Thomas Polus]], kammarherren [[Gustaf Cronhielm]], ingenjörsofficeren [[Carl Magnus Stuart]] och [[Strängnäs]] biskop [[Erik Benzelius d.ä.]]. Karl XII var ett begåvat barn och lärde sig [[latin]], [[tyska]] och [[franska]], samt fick goda insikter i de för denna tid viktiga teologiska frågorna. I fält lärde han sig senare också lite finska för att kunna göra sig förstådd också hos sina finska trupper. Särskilt intresserade han sig emellertid för matematiken och den militära undervisningen. Samtidigt som han fick god kunskap i allt som ansågs tillhöra en dåtida furstes vetande, fick han också god fysisk träning genom att han tidigt började delta i faderns jakter och långritter.<ref name="Livrustkammaren">''I Karl XII:s fotspår'', informationsblad av [[Livrustkammaren]]</ref> Sedan den unge prinsens mor, drottning Ulrika Eleonora, hade avlidit 1693, och då hans far var mycket upptagen av rikets styrning, tog änkedrottningen [[Hedvig Eleonora av Holstein-Gottorp|Hedvig Eleonora]] hand om prinsens och hans båda systrars uppfostran. De tre kungabarnen kom genom detta att få starka band till sin farmor, som de genom livet stod mycket nära.
+
+== Förmyndarstyrelsen ==
+Vid knappt femton års ålder blev Karl XII Sveriges kung efter faderns död den 5 april 1697. Den av fadern förordnade förmyndarstyrelsen utgjordes av änkedrottningen (med två röster) samt de fem kungliga råden: kanslipresidenten [[Bengt Gabrielsson Oxenstierna]], [[Kristofer Gyllenstierna]], [[Fabian Wrede d.ä.]], [[Nils Gyldenstolpe]] och [[Lars Wallenstedt]]. Samarbetet i förmyndarstyrelsen fungerade inte bra, delvis beroende på minnet av den hårda kritik som drabbat [[Karl XI]]:s förmyndare, och råden försökte nu skydda sig genom att ofta kalla in den unge kungen till överläggningarna och förmå honom att själv uttala sig i olika frågor. Senare väcktes dock tanken att det vore lämpligast att låta kungen själv överta regeringsansvaret. Vid den riksdag som med anledning av Karl XI:s begravning hade sammankallats till Stockholm i november 1697 framställdes inom adeln, under samförstånd med förmyndarna och rådet, förslaget att kungen omedelbart skulle förklaras myndig. Detta förslag godkändes också av samtliga stånd. Sedan förmyndarna nedlagt sitt uppdrag och ständerna den 13 december gett kungen sin hyllningsed, blev Karl XII den 14 december 1697 krönt i [[Stockholms Storkyrka]]. Vid ceremonien framhölls hans ställning som enväldig kung genom att han inte avgav någon [[kungaförsäkran]] samt att han själv satte [[krona]]n på sitt huvud.<ref name="Livrustkammaren"/> Själva kröningen förrättades dock av ärkebiskop [[Olaus Swebilius]].<ref>Gabriel Anrep, Adlerbergs tabeller i ''Svenska adelns Ättar-taflor'', Band 1.</ref> Kröningsmåltiden intogs i [[Wrangelska palatset]].
+
+== Fredsåren ==
+[[Fil:Karl XII 1697.jpg|miniatyr|Karl XII porträtterad 1697 av [[David Klöcker Ehrenstrahl]].]]
+Karl XII tillträdde som enväldig monark under ganska svåra inre och yttre förhållanden. Han gjorde då till sin regel att följa i sin fars fotspår i styrelseärenden; liksom även när det gällde arbetsdisciplin, enkelt levnadssätt och motion. Liksom sin far var han skeptisk till rådgivare och de gamla kungliga råden miste därför nästan allt inflytande. Kungen, som ju fortfarande bara var ett barn, var blyg och skygg och slöt sig inom sig själv och avgjorde viktigare angelägenheter med endast sina utsedda förtrogna, [[Carl Piper (1647–1716)|Carl Piper]] för inrikes ärenden och [[Thomas Polus]] för utrikespolitiken. Med samma skygghet mötte han de ivriga uppmaningarna att han borde gifta sig med en [[Danmark|dansk]] eller [[Holstein-Gottorp|holsteinsk]] [[prinsessa]], som omedelbart efter myndighetsförklaringen presenterades honom från olika läger. Sannolikt skapades redan nu hans senare olust till giftermålsplaner.
+
+[[Fil:Karl XIIs vagga (ur Svenska Familj-Journalen 1879).png|miniatyr|vänster|Karl XII:s [[vagga]] (ur ''[[Svenska Familj-Journalen]]'' 1879).]]
+Ett kortare avbrott i Karl XII:s enstöriga liv inträdde när hans kusin hertig [[Fredrik IV av Holstein-Gottorp]] på våren 1698 kom till [[Stockholm]] för att fria till kungens syster, prinsessan [[Hedvig Sofia]]. Hertigen var vild och levnadsglad och lockade sin unge släkting till en del omtalade nöjen (det så kallade [[holsteinska raseriet]]) vilket dock upphörde när det nygifta hertigparet i september samma år lämnade Sverige.
+
+I den inre styrelsen behöll Karl XII det regeringssätt som hans far grundat och utvecklat. De förhoppningar som några hyst under hans myndighetsförklaring, att han skulle minska sin makt samt avbryta [[Reduktion (historia)|reduktionen]] och lindra de hårda [[räfst]]erna, kom helt på skam. Redan från början tålde kungen ingen inskränkning i sin [[suveränitet]], och dessa tendenser stärktes ytterligare under den senare delen av hans regeringstid. Fortsättningen av reduktionsarbetet avbröts visserligen i början av krigsperioden, med vad gällde det som redan skett gjordes inga ändringar. Karakteristisk är den [[rättegång]] mot en av rikets främsta män, [[Nils Bielke (1644-1716)|Nils Bielke]], som började 1698.
+<!--[[Fil:Karl XIIs gångstol (ur Svenska Familj-Journalen 1879).png|miniatyr|vänster|Karl XII:s [[gångstol]] (ur ''Svenska Familj-Journalen'' 1879)]]-->
+
+På det kyrkliga området var Karl XII hårt renlärig och gick också här i sin fars fotspår. Under kriget i Polen befallde han i en skrivelse (daterad 7 juni 1706) till rådet i Stockholm att de skulle ha noga uppsikt över [[pietism|pietister]] samt förbjuda svenska studerandes resor till de tyska akademier som var färgade av synsättet. Under år 1703 avslutades projektet med den nya bibelöversättningen som Karl XI påbörjade ([[Karl XII:s bibel]]).
+
+I övrigt lade kungen ned mycket arbete under sitt första styrelseår på att minska den nöd som hade drabbat stora delar av landet genom en rad svåra missväxtår. Stora omkostnader blev det också för återuppbyggandet av [[Stockholms slott]] efter [[Slottsbranden 1697|den stora branden]] där den 7 maj 1697. Vid det [[stora nordiska kriget]]s utbrott fick dessa fredliga aktiviteter till stor del avbrytas. Den 16 april 1700 avreste Karl XII från Stockholm, som han sedan aldrig skulle få se igen. Under de följande åren brevväxlade han flitigt med rådet i Stockholm som han försökte leda från distans, men hans uppmärksamhet orienterades alltmer åt krigföringen och utrikespolitiken.
+
+== Utrikespolitiska vägval ==
+[[Fil:Carl XII of Sweden.jpg|miniatyr|stående|Karl XII år 1700, målning av [[David von Krafft]] från 1706.]]
+Även i utrikespolitiken sökte Karl XII vägledning från faderns politiska system. Grundpelarna var en neutral hållning i Västeuropas stora konflikter, vänskap med sjömakterna [[England]] och [[Nederländerna]] och om möjligt även med [[Frankrike]]. Slutligen måste [[Danmark]] hållas under uppsikt och försvagas genom allianser med [[huset Hannover]] och kraftigt understöd åt hertigen av [[Holstein-Gottorp]].
+
+Under 1698 förnyades Sveriges tidigare förbund med sjömakterna samt Danmark, och det slöts ett nytt med Frankrike. Samtliga var allmänt skrivna och angav egentligen endast den svenske kungens önskan att åt alla håll föra en fredlig och vänskaplig politik. Själv var Karl XII vid sitt regeringstillträde helt oerfaren på utrikespolitikens område, och under hela sin livstid var han genom sin rättframhet och ordhållighet främmande för den intriganta statskonst, som de olika furstekabinetten ofta försökte överlista varandra med. 
+
+Olyckligtvis var Sveriges diplomater i utlandet inte vuxna sin uppgift i denna farliga tid. Deras uppmärksamhet ägnades nästan uteslutande åt den gamla tvisten mellan [[Danmark]] och [[Holstein-Gottorp]], vilken på försommaren 1697 ytterligare förvärrades, och var föremål för långa men resultatlösa underhandlingar under en kongress i [[Pinneberg]]. Understödjandet av [[huset Gottorp]] mot Danmark blev även i fortsättningen en hörnsten i Sveriges utrikespolitik, utan att man tillräckligt uppmärksammade de konflikter från andra håll som framkallades.
+
+== Stora nordiska kriget ==
+{{Huvudartikel|Stora nordiska kriget}}
+
+=== Krigsutbrottet ===
+Redan vid tiden för Karl XI:s död försökte Danmark i hemlighet knyta förbindelser med [[Ryssland]], för att där vinna stöd mot Sverige. Den svenska regeringens energiska inskridande till Holstein-Gottorps förmån gav Danmark anledning att lägga ytterligare vikt vid denna förbindelse, vilken emellertid under [[Peter I av Ryssland|tsar Peters]] långa västerländska resa (1697–98) inte gjorde några egentliga framsteg. I detta skede började [[August den starke]], [[kung]] av [[Polen]] och [[kurfurste]] av [[Sachsen]], understödd av den landsflyktige livländske adelsmannen och politikern [[Johann Patkul]], dra upp planer för en erövring av Livland. Hans förslag om ett [[anfallsförbund]] mot Sverige fann god jord i [[Köpenhamn]] och [[Moskva]], och delvis även i [[Berlin]]. Under sommaren och hösten 1699 förhandlades i djupaste hemlighet allianser mellan Danmark, Ryssland och kung August fram. I februari år 1700 angrep så de sachsiska trupperna [[Riga]] med närliggande befästningar, och i mars samma år inskred kung [[Fredrik IV av Danmark]] med väpnad makt mot hertigen av Holstein-Gottorp. Därmed hade [[stora nordiska kriget]] inletts, vilket skulle komma att vara ända till 1721.
+
+=== Danmark ===
+{{Huvudartikel|Karl XII:s anfall mot Danmark 1700}}
+
+Om alla de hotande förberedelserna från Sveriges grannländer hade den svenska diplomatin inget att berätta, varför överfallet kom fullständigt oväntat. Karl XII beslöt att genast slå till hårt mot Danmark, medan [[Livland]]s försvar nödtorftigt stärktes genom att trupper skickades dit från [[Finland]]. Sålunda drev han hårt på utrustningen av [[flottan]] i [[Karlskrona]], samt rekvirerade diplomatiskt stöd och flottstöd från sina allierade [[England]] och [[Nederländerna]]. När de allierades flotta kommit till [[Öresund]] lyckades Karl XII, genom en av [[Hans Wachtmeister (1641–1714)|Hans Wachtmeister]] på kungens uttryckliga befallning företagen vågsam seglats genom [[Flintrännan]] i juli, förena sin flotta med denna, trots danskarnas försök att hindra detta. Den 25 juli 1700 genomfördes under kungens personliga befäl en lyckad landstigning vid [[Humlebæk]] med 4&nbsp;300 man. Svenskarna mötte svagt motstånd, och hotet mot [[Köpenhamn]] tvingade [[Fredrik IV av Danmark|Fredrik IV]] att lyssna till sjömakternas krav och att den 8 augusti sluta [[freden i Traventhal]] med hertigen av Holstein-Gottorp, där han även förband sig att överge förbundet med Sveriges fiender.
+
+=== Undsättande av Östersjöprovinserna ===
+[[Fil:Victory at Narva.jpg|miniatyr|[[Segern vid Narva]], målning av [[Gustaf Cederström]] från 1910.]]
+När Karl XII efter denna snabba framgång förberedde en undsättningsexpedition till Livland nåddes han i [[Blekinge]] av underrättelsen att även [[tsar]] [[Peter I av Ryssland|Peter]] förklarat krig och börjat belägra [[Narva]]. Sedan han den 6 oktober landstigit vid [[Pernau]] fick han veta  att August den starke hade upphävt sin fruktlösa belägring av Riga. Karl XII skred nu i stället till Narvas undsättning. Vid ankomsten till trakten av Narva yrkade han på ett omedelbart angrepp på de ryska linjerna, och under ledning av [[Carl Gustaf Rehnskiöld]] vann så svenskarna den 20 november den lysande segern i [[slaget vid Narva]], en av den svenska militärhistoriens största segrar. Under vintermånaderna, medan Karl XII i trakten av [[Dorpat]] (själv residerade han i slottet [[Lais]]) övade sina trupper, stärkte kung August sitt förbund med tsar Peter genom ett personligt möte med denne i [[Birsen]] år 1701. Han avtvingade tsaren löfte om betydande subsidier och ryska hjälptrupper, och hoppades att därigenom bli i stånd att under sommarens fälttåg erövra Riga. Samtidigt med detta var det tänkt att tsar Peter genom anfall på [[Ingermanland]] skulle oroa svenskarna. Karl XII beslöt sig emellertid för att uppsöka och krossa kung Augusts egen krigsmakt i [[Kurland]], och vände sig sålunda på sommaren 1701 mot trakten av Riga. Den 9 juli gick han över floden [[Düna]] med de svenska trupperna, och på flodens södra strand mötte han och besegrade den [[Sachsen|sachsiska]] armén i [[slaget vid Düna]]. Efter detta kunde svenskarna sätta sig i besittning av Kurland.
+
+=== Krigspolitiska vägval ===
+I [[Italien]] hade vid denna tidpunkt den konflikt utbrutit som kom att leda till det [[spanska tronföljdskriget]] och omfatta hela Västeuropa. Alla parter som var engagerade i denna konflikt arbetade hårt för att knyta till sig stöd från utomstående staters sida. August den starke bedrev därvid ett dubbelspel på högsta nivå, och bjöd ut sina tjänster växelvis åt den ene och den andra parten i konflikten, samtidigt som han försökte göra båda till freds genom en del knappast allvarligt avsedda fredsinviter till Sverige, allt under det att han arbetade hårt för att förstärka sin för Polen avsedda krigsmakt. På den svenska sidan höjdes nu åtskilliga röster, framför allt från [[Bengt Gabrielsson Oxenstierna]], för att man borde sluta fred med kung August och försöka ingripa i den västeuropeiska konflikten. Karl XII betraktade emellertid, och detta säkerligen med fullt fog, utsikterna till en varaktig fred med kung August som ytterst små. Han hade heller ingen lust att offra de möjligheter som nu tycktes finnas att tukta de farliga grannarna för en inblandning i den spanska konflikt som inte berörde Sverige. Karl XII gjorde därför till regel att i de västeuropeiska stridigheterna iaktta strikt neutralitet, dock under fasthållande av den för Sverige gynnsamma vänskapen med sjömakterna, för att kunna samla alla krafter mot kung August och dennes allierade tsar Peter. Av dessa båda ansåg han att August genom sin sachsiska krigsmakt var den mäktigaste, liksom han var den mest  opålitlige, och han önskade därför slå så hårt mot denne att han för framtiden blev ur stånd att skada Sverige. Möjligheterna till detta visade sig nu finnas i det inrikespolitiska läget i Polen alltsedan Augusts regeringstillträde.
+
+==== In i Polen ====
+{{Huvudartikel|Karl XII:s polska fälttåg}}
+År 1702 besegrades polacker och ryssar vid [[Kliszow]]. Samtidigt anföll tsar Peter det svenska Livland men besegrades i [[Slaget vid Gemäuerthof]] med följden att en värdefull rysk [[tross (militär)|tross]] föll i svenska händer. [[Freden i Warszawa|Fred slöts i Warszawa]] 1705 men än var inte August besegrad. På den polska tronen uppsattes [[Stanisław Leszczyński]].
+
+==== Uppgörelsen i Sachsen ====
+År 1706 marscherade svenskarna in i Sachsen österifrån. En ny sachsisk-rysk här anföll vid [[Slaget vid Fraustadt|Fraustadt]] men besegrades. Den andra freden, som satte punkt för fälttåget och förhöjde Karl XII av Sverige till toppen av hans bana, slöts i [[Freden i Altranstädt|Altranstädt]] 1706. Året därpå marscherade den nyförstärkta svenska armén ut ur Sachsen, på väg österut.
+
+=== Mötet med tsar Peter ===
+{{Huvudartikel|Karl XII:s ryska fälttåg}}
+[[Fil:Karl XII at horse.jpg|miniatyr|Karl XII till häst.]]
+I augusti 1707 bröt Karl XII med en till stor del nyvärvad och välutrustad armé upp från Sachsen. Det återstod nu för honom att genom tsar Peters besegrande framtvinga en för Sverige fördelaktig och betryggande fred med Ryssland, och sålunda även åt detta håll befästa den nyupprättade polska styrelsen. För detta ändamål ville han med samlande av alla disponibla trupper rikta ett avgörande slag mot det ryska rikets centralpunkt, [[Moskva]]. Om han lyckades med detta skulle de dittills föga betydande ryska erövringarna i [[östersjöprovinserna]] falla av sig själva. I vilken mån Karl XII vid dessa operationer lade vikt vid ett samtidigt angrepp från Finland på tsarens anläggningar vid [[Neva]] och på understöd från oroliga element i södra Ryssland är osäkert. Säkert är i varje fall att han förutsåg ett ganska långvarigt krig. För att härunder göra regeringen i Sverige mera handlingskraftig än förut hade han från Sachsen sänt hem några av sina mest betrodda män, [[Arvid Horn]] för att inträda i rådet och [[Magnus Stenbock]] för att som [[guvernör]] i [[Skåne]] styra detta av danska erövringsplaner alltid hotade landskap. Sedan Karl XII genom en besvärlig vintermarsch utmanövrerat ryssarna ur de egentliga polska områdena samt förmedlat en uppgörelse mellan kung Stanisław och August den starkes anhängare i [[Litauen]], lämnade han vid uppbrottet från [[Vilnius]]trakten (Radoszkowice ''Radoszkowicze'' Радашко́вічы  nära [[Molodetjno]], [[Minsk]]) i juni 1708 kvar general [[Ernst Detlof von Krassow]] med 8&nbsp;000 man i Polen, med uppgift att fullständigt konsolidera Stanisławs välde samt att följande år i förening med en polsk armé förstärka de svenska styrkorna. 
+
+För årets fälttåg medförde Karl XII omkring 34&nbsp;000 man, och utöver detta beordrade han [[generalguvernör]]en i [[Riga]], [[Adam Ludwig Lewenhaupt]], att med sin här rycka fram från [[Kurland]] för att förstärka huvudhären, medförande betydande förråd. Redan vid denna tid torde han också ha börjat ägna uppmärksamhet åt de framställningar om samverkan mot tsaren som de [[ukrainare|ukrainska]] [[kosack]]ernas [[hetman]] [[Ivan Mazepa]] åtminstone sedan hösten 1707 i hemlighet låtit göra hos honom. Kungens närmaste avsikt verkar ha varit att genom en framryckning mot Moskva tvinga den ryska krigsledningen till en avgörande strid. Gentemot det hotande angreppet försökte tsar Peter och hans generaler sätta ett kraftigt försvar vid flodövergångarna. Dessutom använde de sig av den [[brända jordens taktik]], så att underhållet skulle försvåras, samtidigt som man försökte oroa och riva upp enskilda svenska truppavdelningar. 
+
+I avvaktan på Lewenhaupts anslutning ryckte Karl XII fram långsamt, och kringgick i allmänhet de ryska försvarspositionerna. Endast vid övergången av floden [[Vabitj]] vid staden [[Holowczyn]] den 4 juli 1708 gick han till anfall. I [[slaget vid Holowczyn]] anförde Karl XII personligen [[Livgardet]]s [[bataljon]]er och de ryska försvararna under [[fältmarskalk]] [[Boris Sjeremetiev]] drevs undan, svårt tilltygade. Svenskarna var endast 12&nbsp;500 man, medan ryssarna räknades till 39&nbsp;000 man. Segern i detta slag räknas som en av Karl XII:s främsta. Efter denna lysande seger dröjde den svenske kungen under nio veckor i [[Mohilew]] och trakterna närmast öster därom, mellan [[Dnjepr]] och dess biflod [[Sozj]], alltjämt inväntande Lewenhaupts försenade ankomst. Sannolikt hade han där övertygat sig om svårigheterna av att rycka fram genom de skogiga och glest befolkade trakterna mellan [[Smolensk]] och Moskva, och han beslöt att söka en bättre angreppsväg längre söderut, från [[Severien]] eller [[Ukraina]].
+
+När han den 15 september vände mot söder från [[Tatarsk]], var emellertid Lewenhaupt alltjämt så långt efter, att tsar Peter lyckades hinna upp denne och i [[slaget vid Lesna]] den 29 september tillfoga honom svåra förluster. Särskilt illa för svenskarna var det att ryssarna kunde förstöra de förråd som Lewenhaupt medförde och som var ämnade för den svenska huvudhären. Karl XII stötte nu också själv på motgångar. Som chef för en stark förtrupp hade [[generalmajor]] [[Anders Lagercrona]] till uppgift att säkra vissa stödjepunkter och förbereda huvudarméns [[vinterkvarter]]. Han tog emellertid fel på vägen, vilket medförde att ryssarna kunde besätta det viktiga passet vid [[Potjep]], över vilket vägen från Severien ledde åt Moskvahållet, liksom även Severiens huvudort [[Starodub]]. Då sålunda denna anfallsväg stängdes beslöt Karl XII gå till Ukraina för att fullborda förbindelsen med Mazepa, för att där kunna få goda vinterkvarter och få en öppen väg över Kiev för det väntade understödet från Polen. Mazepa såg dock ogärna den svenska hären i sitt eget land och fördröjde därför Karl XII:s anmarsch något, vilket medförde att tsar Peters förtrogne [[Aleksandr Mensjikov]] hann inta och förstöra Mazepas huvudstad [[Baturin]]. Samtidigt, under de första novemberdagarna, lyckades dock Karl XII vid [[Mezin]] tilltvinga sig den av ryssarna försvarade övergången över floden [[Desna]]. Baturins öde medförde att Mazepa inte lyckades få med sig alla kosacker i sitt uppror mot tsaren. Den svenska hären tvingades alltså att ta vinterkvarter i ett fientligt land, där den oroades genom mindre angrepp, samtidigt som den decimerades fruktansvärt av 1708–1709 års oerhörda vinterkyla. 1709 års fälttåg inleddes med att den svenska armén [[Stormningen av Veprik|stormade den ukrainska staden Veprik]]. Staden intogs men de svenska förluster var stora.
+
+=== Poltava ===
+{{Huvudartikel|Slaget vid Poltava}}
+Om innebörden av de krigsföretag som Karl XII företog under nämnda vinter är meningarna delade. Likaså är det svårt att säga vilka förberedelser som då gjordes för sommarens fälttåg. Att det bedrevs underhandlingar med de zaporogiska kosackerna och med Rysslands stamfiender [[krimtatarer]]na är säkert, liksom även att Karl XII försökte driva på kung Stanislaws och von Krassows anmarsch från Polen över Kiev. Anslutning av zaporogerna vanns också i mars 1709, medan den polska förstärkningen visade sig dra ut betydligt längre på tiden än vad som beräknats. Antagligen i syfte att sysselsätta fienden och locka ut honom på fältet började Karl XII i maj 1709 belägra den befästa staden [[Poltava]] vid floden [[Vorskla]]. Tsar Peter ryckte med en här på omkring 50&nbsp;000 man till dess undsättning. Underrättelsen att Karl XII under en rekognoscering sårats svårt i foten och sålunda inte som brukligt var kunde föra befälet, verkar ha gjort tsaren böjd att våga ett fältslag. Han gick över Vorskla och slog upp ett befäst läger norr om Poltava. Fastän Karl XII genom smärtorna och den blodförgiftning som hotade att uppstå från det vanskötta såret var oförmögen att med sin vanliga omtanke leda de svenska truppernas rörelser ville han inte försumma tillfället att ta upp striden med tsaren. Därför fick Rehnskiöld befallning att gå till anfall. Angreppet, vilket verkställdes den 28 juni och vari 18&nbsp;000 svenskar deltog, slutade med nederlaget i [[slaget vid Poltava]]. De svenska förlusterna uppgick till omkring 8&nbsp;000 man i döda och 3&nbsp;000 i fångar (bland de senare [[Carl Piper (1647–1716)|Carl Piper]] och Rehnskiöld), och tvingade den återstående delen av härens att marschera söderut längs Vorskla.
+
+Karl XII:s avsikt var nu att föra in sina trupper in på tatarernas område för att där uppbåda stöd och fullfölja kampen. Bland hans underchefer rådde emellertid förvirring och delvis modlöshet. Sedan hären kommit fram till det ställe där Vorskla rinner ut i [[Dnjepr]] förmåddes Karl XII av generalerna att med ett följe på omkring 400 man (dessutom följde Mazepa samt på eget bevåg ett par tusen av hans kosacker) gå över Dnjepr för att skynda före till tatarerna och förbereda härens mottagande. De övriga trupperna skulle sedan under ledning av [[Adam Ludwig Lewenhaupt]] och [[Carl Gustaf Creutz]] föras över efteråt. Sedan kungen avtågat grep emellertid modlösheten omkring sig bland befälen, och då en rysk strövkår på omkring 9&nbsp;000 man under [[Alexander Mensjikov]]s befäl dök upp i norr och Mensjikov djärvt uppmanade svenskarna till kapitulation, samtyckte man till detta och kapitulerade utan försök till motstånd, trots att svenskarna var numerärt överlägsna ryssarna. Genom [[kapitulationen vid Perevolotjna]] den 1 juli råkade totalt 18&nbsp;367 personer i rysk fångenskap.
+
+Den befälhavande generalen Adam Ludvig Lewenhaupts beslut att kapitulera har kritiserats hårt, både av samtiden (inte minst av Karl XII själv) och av eftervärlden. Den svenska armén borde ha tagit upp striden med Mensjikov, som hade numerärt underlägsna trupper, har man menat.
+[[Fil:Axel Sparre - Karl den XII, 1682-1718, kung av Sverige.jpg|miniatyr|stående|Karl XII i [[Bender]]. Målning av [[Axel Sparre]] (1715).]]
+
+=== Karl XII i Osmanska riket ===
+{{Huvudartikel|Karl XII:s vistelse i Bender}}
+Karl XII slog sig ned i [[Bender]] i [[Osmanska riket]]. Han levde kungligt i Bender med sina 2&nbsp;000 män i närmare 6 år. Han hoppades att detta rike skulle gå i krig mot Ryssland, vilket de också gjorde (se [[Rysk-turkiska kriget (1710-1711)]]) och vann, även om kriget inte blev så långtgående som Karl XII hoppats. Efter [[kalabaliken i Bender]] 1713 uppstod ett tumult eftersom Karl XII kostade mycket pengar samtidigt som han hade ett visst inflytande över Osmanska riket vad gällde att föra krig mot ryssarna.
+
+I olika officiella sammanhang begärde osmanske sultanen [[Ahmed III]] att Karl XII skulle behandlas likvärdigt med honom. Detta var unikt, eftersom det normala förfarandet var att främmande kungar skulle anses jämställda med [[vezir]]en, sultanens närmaste man.
+
+Karl XII återspeglar sin lyckliga tid under Osmanska riket genom att återberätta:" I Poltava blev jag tillfångatagen. Detta, var en död för mig, men jag blev fri. Idag är jag hängiven. Jag är hängiven turkarna. De har bundit mig som havet, elden och vattnet inte kunnat göra. Jag har inga kedjor på mina fötter. Jag är inte tillfångatagen. Jag är fri här och gör det jag vill. Men jag är hängiven deras medlidande, adel och artighet. Turkarna omgav mig lik en diamant-linda.
+
+Osmanerna i Bender kallade honom [[Demirbasch]] ("järnhuvudet").<ref>{{bokref |url=http://runeberg.org/nfbf/0082.html |titel=Nordisk familjebok: konversationslexikon och realencyklopedi. Bd 6 |redaktör=Westrin, Th. |utgåva=Ny, rev. och rikt ill. uppl. |år=1907 |utgivare=Nordisk familjeboks förl. |utgivningsort=Stockholm |libris=8072220 |sid=127}}</ref>
+
+Karl hade under den här tiden fått en egen by att bo i, men missnöjet från turkarna växte då han skuldsatt sig. Han förmåddes att återvända hem då Sultanen fällde orden: "Karl, det finns ett folk utan sin kung uppe i norr". Han reste tillbaka till Sverige med en grupp turkar: soldater som eskort och affärsman han lovade att återbetala sin skulder till. Soldaterna valde att stanna kvar i Sverige i stället för svåra resor hem. De fick namnet "Askersson" (ordet ''asker'' på turkiska betyder ''soldat'').<ref>Turkiska tv-dokumentären "Ayna" -  <http://www.videoturko.com/samanyolu-ayna-isvec.html> 45:05-45:56</ref> Under historiens lopp försvenskades dessa turkars ättlingar som fortfarande lever i Sverige.
+
+=== Till häst genom Europa på 14 dagar ===
+{{Huvudartikel|Karl XII:s ritt från Pitești till Stralsund}}
+Hela skaran, totalt omkring 1&nbsp;500 personer, började den 26 oktober 1714 bryta upp för att längs [[Oltdalen]] ([[Turnul Roşu-Passet|Rotenturmpasset]]) gå in i [[Siebenbürgen]]. Karl XII skilde sig samma dag från det brokiga och långsamma följet och for med en liten skara på 24 man före. Den 27 oktober gav sig kungen av i förväg med endast två följeslagare, [[Gustaf Fredrik von Rosen]] och [[Otto Fredrik Düring]], förklädd och under förevändning att beställa hästar för de efterföljande. Karl XII reste som "kapten Peter Frisck", medan Gustaf Fredrik von Rosen och Otto Fredrik Düring kallades "kapten Johan Palm" respektive "Erik von Ungern". Efter att ha startat sin resa i [[Pitești]] klockan 23.10 den 27 oktober nådde kungen och hans två följeslagare fram till byn [[Kenin]] i Siebenbürgen (nuvarande [[Rumänien]]) i skymningen den 28 oktober. Här lämnade kungen von Rosen "med befallning att han fyra timmar efter honom skulle ge sig på vägen och följa honom utan uppehåll i hamn och häl efter", och fortsatte ensam med Düring.
+
+Efter att ha åkt [[postskjuts]] från [[Sebeş|Mühlbach]] i Siebenbürgen till [[Wien]] fortsatte kungen och Düring åter till häst, över [[Bayern]], [[Pfalz]], [[Hessen]], [[Hannover]] och [[Mecklenburg]], för att natten till den 11 november 1714 anlända till [[Stralsund]] i svenska [[Pommern]]. Följet hade sålunda avverkat 2&nbsp;152 [[kilometer|km]] på 14 dygn, det vill säga mer än 15 mil per dygn. Hästarna byttes så gott som dagligen, och flera av dem störtade under vägen. När kungen anlände till Stralsund hade man där ännu inte fått reda på att han lämnat Ungern. Skaran av hans följeslagare från Osmanska riket anlände först i mars 1715 till svenska Pommern.
+
+=== Åter på svensk mark ===
+Kungen lämnade Stralsund med båt natten mellan 11 och 12 december 1715 och landsteg nära Trelleborg den 13 december. Vid sin återkomst till svensk mark fann Karl XII att tsar Peter hade hunnit fullborda Finlands erövring, att Danmark hade tagit [[Bremen-Verden]] och med utsikter om dess besittning försökte locka Georg av Hannover och England in i förbundet, samt slutligen att [[Fredrik Vilhelm I av Preussen]] låtit sina trupper gå in i det av Sveriges fiender tagna [[Stettin]] (den så kallade ''[[Stettinska sekvestern]]''). Då Karl XII bestämt avvisade Hannovers och Preussens anspråk på Sveriges besittningar anslöt sig dessa stater snart öppet till hans fiender (i april respektive oktober 1715). Sveriges återstående besittningar i Pommern, Stralsund och [[Rügen]], samt Wismar, angreps nu av förenade danska och preussiska trupper. Mot dessa dukade de fåtaliga försvararna under: Rügen togs av preussarna i november 1715, och då Stralsund inte längre kunde försvaras räddade sig Karl XII på en [[segeljakt]] över till [[Skåne]], där han steg i land vid [[Stavsten]]s udde (strax väster om  nuvarande [[Trelleborg]]s centrum, invid Trelleborgs Golfklubb) den 23 december 1715. På platsen finns ett minnesmonument. 
+
+Karl XII upprättade nu sitt högkvarter i [[Lund]], där han var närmast krigshändelserna. Det blev nu en helt annan fart på de svenska rustningarna, liksom också ett annat system i förvaltningen än förut. Rådsherrarna i [[Stockholm]] hade under de sista åren i sina skrivelser till kungen så ivrigt klagat över landets nöd och betonat fredsbehovet, att Karl XII misstänkte dem för klenmod och bristande nit. Han sköt dem nu helt åt sidan och överlämnade den närmaste ledningen av såväl inre som yttre politik åt den holstein-gottorpske ministern [[Georg Heinrich von Görtz]]. Denne var ett förträffligt verktyg när det gällde att genom diplomatiska knep söndra och försvaga fienderna samt att till det yttersta mobilisera rikets krafter för att nå en dräglig fredsuppgörelse. Utsikterna för detta var inte alltför dåliga, och om ansträngningarna lyckades hade de tunga offer som krävdes av folket kunnat gottgöras till fullo.
+
+Den bittra ovilja som Görtz ådrog sig från den svenska ämbetsadelns sida, den skandal som vållades när hans stämplingar med den [[stuart]]ske pretendenten [[Jakob Edvard Stuart]] mot [[huset Hannover]] i [[England]] blottlades och strandade, samt slutligen hans politiks fullständiga misslyckande i och med Karl XII:s död, har gjort att domen över dessa strävandens mål, medel och möjligheter varit skäligen partisk från eftervärldens sida. Den snabbhet med vilken Sverige återställde sitt inre välstånd sedan freden slutits, antyder åtminstone att landet inte stått inför omedelbar undergång.
+
+=== Anfallet i Norge ===
+[[Fil:Karl XIIs likfärd (1884), målning av Gustaf Cederström (1845-1933).jpg|miniatyr|''[[Karl XII:s likfärd]]'', målning av [[Gustaf Cederström]] (1884).]]
+{{Huvudartikel|Karl XII:s norska fälttåg}}
+
+Medan Karl XII lät diplomatin genom anbud och underhandlingar åt olika håll pröva möjligheten till separatfreder bedrev han sina rustningar med eftertryck. I januari 1716 samlade han trupper i Lund, troligen med avsikt att gå över isen till [[Själland]], men en plötslig tövädersstorm förhindrade planens genomförande. Ett försök att genom överraskning ta [[Kristiania]] och södra Norges huvudbygd i februari-april 1716 misslyckades också, då han inte kunnat medföra nödvändigt artilleri. Därefter gällde det närmast att värna Skåne, som åter hotades genom [[Peter I av Ryssland|tsar Peters]] och kung [[Fredrik IV av Danmark]]s landstigningsplaner sommaren 1716. Dessa strandade på oenighet mellan tsaren och hans bundsförvanter samt även inför de osäkra utsikterna till framgångsrika operationer inom Sverige. Sedan denna direkta fara avstyrts återupptog Karl XII planen på erövring av Norge.
+
+Han uppehöll tsaren genom [[Ålands historia#Ålandskongressen|fredsunderhandlingar på Åland]] och samlade det mesta av tillgängliga svenska trupper vid den västra gränsen - huvudarmén i Bohuslän och en mindre kår under [[Carl Gustaf Armfeldt d.ä.|Carl Gustaf Armfeldt]] i Jämtland. I slutet av oktober 1718 gick huvudhären över gränsen, varefter Karl XII började belägra fästningen [[Fredriksten]] vid [[Fredrikshald]]. Under kungens personliga ledning skred belägringen snabbt framåt. Då träffades Karl XII mellan klockan 9 och 10 på kvällen söndagen den 30 november i en av de belägrandes löpgravar, den så kallade gamla linjen, av en kula (myten säger att det var en knapp), som genomborrade båda tinningarna och omedelbart medförde döden. Hans lik fördes till [[Tistedalen]] och därefter, vid arméns återtåg, hem till Sverige. Den 13 december kom liket till Uddevalla, där det lades i ekkista, tillverkad på platsen. Den 24 december balsamerades kroppen av Franz Martin Luth, och en "fältriksdag" hölls på [[Kungstorget]] i Uddevalla, och [[Ulrika Eleonora]] godkändes som Sveriges drottning. Den 2 januari 1719 gav sig liktåget av från Uddevalla till Stockholm, där kungen gravsattes i [[Riddarholmskyrkan]] den 26 februari 1719.
+
+== Bilden av Karl XII ==
+[[Fil:Minnesstenen vid Fredrikshald över Karl XII (ur Svenska Familj-Journalen 1867).png|miniatyr|stående|Minnesstenen vid [[Fredrikshald]] över Karl XII (ur ''[[Svenska Familj-Journalen]]'' 1867).]]
+[[Fil:Karl XIIs monogram med nordstjärna (1697).gif|frame|vänster|Karl XII:s monogram med [[nordstjärnan]] (1697).]]
+
+Bilden av Karl XII varierar väldigt mycket i de olika texter som finns om honom.<ref>Nilsson (1995), ff. 39, Den svenska historien 8 (1992), s. 10, Nordisk familjebok (1910), s. 982</ref>  Till stor del beror detta på under vilken tid texten är skriven; vilka ideal och vilken syn på samhället som rådde då.<ref>Nilsson (1995), ff. 42, Nordisk familjebok (1910), ff. 982</ref> Under Karl XII:s regeringstid hade kungarna i Europa väldigt stor makt, en makt som de sedan medeltiden byggt upp medan kyrkan alltmer förlorat sin maktposition.<ref name="Nyström, H 2004">Nyström, H & Nyström, Ö (2004), ff. 134</ref>  På den tiden, och speciellt bland hans egna karoliner, var också bilden av kung Karl XII positiv; han ansågs vara ett militärt geni som ledde sina trupper till stora framgångar och som alltid stred sida vid sida med sina soldater.<ref>Nilsson (1995), s. 42</ref>  
+
+Tittar man däremot på svenska texter som är skrivna väldigt nära efter hans död, dvs. under frihetstiden, ser man att bilden av honom istället ofta är väldigt negativ.<ref name="Nilsson 1995, s. 43">Nilsson (1995), s. 43</ref> Folket var vid hans död nämligen trötta på enväldiga kungar och alla de krig som dominerat i många år, varvid riksdagen istället tog makten och avskaffade det kungliga enväldet.<ref>Nilsson (1995), s. 43, Alm, Lars-Göran (2007), s. 147</ref>  Med tanke på detta synes det helt rimligt att texterna från den tiden ofta beskriver kung Karl XII som misslyckad och som en krigshetsare som var helt känslokall inför lidandet han många gånger orsakade soldaterna och deras anhöriga genom sina ständiga krig. Han fick också skulden för att Sveriges stormaktstid tog slut på grund av hur han förde sina sista krig.<ref name="Nilsson 1995, s. 43"/>  Det faktum att det kungliga enväldet avskaffades till förmån för ett nytt styrelseskick även i England under ungefär samma tid som i Sverige bekräftar ytterligare att folkets bild av kungen ofta speglar samhället under den rådande tiden.<ref name="Nyström, H 2004"/>  
+
+Under romantiken på 1800-talet förändrades dock bilden av Karl XII åter och denna gång framställs han som en riktig hjälte.<ref>Nilsson (1995), ff. 43</ref>  Även detta följer samhällets ideal då nationalismen var väldigt stor då och man hyllade tiden då Sverige varit mäktigt och haft en stark kung samt ett starkt försvar, vilket man ansåg var fallet under Karl XII:s tid.<ref name="Nilsson 1995, s. 43"/>  Kungen hade även fått större makt i Sverige under 1700-talet genom [[Gustav III]]:s utjämning av maktbalansen mellan riksdagen och kungen.<ref>Alm, Lars-Göran (2007), s. 147</ref>  
+
+Synen på Karl XII återgick till att vara negativ under senare delen av 1800-talet och han beskrevs då av den populäre historieberättaren [[Anders Fryxell]] som en strids- och hämndlysten kung som försatte sitt folk i svår nöd,<ref>Nilsson (1995), s. 43 & s. 45</ref>  men mot 1900-talets början blev han åter omskriven som en hjälte. Detta grundade sig till stor del i två historikers{{vem|datum=2012-07}} läroböcker, vilka förmedlade en mycket positiv syn av honom.<ref name="Nilsson 1995, s. 43"/>  I texter från denna tid beskrivs han som hjältemodig, uthållig, tålmodig och gudfruktig med en stark rättskänsla samt självbehärskning.<ref>Nilsson (1995), ff. 45</ref> Karl XII var ett av ämnena i [[Strindbergsfejden]].
+
+Nuförtiden är synen på Karl XII mer kritisk, vilket beror på det svenska samhällets demokratiska och fredliga ideal. Det kungliga enväldet och nationalismen som rådde under Karl XII:s tid samt under romantiken har fått ge vika för demokrati och en strävan efter fred stället för ett starkt försvar. De moderna läroböckerna är dock ofta relativt objektivt skrivna och pekar varken ut Karl XII som en känslokall krigshetsare eller hyllar honom som en hjälte,<ref name="Nilsson 1995, s. 43"/>  men de framhäver ofta hans offensiva stridstaktik samt hans drivande ovilja till att sluta kriga innan han vunnit så mycket som möjligt.<ref>Jämför Nilsson (1995), ff. 48, Alm, Lars-Göran (2007), s. 146, Hermansson Adler, M (2007) ff. 140, Nyström, H & Nyström, Ö (2004), ff. 132, Den svenska historien 8 (1992) ff. 9</ref>  Karl XII anses däremot vara en hjälte bland [[Nazism i Sverige|svenska nynazister]]<ref>[http://expo.se/2009/48_2927.html Nazisterna nådde inte Karl XII-statyn] Expo, 28 november 2009</ref>  och de framhåller karolinernas stridsanda.<ref>Den svenska historien 8 (1992) s. 42</ref> 
+
+Det finns ändå några egenskaper som de flesta som skrivit om Karl XII är överens om. Många lyfter fram den uppfostran han fick av sin mor, vilken lärde honom gudfruktighet, rättvisa, mildhet och sanningskärlek. Han fick också en god undervisning i de olika läroämnena samt lärde sig stridskunskaper och djärvhet av sin far, vilken ofta tog med Karl XII på jakt. 
+
+Även uppfattningen om att han till det yttre dolde sin kunglighet och klädde sig i en svensk krigardräkt istället för i kunglig dräkt, tycks vara allmänt utbredd. Likaså den uppfattningen att han till en början ledde sina trupper med stor framgång, att han ständigt stred tillsammans med sina soldater och att han alltid arbetade hårt för att styra Sverige. Karl XII:s innerliga kärlek till sin ena syster omnämns också i texter från olika tider. Många tycks dock även instämma i några mer negativa egenskaper som Karl XII tycks ha besuttit, nämligen att han var oerhört envis och egensinnig.<ref>Jämför Nilsson (1995), ff. 44, Alm, Lars-Göran (2007), s. 146, Hermansson Adler, M (2007) ff. 140, Nyström, H & Nyström, Ö (2004), ff. 132, Nordisk familjebok (1910), ff. 982, Den svenska historien 8 (1992), ff. 9</ref>
+
+== Karl XII i litteraturen ==
+Även utanför Sverige har intresset varit betydande. [[Voltaire]] skrev redan 1731 en biografi, där han intar den även senare inställningen och parar beundran för hans person med en mer skeptisk inställning till hans politik,<ref>Nationalencyklopedin: ''Karl XII''</ref> och [[Samuel Johnson]]s dikt "The Vanity of Human Wishes" handlar delvis om honom.
+
+En omfattande litteratur finns beträffande omständigheterna kring Karl XII:s död. Efter [[Lauritz Weibull]]s uppsats i Scandia (1930) märks bland andra ''Karl XII:s död'' av [[Albert Sandklef]], [[Carl-Fredrik Palmstierna]], [[Nils Strömbom]] och [[Samuel Clason|Sam. Clason d.y.]] (1940), ''Gåtan från Fredrikshald'' av Sam. Clason (1941), och ''Sanning och sägen om  Karl XII:s död'' av [[Nils Ahnlund]] med flera (1941).<ref name="Andersson">Andersson (1950)</ref>
+
+I den svenska skönlitteraturen och belletristiken i allmänhet är denna tid i svensk historia flitigt behandlad. Redan de med Karl XII samtida skalderna skrev om honom och under [[frihetstiden]] bland andra [[Olof von Dalin]]. <ref name="Andersson"/>
+
+I början av 1800-talet skildrade [[Esaias Tegnér]] i dikten "[[Karl XII (dikt)|Karl XII]]" kungen som den store hjälten och [[Erik Gustaf Geijer]] ägnade honom en dikt, [[Viken, tidens flyktiga minnen|Narvamarschen]]. I ett band av ''[[Fältskärns berättelser]]'' behandlade [[Zacharias Topelius]] i mitten av århundradet Karl XII:s tid. Då gav också [[Gustaf Henrik Mellin]] ut en historisk novell, 25-öresboken ''Flickorna i Askersund - en berättelse från Carl XII:s tidevarv'' som ger en småstadsbild från 1709.  I slutet av århundradet kom [[Carl Snoilsky]]  med några av sina ''[[Svenska bilder]]'' från Karl XII:s tid, liksom [[Verner von Heidenstam]] med ''[[Karolinerna (bok)|Karolinerna]]''.<ref name="Andersson"/>
+
+Under 1900-talet dramatiserade [[August Strindberg]] kungen i slutskedet av hans liv i pjäsen ''[[Karl XII (pjäs)|Karl XII]]'' och [[Frans G. Bengtsson]] skrev biografin ''[[Karl XII:s levnad]]''. Med utgångspunkt i en berättelse från karolinernas återkomst byggde [[Elin Wägner]] upp sin roman ''Vinden vände bladen'' där ett av dess ledmotiv är urgammal samhällstradition i Småland.<ref name="Andersson"/>
+
+I England gav författaren Edith M. Almedingen 1938 ut en skönlitterär bok med titeln ''The Lion of the North - (Charles XII, king of Sweden)''<ref>[http://en.wikipedia.org/wiki/E._M._Almedingen Almedingens] förlag: Constable & Co., London, 1938</ref>
+
+== Minnesmärken över Karl XII ==
+[[Fil:Carolus XII dress livrustkammaren museum stockholm.jpg|miniatyr|Karl XII:s uniform som han bar när han dog.]]
+[[fil:XIIKárolySvédKirály Váci43.jpg|miniatyr|Minnesplakett i [[Budapest]] över att Karl XII rastade där i november 1714, under sin ritt mot Stralsund.]]
+[[Karl XII:s staty]] av [[Johan Peter Molin]] avtäcktes den 30 november 1868 i [[Kungsträdgården]] i [[Stockholm]]. Den svenska armén reste 1860 en vård till hans minne vid [[Fredrikshald]]. Minnesvården är belägen ett gott stycke norr om den plats där, enligt noggranna historisk-topografiska undersökningar, kungen torde ha drabbats av det dödande skottet. Denna plats utmärks nu av en där av general Ræder som kommendant på Fredrikstens fästning (1899) uppsatt enkel minnesvård, bestående av en korsmärkt granitkula jämte minnestavla. Till minne av Karl XII:s vistelse i [[Altranstädt]] och fördraget där 1707 avtäcktes den 1 september 1907 en [[obelisk]] på slottsborggården. En av den ungerske skulptören R. Füredi utförd minnestavla, i relief framställande Karl XII till häst, avtäcktes i april 1924 i [[Debrecen]] till minne av att Karl XII under sin hemfärd från [[Osmanska riket]] rastade där den 13 november 1714. Minnestavlan avser samtidigt att vara ett uttryck för Debrecens studenters tacksamhet för svensk hjälp under nödåren efter [[första världskriget]]. Även i Budapest finns en minnestavla.
+
+== Öppnandet av Karl XII:s grav ==
+På framställan av [[Karolinska förbundet]]s styrelse medgav [[Kungl. Maj:t]] år 1917 att i samband med förestående reparationsarbete på Karl XII:s [[sarkofag]] kungens kista skulle få öppnas och en förnyad vetenskaplig undersökning företas av skottskadan på [[kranium|kraniet]]. Denna undersökning, som leddes av [[professor]] [[Carl Magnus Fürst]] och utsträcktes att gälla även kungens benbrott och skottskada i foten, verkställdes den 18 juli 1917 i det [[Gustavianska gravkoret]], dit kistan hade flyttats dagen innan¹. 
+
+Undersökningens resultat presenterades först i samband med ett föredrag på [[Karolinska förbundet]]s sammankomst den 30 november 1917, och sammanfattades i den av Algot Key-Åberg och [[Arthur Stille]] utgivna publikationen ''Konung Karl XII:s banesår'' (1918) på så sätt, att den dödande projektilen varit en enda, rund och av [[kaliber]]n 18–20 mm samt passerat genom hjärnskålen med initialöppning i vänstra tinningtrakten och utgångsöppning i den högra, i sannolikt rak bana med förlopp något riktat bakåt. Projektilbanan inom huvudet har "under förutsättning att huvudet, då projektilen passerade därigenom, intagit vanlig upprätt ställning, inte företett någon avsevärd lutning mot rummets horisontala plan". Projektilen har "med stor levande kraft tillryggalagt vägen genom huvudet". 
+
+Tidigare gravöppningar hade skett 1746, 1799 och 1859, varav endast den sista kan räknas som rättsmedicinsk, då läkaren [[Gustaf von Düben (läkare)|Gustaf von Düben]] förde protokoll.<ref>{{bokref |efternamn=Düben |förnamn=Gustaf von |författarlänk=Gustaf von Düben (läkare) |titel=Konung Carl den tolftes dödssätt: historiska handlingar, protokoll öfver 1859 års besigtning af konungens banesår, samt sammandrag af diskussionerna därom i Svenska Läkarsällskapet |år=1860 |utgivare=Norstedt |utgivningsort=Stockholm |libris=2002045}}{{Sida behövs|xxx|datum=2012-02}}</ref> Med största sannolikhet har graven även öppnats inofficiellt vid flera tillfällen.
+
+== Stupad eller lönnmördad? ==
+[[Fil:CharlesXIIAutopsy1916.jpg|miniatyr|Foto av Karl XII:s kranium (1917).]]
+Inte långt efter Karl XII:s död började rykten spridas att kungen hade lönnmördats. I en recension av [[Algot Key-Åberg]] och [[Arthur Stille]]s "Konung Karl XII:s banesår" i ''[[Historisk tidskrift]]'' 1919 av [[Carl Hallendorff]] drar denne slutsatsen att enligt detta undersökningsresultat lönnmord inte är uteslutet. [[Ballistik]]experten [[Gunnar Grenander]] (1988) har dock med en ballistisk och topografisk undersökning kategoriskt avvisat tanken på ett lönnmord. Grenanders slutsats är att Karl XII träffades av en så kallad [[druvhagel]]kula som sköts från någon av fiendens kanoner på det cirka 625 m avlägsna Overberget. 
+
+Rolf Uppström visar i boken ''Mysteriet Karl XII:s död'' (1994) att Grenander har begått flera sakfel – till exempel skall han ha räknat fel på kulans hastighet och varit "dåligt påläst" i största allmänhet. Uppström avvisar på punkt efter punkt Grenanders argument och visar att Overberget med största sannolikhet kan räknas bort som kulans utgångsplats. Dessutom är kulhålet i Karl XII:s kranium för stort för att norska [[musköt]]er ska kunna komma i fråga. Men svenska musköter laddades med kulor av samma storlek som den dödande kulan måste ha haft. I Karl XII:s kranium finns inte heller blysplitter, och för att få en norrman som skytt, måste Grenander föreslå druvhagel. 
+
+Huvudalternativet till Grenanders teori är den så kallade "[[kulknappen]]", som finns på [[Varbergs museum]]. Kulknappen bygger på en sägen som säger att Karl XII blev skjuten från de svenska leden och att en soldat Nordenstierna skall ha sett detta samt plockat upp kulan, som han fann vara en omgjord knapp från en av Karl XII:s uniformer. Han skall sedan ha tagit med kulan hem till Deragård, som ligger i Öxnevalla i Västergötland. Nordenstiena skall efter en prästs råd ha kastat kulknappen i ett grustag, där den av en slump återfanns 1924 för att 1932 slutligen hamna på Varbergs museum. 
+
+År 2002 genomfördes [[DNA]]-undersökningar under ledning av med. dr [[Marie Allen]] vid [[Uppsala universitet]] av blodresterna på den berömda "kulknappen". De visade sig överensstämma med Karl XII:s [[DNA-profil]]. Blodresterna var dock alltför begränsade för att några säkra slutsatser skulle kunna dras.
+
+[[Fil:Carl12Riddarh.jpg|miniatyr|Karl XII:s sarkofag i Riddarholmskyrkan.]]
+Både Grenanders förslag (druvhagel från Overberget) och kulknappsteorin anses av många för osannolika, och Peter From söker i sin bok ''[[Karl XII:s död - gåtans lösning]]'' (2005) leda i bevis att den dödande kulan avlossades av en norrman med musköt. I boken, som är den hittills mest omfattande undersökning som har gjorts kring [[Karl XII:s död]], tar författaren hjälp av expertis från hela världen för att styrka teorin om muskötkulan. Senare har historikern [[Dick Harrison]] anslutit sig till Peter Froms uppfattning.
+
+[[Peter Englund]] omfamnar Svante Ståhls avhandling där dödsorsaken anges vara ett [[Kartesch]]skott från Overberget vilket överensstämmer med uppgifterna av ögonvittnena. Frånvaron av blyrester i såret förklaras av Ståhls bevisning av smidda järnskrån i möjlig kaliber förekom i fästningens inventarieförteckning.
+
+Rolf Uppström återkom till ämnet 2006 då han i en artikel i Karolinska Förbundets Årsbok granskade de senaste årens forskning. Hans slutsats blev att frågan fortfarande var långtifrån avgjord och förordade nya undersökningar. En undersökningsgrupp med historiker, medicinare och tekniker bildades i slutet av 2007 på initiativ av Bengt Grisell vid Kungliga Tekniska Högskolan i Stockholm. En ansökan om gravöppning kommer att göras. Syftet är bland annat att göra förnyade fotograferingar av kraniet, och elektronmikroskopisk undersökning av lösa benbitar i kraniet för att utröna vilka eventuella metallrester som finns kvar.
+
+== Anfäder ==
+{{anfäder
+|namn='''Karl XII'''
+|far= [[Karl XI]]
+|farfar= [[Karl X Gustav]]
+|farfarsfar=[[Johan Kasimir av Pfalz-Zweibrücken]]
+|farfarsmor=[[Katarina av Sverige]]
+|farmor= [[Hedvig Eleonora av Holstein-Gottorp]]
+|farmorsfar= [[Fredrik III av Holstein-Gottorp]]
+|farmorsmor= [[Marie Elisabeth av Sachsen]]
+|mor= [[Ulrika Eleonora av Danmark]]
+|morfar= [[Fredrik III av Danmark]]
+|morfarsfar= [[Kristian IV av Danmark]]
+|morfarsmor= [[Anna Katarina av Brandenburg]]
+|mormor= [[Sofia Amalia av Braunschweig-Lüneburg]]
+|mormorsfar= [[Georg av Braunschweig-Lüneburg]]
+|mormorsmor= [[Anna Eleonora av Hessen-Darmstadt]]
 }}
 
-'''Ørjan Nilsen''', född 14 juni 1982 in [[Kirkenes]] i [[Norge]], är en norsk [[musikproducent]] och [[DJ]] inom [[trance]] och [[progressive trance]].
+== Lista över slag där Karl XII deltog ==
+* [[Slaget vid Narva]] - 20 november 1700
+* [[Slaget vid Düna]] - 9 juli 1701
+* [[Slaget vid Klissow]] - 9 juli 1702
+* [[Slaget vid Pultusk]] - 21 april 1703
+* [[Slaget vid Punitz]] - 28 oktober 1704
+* [[Slaget vid Holowczyn]] - 4 juli 1708
+* [[Slaget vid Poltava]] - 28 juni 1709
 
-Nilsen fick skivkontrakt hos Institution Recordings 2006 och gav ut sin första singel på ett skivbolag. Låten ''Arctic Globe'' röstades fram till förstaplatsen på den nederländska dansmusiklistan. 2008 började han att ge ut musik på [[Armin van Buuren]]s skivbolag [[Armada Music]]. Han gav ut sitt första album ''In My Opinion'' 2011. Han röstades fram som nummer 32 på DJ Mags lista över DJ:s 2012.
+== Övriga målningar föreställande Karl XII ==
+<gallery>
+Fil:Karl XII by Wedekind.jpg|Karl XII. Målning av [[Johan Heinrich Wedekind]].
+Fil:Portrait of Charles XII of Sweden.jpg|Målning från 1714.
+Fil:Charles XII of Sweden by David von Krafft (after).jpg|Målning av [[David von Krafft]].
+Fil:David von Krafft (workshop or circle) Charles XII of Sweden.jpg|Målning av David von Krafft.
+Fil:Karl XII av Sverige (Bernard Picart).jpg|Karl XII sittandes på sin häst. Kopparstick av [[Bernard Picart]].
+Fil:Painting of the future Karl XII of Sweden and his siter Princess Hedvig Sofia.jpg|Oljemålning av Karl XII som barn ihop med sin syster [[Hedvig Sofia]].
+Fil:Karl XII drawing.jpg
+Fil:Karl XII i Altranstädt 1706-1707 av Johan David Swartz.jpg|Karl XII i [[Altranstädt]] 1706-1707, teckning av [[Johan David Swartz]].
+Fil:Сканирование0002.jpg|Okänd illustration av Karl XII. 
+Fil:Король Карл ХІІ.jpg|Porträtt av Karl XII.
+Fil:Karl XII, staty i marmor av Johan Niclas Byström (ur Svenska Familj-Journalen 1864).png|Karl XII, marmorstaty av [[Johan Niclas Byström]].
+Fil:Goertz karl12.jpg|Karl XII med [[Georg Heinrich von Görtz]].
+Fil:Mazepa2.JPG|Karl XII med [[Ivan Mazepa]]. 
+Fil:Karl XII by Ehrensvärd.jpg|Illustration av Karl XII [[Carl August Ehrensvärd (1745–1800)|Carl August Ehrensvärd]].
+Fil:CharlesXII eau forte.jpg|Illustration av [[melodram]] ''la Bataille de Pultawa'' av [[Dupetit-Méré]] och [[Cantiran de Boirie]].
+Fil:Karl XII på Själland.jpg|Karl XII under [[landstigningen vid Humlebæk]]
+Fil:Charlex XII at Bender crop.jpg|Karl XII under [[kalabaliken i Bender]].
+Fil:Carl12 morto.jpg|Illustration av Karl XII:s död som finns i olika versioner av [[Voltaire]]s biografi om honom. 
+</gallery>
 
-==Externa länkar==
-* [http://www.orjannilsen.com/ Ørjan Nilsens webbplats]
-* [http://www.myspace.com/orjannilsen Ørjan Nilsen] på Myspace
+== Karl XII i modern populärkultur ==
+* I den norska tv-serien ''Brødrene Dal og mysteriet om Karl XIIs gamasjer'', som visades på [[NRK]] år 2005 och har visats i Sverige SVT:s [[Barnkanalen]], måste [[bröderna Dal]] spåra upp Karl XII:s damasker för att förhindra att [[Sverige]] och [[Norge]] återgår i union igen.
+* Ernst Brunner, ''Carolus Rex. Karl XII - hans liv i sanning återberättat'', Stockholm 2006. ISBN 91-7001-405-1
+* Metalbandet [[Sabaton]] från [[Falun]] har spelat in ett album betitlat ''Carolus Rex'', baserat på Karl XII och stormakten Sverige. Albumet släpptes i maj 2012.
 
-{{DEFAULTSORT:Nilsen, Örjan}}
+== Se även ==
+* [[Benjamin Dyster]], påstod sig vara Karl XII och intogs på [[Danviks hospital|Danviks dårhus]]
+* [[Esaias Tegnér]]s dikt  ''Karl XII''
+* [[Karl XII:s fältmarsch]]
+* [[Karl XII:s officerare]]
+* [[Karl XII:s marsch vid Narva]]
+* [[Karl XII:s torg]]
+* [[Karolinska förbundet]]
+* [[Med Guds hjälp vilja vi strida]]
+* [[Pompe (hundar)|Pompe]]
+* [[Brandklipparen]]
+* [[Carl Gustaf Cederhielm|Cederhielms epigram ''Vårt svenska ur'']] 
+* [[Narvaförbundet]]
+* [[Karl XII-firande i Lund]]
 
-[[Kategori:Födda 1982]]
-[[Kategori:Levande personer]]
+==Referenser==
+
+===Noter===
+<references/>
+
+===Tryckta lällor===
+*{{runeberg.org|nfbm|0512.html Karl XII}}
+*{{bokref |efternamn=Andersson |förnamn=Ingvar |författarlänk=Ingvar Andersson (historiker) |titel=Sveriges historia |utgåva=3. uppl. |år=1950 |utgivare=Natur och kultur |utgivningsort=Stockholm |libris=1498697 }}
+*{{bokref |efternamn=Alm |förnamn=Lars-Göran |titel=Milstolpar. Historia A |utgåva=1. uppl. |år=2007 |utgivare=Natur och kultur |utgivningsort=Stockholm |isbn=978-91-27-64117-4 (inb.) |libris=10233444}}
+*{{bokref |efternamn=Hermansson Adler |förnamn=Magnus |titel=Historien omkring oss. A |utgåva=1. uppl. |år=2007 |utgivare=Liber |utgivningsort=Stockholm |isbn=978-91-47-07928-5 |libris=10474670}}
+*{{bokref |efternamn=Lindorm |förnamn=Erik |författarlänk=Erik Lindorm |titel=Gustaf V och hans tid: en bokfilm. 1907-1918 |år=1979 |utgivare=Wahlström & Widstrand |utgivningsort=Stockholm |isbn=91-46-13376-3 |libris=190147 |sid=440-441}}
+*{{bokref |efternamn=Nilsson |förnamn=Torbjörn |titel=Sök i det förflutna!. D. 1 |utgåva=1. uppl. |år=1995 |utgivare=Gleerup |utgivningsort=Malmö |isbn=91-40-62079-4 |libris=2854033}}
+*{{bokref |efternamn=Nyström |förnamn=H |medförfattare=Nyström, Ö |år=2004 |titel=Perspektiv på historien A |utgivare=Gleerups Utbildning AB}}
+*{{bokref |efternamn=Richter |förnamn=Benjamin |titel=Verbrannte Erde: Peter der Grosse und Karl XII. : die Tragödie des ersten Russlandfeldzuges |år=2010 |utgivare=MatrixMedia |utgivningsort=Göttingen |språk=tyska |isbn=978-3-932313-37-0 (hd.bd.) |libris=12192092}}
+* ''Den svenska historien 8'' (1992) Bonnier Lexikon AB
+
+==Vidare läsning==
+*{{bokref |titel=Carl XII:s död |år=1940 |utgivare=Bonnier |utgivningsort=Stockholm |libris=2510477}}
+*{{bokref |efternamn=Carlson |förnamn=Ernst |titel=Om Karl XIIs vistelse i Sachsen 1706-7: med särskild hänsyn till det nordiska krigets inverkan på spanska tronföljarstriden |år=1877 |utgivningsort=Stockholm |url=http://runeberg.org/cesachsen/ |libris=392133 }}
+*{{bokref |efternamn=From |förnamn=Peter |författarlänk=Peter From |titel=Karl XII:s död: gåtans lösning |år=2005 |utgivare=Historiska media |utgivningsort=Lund |isbn=91-85057-56-8 |libris=9864107}}
+*{{tidskriftsref |efternamn=Grenander |förnamn=Gunnar |författarlänk=Gunnar Grenander |rubrik=Karl XII:s död: ett ögonvittnes berättelse bekräftas |år=1988 |tidskrift=Meddelande / Armémuseum |volym=Vol. 48, 1988 |sid=65-80 : ill. |id=ISSN 0349-1048 |issn=ISSN 0349-1048 |libris=8843387}}
+*{{bokref |efternamn=Bengtsson |förnamn=Frans G. |författarlänk=Frans G. Bengtsson |titel=[[Karl XII:s levnad]]. |år=1935-1936 |utgivare=Norstedt |utgivningsort=Stockholm |libris=1561149}}
+*{{bokref |efternamn=Hatton |förnamn=Ragnhild M. |medförfattare=Gripenberg, Claës; Rumenius, John |titel=Karl XII av Sverige: [en biografi] |år=1985 |utgivare=Lindfors |utgivningsort=Köping |isbn=91-7268-105-5 |libris=7630333}}
+*{{bokref |efternamn=Hjärne |förnamn=Harald |författarlänk=Harald Hjärne |titel=Karl XII: omstörtningen i Östeuropa 1697-1703 |år=1902 |utgivningsort=Stockholm |libris=8074427}}
+*{{bokref |författare=Karl XII |titel=Konung Karl XII:s egenhändiga bref |år=1893 |utgivare=Norstedt |utgivningsort=Stockholm |libris=53662 |url=http://runeberg.org/karl12bref/ }} - Samlade och utg. af Ernst Carlson.
+*{{bokref |titel=Karl XII som fältherre |år=2001 |utgivare=Svenskt militärhistoriskt bibl. |utgivningsort=Stockholm |isbn=91-974056-1-2 |libris=8401077}}
+*{{bokref |efternamn=Liljegren |förnamn=Bengt |författarlänk=Bengt Liljegren |titel=[[Karl XII: en biografi]] |år=2000 |utgivare=Historiska media |utgivningsort=Lund |isbn=91-88930-99-8 |libris=7776628}}
+*{{bokref |titel=Sanning och sägen om Karl XII:s död |år=1941 |utgivare=Saxon & Lindström |utgivningsort=Stockholm |libris=10093}}
+*{{bokref |efternamn=Stille |förnamn=Arthur |författarlänk=Arthur Stille |medförfattare=Bennedich, Karl |titel=Carl XII:s fälttågsplaner 1707-1709|år=1908 |utgivare=Gleerup |utgivningsort=Lund |libris=3080620}}
+*{{tidskriftsref |författare=Ståhl, Svante |rubrik=Karl XII:s död |år=2005 |tidskrift=Karolinska förbundets årsbok |volym=2003, |sid=[65]-[106] : ill. |id=0348-9833 |issn=0348-9833 |libris=9991141}}
+*{{bokref |efternamn=Uppström |förnamn=Rolf |titel=Mysteriet Karl XII:s död |serie=[Uppsatser från Historiska institutionen i Göteborg], 1100-6803 ; [5] |år=1994 |utgivare=Historiska institutionen, Göteborg |utgivningsort=Göteborg |isbn=91-88614-04-2 |libris=7773555}}
+*{{tidskriftsref |efternamn=Uppström |förnamn=Rolf |rubrik=Vilken sorts kula ändade Karl XII:s liv? |år=2006 |tidskrift=Karolinska förbundets årsbok |volym=2006, |sid=120-136 : ill. |id=0348-9833 |issn=0348-9833 |libris=10480282}}
+*{{bokref |författare=[[Voltaire]] |medförfattare=Proschwitz, Gunnar von |titel=Carl XII:s historia |år=1997 |utgivare=Norstedt |utgivningsort=Stockholm |isbn=91-1-970292-2 |libris=7157251}}
+
+== Externa länkar ==
+{{wikiquote}}
+{{commons|Category:Charles XII of Sweden}}
+* [http://www.kungkarl.se/ KungKarl.se av Wesslén och Sjöström]
+* [http://www.karlxii.se/ KarlXII.se av Peter From]
+* [http://www.karolinskaforbundet.se/ Karolinska förbundet]
+* [http://www.nad.riksarkivet.se/sbl/Presentation.aspx?id=12357 Karl XII i Svenskt biografiskt lexikon (art av Sven Grauers)]
+
+{{Sveriges regenter}}
+{{STANDARDSORTERING:Karl 12}}
+
 [[Kategori:Män]]
-[[Kategori:Norska diskjockeyer]]
-[[Kategori:Norska musikproducenter]]
-[[Kategori:Trancemusiker]]
-[[Kategori:Norska musiker]]
-[[Kategori:Personer i Norge under 2000-talet]]
+[[Kategori:Födda 1682]]
+[[Kategori:Avlidna 1718]]
+[[Kategori:Karl XII| ]]
+[[Kategori:Personer i stora nordiska kriget]]
+[[Kategori:Kungligheter som stupat i strid]]
+[[Kategori:Huset Wittelsbach]]
+[[Kategori:Karoliner]]
+[[Kategori:Alumner från Uppsala universitet]]
+[[Kategori:Artiklar med släktträd]]
+[[Kategori:Personer i Sverige under 1600-talet]]
+[[Kategori:Personer i Sverige under 1700-talet]]
+[[Kategori:Gravsatta i Riddarholmskyrkan]]
+
+{{Link GA|vi}}

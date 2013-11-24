@@ -26,6 +26,7 @@ import java.util.regex.Pattern;
 
 import javax.xml.bind.JAXBException;
 import matcher.BornDateMatcher;
+import matcher.DeathDateMatcher;
 import matcher.PossibleMatch;
 import matcher.TypeCounter;
 
@@ -116,12 +117,10 @@ public class TextConverter
 	}
 	
 	private void addObjectsToList() {
-		//listOfObjectsToMatch.add(new BornDateMatcher());
-	//	listOfObjectsToMatch.add(new BornLocationMatcher());
-		//listOfObjectsToMatch.add(new DeathMatcher());	
-		//listOfObjectsToMatch.add(new BornDateMatcher());	
-		//listOfObjectsToMatch.add(new DeathDateMatcher());	
-		listOfObjectsToMatch.add(new TypeCounter());
+		listOfObjectsToMatch.add(new BornDateMatcher());	
+		listOfObjectsToMatch.add(new DeathDateMatcher());	
+		//listOfObjectsToMatch.add(new BornLocationMatcher());
+		//listOfObjectsToMatch.add(new TypeCounter());
 	}
 
 	@Override

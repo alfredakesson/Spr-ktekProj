@@ -144,5 +144,26 @@ public class Database {
 		new Database();
 	}
 }
+/*
+ * public void insertTriple(String subject, String predicate, String object, String TYPE){
+		startDb();
+		object = fixDate(object);
+		PreparedStatement prepStmt = null;
+	    try {
+	    	prepStmt = c.prepareStatement("insert into " +TYPE + " values(?,?,?);");
+	    	prepStmt.setString(1, subject);
+	    	prepStmt.setString(2, predicate);
+	    	prepStmt.setString(3, object);
+	    	prepStmt.execute();
 
+	    
+	    } catch ( Exception e ) {
+	      e.printStackTrace();	
+	      System.err.println( e.getClass().getName() + ": " + e.getMessage() );
+	      System.exit(0);
+	    }
+	    //System.out.println("Insertion completed successfully");
+	    closeDb();
+	 }
+ */
 

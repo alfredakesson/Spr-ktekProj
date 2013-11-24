@@ -1,23 +1,19 @@
 package matcher;
 
-import java.util.LinkedList;
+import java.io.FileNotFoundException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+import javax.xml.bind.JAXBException;
 import org.sweble.wikitext.lazy.preprocessor.TemplateArgument;
 
-import sprakproj.Database;
-
 public class DeathDateMatcher extends DateMatcher implements PossibleMatch {
-	private Database db;
 	private Pattern deathPattern;
-	public LinkedList<String> res;
 	
 	
 	public DeathDateMatcher(){
 		super();
-		db = Database.getInstance();
-		String stringDeathpattern = "[d|D][ö|Ö][d|D].{1,15}\\s*";
+		String stringDeathpattern = "(^|\\W)([d|D]öd|[D|d]öd_datum|[D|d]ödsdatum|[D|d]öd_år|[D|d]datum|[D|d]ödsdag)(\\W|$)";
+		//String stringDeathpattern = "[d|D][ö|Ö][d|D].{1,15}\\s*"; //MAYBE THE OLD PATTTERN WAS BETTER?!
 		deathPattern = Pattern.compile(stringDeathpattern);
 	}
 	
@@ -28,8 +24,7 @@ public class DeathDateMatcher extends DateMatcher implements PossibleMatch {
 	}
 	
 	@Override
-	public void saveStringToDb(String wikiName, String wikiValue, String pageTitle, TemplateArgument tArg) {
-		
+	public void saveStringToDb(String wikiName, String wikiValue, String pageTitle, TemplateArgument n) throws FileNotFoundException, JAXBException {		
 			Matcher ym = yearPattern.matcher(wikiValue);
 			Matcher dm = datePattern.matcher(wikiValue);
 			Matcher dm2 = datePattern2.matcher(wikiValue);
@@ -57,6 +52,10 @@ public class DeathDateMatcher extends DateMatcher implements PossibleMatch {
 			} else if (ym.find()) {
 				db.insertTriple(pageTitle.replaceAll(" ", "_"), "deathDate", ym.group(1), type);
 	
+			}
+			else{
+				DateConverter dc = new DateConverter(null, 80, pageTitle, "deathDate");
+				dc.start(n);
 			}
 		
 	}
