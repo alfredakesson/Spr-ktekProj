@@ -19,7 +19,7 @@ public class DateConverter extends TextConverter {
 	private StringBuilder dateStringBuilder;
 	private String pageTitle, savedString, type;
 	
-	BornDateMatcher bornDateMatcher;
+	PossibleMatch bornDateMatcher;
 
 	public DateConverter(SimpleWikiConfiguration config, int wrapCol,
 			String pageTitle, String type) {
@@ -27,8 +27,13 @@ public class DateConverter extends TextConverter {
 		
 		dateStringBuilder = new StringBuilder();
 		this.pageTitle = pageTitle;
-		
-		bornDateMatcher = new BornDateMatcher();
+		this.type = type;
+		if(type.equals("bornDate")){
+			bornDateMatcher = new BornDateMatcher();			
+		}
+		else {
+			bornDateMatcher = new DeathDateMatcher();
+		}
 	}
 
 	

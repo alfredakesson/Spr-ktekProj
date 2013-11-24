@@ -12,6 +12,10 @@ public abstract class DateMatcher {
 	protected Pattern datePattern3;
 	protected Database db;
 	
+	//TMP
+	protected Pattern bcPattern;
+	protected Pattern acPattern;
+	
 	public DateMatcher(){
 		initRegex();
 		db = Database.getInstance();
@@ -24,7 +28,17 @@ public abstract class DateMatcher {
 		String stringDatePattern2 = "\\s{0,3}(\\d{4})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}\\|\\s{0,3}(\\d{1,2})\\s{0,3}";
 		String stringDatePattern3 = "(\\d{4})-(\\d{1,2})-(\\d{1,2})";
 		
-
+		
+		//TMP
+		String stringBcPattern;
+		String stringAcPattern;
+		
+		stringBcPattern = "([f|F]öre [k|K]ristus|[f|F]öre_[k|K]ristus|[F|f]\\.[K|k]r|[f|F]öre [k|K]r|[f|F]öre_[k|K]r)";
+		stringAcPattern = "([E|e]fter [k|K]ristus|[E|e]fter_[k|K]ristus|[E|e]\\.[K|k]r)";
+		 
+		bcPattern = Pattern.compile(stringBcPattern);
+		acPattern = Pattern.compile(stringAcPattern);
+		//END OF TMP
 		
 		yearPattern = Pattern.compile(stringYearPattern);
 		datePattern = Pattern.compile(stringDatePattern);
@@ -101,6 +115,9 @@ public abstract class DateMatcher {
 
 
 		return false;
+	}
+	public void insertError(String pageTitle) {
+		//db.insertTriple(pageTitle.replaceAll(" ", "_"), "pageError", "pageError", "pageError");		
 	}
 		/*
 		 * OLD PATTERN: 

@@ -46,6 +46,9 @@ public class Startclass implements IArticleFilter {
 		p.go(cp.getPage());
 		
 		System.out.println(num++);
+		if(num == 122){
+			System.out.println("hej");
+		}
 		
 		//		throw new SAXException(); 
 
@@ -58,7 +61,7 @@ public class Startclass implements IArticleFilter {
 		try{
 			runSweble(page, siteinfo);
 		} catch(Exception e){
-			//e.printStackTrace();
+			e.printStackTrace();
 			return;
 		}
 	}

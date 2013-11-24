@@ -20,6 +20,7 @@ public class Database {
 		createTable("typeCounter");
 		createTable("templates");
 		createTable("pageError");
+		createTable("kristus");
 	}
 	
 	public static Database getInstance() {

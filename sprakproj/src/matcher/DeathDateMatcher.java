@@ -12,7 +12,7 @@ public class DeathDateMatcher extends DateMatcher implements PossibleMatch {
 	
 	public DeathDateMatcher(){
 		super();
-		String stringDeathpattern = "(^|\\W)([d|D]öd|[D|d]öd_datum|[D|d]ödsdatum|[D|d]öd_år|[D|d]datum|[D|d]ödsdag)(\\W|$)";
+		String stringDeathpattern = "(^|\\W)([d|D]öd|[D|d]öd_datum|[D|d]ödsdatum|[D|d]öd_år|[D|d]ödsdag)(\\W|$)";
 		//String stringDeathpattern = "[d|D][ö|Ö][d|D].{1,15}\\s*"; //MAYBE THE OLD PATTTERN WAS BETTER?!
 		deathPattern = Pattern.compile(stringDeathpattern);
 	}
@@ -31,6 +31,26 @@ public class DeathDateMatcher extends DateMatcher implements PossibleMatch {
 			Matcher dm3 = datePattern3.matcher(wikiValue);
 			
 			String type = "deathDate";
+			
+			//TMP
+			Matcher bcMatcher;
+			Matcher acMatcher;
+			bcMatcher = bcPattern.matcher(wikiValue);
+			acMatcher = acPattern.matcher(wikiValue);
+			
+			try{
+				
+			if(bcMatcher.find()){
+				db.insertTriple(pageTitle.replaceAll(" ", "_"), "kristus", bcMatcher.group(0), "kristus");		
+			}
+			if(acMatcher.find()){
+				db.insertTriple(pageTitle.replaceAll(" ", "_"), "kristus", acMatcher.group(0), "kristus");
+			}
+			} catch(Exception e){
+				
+			}
+			//END OF TMP
+			
 			
 			if (dm2.find()) {
 				String date = dm2.group(1) + "-" + dm2.group(2) + "-" + dm2.group(3);
@@ -57,6 +77,12 @@ public class DeathDateMatcher extends DateMatcher implements PossibleMatch {
 				DateConverter dc = new DateConverter(null, 80, pageTitle, "deathDate");
 				dc.start(n);
 			}
+		
+	}
+
+	@Override
+	public void insertError(String pageTitle) {
+		// TODO Auto-generated method stub
 		
 	}
 

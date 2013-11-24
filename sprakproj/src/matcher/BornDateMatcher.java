@@ -34,6 +34,27 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 			
 			String type = "bornDate";
 			
+			//TMP
+			Matcher bcMatcher;
+			Matcher acMatcher;
+			bcMatcher = bcPattern.matcher(wikiValue);
+			acMatcher = acPattern.matcher(wikiValue);
+			
+			try{
+				
+			if(bcMatcher.find()){
+				db.insertTriple(pageTitle.replaceAll(" ", "_"), "kristus", bcMatcher.group(0), "kristus");		
+			}
+			if(acMatcher.find()){
+				db.insertTriple(pageTitle.replaceAll(" ", "_"), "kristus", acMatcher.group(0), "kristus");
+			}
+			} catch(Exception e){
+				
+			}
+			//END OF TMP
+			
+			
+			
 			if (dm2.find()) {
 				String date = dm2.group(1) + "-" + dm2.group(2) + "-" + dm2.group(3);
 				db.insertTriple(pageTitle.replaceAll(" ", "_"), "bornDate", date, type);
@@ -61,7 +82,4 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 			}
 	}
 	
-	public void insertError(String pageTitle) {
-		db.insertTriple(pageTitle.replaceAll(" ", "_"), "pageError", "pageError", "pageError");		
-	}
 }
