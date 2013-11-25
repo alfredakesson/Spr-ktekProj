@@ -1,3 +1,6 @@
+/*
+ * numMax = 2740443
+ */
 package matcher;
 
 import java.util.regex.Matcher;
@@ -35,7 +38,14 @@ public abstract class DateMatcher {
 		
 		stringBcPattern = "([f|F]öre [k|K]ristus|[f|F]öre_[k|K]ristus|[F|f]\\.[K|k]r|[f|F]öre [k|K]r|[f|F]öre_[k|K]r)";
 		stringAcPattern = "([E|e]fter [k|K]ristus|[E|e]fter_[k|K]ristus|[E|e]\\.[K|k]r)";
-		 
+
+		//
+		//[F|f]kr
+		//[B|b]c
+		//[B|b].c.
+		
+		
+		
 		bcPattern = Pattern.compile(stringBcPattern);
 		acPattern = Pattern.compile(stringAcPattern);
 		//END OF TMP

@@ -54,7 +54,9 @@ public class Database {
 	
 	public void insertTriple(String subject, String predicate, String object, String TYPE){
 		startDb();
-		object = fixDate(object);
+		if(TYPE.equals("bornDate") || TYPE.equals("deathDate")){
+			object = fixDate(object);			
+		}
 		PreparedStatement prepStmt = null;
 	    try {
 	    	prepStmt = c.prepareStatement("insert into " +TYPE + " values(?,?,?);");
