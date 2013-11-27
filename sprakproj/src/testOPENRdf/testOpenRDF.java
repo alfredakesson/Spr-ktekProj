@@ -27,8 +27,15 @@ public class testOpenRDF {
 		Repository repo = new SailRepository(new NativeStore(dataDir));
 		repo.initialize();
 		RepositoryConnection conn = repo.getConnection();
-//		System.out.println();
-//		String queryString = "SELECT ?type WHERE {<http://dbpedia.org/resource/Astrid_Lindgren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type.}";
+
+		
+				System.out.println();
+		String queryString = 
+				"SELECT ?type WHERE " +
+				"{" +
+					"<http://dbpedia.org/resource/1907> " +
+					"<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type." +
+				"}";
 //		TupleQuery tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
 //				queryString);
 //		TupleQueryResult result = tupleQuery.evaluate();
@@ -37,11 +44,33 @@ public class testOpenRDF {
 //			Value valueOfY = bindingSet.getValue("type");
 //			System.out.println(valueOfY.toString());
 //		}
-		 File theFile = new
-		 File("../../instance_types_en.ttl");
-		 conn.add(theFile, "test", RDFFormat.TURTLE);
-		conn.close();
 
+//		
+//		File theFile = new
+//		 File("../../instance_types_en.ttl");
+//		 conn.add(theFile, "test", RDFFormat.TURTLE);
+//		conn.close();
+
+		DbPediaQuestion dbQ =new DbPediaQuestion(conn);
+		//dbQ.addSameAsToDb();
+		
+		String exist = dbQ.existArticle("Stockholm");
+		if(exist != null){
+			System.out.println(exist);
+		}
+		
 	}
 
 }
+
+
+
+/*
+ * 	född föddplats = samma
+ * 	
+ * född_plats är ofta person plats
+ * född_datum är ofta person datum 
+ * 
+ * Vi kan bara kolla egenskaper som länkar från en entitet till en annan
+ * 
+ */
