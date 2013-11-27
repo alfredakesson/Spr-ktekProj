@@ -1,4 +1,4 @@
-package testOPENRdf;
+ package testOPENRdf;
 
 import java.io.File;
 import java.io.IOException;
@@ -35,7 +35,7 @@ public class DbPediaQuestion {
 				+ "<" + articleAddr + ">"
 				+ "<http://www.w3.org/2002/07/owl#sameAs> ?v. "
 				+ "FILTER (STRSTARTS(STR(?v), 'http://dbpedia.org'))"
-				+ "}";
+				+ "} ";
 		
 		
 		
