@@ -24,26 +24,55 @@ import org.openrdf.sail.nativerdf.NativeStore;
 
 public class testOpenRDF {
 
-	public static void main(String[] args) throws RepositoryException,
-			RDFParseException, IOException, MalformedQueryException,
-			QueryEvaluationException, SQLException {
+	public static void main(String[] args) {
 		
 
 		File dataDir = new File(".");
 		Repository repo = new SailRepository(new NativeStore(dataDir));
-		repo.initialize();
-		RepositoryConnection conn = repo.getConnection();
+		try {
+			repo.initialize();
+		} catch (RepositoryException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		RepositoryConnection conn = null;
+		try {
+			conn = repo.getConnection();
+		} catch (RepositoryException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 		String queryString = "SELECT ?type WHERE {"
 				+ "<http://dbpedia.org/resource/Barack_Obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type."
 				+ " ?type <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> ."
 				+ "}";
-		TupleQuery tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
-				queryString);
-		TupleQueryResult result = tupleQuery.evaluate();
-		while (result.hasNext()) {
-			BindingSet bindingSet = result.next();
-			Value valueOfY = bindingSet.getValue("type");
-			System.out.println(valueOfY.toString());
+		TupleQuery tupleQuery = null;
+		try {
+			tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
+					queryString);
+		} catch (RepositoryException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		} catch (MalformedQueryException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		TupleQueryResult result = null;
+		try {
+			result = tupleQuery.evaluate();
+		} catch (QueryEvaluationException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		try {
+			while (result.hasNext()) {
+				BindingSet bindingSet = result.next();
+				Value valueOfY = bindingSet.getValue("type");
+				System.out.println(valueOfY.toString());
+			}
+		} catch (QueryEvaluationException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
 		}
 
 		DbPediaQuestion dbQ =new DbPediaQuestion(conn);
@@ -75,6 +104,7 @@ public class testOpenRDF {
 		
 			
 			//System.out.println(predExist);
+
 			//System.out.println(objExist);
 			
 		}

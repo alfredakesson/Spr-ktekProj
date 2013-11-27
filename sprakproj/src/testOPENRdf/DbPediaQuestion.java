@@ -33,11 +33,11 @@ public class DbPediaQuestion {
 		
 		
 		String queryString = "SELECT ?v WHERE " + "{"
-				+ "<" + articleAddr + ">"
+				+ "<" + articleAddr + "> "
 				+ "<http://www.w3.org/2002/07/owl#sameAs> ?v. "
 				+ "FILTER (STRSTARTS(STR(?v), 'http://dbpedia.org'))"
 				+ "}";
-		
+		System.out.println(queryString);
 		
 		
 		
