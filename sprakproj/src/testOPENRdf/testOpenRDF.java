@@ -93,19 +93,27 @@ public class testOpenRDF {
 		try{
 		while(rs.next()){
 	
-			//String pred = rs.getString("Predicate").replaceAll(" ", "_").replaceAll("\"", "%22");
+			System.out.println("****SUBJECT****");
+			System.out.println(rs.getString("Subject"));
+			System.out.println("****PREDICATE****");
+			String pred = rs.getString("Predicate").replaceAll(" ", "_").replaceAll("\"", "%22");
+			String predExist = dbQ.existArticle(pred);	
+			System.out.println("predicate_swedish:\t" + pred);
+			System.out.println("predicate_english:\t" + predExist);
+			
+			
+			System.out.println("****OBJECT****");
 			String obj = rs.getString("Object");
 			Matcher m = objPattern.matcher(obj);
-			if(m.find()){
-				obj = m.group(0);
+			while(m.find()){
+				obj = m.group(1);
+				obj = obj.replaceAll(" ", "_").replaceAll("\"", "%22");
+				String objExist = dbQ.existArticle(obj);
+				
+				System.out.println("object_svenska:\t" + obj);
+				System.out.println("object_english:\t" + objExist);				
 			}
-			System.out.println(obj);
-			//String predExist = dbQ.existArticle(pred);
-		
-			
-			//System.out.println(predExist);
-
-			//System.out.println(objExist);
+			System.out.println("##################################");
 			
 		}
 		}catch(Exception e){
