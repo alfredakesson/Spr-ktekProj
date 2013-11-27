@@ -11,23 +11,27 @@
 | andra_namn    = Jeb, jeb_
 | känd_för      = [[Minecraft]]
 | yrke          = Speldesigner
+=======
+:''Denna artikel handlar om den karthagiske fältherren. För andra betydelser, se [[Hannibal (olika betydelser)]].''
+{{Infobox Militär Person
+| namn             = Hannibal
+| bild             = 
+| bildtext         = 
+| smeknamn         = 
+| födelsedatum     = [[248 f.Kr.]]
+| födelseplats     = 
+| dödsdatum        = [[183 f.Kr.|183]] eller [[182 f.Kr.]]
+| dödsplats        = 
+| begravningsplats = 
+| land             = 
+| troskap          = [[Karthago|Kartagesiska riket]]
+| gren             = 
+| tjänstetid       = 
+| rang             = General, överbefälhavare för de kartagiska arméerna
+| enhet            = 
+| kommand          = 
+| slag             = [[Andra puniska kriget]]; [[slaget vid Trasimenussjön]], [[slaget vid Trebia]], [[slaget vid Cannae]], [[slaget vid Zama]]
+| utmärkelser      = 
+| relationer       = Son till [[Hamilkar Barkas]] <br> Bror till [[Hasdrubal Barkas]] <br> Bror till [[Mago Barkas]]
+| övrigt           = 
 }}
-
-'''Jens Peder Bergensten''', även kallad '''Jeb''' eller '''jeb_''', född [[18 maj]] [[1979]] i [[Örebro]], är en svensk speldesigner, som sedan 2010 har arbetat på [[Mojang]], främst kända för spelet [[Minecraft]].
-
-Bergensten omnämdes, tillsammans med  [[Markus Persson|Markus "Notch" Persson]] av [[TIME Magazine]] som en av de 100 mest betydelsefulla personerna 2013.<ref name="time">{{webbref|url=http://time100.time.com/2013/04/18/time-100/slide/markus-persson-and-jens-bergensten/|titel=Markus Persson och Jens Bergensten|hämtdatum=2013-04-18|verk=TIME Magazine}}</ref>
-
-Jens Bergensten är huvudutvecklare för spelet Minecraft.
-==Källor==
-<references/>
-
-{{spelpersonstub}}
-{{personstub-Sverige}}
-
-{{STANDARDSORTERING:Bergensten, Jens}}
-
-[[Kategori:Födda 1979]]
-[[Kategori:Datorspelsdesigner]]
-[[Kategori:Män]]
-[[Kategori:Levande personer]]
-[[Kategori:Personer från Örebro]]

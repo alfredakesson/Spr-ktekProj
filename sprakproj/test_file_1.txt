@@ -1,0 +1,9434 @@
+, 520595
+bild, 28365
+namn, 23428
+bildtext, 22733
+datum, 15236
+name, 11440
+län, 10724
+år, 9525
+bildstorlek, 9097
+land, 8887
+genre, 8432
+titel, 8030
+long_EW, 7372
+lat_NS, 7371
+long_m, 7369
+lat_m, 7368
+webbplats, 7276
+long_s, 7193
+lat_s, 7192
+display, 6811
+pos, 6724
+fotnot, 6695
+no, 6685
+födelsenamn, 6611
+födelsedatum, 6152
+nat, 6140
+vapen, 6076
+plats, 6026
+efterträdare, 5693
+postnummer, 5529
+smeknamn, 5524
+språk, 5486
+long_g, 5456
+lat_g, 5455
+hemsida, 5367
+karta, 5356
+positionskarta, 5271
+kommun, 5169
+dödsplats, 5080
+månad, 5023
+karttext, 4973
+dödsdatum, 4703
+täthet, 4659
+landskap, 4641
+kvinnor, 4612
+församling, 4595
+riktnummer, 4543
+valdelt, 4525
+grundades, 4506
+positionskartnamn, 4450
+image, 4407
+invår, 4343
+form, 4334
+till, 4327
+invnot, 4319
+imdb, 4168
+ortnamn, 4046
+url, 4034
+typ, 3958
+invort, 3925
+musik, 3900
+areaort, 3872
+skådespelare, 3869
+originaltitel, 3807
+producent, 3793
+slogan, 3781
+image_caption, 3770
+speltid, 3751
+nr, 3747
+föregångare, 3535
+status, 3485
+färg, 3478
+region, 3468
+yta, 3415
+tätortskod, 3400
+manus, 3322
+maka, 3302
+regi, 3207
+höjdläge, 3141
+längd, 3119
+filmtitel, 3111
+född, 3072
+företrädare, 3037
+död, 2893
+andra namn, 2892
+bgfärg, 2884
+bakgrund, 2849
+år aktiv, 2832
+aktiva_år, 2802
+skivbolag, 2724
+make, 2676
+roll, 2664
+folkmängd, 2615
+domain_sv, 2605
+domain, 2597
+regnum, 2595
+regnum_sv, 2583
+id, 2563
+classis, 2543
+taxon, 2543
+noterbara roller, 2530
+classis_sv, 2524
+instrument, 2506
+ordo, 2494
+image2, 2469
+area, 2457
+koordinat, 2447
+ordo_sv, 2440
+range_map, 2419
+range_map_caption, 2419
+image2_caption, 2411
+filmbolag, 2409
+fotnoter, 2375
+ref, 2361
+pseudonym(er), 2342
+familia, 2328
+Namn, 2321
+från, 2320
+motto, 2299
+taxon_authority, 2297
+familia_sv, 2294
+medlemmar, 2266
+tidigare_medlemmar, 2215
+flagga, 2195
+max, 2155
+yta_not, 2153
+associerade_akter, 2132
+kommunkod, 2121
+nationalitet, 2109
+goldenglobeawards, 2102
+a2005, 2100
+a2000, 2094
+baftaawards, 2088
+guldbaggen, 2087
+a1995, 2078
+emmyawards, 2078
+tonyawards, 2078
+genus, 2041
+arena, 2021
+a2010, 2018
+födelseplats, 2018
+oscars, 2012
+yrke, 2002
+a1990, 1995
+lat_d, 1948
+long_d, 1948
+genus_sv, 1934
+ort, 1917
+kanton, 1900
+y2000, 1893
+y2005, 1893
+Typ, 1885
+y1995, 1877
+signatur, 1874
+vikt, 1850
+Längd, 1849
+relaterade_band, 1847
+y2010, 1842
+Producent, 1828
+Skivbolag, 1825
+Genre, 1824
+partner, 1802
+Inspelad, 1789
+småortskod, 1782
+y1990, 1770
+sfdb, 1760
+ämne, 1752
+kristallen, 1746
+inspirerat, 1743
+inspiratörer, 1737
+y1980, 1726
+state, 1696
+Artist, 1682
+y1975, 1679
+efterträdare2, 1667
+resultat, 1661
+species, 1650
+y1970, 1641
+species_sv, 1633
+y1965, 1596
+Utgivning, 1590
+Detta album, 1584
+Nästa album, 1583
+Förra album, 1582
+ägare, 1578
+stift, 1557
+y1960, 1537
+phylum, 1527
+phylum_sv, 1514
+barn, 1486
+period, 1476
+webb, 1475
+tysktnamn, 1435
+fransktnamn, 1434
+italiensktnamn, 1433
+bredd, 1417
+befar, 1412
+invanare, 1412
+tathet, 1412
+lmoh, 1411
+moh, 1411
+hogstapunkt, 1410
+lagstapunkt, 1409
+sprak, 1405
+ratoromansktnamn, 1404
+valsprak, 1400
+artikel, 1396
+subphylum, 1372
+subphylum_sv, 1370
+map, 1324
+lag1, 1315
+lag2, 1315
+folkmängd_not, 1307
+position, 1296
+areal, 1293
+skyltning, 1286
+country, 1283
+övrigt, 1265
+titel2, 1249
+folkmängd_år, 1245
+år2, 1243
+tidszon, 1232
+country_flag, 1230
+category, 1203
+areaår, 1183
+poäng, 1171
+varv, 1164
+lopp, 1161
+utmärkelser, 1161
+population, 1150
+höjd, 1144
+delstat, 1136
+map_caption, 1133
+width, 1131
+other_name, 1123
+native_name, 1120
+footnotes, 1114
+district, 1112
+overenhet, 1111
+overenhetnamn, 1111
+symbol, 1110
+divisio, 1106
+free, 1106
+grundad, 1105
+website, 1103
+divisio_sv, 1101
+free_type, 1101
+date, 1100
+length, 1086
+t, 1085
+population_density, 1081
+signaturstorlek, 1079
+etymology, 1077
+map_locator_x, 1068
+map_locator_y, 1068
+bildbredd, 1059
+nickname, 1055
+postort, 1052
+population_date, 1037
+established, 1026
+uppföljare, 1025
+borgmästare, 1021
+författare, 1019
+subdivisio, 1018
+nummer, 1016
+title, 1016
+subdivisio_sv, 1015
+landmark, 1002
+municipality, 995
+timezone, 991
+flag, 990
+parti, 990
+width_orientation, 989
+region_type, 988
+leader, 986
+timezone_DST, 983
+highest, 982
+highest_elevation, 982
+district_type, 980
+postal_code, 979
+area_code, 978
+befolkningstäthet, 975
+length_orientation, 970
+code, 964
+river, 963
+utc_offset, 960
+state_type, 953
+utc_offset_DST, 949
+förlag, 946
+part, 945
+location, 928
+official_name, 922
+lowest, 919
+lowest_elevation, 919
+pole, 914
+government_location, 907
+domare, 898
+subdivision_ranks, 898
+government_region, 894
+subdivision, 888
+tidigare namn, 882
+areanot, 878
+källa, 866
+elevation, 863
+föregångare2, 862
+födelseland, 858
+född_datum, 857
+priser, 844
+spelarnamn, 841
+kartstorlek2, 837
+invigd år, 831
+översättare, 826
+municipality_type, 816
+trossamfund, 809
+mayor, 802
+area_land, 800
+government, 796
+nation, 796
+area_water, 795
+företrädare2, 794
+fullständigtnamn, 792
+födelsestad, 792
+ospråk, 783
+födelseort, 782
+influenser, 773
+population_urban, 773
+tid, 771
+area_metro, 768
+area_urban, 768
+mål1, 768
+population_metro, 764
+beskrivning, 763
+coord, 763
+alternativnamn, 762
+departement, 762
+government_state, 761
+sidor, 760
+antallandskamper(mål), 756
+landslag, 756
+landslagsår, 756
+omslagsbild, 751
+population_note, 749
+avsnitt, 747
+huvudstad, 746
+illustratör, 746
+kategori, 741
+publik, 741
+efterträdare3, 738
+centralort, 736
+halvtid, 734
+plac, 724
+other, 719
+förkortning, 715
+population_urban_density, 714
+list1, 713
+population_metro_density, 712
+isbni, 710
+bbr, 707
+distributör, 707
+mått, 707
+motor, 704
+mayor_party, 703
+otitel, 703
+efterföljs_av, 702
+UTC skilln, 701
+föregås_av, 701
+nästa, 701
+seriens_namn, 701
+del_av_serien, 700
+befolkning, 699
+grundat, 698
+Bild, 697
+kuriosa, 696
+DST skilln, 695
+isbnp, 694
+befattning, 690
+koordinater, 688
+budget, 686
+begravningsplats, 683
+yta_land, 683
+dödsort, 680
+tidszon_DST, 680
+tränare, 678
+fotograf, 674
+sv_år, 673
+mål2, 672
+död_datum, 667
+logo, 667
+pseudonym, 661
+bolag, 660
+age, 656
+född_plats, 645
+namnteckning, 645
+free1, 641
+free1_type, 641
+trea, 640
+upplöst, 638
+etta, 636
+influerade, 632
+rörelse, 630
+club, 627
+caps, 625
+goals, 625
+arkitekt, 624
+nuvarandeklubb, 624
+språkversion, 620
+tvåa, 620
+vinnare, 620
+population_municipal, 618
+population_municipal_density, 617
+tillträdde, 616
+indelning, 615
+text, 610
+kapacitet, 607
+skapad av, 606
+rapport, 605
+yta_år, 604
+format, 603
+karta_text, 600
+pattern_b1, 600
+shorts1, 597
+area_municipal, 596
+avgick, 596
+body1, 595
+leftarm1, 595
+rightarm1, 595
+sätesort, 595
+pattern_ra1, 590
+socks1, 589
+leader_type, 588
+material, 588
+känd för, 586
+sigill, 584
+år3, 583
+pattern_b2, 582
+placering, 582
+19, 581
+clubnat, 581
+död_plats, 579
+shorts2, 579
+spelare, 579
+body2, 578
+företagsnamn, 578
+pattern_la2, 578
+leftarm2, 577
+rightarm2, 577
+pattern_ra2, 575
+titel3, 575
+religion, 573
+pattern_la1, 572
+omsättning, 571
+socks2, 571
+genitiv, 568
+grundare, 567
+mandat, 562
+folkmängd_datum, 558
+nyckelpersoner, 557
+antalanställda, 556
+noterbara_verk, 548
+symbol_type, 547
+säsonger, 547
+rubrik, 546
+utbildning, 544
+styre, 543
+släktingar, 542
+tröjnummer, 540
+status_ref, 539
+medelhöjd, 538
+karta2, 536
+far, 532
+mor, 531
+stad, 531
+folktäthet, 530
+population_urban_date, 527
+areaenhet, 523
+population_urban_note, 520
+prickpos x, 520
+prickpos y, 520
+undertitel, 520
+yta_vatten, 520
+senaste_medlemmar, 515
+besättning, 512
+utvecklare, 512
+bildformat, 508
+extra bild, 508
+extra bildtext, 508
+m1, 503
+make_maka, 503
+industri, 498
+karta2_text, 498
+proffsår, 498
+originalkanal, 497
+population_municipal_date, 497
+population_municipal_note, 493
+invånare/km2, 491
+m2, 491
+population_metro_date, 490
+ljudformat, 488
+population_metro_note, 487
+arrondissement, 481
+
+[[Sverige]]
+<br />  (erkänt som ett minoritetsspråk)
+<br />'''Länder och territorier med ett betydande antal talare:''' <br />  <br />  <br />  <br />  <br />  <br />  [[Irland]]
+
+
+
+
+
+
+
+
+[[Danmark]], [[Färöarna]], [[EU]]. Officiellt erkänt och skyddat som minoritetsspråk i [[Tyskland]].
+
+
+
+
+[[Finland]], [[EU]] ''minoritetsspråk i [[Sverige]] och [[Karelska republiken]], [[Ryssland]]''
+[[Tecknade serier i USA|USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]], [[Norge]]
+
+
+
+Finland
+
+
+
+
+Sverige
+[[Tecknade serier i USA|USA]]
+
+[[Sverige]]
+[[Vatikanstaten]]
+[[Norge]]
+
+
+
+[[USA]]
+
+
+
+
+<br />  <br />  [[EU]] <br /> [[Nordiska rådet]]
+<br/><br/>
+
+
+[[Sri Lanka]]
+Sverige
+
+[[Indien]]
+
+[[Sverige]]
+
+
+
+
+
+
+
+Sverige
+Sverige
+[[Sverige]]
+
+
+[[Sydafrika]]
+
+Palestina
+
+
+
+
+[[Frankrike]], [[Tyskland]]
+
+
+
+Sverige
+
+
+,<br>,<br>
+[[Sverige]]
+
+
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+
+
+
+[[Sverige]], [[Norge]], [[Finland]]
+
+
+
+
+[[Sverige]]
+Sverige
+
+
+
+
+[[Grekland]], [[Cypern]], [[EU]]
+[[USA]]
+Israel
+
+<br />
+<br />
+[[Italien]]
+<br/><br/>
+Sverige
+<br/>
+
+<br/>
+<br />
+<br />
+[[Sverige]]
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+Sverige
+
+[[Sverige]]
+
+
+
+
+
+
+
+Sverige
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+Sverige
+[[Indien]]
+
+
+
+
+
+Sverige
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+USA
+
+Sverige
+
+[[Storbritannien]]
+
+
+
+
+Sverige
+[[EU]]
+'''[[Norge]]''': [[norska]] ([[bokmål]] och [[nynorska]])
+
+'''[[Danmark]]''': [[danska]], 
+
+'''[[Grönland]]''': [[danska]],
+
+'''[[Finland]]''': [[svenska]],
+
+'''[[Färöarna]]''': [[färöiska]], [[danska]], 
+
+'''[[Island]]''': [[isländska]], 
+
+'''[[Sverige]]''': [[svenska]], 
+
+'''[[Sønderjylland]]''' (i '''[[Schleswig-Holstein]]'''): [[danska]],
+
+'''[[Nuckö]] (Noarootsi)''': [[svenska]], 
+
+'''[[Åland]]''': [[svenska]],
+
+'''[[EU]]''': [[svenska]], [[danska]]
+Sverige
+Sverige
+Östtimor
+Jemen
+Armenien
+Bahamas
+Ecuador
+
+Tanzania
+Vanuatu
+Venezuela
+Tonga
+Dominica
+Grenada
+Honduras
+Kamerun
+Jordanien
+Syrien
+Saudiarabien
+Pakistan
+[[Kina]] (inkl. [[Hongkong]] och [[Macao]]), [[Taiwan]], [[Singapore]]
+Indonesien
+Kuba
+Botswana
+Bangladesh
+Malaysia
+Bahrain
+Ekvatorialguinea
+Jamaica
+Trinidad och Tobago
+
+
+
+Kuwait
+Taiwan
+Kirgizistan
+Laos
+Nepal
+Elfenbenskusten
+Elfenbenskusten
+[[Italien]]
+Benin
+Benin
+
+Maldiverna
+Mikronesiens federerade stater
+Marshallöarna
+Papua Nya Guinea
+Saint Vincent och Grenadinerna
+Samoa
+Salomonöarna
+Surinam
+Sverige
+USA
+USA
+USA
+
+USA
+USA
+
+
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Sverige
+USA
+USA
+USA
+USA
+USA
+
+
+USA
+USA
+
+
+USA
+[[Spanien]], [[Mexiko]], [[Marocko]], [[Colombia]], [[Argentina]], [[Nicaragua]], [[Chile]], [[Venezuela]], [[Costa Rica]], [[Kuba]], [[Peru]] och 13 andra länder samt [[EU]]
+
+Sverige
+USA
+
+[[Tyskland]], [[Österrike]],<br>[[Schweiz]], [[Luxemburg]],<br>[[Liechtenstein]], [[Belgien]],<br>[[Italien]] ([[Sydtyrolen]]),<br>[[Namibia]], [[EU]]
+[[Kenya]], [[Tanzania]], [[Uganda]]
+[[Sverige]]
+[[Frankrike]], [[Belgien]], [[Elfenbenskusten]], [[Kanada]], [[Schweiz]] och över 30 andra länder, [[EU]]
+
+Tyskland
+
+[[Hessen-Kassel]]
+
+
+
+
+
+
+Sverige
+
+
+
+
+
+
+
+Sverige
+
+
+
+
+[[Sverige]]
+[[Portugal]], [[Brasilien]], [[Angola]], [[Kap Verde]], [[Östtimor]], [[Guinea-Bissau]], [[Macao]], [[Moçambique]], [[São Tomé och Príncipe]] samt i [[EU]]
+Sverige
+[[Ryssland]], [[Vitryssland]], [[Kazakstan]], [[Kirgizistan]], [[FN]] och [[utbrytarstat]]er [[Transnistrien]] ([[Moldavien]]), [[Sydossetien]] och  [[Abchazien]]
+[[Sverige]]
+
+[[Tyskland]]
+
+[[Island]]
+
+inget
+
+
+
+[[Sverige]]
+
+[[Šuto Orizari]] (kommun i [[Makedonien]]), 79 kommuner i [[Rumänien]] och en stad ([[Budeşti]]), samt [[officiellt språk|officiellt minoritetsspråk]] i [[Sverige]], [[Finland]] och [[Tyskland]].
+
+
+
+
+
+Sverige
+
+
+[[Sverige]]
+
+
+
+
+
+
+[[USA]]
+[[Italien]], [[Schweiz]], [[San Marino]], [[Slovenien]], [[Vatikanstaten]], [[Istrien]] ([[Kroatien]]), [[EU]]
+USA
+
+Sverige
+
+
+[[Sverige]]
+
+
+[[Sverige]]
+Österrike
+
+
+
+
+
+Sverige
+Sverige
+
+[[Sverige]]
+
+
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[England]]
+Finland
+
+
+[[Ryssland]]
+
+Sverige
+
+
+
+[[Storbritannien]]
+
+
+
+
+
+
+Ukraina
+
+[[Sverige]]
+
+
+
+
+
+Tyskland
+Sverige
+[[Armenien]]
+Egypten
+
+
+[[Algeriet]], [[Bahrain]], [[Djibouti]], [[Egypten]], [[Eritrea]], [[Förenade arabemiraten]], [[Irak]], [[Israel]], [[Jemen]], [[Jordanien]], [[Komorerna]], [[Kuwait]], [[Libanon]], [[Libyen]], [[Mauretanien]], [[Marocko]], [[Oman]], [[Palestinska myndigheten|Palestina]], [[Qatar]], [[Saudiarabien]], [[Somalia]], [[Somaliland]], [[Sudan]], [[Syrien]], [[Tchad]], [[Tunisien]]<br />
+Internationella organisationer: [[FN]], [[Arabförbundet]], [[Organization of Islamic Conference]], [[Afrikanska unionen]]
+[[Ungern]], [[Slovenien]], [[Vojvodina]], [[EU]]
+<br />  <br /> [[Fil:Flag of Vojvodina.svg|border|20px]] [[Vojvodina]] <br />
+[[Tjeckien]] och [[EU]]
+
+
+
+[[Japan]]
+
+
+
+
+Polen
+
+[[Sverige]]
+
+
+[[Sverige]]
+Sverige
+
+
+
+Tyskland
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+Irak
+
+[[Sverige]]
+[[Storbritannien]]
+
+
+[[Danmark-Norge]]
+
+
+[[Sverige]] & [[Norge]]
+[[Sverige]]
+[[Tyskland]]
+[[Storbritannien]]
+[[Estland]], [[EU]]
+
+[[Sverige]]
+
+
+
+[[Tecknade serier i USA|USA]]
+Kanada
+
+
+
+
+[[Nordkorea]]
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+
+[[Serbien]], [[Vojvodina]], [[Montenegro]], [[Kosovo]], [[Bosnien och Hercegovina]], [[Kroatien]]
+
+
+Officiellt språk i [[Tibet|Den autonoma regionen Tibet]]
+[[Sverige]]
+
+[[Iran]],<br />
+[[Afghanistan]],
+[[Tadzjikistan]] (varianten [[tadzjikiska]]).
+
+[[Sverige]]
+<br />
+
+[[Sverige]]
+Norge
+[[England]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+[[Norge]] & [[Sverige]]
+
+
+Tyskland
+Tyskland
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+
+
+
+
+Tyskland
+
+Tyskland
+Tyskland
+
+Tyskland
+
+[[Preussen|Kungariket Preussen]]
+Sverige
+
+
+USA
+USA
+USA
+[[USA]]
+Kanada
+Kanada
+USA
+[[USA]]
+Sverige
+
+
+
+[[USA]]
+
+
+[[USA]]
+[[Storbritannien]]
+<br />
+
+[[Tyskland]]
+[[Vatikanstaten]]
+
+[[Antigua och Barbuda]], [[Dominica]], [[Grenada]], [[Saint Kitts och Nevis]], [[Saint Lucia]] och [[Saint Vincent och Grenadinerna]] samt på [[Anguilla]] och [[Montserrat]]
+[[Sverige]]
+
+
+USA
+[[Vitryssland]]
+
+Brittiska Jungfruöarna
+Spanien
+Falklandsöarna
+Niue
+Caymanöarna
+Cooköarna
+Pitcairnöarna
+Storbritannien
+[[Sverige]]
+[[Storbritannien]]
+[[Storbritannien]]
+[[Storbritannien]]
+[[Storbritannien]]
+[[Storbritannien]]
+[[Storbritannien]]
+[[Storbritannien]]
+
+
+
+
+
+[[Nazityskland]]
+[[Sovjetunionen]]
+USA
+Curaçao
+Nya Kaledonien
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]<br>[[Danmark]]
+
+
+[[Andorra]], [[Katalonien]], [[Valencia (autonom region)|Valencia]] (som ''[[valencianska]]''), [[Balearerna]], [[Alghero]]
+Sverige
+
+[[Eritrea]]
+
+
+
+
+
+[[Japan]]
+[[Bhutan]]
+Sverige (minoritetsspråk)
+Grekland
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+
+
+[[Sverige]]
+
+
+
+
+
+[[Sverige]]
+Tyskland
+[[USA]]
+
+Sverige
+[[Storbritannien]]
+
+[[Sydafrika]]
+
+[[USA]]
+
+
+
+[[Georgien]]
+Frankrike
+[[Lettland]], [[EU]]
+[[USA]]
+[[USA]] <br />[[Italien]]
+[[USA]]
+
+USA
+
+
+[[Storbritannien]]
+[[USA]]<br /> [[Storbritannien]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]] <br> [[Nya Zeeland]] <br> [[Storbritannien]]
+<br>  <br>
+
+
+
+
+[[Nya Zeeland]]
+[[USA]]
+<br />
+<br />
+
+
+[[USA]]
+<br />
+[[Storbritannien]]
+[[Republiken Irland]], [[EU]], [[Nordirland]]
+
+
+[[Nordossetien]], [[Sydossetien]]
+
+[[USA]]/[[Tyskland]]
+
+
+[[Irak]]
+[[USA]]
+
+[[USA]]
+Irak
+[[Sverige]]
+
+[[Judiska autonoma länet]] i [[Ryssland]], ''minoritetsspråk i [[Sverige]] och [[Moldavien]]''
+[[Nordkorea]], [[Sydkorea]], [[Yanbian]]&nbsp;(Kina)
+Irak
+[[Polen]], [[EU]]
+Sverige
+
+[[Ungern]]
+[[Sverige]]
+
+England
+[[Nya Zeeland]]
+[[USA]]
+
+USA
+[[Sverige]]
+
+[[Storbritannien]]
+
+
+Storbritannien
+Moldavien
+[[Sverige]]
+[[Sverige]]
+[[Ukraina]]
+[[Peru]]
+
+
+
+Storbritannien
+Bangladesh
+
+USA
+
+Italien
+
+USA
+
+
+Palestina
+
+
+USA
+
+England
+
+Tjeckien
+
+
+Sverige
+[[USA]]
+
+Nationalspråk i Mexiko
+Sverige
+
+
+[[Tyskland]]
+[[New York (delstat)|New York]]<br>[[Förenta Staterna]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Förenade arabemiraten
+Australien
+Tjeckien
+
+Sverige
+
+[[Finland]]
+
+[[Schweiz]]
+[[Sverige]]
+[[USA]]
+[[Nigeria]]
+Polen
+USA
+England
+
+Sverige
+Sverige
+Sverige
+Sverige
+
+Indien
+Sverige
+Sverige
+Sverige
+Sverige
+[[Mizoram]] ([[Indien]])
+Tjeckien
+
+<br />  <br />  <br /> och minoritetsspråk i:<br><br><br><br><br>
+[[Lettland]]
+
+[[Indien]] och [[Bangladesh]], samt de indiska delstaterna [[Västbengalen]] och [[Tripura]]
+[[Indien]]
+[[Maharashtra]], en [[Mall:Indien|delstat]] i [[Indien]]
+[[Indien]], [[Sri Lanka]] och [[Singapore]]
+[[Pakistan]], [[Indien]]
+Delar av [[Indien]]: delstaten [[Kerala]] och [[unionsterritorium|unionsterritorierna]] [[Lakshadweep]] och [[Pondicherry]]
+[[Punjab (Pakistan)|Punjab]];  [[Punjab (Indien)|Punjab]], [[Delhi]], [[Chandigarh]]
+[[Indien]], [[Pakistan]]
+[[Gujarat]] ([[Indien]])
+
+<br/><br/>
+Indien
+[[USA]]
+
+[[Chile]]
+
+Sverige
+
+
+Storbritannien
+
+
+Kanada
+Sverige
+[[USA]]
+USA
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+[[USA]]
+[[USA]]
+[[Storbritannien]] ([[Cornwall]])
+[[USA]]
+
+
+[[Kazakstan]]
+
+
+[[Kanada]] ([[Nunavut]], [[Nunavik]], [[Northwest Territories]], [[Nunatsiavut]])
+Storbritannien
+
+Sverige
+
+
+
+[[Norge]], [[Sverige]], [[Danmark]], [[Tyskland]]
+
+Sverige
+[[Tyskland|Förbundsrepubliken Tyskland]]
+
+
+Iran
+[[Storbritannien]]
+
+[[Sverige]]
+[[France]]
+
+
+[[Afghanistan]]
+[[Thailand]]
+[[Bolivia]]
+
+[[Brasilien]]
+[[Sverige]]
+[[Nicaragua]]
+[[Venezuela]]
+[[Algeriet]]
+[[Bahrain]]
+[[Jordanien]]
+[[Kuwait]]
+[[Libyen]]
+[[Makedonien]]
+
+[[Tunisien]]
+[[Förenade Arabemiraten]]
+[[Marocko]]
+[[São Tomé och Príncipe]]
+[[Paraguay]]
+[[Laos]]
+( [[Litteraturåret 1956|1956]]-[[Litteraturåret 1990|1990]])
+[[Mexiko]]
+[[Tjeckien]]
+[[Slovakien]]
+[[Estland]]
+[[Malawi]]
+[[Zambia]]
+[[Angola]]
+[[Georgien]]
+[[Albanien]]
+[[Sierra Leone]]
+[[Rumänien]]
+[[Moldavien]]
+[[Bulgarien]]
+[[Malta]]
+[[Turkiet]], [[Nordcypern]]
+[[Litauen]]
+[[Lesotho]]
+[[Bhutan]]
+
+
+
+
+Indien
+
+[[Sverige]]
+[[Storbritannien]]
+[[Storbritannien]]
+[[Storbritannien]]
+[[Storbritannien]]
+[[USA]]
+Bulgarien
+
+
+
+[[Swaziland]]
+[[Polen]]
+[[Bangladesh]]
+[[Slovenien]]
+[[Kazakstan]]
+[[Indonesien]]
+[[Israel]]
+[[Västafrika]], [[Centralafrika]]
+[[Schweiz]], [[Liechtenstein]], [[Campione d'Italia]]
+[[Djibouti]]
+
+[[Iran]]
+[[Oman]]
+[[Island]]
+[[Danmark]], [[Färöarna]], [[Grönland]]
+[[Qatar]]
+[[Saudiarabien]]
+[[Jemen]]
+[[Kambodja]]
+[[Malaysia]]
+[[Norge]]
+[[Burundi]]
+[[Madagaskar]]
+[[Ukraina]]
+[[Sverige]]
+[[Macao]]
+Sovjetunionen
+
+England
+[[Etiopien]]
+
+
+[[Ghana]]
+[[Gambia]]
+[[Kap Verde]]
+[[Haiti]]
+[[Papua Nya Guinea]]
+[[Honduras]]
+[[Maldiverna]]
+[[Mongoliet]]
+
+Schweiz
+[[Sverige]]
+[[Trinidad och Tobago]]
+[[Egypten]]
+[[Cypern]]
+[[Argentina]]
+[[Kuba]]
+[[Uruguay]]
+[[Dominikanska republiken]]
+[[Kroatien]]
+[[Vanuatu]]
+[[Kina]]
+[[Sydafrika]]
+[[Nya Zeeland]]
+[[Regionen Baskien]], halva [[Navarra]]
+[[Tuvalu]]
+[[Australien]]
+[[Botswana]]
+[[Zimbabwe]]
+Sverige
+[[Syrien]]
+
+
+[[Singapore]]
+[[Serbien]]
+[[Tonga]]
+
+[[Sudan]]
+[[Salomonöarna]]
+[[Rwanda]]
+Rumänien
+Sverige
+[[Sverige]]
+
+[[USA]]
+[[Storbritannien]]<br />[[USA]]
+[[Sverige]]
+[[Galicien]]
+
+[[USA]]
+
+[[Eritrea]]
+[[Bahamas]]
+Kenya
+[[Barbados]]
+[[Taiwan]]
+
+
+
+[[Tadzjikistan]]
+[[Burma]]
+[[USA]]
+
+[[Indien]], [[Nepal]]
+Sydafrika
+
+
+
+Kanada
+
+
+[[Fiji]]
+[[Belize]]
+[[Storbritannien]]
+
+
+Rumänien
+
+[[Jamaica]]
+[[Mauretanien]]
+
+Sverige
+Filippinerna
+USA
+
+[[Komorerna]]
+[[Moçambique]]
+
+
+[[USA]]
+
+[[USA]]
+[[USA]]
+[[USA]], [[Storbritannien]]
+[[USA]]
+
+
+[[USA]], [[Mexiko]]
+[[USA]]
+[[USA]]
+[[Sverige]]<br>[[Västtyskland]]<br>[[Frankrike]]
+[[Storbritannien]]
+[[USA]]
+[[Storbritannien]]
+[[USA]]
+[[USA]]
+[[Storbritannien]]/[[Västtyskland]]
+[[Frankrike]]
+[[Frankrike]]<br />[[Italien]]
+Sverige
+[[USA]]
+
+[[USA]]
+
+
+USA
+
+
+[[Frankrike]], [[Italien]]
+[[USA]]
+[[USA]], [[Storbritannien]]
+[[USA]]
+[[USA]]
+[[USA]] <br> [[Kanada]]
+<br />
+[[USA]]
+[[Guinea]]
+[[Namibia]]
+
+
+[[USA]]
+
+[[Sverige]]
+
+Tjeckien
+<br>
+[[Kongo-Kinshasa]]
+
+
+
+<br />
+
+
+
+[[Armenien]]
+
+Finland
+
+
+Sverige
+[[USA]]
+Burundi
+[[USA]]
+
+Tyskland
+
+
+
+Norge
+
+
+Turkiet
+[[USA]]
+[[Sverige]]
+<br />  <br />
+<br />
+
+
+Kanada
+
+[[Colombia]]
+[[Storbritannien]]
+[[Storbritannien]]
+Sverige
+
+Sverige
+
+Marocko
+[[Guyana]]
+Sverige
+
+
+[[Malta]], [[EU]]
+Sverige
+Österrike
+[[Surinam]]
+USA
+Österrike
+
+
+
+
+England
+[[USA]]
+<br />
+[[Sverige]]
+[[Sverige]]
+Luxemburg
+[[Tjeckien]]
+Tyskland
+
+[[Sverige]]
+
+
+
+
+
+Sverige
+
+[[Tanzania]]
+[[Förenta staterna]]
+[[USA]]
+
+[[USA]]
+[[USA]]
+
+
+
+[[Sverige]]
+[[USA]]
+
+[[USA]]
+[[Sverige]]
+
+
+
+
+Sverige
+USA
+
+[[Romerska riket]]
+Sverige
+
+
+
+Litauen
+
+
+
+[[USA]]
+[[Österrike]]
+Tjeckien
+
+[[Vietnam]]
+
+[[Sverige]]
+USA
+
+[[Sverige]]
+Sverige
+Sverige
+
+
+
+
+
+
+
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[USA]]
+[[Finland]] (0,8 km)<br>[[Sverige]]
+[[Norge]] <br> [[Sverige]] <br> [[Finland]]
+[[Nordirland]]<br />[[Storbritannien]]<br />[[Norge]]<br />[[Sverige]]<br />[[Finland]]<br />[[Ryssland]]
+Sverige
+Sverige
+
+
+
+
+
+
+
+
+
+
+Sverige
+England
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+[[Norge]]<br>[[Sverige]]
+Sverige
+Sverige
+Pakistan
+Sverige
+Sverige
+[[Valencia]] i [[Spanien]]
+Sverige
+
+Sverige
+Sverige
+[[Sverige]]
+Storbritannien
+Kazakstan
+[[Sverige]]
+Rumänien
+[[Sverige]]
+[[Frankrike]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+Spanien
+Spanien
+Polen
+Rumänien
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Italien
+USA
+[[Sverige]]
+Sverige
+Sverige
+
+
+Belgien
+Sverige
+Sverige
+Sverige
+
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+[[Turkiet]], [[Nordcypern]], [[Cypern]]
+Världsomspännande
+
+[[Serbien]]<br>[[Frankrike]]
+Sverige
+Sverige
+Sverige
+Sverige
+'''[[Aruba]]'''<br /> '''[[Belgien]]'''<br /> '''[[Nederländerna]]'''<br /> '''[[Curaçao]]'''<br /> '''[[Sint Maarten]]'''<br /> '''[[Surinam]]'''<br />[[Fil:Benelux.gif|21px]] '''[[Benelux]]'''<br /> '''[[EU]]'''<br />[[Fil:Flag of UNASUR.svg|21px]] '''[[UNASUR]]'''
+<br />'''Länder och territorier med ett betydande antal talare:''' <br />  <br />  <br />  <br />  <br />  <br />  <br />
+Sverige
+
+
+Monaco
+Sverige
+
+[[Sverige]]
+[[Tibet]], Kina
+[[Sovjetunionen]]
+
+
+Sverige
+[[Sverige]], [[Norge]]
+[[Sverige]]
+
+
+
+Ukraina
+[[Katalonien]] ([[Spanien]])
+Sverige
+Tyskland
+[[USA]]
+Sverige
+Sverige
+
+Sverige
+
+Sverige
+USA
+[[Tyskland]]
+Storbritannien
+
+[[Sverige]]
+Sverige
+Sverige
+Österrike
+[[Papua Nya Guinea]]
+Italien
+Sverige
+Sverige
+
+Sverige
+Sverige
+England, UK
+
+[[USA]]
+[[Sverige]]
+
+Sverige
+Sverige
+[[USA]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Storbritannien
+Tyskland
+
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+
+
+inget land
+Sverige
+England
+
+[[USA]]
+[[USA]] <br> [[Malta]] <br> [[Storbritannien]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+[[USA]]
+
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Frankrike]], [[Italien]]
+
+[[USA]]
+[[Fil:Flag of Germany 1933.svg|25px]] [[Nazityskland|Tredje riket]]
+
+Sverige
+Sverige
+Luxemburg
+
+[[Slovenien]], [[EU]]
+Sverige
+[[Slovakien]], [[Vojvodina]] [[EU]]
+Sverige
+Sverige
+
+Sverige
+[[Sverige]], [[Norge]], [[Danmark]] och [[Finland]]
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+
+[[Kroatien]], [[Bosnien och Hercegovina]], [[Vojvodina]], [[Montenegro]], [[Österrike]] ([[Burgenland]]), [[Italien]] ([[Molise]])
+( från [[TV-året 1993|1993]])
+Sverige
+Sverige
+Sverige
+Sverige
+
+Sverige
+Sverige
+
+Sverige
+Sverige
+
+[[Sverige]]
+Sverige
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+USA
+
+USA
+USA
+USA
+USA
+USA
+Sverige
+[[Sverige]]
+[[USA]]
+[[USA]]
+Tyskland
+[[USA]]
+<br />
+[[Sverige]]
+<br />
+
+
+
+[[Västtyskland]], [[Frankrike]], [[Polen]], [[Jugoslavien]]
+[[Sverige]]
+[[USA]]
+Sverige
+Sverige
+
+Sverige
+Sverige
+Sverige
+
+[[USA]]
+[[USA]]
+Sverige
+
+
+Sverige
+
+
+
+<br />
+[[USA]]
+
+[[USA]] <br> [[Frankrike]]
+[[USA]]
+
+[[USA]]
+England
+Storbritannien
+[[Tecknade serier i USA|USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+Sverige
+Sverige
+Sverige
+[[Litauen]], [[EU]]
+[[Sverige]]
+Sverige
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[USA]]
+Sverige
+Sverige
+Sverige
+Sverige
+<br>
+
+Sverige
+
+
+
+
+Tjeckien
+Tjeckien
+
+[[USA]]
+
+Belgien
+
+Sverige
+Sverige
+[[USA]]
+
+[[England]]
+Storbritannien
+Sverige
+[[Tecknade serier i USA|USA]]
+
+
+[[Sverige]]
+Sverige
+Sverige
+
+USA
+Sverige
+Sverige
+Sverige
+
+
+Storbritannien
+[[Sverige]]
+Sverige
+USA
+
+
+USA
+Indien
+USA
+[[Tecknade serier i USA|USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Västtyskland]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+Kanada
+
+[[USA]]
+Tyskland
+Kanada
+Libyen
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Grekland
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]], [[Italien]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+[[USA]]
+
+[[Meghalaya]] ([[Indien]])
+
+[[USA]]
+[[USA]]
+<br/><br/>
+Tyskland
+Tyskland
+
+
+<br />
+[[USA]]
+[[USA]]
+
+
+<br />
+
+<br />  <br />
+
+
+[[USA]]
+
+[[USA]] <br> [[Storbritannien]]
+[[Frankrike]], [[Storbritannien]], [[Argentina]]
+[[USA]], Storbritannien
+[[USA]]
+
+
+[[USA]]
+[[USA]]
+[[USA]]
+<br />
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+[[Frankrike]]<br />
+[[USA]]
+USA, Storbritannien
+[[USA]]
+
+Sverige
+Sverige
+Sverige
+USA
+Sverige
+USA
+Sverige
+Sverige
+Sverige
+Sverige
+
+Sverige
+Sverige
+USA
+Sverige
+USA
+Sverige
+[[Serbien]], [[Bosnien och Hercegovina]], [[Montenegro]], [[Kosovo]]. <br />''Minoritetsspråk i'' [[Kroatien]], [[Makedonien]], [[Ungern]], [[Rumänien]], [[Tjeckien]], [[Slovakien]], [[Grekland]]
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Sverige
+
+
+[[Sverige]]
+[[USA]]/[[Storbritannien]]
+Sverige
+Indien
+
+Sverige
+
+
+<br /><br />
+[[Sverige]]
+
+
+
+Sverige
+[[Sverige]]
+USA
+
+Sverige
+Sverige
+Spanien
+Tyskland
+Sverige
+Sverige
+[[Sverige]]
+
+Sovjet/Ryssland
+[[USA]]
+Sverige
+USA
+
+
+[[Storbritannien]]
+
+[[Sverige]]
+
+
+
+
+
+
+
+
+
+
+
+Storbritannien
+Sverige
+[[Italien]]
+
+
+
+
+
+Sverige
+Sverige
+[[USA]]
+
+
+[[USA]]
+Sverige
+
+Sverige
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+<br />
+[[Storbritannien]]
+[[USA]]/[[Kanada]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]], [[Nederländerna]]
+
+
+[[USA]]
+[[USA]]
+[[Storbritannien]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+[[USA]]
+[[USA]]
+
+[[USA]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+[[USA]], [[Storbritannien]]
+
+[[Filippinerna]] (som [[filipino]])
+[[USA]]
+[[Sverige]]
+Sverige
+[[Frankrike]]
+[[Sverige]]
+Sverige
+[[USA]]
+
+
+[[USA]], [[Kanada]]
+Indien
+Indien
+Sverige
+
+Sverige
+Sverige
+Sverige
+
+[[USA]]
+Egypten
+[[USA]]
+USA
+Sverige
+Sverige
+
+Sverige
+
+[[USA]]
+
+[[Storbritannien]]
+
+
+[[Sverige]]
+[[Luxemburg]]
+
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[Sverige]]
+[[Norge]]
+Sverige
+Sverige
+Sverige
+Sverige
+([[Sverige]])<br>[[Danmark]]<br>[[Tyskland]]
+Sverige
+Sverige
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+
+[[Storbritannien]]
+Nederländerna
+
+
+
+
+[[USA]]
+[[Storbritannien]]
+[[Sverige]]
+USA
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+[[Storbritannien]]/[[USA]]
+[[Japan]]
+Sverige
+Sverige
+[[USA]]
+
+[[USA]]
+[[USA]]
+
+[[USA]]
+Sverige
+[[USA]]
+Italien
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]],[[Finland]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Storbritannien]]
+[[Sverige]]
+Europa
+Frankrike
+Sverige
+
+[[USA]]
+[[Sverige]]
+USA
+[[USA]]
+[[USA]]
+Förenta staterna
+Förenta staterna
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+<br />
+Sverige
+[[Sverige]]
+
+
+
+[[Sverige]]
+Sverige
+[[Fil:Flag of Bosnia and Herzegovina.svg|20px]] [[Bosnien-Hercegovina]]<br /> [[Fil:Flag of Montenegro.svg|20px]] [[Montenegro]]<br /> [[Fil:Flag of Kosovo.svg|20px]] [[Kosovo]] (regionalt)
+[[Makedonien]]<br>Albanien<br>Rumänien<br>Serbien
+<br>Kosovo
+[[Bulgarien]], [[EU]], [[Athos]]
+[[Azerbajdzjan]]
+[[Sverige]]
+
+
+Sverige
+
+Frankrike
+[[Sverige]]
+<br />
+
+Egypten
+Sverige
+
+
+[[Kambodja]]
+[[Sverige]]
+Sverige
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+USA
+[[USA]]
+
+Sverige
+[[USA]]
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+Tyskland
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+<br>
+[[USA]]
+USA
+USA
+[[Sverige]]
+
+[[USA]]
+Lettland
+
+
+[[Sverige]]
+[[Frankrike]]<br><br> [[Italien]]
+Sverige
+
+[[Sverige]]
+
+
+
+
+[[Tjeckien]]
+[[Hongkong]], [[Macau]]
+[[Förenta staterna]]
+[[USA]]
+
+[[Sverige]]
+Sverige
+[[USA]], [[Storbritannien]]
+
+[[USA]], [[Storbritannien]]
+[[USA]]
+
+[[Danmark]]
+Sverige
+[[USA]]
+[[USA]]
+USA
+[[Serbien]]/[[Frankrike]]
+[[Storbritannien]]
+[[USA]]
+Tyskland
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+<br />
+Tyskland
+
+[[Sverige]]
+[[Frankrike]], [[Sverige]], [[Island]]
+[[USA]]
+[[Sverige]]
+Sverige
+[[USA]]
+
+[[Sverige]]
+
+
+Spanien
+[[USA]]
+
+[[USA]]/[[Australien]]
+[[Storbritannien]] <br /> [[USA]]
+[[USA]]
+Sudan
+
+
+
+Sverige
+
+Sverige
+[[Sverige]]
+Sverige
+Sverige
+[[Sverige]]
+
+
+<br>
+
+[[Finland]] <br> [[Kanada]] <br> [[Sverige]] <br> [[Tjeckien]] <br> [[Tyskland]] <br> [[USA]]
+[[USA]]
+Sverige
+USA
+
+Sverige
+Sverige
+[[Tyskland]]
+[[Storbritannien]]
+England
+[[Australien]], [[Frankrike]]
+-
+[[USA]]<br />[[Italien]]<br/>[[Kanada]]<br />[[Tyskland]]<br />[[Tjeckien]]
+[[Sverige]]
+[[Panama]]
+[[Bosnien och Hercegovina]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[Ryssland]]</br>[[Mongoliet]]
+
+
+
+
+<br />
+
+[[USA]]
+[[Sverige]]
+Sverige
+
+Sverige
+[[USA]]
+USA
+
+Sverige
+Storbritannien
+[[Sverige]]
+Sverige
+
+
+
+[[Italien]]
+[[USA]]
+[[Sverige]]
+Spanien
+[[Nederländerna]]
+Sverige
+Tyskland
+Tyskland
+[[USA]]
+
+[[Sverige]]
+[[Frankrike]]
+
+
+Sverige
+
+
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+Sverige
+[[Tanzania]]
+
+Sverige
+
+
+
+[[Sverige]]
+
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Kilimanjaro (region)|Kilimanjaro]], Tanzania
+
+
+[[Frankrike]]
+
+Sverige
+
+
+Sverige
+Sverige
+Sverige
+[[Tyskland]]
+Sverige
+
+[[USA]]
+<br /><br />
+[[USA]]
+
+
+[[Sverige]]<br>[[Norge]]
+
+
+[[Sverige]]
+[[Sverige]]<br />[[Tyskland]]
+USA
+
+Sverige
+
+[[USA]]
+[[Sverige]]
+
+Australien
+
+
+USA
+[[Sverige]], [[Tyskland]]
+[[Danmark]]<br>[[Sverige]]
+Tyskland
+
+
+
+[[Sverige]], [[Tyskland]]
+[[Sverige]]
+
+Storbritannien
+[[USA]]
+
+
+
+[[Sverige]]
+[[Sverige]], [[Tyskland]]
+[[Sverige]]
+[[USA]]
+-
+[[Libanon]]
+[[Sverige]], [[Tyskland]]
+[[USA]]
+
+
+
+
+
+
+
+Japan
+
+[[Sverige]]
+Sverige
+[[Isle of Man]], tillsammans med [[engelska]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+Sverige
+[[Jawa Tengah]], [[Yogyakarta (region)|Yogyakarta]] och [[Jawa Timur]]
+Sverige
+
+Sverige
+
+[[Sverige]]
+
+[[Kanada]]
+
+
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+
+[[Frankrike]], [[Schweiz]], [[Tyskland]]
+[[Sverige]]
+[[Sverige]]
+
+
+&nbsp;[[Snåsa kommun|Snåsa]], [[Røyrviks kommun|Røyrvik]]<br />&nbsp;(minoritetsspråk)
+
+[[Sverige]]&nbsp;(minoritetsspråk), [[Finland]]&nbsp;(vissa&nbsp;kommuner), [[Norge]]&nbsp;(vissa&nbsp;kommuner)
+
+
+
+
+USA
+
+
+[[Danmark]], [[Finland]], [[Island]] ([[Musikåret 1990|1990]]), [[Norge]], [[Sverige]]
+
+
+
+
+
+[[USA]]/[[Tyskland]]
+
+Sverige
+Sverige
+[[Sverige]]
+<br />
+Spanien
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+
+[[USA]]
+Sverige
+Indien
+
+
+Indien
+Sverige
+Bulgarien
+Sverige
+[[Sverige]]
+[[Afghanistan]]<br />[[Pakistan]]
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Pakistan
+[[Sverige]]
+Chile
+
+
+
+
+
+[[Sverige]]
+Sverige
+Sverige
+
+[[Förenta staterna]]
+[[USA]], [[Storbritannien]], [[Italien]]
+
+
+[[Sverige]]
+
+
+[[USA]]
+[[USA]]
+[[USA]] <br /> [[Storbritannien]] <br /> [[Tyskland]]
+Sverige
+[[Schweiz]]
+Sverige
+[[Storbritannien]]
+[[Italien]]
+
+[[Sverige]]
+Kuba
+
+
+[[USA]]<br />[[Tyskland]]<br />[[Storbritannien]]<br />[[Argentina]]<br />[[Chile]]<br />[[Peru]]<br />[[Frankrike]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+
+Sverige
+[[USA]]
+[[USA]]
+<br>
+[[Kina]], [[Hongkong]]
+Sverige
+Sverige
+Sverige
+
+[[USA]]<br />[[Storbritannien]]<br />[[Tjeckien]]
+[[England]]
+
+[[England]]
+Norge
+Sverige
+Sverige
+
+
+[[Sverige]]
+[[Skottland]]
+[[England]]
+
+[[England]]
+[[England]]
+
+
+[[Storbritannien]], [[USA]]
+
+
+
+[[USA]]
+[[USA]]
+Sverige
+Sverige
+[[Sverige]]
+[[Frankrike]]
+<br />
+Argentina
+Argentina
+Argentina
+[[Frankrike]] <br> [[Storbritannien|UK]] <br> [[Thailand]]
+[[Colombia]], [[USA]]
+
+
+
+[[USA]]
+[[USA]]
+
+[[USA]]
+[[Förenta staterna]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+[[USA]]
+
+[[USA]]
+[[England]]
+[[USA]] <br> [[Storbritannien]]
+
+[[Sverige]] & [[Norge]]
+[[Kina]] ([[Qing]]-dynastin)
+
+[[USA]]
+Sverige
+[[Sverige]]
+[[USA]]
+
+Sverige
+
+Sverige
+Sverige
+
+Sverige
+[[USA]]
+Sverige
+
+[[Finland]]
+[[USA]]
+
+
+[[USA]], [[Tjeckien]]
+Sverige
+Sverige
+Sverige
+[[Indien]]
+[[USA]]
+
+[[Sverige]]
+[[Norge]], [[Sverige]]
+[[USA]]
+[[Sverige]], [[Tyskland]]
+[[USA]]
+
+Sverige
+[[USA]]
+Sverige
+[[Sverige]]
+[[Sverige]], [[Danmark]], [[Tyskland]], [[Norge]], [[Finland]]
+Sverige
+[[Sverige]]
+<br />
+
+
+
+
+[[USA]], [[Tyskland]]
+
+
+[[USA]]/[[Tyskland]]
+
+[[USA]]
+[[USA]]
+Sverige
+[[Sverige]]
+Sverige
+Storbritannien
+[[Sverige]]
+[[USA]]
+[[USA]]
+
+
+[[USA]]
+[[USA]]
+[[USA]]
+
+
+[[USA]]
+[[USA]]
+
+[[USA]]
+Sverige
+Sverige
+
+
+[[Storbritannien]], [[Frankrike]]
+Sverige
+[[USA]]
+[[USA]]
+Sverige
+
+[[USA]] <br> [[Tyskland]] <br> [[Kanada]]
+[[USA]]
+
+USA
+[[Mellanöstern]]<br>(FCI har ansvar för standarden)
+
+USA
+
+[[USA]]
+
+
+
+
+[[Sverige]]
+
+Sverige
+Sverige
+Sverige
+Sverige
+[[USA]]
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+
+Sverige
+[[Storbritannien]]<br> [[USA]]<br> [[Frankrike]]<br> [[Irland]]
+
+Sverige
+<br>
+<br />
+
+[[Storbritannien]], [[USA]], [[Tyskland]]
+
+inget
+[[Danmark]]/[[Tyskland]]/[[Nederländerna]]/<br />[[USA]]/[[Storbritannien]]/[[Frankrike]]/<br />[[Sverige]]/[[Finland]]/ [[Island]]/[[Norge]]
+
+[[USA]], [[Storbritannien]]
+
+
+
+<br />
+<br />
+<br />
+<br />
+[[Sverige]]
+[[USA]]
+[[USA]]
+
+Litauen
+Litauen
+
+[[USA]]
+
+[[USA]]
+[[Marshallöarna]]
+[[USA]]
+[[Uzbekistan]]
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Georgien
+Skottland
+Sverige
+Sverige
+[[Sverige]]
+
+[[Sverige]]
+
+
+[[Sverige]]
+[[Storbritannien]]
+[[USA]]
+Peru
+<br>
+Sverige
+
+
+
+Sverige
+[[Sverige]]
+
+<br />()
+<br>()
+[[USA]]
+[[Nazityskland]]
+(engelska uppl.)
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[Norge]]
+Nederländerna
+Nederländerna
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+Sverige
+[[Sverige]]
+Sverige
+
+[[USA]]
+
+
+[[USA]]
+[[USA]]
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+
+
+[[Frankrike]]
+Sverige
+[[Sverige]]
+[[Frankrike]]
+[[Frankrike]]
+
+
+<br /><br /><br />
+[[USA]]
+
+[[Sverige]]
+Sverige
+Sverige
+
+Sverige
+[[Sverige]]
+[[USA]]
+
+
+
+
+[[Förenta Staterna]]
+[[USA]]
+[[Sverige]]
+USA
+
+
+[[USA]]
+
+
+[[Nya Zeeland]], [[Australien]], [[Storbritannien]]
+
+
+
+
+Albanien
+Sverige
+
+Sverige
+Sverige
+Albanien
+
+[[Sverige]]
+
+[[Belgien]]
+Albanien
+
+[[Sverige]]
+[[Sverige]], [[Norge]]
+[[USA]]
+USA
+[[Grekland]]
+Island
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[Sverige]]¹
+Sverige
+[[Sverige]]<br />[[Finland]]
+Sverige
+
+
+Sverige
+
+[[Sverige]]
+Sverige
+Sverige
+[[Sverige]]
+<br />
+<br />
+<br />
+[[USA]] [[Tyskland]]
+Österrike
+Österrike
+[[USA]]
+[[USA]]
+Sverige
+
+Sverige
+
+[[USA]]
+Sverige
+[[USA]]
+Belgien
+[[Sverige]]
+Sverige
+
+
+
+
+
+Sverige
+Sverige
+Aruba
+Sverige
+[[USA]]
+
+
+
+
+[[Sverige]]
+Sverige
+
+[[USA]]
+
+[[USA]]
+Sverige
+
+Sverige
+
+[[Sverige]]
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+
+Egypten
+[[Storbritannien]]
+[[USA]]
+Belgien
+
+
+[[Sverige]]
+
+Sverige
+
+[[Sverige]]
+Sverige
+Sverige
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+
+[[Frankrike]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Tyskland
+[[Tyskland]]
+
+Egypten
+
+
+
+[[USA]]
+[[USA]]
+
+[[Sverige]]
+<br />([[Fil:Flag of Tibet.svg|border|20px]] [[Tibet]])
+
+Sverige
+
+[[USA]]
+[[USA]]
+
+<br />
+[[Norge]]
+Sverige
+[[Kanada]], [[Storbritannien]]
+[[Förenta staterna]]
+[[Spanien]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[USA]], [[Tyskland]], [[Irland]], [[Storbritannien]]
+
+
+Sverige
+
+Ryssland
+Tyskland
+
+[[USA]]
+Sverige
+
+
+<br />
+USA
+Sverige
+Nederländerna
+[[Sverige]], [[Danmark]], [[Norge]], [[Italien]], [[Finland]], [[Tyskland]]
+Kanada
+
+
+[[USA]]
+Sverige
+[[USA]]
+
+
+Kanada
+Österrike
+
+Österrike
+USA
+[[USA]]
+
+
+[[Somalia]], [[Somaliland]], [[Djibouti]], [[Somaliregionen]], [[Nordöstra provinsen]]
+
+[[USA]]
+
+
+[[Danmark]]
+[[Danmark]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Nya Zeeland]]
+
+[[USA]]
+[[Förenta staterna]]
+<br />
+[[Sverige]]
+[[Sverige]]
+
+[[Storbritannien]]
+[[Sverige]]
+
+
+
+[[USA]]<br />[[Frankrike]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]], [[Sverige]]
+[[USA]]
+[[Sverige]]
+
+
+
+
+Sverige
+
+Sverige
+[[USA]]
+[[Sverige]]
+[[Storbritannien]]
+Sverige
+
+
+
+
+
+
+[[USA]]
+
+[[Sverige]]
+[[Storbritannien]]
+[[Finland]]
+
+Italien
+
+
+
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+[[USA]]
+[[USA]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+
+Sverige
+Sverige
+
+Sverige
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+[[Sverige]]
+Sverige
+
+<br>
+Sverige
+Sverige
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+Sverige
+Sverige
+
+Sverige
+Sverige
+
+Sverige
+Sverige
+Sverige
+Sverige
+USA
+[[USA]], [[Storbritannien]]
+Sverige
+<br />
+[[Tyskland]], [[Frankrike]], [[Storbritannien]]
+
+[[Sverige]]
+
+[[USA]]
+[[Danmark]]
+Sverige
+Sverige
+
+[[USA]]
+
+
+
+[[USA]]
+
+
+[[USA]]
+[[Kina]], [[Tyskland]], [[Frankrike]], [[Hong Kong]]
+[[Sverige]]
+USA
+[[Sverige]]
+
+
+
+[[USA]]
+[[Storbritannien]]
+Ryssland
+<br/><br/>
+
+[[USA]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+Sverige
+Sverige
+[[USA]]
+[[Kanada]]
+Kanada
+
+Sverige
+[[Sverige]]
+Sverige
+Sverige
+
+
+Fr.o.m. år 2005 räknas det in som ett regionalspråk i Polen och väntas bli ett hjälpspråk i [[Pommerns vojvodskap]].
+[[Brandenburg]] och [[Sachsen]]&nbsp;som regionalspråk
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Storbritannien]]
+[[USA]]
+[[Hongkong]]
+[[USA]]
+Sverige
+[[Storbritannien]], [[USA]]
+Tyskland
+Tyskland
+[[USA]]
+[[USA]]
+
+
+[[USA]]<br />[[Storbritannien]]
+
+Sverige
+[[Sverige]]
+
+[[Sverige]]
+USA
+[[USA]]
+[[USA]]
+
+[[Frankrike]]
+Sverige
+[[Frankrike]]
+[[USA]], [[Japan]]
+Turkiet
+
+
+
+[[USA]]
+[[Frankrike]], [[Tyskland]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]], [[Norge]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[Frankrike]]
+[[Italien]]
+[[USA]]
+[[Storbritannien]]<br />[[USA]]<br />[[Frankrike]]<br />[[Tyskland]]
+[[USA]]
+[[USA]]
+[[Frankrike]],[[Italien]]
+
+[[Frankrike]]
+
+[[Forntida Egypten]]
+[[Sverige]]
+[[USA]]
+[[Kanada]]
+Senegal
+Sverige
+[[Spanien]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+
+[[USA]]
+USA
+[[Frankrike]], [[Italien]]
+[[USA]]
+
+
+USA
+
+
+[[USA]]
+
+<br> [[Japan]]<br> [[Tyskland]]
+Sverige
+Sverige
+[[Italien]] <br> [[Spanien]] <br> [[Västtyskland]]
+[[Italien]]
+[[USA]]
+
+
+
+[[USA]]
+
+
+
+
+<br />
+Georgien
+Sverige
+
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+[[Tecknade serier i USA|USA]]
+Sverige
+
+[[Sverige]]
+Georgien
+
+
+[[Sverige]]
+[[Sverige]]
+Europa
+[[USA]]
+[[USA]]
+[[Sverige]], [[Danmark]]
+[[USA]]
+[[USA]]
+<br />
+
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Finland]]
+
+[[Finland]]
+[[Sverige]], [[Danmark]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+
+
+[[Storbritannien]]
+[[USA]]
+Sverige
+[[USA]]
+
+[[Sverige]], [[Danmark]]
+
+[[USA]]
+Österrike
+
+
+Sverige
+Sverige
+[[USA]]
+
+[[Sverige]]
+Spanien
+
+[[Tecknade serier i USA|USA]]
+
+[[USA]]
+[[USA]], [[Tyskland]]
+[[Indonesien]]
+
+
+[[USA]]
+USA
+[[Sverige]]
+Sverige
+
+
+[[Frankrike]], [[Italien]]
+[[USA]]
+
+
+[[Sydkorea]]
+
+
+<br />
+[[Italien]]
+
+
+[[Sverige]]
+
+[[USA]], [[Storbritannien]]
+[[Sverige]], [[Finland]]
+
+Sverige
+Sverige
+
+[[USA]]]
+Sverige
+[[Sverige]]
+[[USA]], [[Tjeckien]]
+Sverige
+
+
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Kanada]], [[Storbritannien]], [[Sydafrika]], [[Italien]]
+[[Sverige]]
+[[Storbritannien]]
+[[Sverige]]
+Tyskland
+
+
+
+
+
+
+[[Sverige]]
+
+[[Sverige]]
+
+
+
+
+
+
+
+[[USA]]
+[[USA]]
+Sverige
+[[Frankrike]]
+
+[[USA]]
+[[USA]]
+
+
+[[USA]]
+
+USA
+
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+
+[[USA]], [[Kanada]]
+USA
+[[USA]]
+[[USA]]
+
+USA
+[[Frankrike]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[USA]], [[Sydafrika]]
+som [[standardkinesiska]] i Folkrepubliken Kina, Republiken Kina och [[Singapore]]
+[[Sverige]]
+
+Sverige
+[[Storbritannien]]
+[[USA]]
+[[USA]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+
+
+[[USA]]
+[[Storbritannien]], [[Frankrike]], [[Nya Zeeland]]
+[[Frankrike]], [[Italien]]
+[[Sardinien]]
+[[Japan]]<br />[[Storbritannien]]<br />[[Tyskland]]
+
+[[Sverige]]
+
+<br>
+[[Frankrike]], [[Belgien]]
+Sverige
+[[USA]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+Tyskland
+[[Tyskland]]<br />[[Italien]]<br />[[Österrike]]
+[[Danmark]]
+[[Sverige]]
+
+Sverige
+[[Madagaskar]]
+
+[[USA]]
+
+[[land A]], [[land B]]
+
+
+<br />
+[[Vietnam]]
+
+
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+
+
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Adygeiska republiken]]
+
+[[USA]]
+[[Tyskland]], [[Österrike]], [[Schweiz]], [[Luxembourg]], [[Liechtenstein]], [[Belgien]], [[Italien]], [[Namibia]]
+[[Tyskland]], [[Österrike]], [[Schweiz]], [[Luxembourg]], [[Liechtenstein]], [[Belgien]], [[Italien]], [[Namibia]]
+
+[[USA]]
+Sverige
+Sverige
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+Sverige
+<br />
+
+[[USA]]
+[[USA]]
+[[USA]]
+[[Storbritannien]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Spanien]], [[Frankrike]], [[Italien]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+
+[[USA]]
+[[Frankrike]]
+[[USA]]
+
+[[Frankrike]], [[Storbritannien]], [[Kanada]]
+[[USA]]
+[[USA]]
+
+
+[[USA]]
+[[USA]]
+
+
+
+[[Sverige]]
+Sverige
+Tyskland
+[[Sverige]]
+<br />
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+Sverige
+[[Sverige]]
+Sverige
+[[USA]]
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+
+Sverige
+[[Indien]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[USA]]
+
+[[USA]]
+[[USA]]
+Sverige
+Sverige
+
+Sverige
+Sverige
+Sverige
+Sydgeorgien och Sydsandwichöarna
+[[USA]]
+
+[[Italien]]
+Sverige
+
+[[USA]]
+[[USA]]
+Italien
+
+[[USA]]
+[[Sverige]], [[Danmark]], [[Norge]], [[Frankrike]], [[Tyskland]]
+
+[[USA]]
+
+[[Sverige]]
+[[USA]]
+
+
+
+
+
+[[Sverige]]
+
+USA
+USA
+Sverige
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+Sverige
+
+kommunen [[Miranda do Douro]] ([http://dre.pt/pdf1sdip/1999/01/024A00/05740574.PDF Lag nr. 7/99], från den 29 januari 1999)
+USA
+[[Sverige]]
+[[USA]]/[[Tyskland]]
+[[Kanada]]<br>[[USA]]
+
+Sverige
+
+
+[[USA]]
+
+
+USA
+USA
+USA
+USA
+USA
+[[Kanada]]<br /> [[USA]]
+[[Sri Lanka]]
+[[Sverige]]
+[[Storbritannien]]/[[USA]]
+USA
+[[Sverige]]
+<br/>
+
+[[USA]]
+
+USA
+
+
+Sverige
+
+[[Norge]]
+
+USA
+USA
+USA
+USA
+Polen
+USA
+USA
+USA
+
+
+
+[[Sverige]]
+
+
+
+
+USA
+USA
+[[Sverige]]
+
+
+
+
+[[USA]]
+[[USA]]
+
+[[Tecknade serier i USA|USA]]
+[[USA]]
+
+
+[[Zimbabwe]]
+[[USA]]
+Sverige
+
+[[Storbritannien]]
+USA
+USA
+USA
+USA
+[[Sverige]]
+[[Sverige]]
+[[Kanada]]
+
+[[Storbritannien]],[[USA]]
+Sverige
+[[USA]]
+[[USA]]
+Sverige
+[[Storbritannien]]
+[[Sverige]]
+USA
+USA
+USA
+[[USA]], [[Storbritannien]]
+
+[[USA]]
+
+Sverige
+
+[[USA]], [[Georgien]]
+[[USA]]
+
+[[Sverige]]
+Sverige
+[[Storbritannien]]<br>[[USA]]
+USA
+
+Italien
+Italien
+[[Storbritannien]]
+[[Storbritannien]], [[Frankrike]]
+[[USA]]
+[[USA]]
+
+[[Storbritannien]]
+[[Storbritannien]]
+[[Sverige]]
+
+Sverige
+[[USA]]
+[[Sverige]]/[[Irland]]
+[[Sverige]]
+[[USA]], [[Storbritannien]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+USA
+[[Sverige]]
+USA
+[[Sverige]]
+
+[[Sverige]]
+[[Frankrike]]
+[[USA]]
+[[USA]], [[Storbritannien]]
+[[USA]]
+[[Filippinerna]]
+Sverige
+Irak
+
+
+[[Sverige]]
+
+USA
+[[Sverige]]
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+
+
+
+[[Sverige]]
+[[USA]]/[[Ryssland]]/[[Frankrike]]/<br>[[Italien]]/[[Nederländerna]]
+Sverige
+[[Storbritannien]]
+[[Storbritannien]]
+
+[[Sverige]]
+
+[[Sverige]]
+
+[[Brunei]]
+[[Kina]]
+[[USA]], [[Storbritannien]]
+[[Sverige]]
+[[USA]]
+<br/><br/>
+
+[[USA]]
+Bulgarien
+Island
+Island
+
+[[Sverige]]
+[[Grönland]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+
+
+
+
+[[Kosovo]]
+Sverige
+
+[[Sverige]], [[Danmark]]
+[[Danmark]]
+
+Sverige
+
+[[USA]]
+[[Storbritannien]]
+
+[[USA]]
+Österrike
+[[Sverige]]
+[[USA]]
+
+Nordmarianerna
+USA
+[[Storbritannien]]
+
+<br>
+
+
+[[USA]], [[Storbritannien]]
+[[USA]]
+[[USA]]
+Kanada
+Kanada
+Kanada
+[[USA]]
+
+<br />
+<br />
+
+
+[[USA]]
+
+
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+
+
+
+
+
+[[USA]]
+
+Ukraina
+[[USA]]
+
+<br />  <br />  <br />
+
+
+
+
+<br /><br />
+
+
+
+<br />
+<br />
+
+[[Sverige]]
+
+
+[[Sverige]]
+
+USA
+<br />
+
+[[USA]]
+[[Sverige]]
+<br>
+[[Sydkorea]]
+USA, Italien, UK, Luxemburg
+[[Förenta staterna]]
+<br />
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Norge]]
+[[Sverige]]
+[[USA]]
+Sverige
+
+[[Sverige]]
+USA
+[[USA]]
+
+Sverige
+Sverige
+
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+[[USA]]
+
+[[Sverige]]
+Sverige
+
+
+Sverige
+Sverige
+<br />
+<br />
+Sverige
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+
+
+
+
+
+
+[[USA]], [[Storbritannien]], [[Tyskland]], [[Jugoslavien]]
+[[USA]]
+[[Storbritannien]], [[USA]]
+Sverige
+
+Sverige
+[[Storbritannien]], [[USA]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]], [[Frankrike]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Frankrike]]
+
+[[Sverige]]
+[[USA]]
+<br />
+[[Sverige]]
+[[USA]]
+<br />([[Centralafrika]])
+[[USA]]
+[[Tecknade serier i USA|USA]]
+[[Kanada]], [[Storbritannien]], [[USA]]
+[[USA]]
+[[Sverige]]
+[<br />
+<br />
+<br />
+[[Irland]], [[Storbritannien]], [[USA]]
+
+[[USA]]
+[[Sverige]]
+Holland
+[[Finland]]
+[[Storbritannien]]
+
+
+[[USA]]
+
+
+
+
+Sverige
+
+
+Sverige
+
+[[USA]]
+
+[[Storbritannien]]
+[[Sverige]]
+Sverige
+[[USA]]
+
+
+
+[[Sverige]],
+[[Sverige]]
+Sverige
+Sverige
+
+[[Sverige]],
+Sverige
+[[Kanada]], [[USA]], [[Ungern]], [[Storbritannien]]
+Sverige
+[[Sverige]],[[Västtyskland]]
+[[USA]]
+
+
+<br/>
+
+<br />
+[[USA]]
+[[USA]]
+
+
+
+
+[[USA]]
+[[USA]]
+[[Storbritannien]], [[Förenta staterna]]
+
+
+
+
+[[USA]]
+[[USA]]
+[[Sverige]]
+Sverige
+Sverige
+
+[[Storbritannien]]
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+
+[[Tyskland]]
+
+
+[[Förenta staterna]]
+[[Storbritannien]], [[Frankrike]], [[Förenta staterna]]
+[[Förenta staterna]]
+Sverige
+[[Förenta staterna]], [[Tyskland]], [[Nya Zeeland]]
+[[Sverige]],[[Västtyskland ]]
+[[Danmark]]
+
+[[Sverige]]
+Sverige
+Sverige
+
+
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+Sverige
+[[Norge]], [[Sverige]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+Upphandlas inför varje år
+
+
+USA
+[[USA]]
+[[Förenta staterna]]
+
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[Sydkorea]]
+[[USA]]
+Storbritannien
+
+USA
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Förenta staterna]]/[[Mexiko]]
+[[USA]]
+[[USA]]
+
+[[USA]]
+<br />
+<br />
+
+
+
+
+
+[[USA]]
+<br />
+<br />
+<br />
+
+<br />
+[[USA]]
+
+[[Sverige]], [[Norge]]
+<br />
+[[Irland]], [[USA]]
+[[USA]]
+
+[[Västtyskland]]
+
+[[USA]]/[[Frankrike]]
+[[Sverige]]
+[[Australien]]
+
+[[Sverige]]
+
+
+[[USA]]
+<br>
+[[Danmark]], [[Sverige]]
+[[USA]]
+[[USA]]
+[[Storbritannien]]
+
+[[USA]], [[Storbritannien]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+
+[[USA]]
+[[USA]]
+
+[[Nederländerna]]
+[[Frankrike]], [[Tyskland]], [[Spanien]]
+
+[[USA]]
+[[Tyskland]], [[Förenta staterna]]
+[[USA]]
+[[USA]]
+[[USA]]
+Sverige
+[[Sverige]]
+
+
+[[USA]]
+<br />
+[[Storbritannien]]
+[[Irland]], [[Storbritannien]]
+
+
+[[USA]]
+[[USA]], [[Storbritannien]]
+[[Frankrike]]
+<br />
+<br />
+[[Sverige]]
+[[Australien]]<br/>[[USA]]
+[[Australien]]
+[[Frankrike]]
+[[Tyskland]]
+[[Sverige]]
+
+[[USA]]
+<br>  <br>  <br>
+
+Sverige
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+
+
+
+
+
+
+
+[[Sverige]]
+[[Spanien]]
+[[USA]]
+
+USA
+[[USA]], [[Storbritannien]], [[Danmark]], [[Sverige]], [[Frankrike]], [[Norge]], [[Nederländerna]], [[Finland]], [[Tyskland]]
+
+
+
+USA
+USA
+USA
+
+[[USA]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]], [[Australien]]
+<br>
+<br />(FCI har ansvar för standarden)
+
+
+
+
+[[Sverige]], [[Danmark]]
+
+[[USA]]
+[[Förenta staterna]]
+
+
+
+
+[[Australien]]
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+Sverige
+<br>  <br>  <br>
+[[USA]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Finland]]
+[[USA]]
+[[USA]]<br />[[Tyskland]]
+
+
+
+Sverige
+[[Storbritannien]]<br />[[USA]]<br />[[Tyskland]]<br />[[Italien]]
+[[USA]]
+[[Finland]]
+
+
+[[Sverige]], [[Danmark]], [[Italien]]
+[[USA]], [[Storbritannien]], [[Tyskland]]
+[[Sverige]]
+
+
+[[USA]]
+[[Finland]]
+
+[[Finland]]
+
+
+Sverige
+
+
+[[USA]]
+[[Sverige]]
+[[Storbritannien]], [[Spanien]], [[USA]]
+[[Sverige]]
+
+<br>  <br>  <br>
+
+[[USA]]
+[[USA]]
+[[USA]]
+
+
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+
+[[Danmark]]
+[[USA]]
+
+[[Sverige]], [[Danmark]]
+
+
+Sverige
+[[Sverige]], [[Norge]]
+[[Finland]]
+Sverige
+[[Vatikanstaten]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+
+
+
+
+
+Sverige
+Sverige
+Tyskland
+[[Sverige]]
+[[Storbritannien]]
+[[Förenta staterna]]([[Australien]]
+
+[[USA]]
+[[Sverige]]
+[[Frankrike]], [[USA]]
+Sverige
+
+
+[[Storbritannien]]
+
+[[Sverige]]
+Frankrike
+[[Sverige]]
+[[Frankrike]], [[Italien]], [[Spanien]]
+USA
+
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+[[Finland]]
+[[Finland]]
+
+
+[[Storbritannien]],
+[[Japan]]
+[[Sverige]]
+
+Sverige
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+Afghanistan
+[[Sverige]]
+
+Afghanistan
+
+
+
+
+Algeriet
+
+Sverige
+[[Sverige]]
+
+[[USA]]
+
+[[Sverige]]
+Brasilien
+
+[[Sverige]]
+
+Andorra
+
+Sverige
+
+
+
+[[Sverige]]
+USA
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+USA
+Sverige
+
+Sverige
+
+
+
+
+[[Sverige]]
+
+
+Sverige
+[[Sverige]]
+Sverige
+
+[[Argentina]], [[Brasilien]]
+[[Sverige]]
+USA
+
+[[USA]]
+[[Sverige]]
+Sverige
+
+
+[[Amerikas Förenta Stater]]
+<br>  <br>  <br>
+[[USA]], [[Tjeckien]]
+[[USA]]
+[[Sverige]]
+
+[[USA]]
+USA
+
+
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+[[Finland]]
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+Kanada
+[[USA]]
+Sverige
+[[Sverige]]
+Kanada
+Sverige
+Sverige
+Sverige
+Grekland
+[[Österrike]]-[[Ungern]]
+[[USA]]
+Sverige
+Sverige
+
+
+
+[[USA]]
+[[USA]]
+Japan
+
+[[USA]]/[[Australien]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+[[Etiopien]] och [[Eritrea]]
+[[Sverige]]
+[[Sverige]]
+
+
+Japan
+[[Sverige]]
+[[Sverige]]
+Ungern
+
+
+[[Sverige]]
+Sverige
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+[[USA]], [[Storbritannien]]
+[[Sverige]]
+Sverige
+
+Sverige
+
+[[USA]]
+
+[[Film i Sovjetunionen|Sovjetunionen]]
+Sverige
+
+''[[Irland]]<br>[[Storbritannien]]<br>[[Danmark]]''<br>[[Sverige]]<br>''[[Estland]]''
+''[[Irland]]<br>[[Storbritannien]]<br>[[Danmark]]''<br>[[Sverige]]<br>''[[Lettland]]''
+
+[[USA]]
+
+
+
+Sverige
+Sverige
+[[Sverige]]
+
+
+<br>  <br>
+
+
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+
+
+
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+[[Tjuvasjien]] ([[Rysslands delrepubliker|delrepublik]] i [[Ryssland]])
+
+USA
+
+[[USA]]
+Mexiko
+
+[[Frankrike]]
+Sverige
+Sverige
+USA
+[[USA]], [[Kanada]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+<br>
+
+
+[[Storbritannien]]
+[[USA]]
+
+Sverige
+
+
+
+
+
+
+
+[[Storbritannien]], [[USA]]
+[[Sverige]]
+
+Sverige
+
+Cypern
+
+
+[[Sverige]]
+
+
+Sverige
+[[USA]]
+
+
+[[Storbritannien]]
+[[Italien]]
+[[Tecknade serier i USA|USA]]
+
+[[USA]]
+Sverige
+Sverige
+[[Sverige]]
+Sverige
+[[USA]]
+Sverige
+Sverige
+
+[[Sverige]], [[Danmark]], [[Norge]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+
+
+-
+
+Sverige
+
+
+Sverige
+Sverige
+[[USA]]
+[[Sverige]]
+
+
+
+[[Tecknade serier i USA|USA]]
+[[USA]]
+[[Sverige]]
+Sverige
+[[USA]]
+[[Storbritannien]]<br>[[Spanien]]<br>[[Tyskland]]<br>[[USA]]
+Sverige
+[[Sverige]]
+
+
+[[USA]]
+
+
+
+
+[[Kroatien]]
+Sverige
+[[Lettland]]
+Sverige
+
+[[Kina]], [[Hong Kong]]
+[[USA]]
+[[Kanada]], [[USA]]
+
+grekland
+
+
+Sverige
+
+
+
+<br />
+[[Tecknade serier i USA|USA]]
+
+
+
+
+
+[[Kanada]]
+[[Sverige]]
+Sverige
+Sverige
+
+[[Television i Storbritannien|Storbritannien]]
+
+Sverige
+
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+
+
+[[Mauretanien]]
+
+
+
+Australien
+
+
+
+
+
+
+[[Malaysia]]
+Honduras
+
+USA
+[[USA]]
+<br />
+<br />
+
+
+[[Sverige]]
+[[Sverige]]
+
+
+[[Island]]
+Sverige
+Sverige
+
+
+
+[[USA]]
+[[Kanada]] <br /> [[USA]]
+[[Finland]] <br> [[Kanada]] <br> [[Sverige]] <br> [[Tjeckien]] <br> [[Tyskland]] <br> [[USA]]
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+[[Kanada]] <br /> [[USA]]
+Sverige
+[[Kanada]]
+Sverige
+Sverige
+[[Kanada]] <br /> [[USA]]
+Sverige
+Sverige
+[[Kanada]] <br /> [[USA]]
+
+[[Sverige]]
+
+Hemma och borta (finalen i )
+<br />
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+[[Italien]]/[[Frankrike]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+
+Sverige, Norge
+Sverige, Norge
+Sverige, Norge
+Sverige
+Sverige
+Uruguay
+Finland
+Sverige
+Sverige
+Sverige
+<br /><br />
+Sverige
+Sverige
+[[Sydkorea]]
+[[Sydkorea]] och [[USA]]
+[[Japan]]
+[[Japan]]
+Sverige
+<br />
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Sverige
+[[USA]]
+
+Sverige
+Sverige
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+<br />
+
+[[USA]]
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+<br /><br />
+USA
+USA
+USA
+USA
+[[Frankrike]]
+USA
+USA
+Sverige
+USA
+USA
+USA
+USA
+USA
+USA
+
+Sverige
+
+[[Storbritannien]], [[USA]]
+
+USA
+USA
+USA
+Sverige
+[[Förenta staterna]]
+USA
+Sverige
+[[Storbritannien]]/[[USA]]
+
+
+
+Sverige
+
+
+
+Sverige
+
+Jugoslavien
+Belgien
+[[USA]]
+[[Korsika]]
+[[Storbritannien]],
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+
+
+[[Sri Lanka]]
+
+
+
+
+
+Sverige
+Sverige
+
+
+[[Förenta staterna]]
+Sverige
+
+[[Storbritannien]]
+USA
+<br />
+[[Italien]]
+Sverige
+[[USA]]
+[[Grönland]]<br>[[Norge]]<br>[[Danmark]]<br>[[Sverige]]
+
+
+Sverige
+<br>
+
+England
+
+
+Sverige
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Sverige
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Sverige
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Sverige
+USA
+Sverige
+
+<br>  <br>  <br>
+Sverige
+Sverige
+Slovenien
+
+
+
+
+Sverige
+Sverige
+
+
+
+Sverige
+Sverige
+Sverige
+[[USA]], [[Storbritannien]]
+<br>  <br>  <br>
+<br>  <br>  <br>
+Sverige
+[[Sverige]]
+<br />
+Sverige
+[[Sri Lanka]]
+
+Sverige
+Sverige
+
+
+[[Tyskland]]
+[[Sverige]]
+-
+[[Belgien]]
+Sverige
+[[Sverige]]
+
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+<br>  <br>  <br>
+Sverige
+[[Grekland]] och [[USA]]
+<br>  <br>
+
+[[Grekland]]
+Sverige
+
+lat_gra =43
+USA
+[[Sverige]]
+<br>  <br>  <br>
+<br>  <br>  <br>
+Sverige
+[[USA]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[USA]]
+
+
+[[USA]] <br> [[Frankrike]]
+[[Sverige]]
+Sverige
+
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+<br>  <br>  <br>
+Sverige
+
+[[USA]]
+
+Sverige
+Sverige
+USA
+USA
+USA
+USA
+
+[[Frankrike]]<br>[[Ryssland]]
+[[Sovjetunionen]]
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+
+
+[[USA]]
+[[USA]]
+
+Sverige
+Sverige
+[[Turkmenistan]]
+Sverige
+[[USA]]
+
+Sverige
+
+Sverige
+Sverige
+Sverige
+
+Sverige
+
+Sverige
+<br>
+[[Kirgizistan]]
+
+Sverige
+Sverige
+
+Sverige
+
+
+[[Sverige]] <br>  [[Norge]] <br>  [[Danmark]]
+Sverige
+[[USA]]
+
+[[USA]]
+
+
+[[Sverige]]
+Libanon
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]], [[Frankrike]]
+[[Danmark]]
+
+Sverige
+
+[[USA]]
+
+[[USA]]
+[[USA]] <br> [[Tyskland]]
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+
+
+
+[[Tecknade serier i USA|USA]]
+[[Sverige]], [[Italien]]
+
+[[Sverige]]
+[[Italien]], [[USA]], [[Storbritannien]]
+Sverige
+Sverige
+
+[[Grekland]]
+Sverige
+[[Norge]]
+Sverige
+Sverige
+
+Färöarna
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Mongoliet]], [[Inre Mongoliet]]
+[[USA]]/ [[Australien]]
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+[[Kongo-Kinshasa]]
+
+[[USA]]/[[Storbritannien]]
+[[USA]]
+
+<br />
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+
+Sverige
+
+
+Etiopien
+
+Sverige
+
+och
+Sverige
+[[Elfenbenskusten]]
+Sverige
+
+
+Sverige
+
+Togo
+
+
+Tyskland
+
+Ungern
+[[Sverige]]
+
+
+
+[[Sverige]]
+
+
+
+Albanien
+
+[[Sverige]]
+[[Förenta staterna]]
+Tyskland
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+[[USA]],[[Australien]]
+
+
+[[Sverige]]
+
+
+Syrien
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+[[Sverige]]
+
+
+[[USA]]
+[[Storbritannien]]
+
+[[Sverige]]
+
+
+
+<br />
+[[Sverige]]
+Syrien
+Syrien
+Tyskland
+[[Brasilien]]
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+
+
+
+[[Sverige]]
+
+Sverige
+
+[[Sverige]]
+
+[[Sverige]]
+
+
+
+
+
+
+
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Tyskland
+Nederländerna
+
+[[Tecknade serier i USA|USA]]
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+
+
+
+Storbritannien
+Kanada<br>USA
+
+
+England
+
+[[Thailand]]
+
+
+Sverige
+[[USA]]
+Venezuela
+
+
+
+[[Tecknade serier i USA|USA]]
+
+[[USA]]
+
+[[USA]]
+
+[[Förenta staterna]]
+[[USA]]
+
+[[USA]]
+Förenta staterna
+[[USA]]
+
+
+
+[[USA]]
+
+[[Australien]]
+[[USA]]
+Sverige
+
+[[Sverige]]
+[[Sverige]], [[Tyskland]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+
+USA
+[[Sverige]]
+USA
+[[USA]]
+[[Sverige]]
+England, Storbritannien
+[[Sverige]] [[Danmark]]
+[[Storbritannien]]
+Sverige
+Nederländerna
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]] [[Danmark]]
+[[Egypten]]
+Sverige
+
+Norge
+Italien
+
+
+
+
+
+[[Sverige]] <br>  [[Norge]] <br>  [[Danmark]] <br>  [[Island]]
+Tyskland
+[[USA]]
+<br />()
+
+
+Sverige
+Nederländerna
+[[USA]]
+USA
+Sverige
+[[Norge]], [[Sverige]], [[Finland]], [[Ryssland]], [[Estland]], [[Lettland]], [[Litauen]], [[Vitryssland]], [[Ukraina]], [[Moldavien]]
+Sverige
+[[USA]]
+[[USA]]
+USA
+[[USA]]
+[[Storbritannien]]
+USA
+Chile
+Chile
+[[Sverige]]
+
+Kina
+Sverige
+[[Sverige]]
+<br />(FCI har ansvar för standarden)
+[[Colombia]]
+[[Sverige]]
+Brasilien
+Brasilien
+[[Goiás]] och [[Mato Grosso do Sul]], Brasilien
+USA
+
+Brasilien
+
+Colombia
+[[Bolivia]]
+Argentina
+[[USA]]
+
+
+
+[[Costa Rica]] och [[Panama]]
+
+[[Storbritannien]]
+[[USA]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+Armenien
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+[[Ecuador]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+[[Sverige]], [[Danmark]]
+[[USA]]
+
+
+Sverige
+Filippinerna
+
+
+
+Sverige
+[[Sverige]]
+Sverige
+Sverige
+[[Sverige]]
+Sverige
+Kanada
+[[Sverige]]
+
+
+[[USA]]
+
+Turkiet
+
+[[USA]]
+
+
+[[Sverige]]
+[[Storbritannien]]
+
+
+
+
+
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+
+
+[[USA]]
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Sverige
+[[Xinjiang]] ([[Kina]])
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+
+[[Tyskland]]
+[[Sverige]]
+
+Finland
+
+Colombia
+[[Tyskland]]
+[[Tyskland]]
+Polen
+
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Sverige
+
+
+
+
+
+
+
+[[Transnistrien]]
+
+Moldavien
+[[Norge]], [[Danmark]], [[Sverige]], [[Island]]
+[[Sverige]]
+[[USA]]
+[[Storbritannien]]/[[USA]]
+
+
+[[USA]]
+Bolivia
+Sverige
+[[Ecuador]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+
+
+[[Sverige]]
+
+
+[[Storbritannien]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[USA]], [[Nya Zeeland]]
+[[USA]]
+[[USA]]
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+
+Sverige
+[[Sverige]]
+
+[[USA]]
+[[Tecknade serier i USA|USA]]
+[[Sverige]]
+Danmark
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+ingen<br />Skottland: ett ''traditionellt språk'' enligt det [[skotska parlamentet]] och ett [[Europarådskonventionen om landsdelsspråk och minoritetsspråk|officiellt ''landsdelsspråk eller minoritetsspråk'']] enligt [[Storbritanniens parlament]].<br />Irland: ett ''traditionellt språk'' enligt ''North/South Co-operation (Implementation Bodies) Northern Ireland Order 1999''.
+
+[[USA]]
+[[Indien]]
+
+
+[[Tatarstan]]
+Sverige
+[[Sverige]], [[Norge]], [[Finland]]
+
+Sverige
+Tyskland
+
+Tyskland
+[[Storbritannien]]
+[[Sverige]]
+Sverige
+[[USA]]
+
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+[[Sovjetunionen]], [[Japan]]
+[[Kina]], [[Hongkong]]
+
+[[USA]]
+[[Förenta staterna]], [[Nederländerna]]
+Sverige
+[[Sverige]]
+
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Japan]]
+[[Mexiko]]
+[[Storbritannien]]
+Sverige
+
+<br>
+
+[[USA]]
+Sverige
+
+[[USA]]
+
+[[Sverige]]
+[[Storbritannien]]
+USA
+USA
+
+USA
+
+USA
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[Frankrike]]
+[[Sverige]], [[Danmark]], [[Norge]], [[Island]], [[Finland]], [[Tyskland]]
+
+Sverige
+USA
+
+
+
+
+
+
+
+
+[[Sverige]]
+
+
+[[Sverige]]
+
+
+Sverige
+Sverige
+
+Spanien
+[[Sverige]]
+
+[[Sverige]]
+Sverige
+
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[USA]]
+Mauretanien
+Kuba
+[[Sverige]]
+[[Sverige]]
+Slovenien
+Sverige, Norge
+
+
+[[Italien]]
+Sverige
+
+
+Tyskland
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+Island
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+Sverige
+USA
+
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+USA
+
+USA
+
+
+
+[[USA]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Storbritannien, [[USA]], [[Nya Zeeland]]
+
+[[Sverige]], [[Danmark]], [[Storbritannien]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[Sverige]]
+
+
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+Färöarna
+Sverige
+Tyskland
+
+
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+[[USA]]
+<gallery>
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+Sverige
+[[Ungern]]
+Sverige
+Sverige
+Sverige
+
+
+
+
+
+
+
+
+
+Sverige
+Belize
+
+Spanien
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]], [[Danmark]], [[Norge]], [[Finland]], [[Island]]
+Sverige
+Ungern
+Sverige
+Sverige
+
+[[Frankrike]]
+[[USA]] <br />[[Frankrike]] <br />[[Kanada]]
+[[USA]]
+[[Sverige]] <br> [[Tyskland]] <br> [[Danmark]] <br> [[Norge]] <br> [[Finland]]
+[[Sverige]]
+
+Förenade arabemiraten
+Förenade arabemiraten
+Förenade arabemiraten
+Förenade arabemiraten
+Förenade arabemiraten
+
+[[USA]]
+
+[[Österrike]]
+
+
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]] <br> [[Norge]]
+Sverige
+
+USA
+[[Sverige]]
+
+Colombia
+Colombia
+Sverige
+Costa Rica
+[[USA]]
+[[USA]]
+
+
+Sverige
+
+<br>
+Ungern
+Ungern
+
+
+[[USA]]
+[[USA]]
+
+Sverige
+
+[[Sverige]]
+
+
+[[Förenta staterna]]
+
+Ungern
+[[USA]]/[[Kanada]]
+
+
+
+[[USA]]
+
+Sverige
+[[Sverige]]
+[[Belgien]]
+[[Sverige]]
+Kroatien
+[[Sverige]]
+Sverige
+
+Sverige
+
+<br />
+Sverige
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+
+
+Kroatien
+Österrike
+USA
+
+Sverige
+Chile
+[[Förenta staterna]]
+
+[[Italien]]
+[[Frankrike]]
+[[Norge]]
+[[Belgien]]
+[[Schweiz]]
+[[Sverige]]
+[[Jugoslavien]]
+[[Ungern]]
+[[Grekland]]
+[[Finland]]
+[[Italien]]
+[[Tjeckoslovakien]]
+[[Grekland]]
+[[Västtyskland]]
+[[Jugoslavien]]
+[[Finland]]
+[[Ungern]]
+[[Tyskland]]
+[[Sverige]]
+[[Spanien]]
+[[Finland]]
+[[Schweiz]]
+[[Nederländerna]]
+
+(herrar)<br/> (damer)
+
+Sverige
+Norge
+USA
+
+
+
+[[USA]]
+[[Tecknade serier i USA|USA]]
+&nbsp;
+
+
+
+
+
+Polen
+USA
+[[USA]]
+Norge
+Tyskland
+Turkiet
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]], [[Frankrike]]
+[[Sverige]]
+Sverige
+Sverige
+[[USA]]
+[[Frankrike]], [[Sverige]]
+
+
+
+[[Tyskland]]
+
+<br />
+[[USA]]
+Skyddad status i [[Aostadalen]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[USA]]
+
+Polen
+
+
+Sverige
+
+Sverige
+Sverige
+
+
+
+
+Sverige
+
+Sverige
+[[Sverige]]
+[[Australien]], [[USA]]
+
+[[USA]]
+[[Förenta staterna]]
+
+
+[[Tecknade serier i USA|USA]]
+
+
+[[Östtyskland]]
+
+[[Förenta staterna]]
+
+England
+
+
+[[USA]]
+Sverige
+Sverige
+[[Sverige]]
+<br />
+
+Sverige
+
+
+
+
+[[Sverige]]
+[[Förenta staterna]]
+
+
+
+[[Japan]]
+
+[[Sverige]]
+
+
+[[Finland]]
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Tyskland]]
+[[Frankrike]] [[Italien]] [[Västtyskland]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+
+
+
+[[USA]]
+[[Sverige]]
+
+[[Tyskland]]
+Saint-Barthélemy
+
+
+
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+[[Tyskland]]
+[[Peru]], [[Tyskland]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+[[Förenta staterna]]
+
+[[Storbritannien]]
+Botswana
+Botswana
+Botswana
+Botswana
+Botswana
+Botswana
+[[USA]]
+
+[[Sverige]], [[Tyskland]], [[Italien]]
+[[USA]]
+[[Fil:Flag of Greece (1822-1978).svg|23px]] [[Grekland]]
+[[Frankrike]], [[Italien]], [[Schweiz]], [[Tyskland]]
+Slovenien
+[[Danmark]], [[Sverige]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+[[Storbritannien]]
+[[Danmark]], [[Sverige]], [[Storbritannien]]
+[[Sverige]]
+[[USA]]
+
+
+
+USA
+
+Guatemala
+[[Sverige]]
+[[Makedonien]]
+[[Danmark]], [[Sverige]]
+Sverige
+[[Sverige]]
+[[Island]]
+
+<br/>
+[[Sverige]]
+[[Sverige]]<br>[[Ryssland]]
+[[Sverige]]
+
+Sverige
+
+[[USA]]
+
+
+
+
+Sverige
+[[Hong Kong]]
+[[Sverige]]
+[[Storbritannien]]
+Sverige
+[[Sydkorea]], [[Japan]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[Sverige]]
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+
+
+
+[[Sverige]]
+USA
+
+Sverige
+Sverige
+
+Sverige
+
+
+
+
+
+
+
+[[Sverige]]
+
+
+
+
+
+
+
+[[Storbritannien]]
+[[USA]]
+[[Frankrike]]<br />[[Italien]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+
+
+[[Island]]
+
+[[Sverige]]
+[[Norge]]
+[[USA]]
+[[Island]]
+[[Norge]], [[Danmark]], [[Sverige]]
+Sverige
+[[Island]]
+[[Island]], [[Norge]], [[Storbritannien]], [[Tyskland]]
+[[Island]]
+,
+
+[
+
+[[Nya Zeeland]], [[Storbritannien]]
+[[Kina]], [[Frankrike]], [[Japan]]
+[[Sverige]]
+
+[[USA]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+Tyskland
+
+
+[[USA]]
+[[USA]]
+[[Storbritannien]]
+USA
+[[Tecknade serier i USA|USA]]
+Sverige
+Indien
+Sverige
+Sverige
+
+
+[[Sverige]]
+
+
+
+
+
+[[Sverige]]
+
+Sverige
+
+[[United States|USA]]
+Sverige
+Sverige
+Sverige
+Sverige
+Thailand
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+
+
+
+
+
+
+Mexiko
+
+
+
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+Sverige
+
+
+
+
+
+
+Sverige
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+Sverige
+
+Sverige
+
+
+
+[[USA]]
+[[USA]]
+[[USA]]
+[[Italien]], [[Sovjetunionen]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+
+
+
+Sverige, Norge
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[Sverige]]
+
+
+
+
+
+
+
+[[Sverige]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[Finland]]
+
+
+[[Danmark]], [[Sverige]], [[Nederländerna]], [[Frankrike]], [[Tyskland]], [[Förenta staterna]]
+
+Palestina
+[[USA]]
+USA
+Kuba
+Polen
+Bulgarien
+
+
+
+
+[[Sverige]]
+
+[[USA]]
+Tyskland
+
+
+
+USA
+
+
+
+Sverige
+[[USA]]
+<br>
+
+Bulgarien
+Bulgarien
+Sverige
+Sverige
+Sverige
+[[Tyskland]]
+Sverige
+<br />
+
+Sverige
+
+
+Sverige
+
+
+[[Sverige]]
+
+[[Sverige]]
+
+[[Sverige]]
+[[Antikens Grekland]]
+
+<br/>
+[[Sverige]]<br />[[Danmark]]<br />[[Finland]]
+
+[[Storbritannien]]
+[[USA]]
+
+Sverige
+
+[[Sverige]]
+
+Norge
+
+
+
+Nicaragua
+
+Spanien
+Spanien
+
+[[Sverige]]
+[[Storbritannien]]<br />[[Eire]]
+
+[[USA]] <br/> [[Japan]]
+
+[[USA]]
+Sverige
+
+[[USA]]
+Sverige
+
+
+
+
+[[USA]]
+Armenien
+Bulgarien
+[[Västtyskland]]
+
+
+[[Belgien]]
+
+<br />()
+Japan
+USA
+
+
+[[Sverige]]
+
+[[Sverige]]
+
+Sverige
+Sverige
+
+
+[[Sverige]]
+Sverige
+
+
+USA
+Europa
+Europa
+Europa
+[[Sverige]]
+
+
+
+Sverige
+
+[[Sverige]]
+Sverige
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[Sverige]]
+[[USA]]
+Sverige
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+Sverige
+USA
+Sverige
+[[Sverige]]
+[[Italien]]
+[[Laos]]
+Ecuador
+
+
+[[Sverige]]
+
+
+
+
+Internationellt, främst USA
+
+
+
+
+
+
+
+
+USA
+
+<br />
+[[Sverige]]
+Tyskland
+Sverige
+[[Sverige]]
+
+
+
+[[Sverige]]
+
+
+
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Förenta staterna]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+England
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+Sverige
+
+England
+[[Sverige]]
+[[USA]], [[Frankrike]], [[Grekland]], [[Italien]], [[Storbritannien]], [[Israel]]
+<br />
+<br />
+<br>
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+Sverige
+USA
+[[Sverige]]
+
+
+
+
+
+
+
+[[USA]]
+[[USA]]
+[[USA]]
+[[Italien]], [[Frankrike]]
+[[USA]]
+[[Storbritannien]]
+
+[[USA]]
+USA
+
+[[Sverige]]
+
+
+
+[[Algeriet]]<br />[[Frankrike]]
+Sverige
+Sverige
+[[USA]]
+[[USA]]
+[[USA]]
+[[Polen]]
+[[Frankrike]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Sovjetunionen]]
+[[Grekland]]
+[[Frankrike]]
+[[Frankrike]], [[USA]]
+
+[[USA]]
+[[Västtyskland]]<br>[[Italien]]
+Liechtenstein
+[[Australien]]
+[[USA]]
+[[USA]]
+
+[[Finland]], [[Storbritannien]], [[Tyskland]], [[Sverige]]
+[[Frankrike]], [[Italien]], [[Sverige]], [[Finland]]
+
+[[Tjeckoslovakien]]
+[[USA]]
+[[Sovjetunionen]]
+Sverige
+Slovenien
+[[Sverige]]
+[[USA]]
+[[Sverige]], [[Danmark]]
+[[Sverige]]
+Sverige
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Danmark]]
+
+[[Frankrike]], [[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+''enbart minoritetsspråk''
+
+
+[[USA]]
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+
+[[Tyskland]]
+[[Sverige]]
+[[Frankrike]], [[Italien]]
+[[USA]]
+[[USA]], [[Storbritannien]]
+[[USA]]<br />[[Storbritannien]]<br />[[Grekland]]
+
+<br />
+[[Sverige]]
+[[Burma]]
+[[Sverige]]
+[[Sverige]]
+<br /><br />
+[[USA]]
+[[Frankrike]]
+<br>
+[[USA]]
+[[USA]]
+
+[[USA]]
+[[Sverige]]
+''enbart minoritetsspråk''
+[[Sverige]]
+<br />
+
+[[Sverige]]
+
+<br />  <br />  <br />
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sydkorea]]
+
+[[Taiwan]], [[Kina]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+
+
+
+Sverige
+Sverige
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Danmark]]
+[[Frankrike]], [[Italien]]
+[[Italien]], [[Frankrike]]
+Sverige
+
+[[USA]], [[Mexiko]]
+[[Sovjetunionen]]
+USA
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+
+
+
+USA
+[[Sverige]]
+
+Sverige
+–
+[[Sverige]], [[Tyskland]]
+[[Storbritannien]]
+[[Sverige]], [[Tyskland]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+
+
+<br />([[Fil:Flag of Tibet.svg|border|20px]] [[Tibet]])
+
+
+
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+Sverige
+Sverige
+Storbritannien
+<br/>
+[[Sverige]]
+Sverige
+
+
+
+Kanada
+Sverige
+
+Sverige
+Sverige
+Sverige
+
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+England
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+Sverige
+[[Kalmuckien]] ([[Ryssland]])
+
+[[Frankrike]], [[Sverige]]
+[[USA]]
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+[[Danmark]], [[Sverige]], [[Storbritannien]]
+Sverige
+Sverige
+Mongoliet
+
+
+[[USA]]
+[[USA]], [[Storbritannien]], [[Kanada]]
+
+Sydafrika
+[[Sverige]]
+[[Storbritannien]]
+Sverige
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Storbritannien]], [[Italien]]
+[[Storbritannien]]
+[[Storbritannien]]
+[[USA]]
+[[Israel]], [[Västtyskland]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[Italien]]
+
+
+[[Kanada]]/[[USA]]
+[[Schweiz]]
+[[Schweiz]]
+[[Schweiz]], [[Västtyskland]]
+[[Schweiz]], [[Tyskland]]
+
+
+Sverige
+
+
+
+USA
+[[Sverige]]
+
+[[Tyskland]]
+[[Island]]
+[[Mexiko]]
+[[Storbritannien]]
+[[Marocko]]
+<br/>
+[[Sverige]]
+[[Finland]]
+[[Ungern]]
+
+[[Mexiko]], [[USA]]
+
+
+
+[[Indien]]
+[[Bhutan]], [[Australien]]
+<br />
+[[Bulgarien]]
+[[Frankrike]]
+[[Israel]]
+[[Sovjetunionen]]<br />[[Storbritannien]]
+[[USA]]
+<br />
+<br />
+[[Guinea-Bissau]]<br />[[Frankrike]]<br />[[Portugal]]
+[[Danmark]], [[Norge]], [[Sverige]]
+[[Tyskland]], [[Grekland]], [[Schweiz]]
+[[Italien]]
+[[Litauen]]
+[[Storbritannien]], [[USA]]
+
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+
+Sverige
+
+
+[[Förenta staterna]]
+
+
+[[Förenta staterna]]
+
+[[Sverige]]
+<br />(FCI har ansvar för standarden)
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Storbritannien]] <br> [[USA]]
+[[Storbritannien]] <br /> [[USA]]
+[[Sverige]]
+[[Förenta staterna]]
+
+[[Förenta staterna]]
+&nbsp;
+[[USA]]
+[[USA]]
+[[Sverige]]
+Sverige
+[[Tyskland]]
+
+
+
+[[Sverige]]
+[[Tyskland]] och [[Italien]]
+
+[[USA]]/[[Australien]]
+[[Förenta staterna]]
+
+[[Sverige]]
+
+[[Frankrike]]
+
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+
+
+[[USA]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Amerika]]
+[[Amerika]]
+[[Sverige]]
+
+[[Förenta staterna]] och [[Italien]]
+[[Tyskland]], [[Förenta staterna]] och [[Italien]]
+[[Sverige]]
+Kanada
+[[USA]]
+Grekland
+[[Ryssland]]/[[Storbritannien]]
+
+[[Sverige]]
+
+[[Tyskland]], [[Förenta staterna]] och [[Italien]]
+[[Tyskland]], [[Förenta staterna]] och [[Italien]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Tyskland]], [[Förenta staterna]] och [[Italien]]
+[[Sverige]]
+[[Förenta staterna]]
+
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+
+
+[[USA]]
+[[Sverige]]
+[[Tyskland]], [[Förenta staterna]] och [[Italien]]
+[[Tyskland]], [[Förenta staterna]] och [[Italien]]
+[[Norge]]
+
+[[Sverige]]
+[[Sverige]]
+
+Peru
+
+
+
+Sverige
+
+[[Amerika]]
+
+[[USA]]
+[[USA]], [[Tyskland]]
+[[Amerika]]
+[[Finland]]
+[[Sverige]]
+
+
+
+
+
+
+[[Amerika]]
+
+[[Amerika]]
+
+
+
+
+
+[[Sverige]]
+[[Storbritannien]]
+
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]], [[Sverige]]
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[Italien]]
+
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[Amerika]]
+[[Amerika]]
+
+[[USA]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]], [[Polen]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+[[Sverige]]
+Storbritannien
+
+[[USA]]
+[[Norska]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+
+[[Sverige]]
+
+
+[[Albanien]]
+
+[[Finland]]
+[[Albanien]] och [[Ryssland]]
+
+
+[[Frankrike]]
+[[Albanien]]
+[[Sverige]]
+Italien
+Sverige
+[[Sverige]]
+<br/>
+[[Albanien]]
+[[Albanien]]
+
+Sverige
+[[Sverige]]
+Mexiko
+[[Sverige]]
+Mexiko
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+USA
+
+
+Mexiko
+Mexiko
+
+
+
+
+[[Sverige]]
+England
+[[Sverige]]
+[[Sverige]], [[Frankrike]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Danmark]], [[Frankrike]], [[Sverige]], [[Schweiz]], [[Tyskland]]
+
+
+[[Italien]]
+[[Sverige]], [[Frankrike]]
+
+[[Sverige]]
+[[Sverige]]
+
+[[Storbritannien]]
+Sverige
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+
+
+[[Sverige]]
+
+Sverige
+
+[[Kuba]]
+
+[[Sverige]]
+
+[[Samoa]], [[Amerikanska Samoa]]
+Sverige
+
+[[Frankrike]]
+Sverige
+[[Sverige]]
+
+Sverige
+
+
+
+[[Sverige]]
+[[USA]]
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Storbritannien]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+Sverige
+Sverige
+
+Sverige
+
+
+
+
+[[Sverige]]
+<br>
+
+[[Australien]]
+[[Australien]]
+
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+Sverige
+Sverige
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]], [[Norge]], [[Danmark]]
+
+
+
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Finland]]
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+Italien
+[[Sverige]]
+
+[[Sverige]]
+
+
+
+
+
+
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+[[Kanada]] <br /> [[USA]]
+
+[[Sverige]]
+
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+<br>  <br>  <br>
+Sverige
+
+
+[[Sverige]]
+[[Australien]]<br /> [[USA]]
+[[Sverige]]
+
+
+[[Sverige]]
+Sverige
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[USA]]
+Afghanistan
+[[USA]]
+
+[[Amerika]]
+
+
+
+<br>
+[[Sverige]]
+
+[[Sverige]], [[Danmark]]
+[[Sverige]]
+[[Sverige]], [[Frankrike]]
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+
+[[Sverige]]
+
+
+[[Sverige]]
+[[USA]]
+
+[[Sverige]]
+
+[[USA]]
+[[England]]
+
+
+USA
+[[Sverige]]
+
+Sverige
+
+[[Hongkong]]
+Sverige
+
+
+
+<br>  <br>  <br>
+
+<br>
+
+
+[[USA]]
+
+
+
+
+[[Nederländerna]], <br> [[Tyskland]], <br> [[Storbritannien]]
+
+Kanada
+
+<br /><br />
+USA
+[[Sverige]]
+
+[[Sverige]]
+<br>
+
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Kina]]
+
+Tyskland
+Sverige
+Sverige
+[[Tecknade serier i USA|USA]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]], [[Danmark]], [[Norge]]
+
+[[Nigeria]]s nordliga stater
+
+
+
+
+Israel
+
+
+Sverige
+[[Storbritannien]]
+[[USA]]
+Sverige
+England
+
+[[USA]]
+
+[[USA]], [[Frankrike]]
+
+
+[[USA]]
+[[USA]], [[Frankrike]], [[Italien]], [[Västtyskland]]
+Sverige
+
+[[Sverige]]
+
+
+Tjeckien
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+
+[[Storbritannien]]
+[[USA]]
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+Storbritannien
+
+[[Sverige]]
+[[Sverige]]
+<br />
+[[Storbritannien]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]], [[Danmark]], [[Norge]]
+Tanzania
+[[Sverige]]
+[[Sverige]]
+
+
+[[USA]]
+[[Sverige]]
+[[Storbritannien]]
+
+[[Storbritannien]]
+[[Sverige]]
+USA
+
+
+Sydafrika
+
+Sverige
+Sverige
+
+[[Sverige]]
+[[Australien]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+<br>  <br>
+
+[[Ryssland]]
+
+
+[[USA]]
+
+[[Storbritannien]]
+Storbritannien
+
+
+[[USA]]<br /> [[Frankrike]]
+
+[[Tyskland]]
+
+[[Sverige]]
+[[Förenta staterna]]
+[[Sverige]]
+[[Storbritannien]]
+
+[[Sverige]]<br>[[Danmark]]
+[[USA]]
+
+
+
+
+Sverige
+
+[[USA]]
+
+
+
+[[Tyskland]], [[USA]]
+[[Österrike]]
+
+[[USA]]
+[[USA]]
+[[Sverige]], [[Tyskland]], [[Danmark]], [[Finland]]
+[[USA]]
+
+[[Sverige]]
+
+[[USA]]
+
+
+
+
+
+
+
+
+Sverige
+
+
+<br/>
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+
+[[Estland]]
+
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[Sverige]]
+[[Förenta staterna]]
+
+
+
+
+
+
+USA
+[[Storbritannien]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+
+[[Sverige]], [[Danmark]], [[Finland]], [[Norge]]
+[[Tyskland]]
+
+
+
+[[Italien]], [[Frankrike]], [[Storbritannien]], [[Kina]]
+[[Storbritannien]], [[USA]]
+
+[[Tecknade serier i USA|USA]]
+[[USA]]
+[[Danmark]]
+Sverige
+[[Danmark]], [[Sverige]], [[Frankrike]], [[Nederländerna]], [[Italien]]
+Tyskland
+
+Tyskland
+Tyskland
+Förenta staterna
+Sverige
+Sverige
+[[Sverige]]
+
+[[Frankrike]], [[Italien]]
+[[USA]]
+
+
+
+
+Sverige
+
+[[Nauru]]
+USA
+
+Sverige
+
+
+[[Sverige]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+<br />([[Nordisk Kennelunion]] (NKU) har ansvar för standarden)
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]], [[Danmark]]
+
+Sverige
+
+Sverige
+[[USA]], [[Storbritannien]]
+
+
+[[Sverige]]
+[[USA]]
+[[Sovjetunionen]], [[Sverige]], [[Norge]]
+[[Sverige]]
+
+[[Sverige]]
+Kanada
+[[Sverige]]
+
+[[Sverige]]
+
+
+[[USA]]
+
+[[Förenta staterna]]
+[[USA]], [[Japan]], [[Frankrike]], [[Kanada]]
+[[USA]]
+<br />
+[[USA]]
+[[USA]]
+[[Italien]]
+[[Nazityskland]]
+
+
+
+Sverige
+
+
+&nbsp;
+<br />
+[[USA]]
+Sverige
+[[Sverige]]
+
+
+
+Sverige
+
+
+[[USA]]
+[[Sverige]]
+[[USA]]
+USA
+[[Sverige]]
+[[USA]] <br> [[Kanada]]
+<br><br>
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+Spanien
+Spanien
+[[Sverige]]
+[[Sverige]], [[Norge]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+
+[[Sverige]]
+Mongoliet
+
+
+[[Chile]]
+[[Sverige]]
+100 cents
+
+
+[[Sverige]]
+[[USA]]
+Sverige
+[[Sverige]]
+
+
+[[Sverige]], [[Finland]], [[Danmark]], [[Norge]]
+
+
+[[USA]] [[Sverige]]
+
+[[USA]]
+Storbritannien
+[[Sverige]]
+Burma
+
+
+
+
+<br><br>
+
+USA
+
+[[Japan]]
+
+
+USA
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]/[[Storbritannien]]
+
+
+
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+''ej officiellt språk''
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Världstäckande
+[[Sverige]]
+[[Sverige]]
+Förenta staterna, Storbritannien
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[USA]] och [[Storbritannien]]
+[[Sverige]]
+
+[[Sverige]]
+
+<br />
+<br />
+
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+
+[[USA]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+
+
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Förenta staterna]]
+[[Sverige]]
+[[Sverige]],<br />[[Danmark]]
+England
+[[London]]
+[[Sverige]]
+[[Sverige]]
+[[Danmark]], [[Norge]], [[Sverige]]
+[[Sverige]]
+
+USA
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+Sverige
+[[Storbritannien]]
+
+
+[[USA]]
+[[Norge]]
+
+Sverige
+Sverige
+
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Republiken Kongo]]
+USA
+
+[[Filippinerna]]
+Filippinerna
+
+USA
+[[USA]]
+[[Sverige]]
+[[USA]]
+
+
+
+[[Liberia]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+[[USA]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]], [[Danmark]]
+[[USA]]
+
+[[Norge]], [[Sverige]]
+[[Sverige]]
+
+
+
+[[USA]]
+[[Sverige]]
+
+
+[[USA]]
+
+[[USA]]
+[[Sverige]]
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+
+Spanien
+
+[[Sverige]]
+
+Sverige
+
+
+Sverige
+[[Sverige]]
+Sverige
+Sverige
+Sverige
+
+Sverige
+[[USA]]<br>[[Japan]]<br>[[Storbritannien]]
+
+Sverige
+Storbritannien
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+Sverige
+[[Tecknade serier i USA|USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Tajmyrien]]
+[[Tajmyrien]]
+[[USA]]
+Sverige
+Sverige
+-
+[[England]]
+[[Sverige]]
+
+[[Sverige]]
+[[Irland]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]/[[Tyskland]]
+Sverige
+[[Sverige]]
+
+Sverige
+[[Nentsien]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+
+[[Sverige]]
+
+
+[[Australien]]
+Sverige
+Sverige
+
+[[Sverige]]
+[[Japan]]
+[[Storbritannien]]<br />[[USA]]
+
+
+Sverige
+
+Sverige
+[[Italien]]
+
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Förenta staterna]]
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+
+[[Sverige]]
+[[Finland]]
+[[Sverige]]
+[[Storbritannien]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Danmark]], [[Finland]], [[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+Lettland
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+<br /><br />
+
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+På gränsen mellan [[Frankrike]] och [[Spanien]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+
+[[Finland]]
+England
+Finland
+[[Sverige]]
+[[Sverige]]
+
+[[Finland]]
+
+[[Sverige]]
+
+
+Sverige
+[[Storbritannien]]
+[[Danmark]], [[Finland]], [[Italien]], [[Norge]], [[Sverige]], [[Tyskland]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]], [[Storbritannien]], [[Tyskland]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Frankrike
+[[Sverige]]
+[[USA]]
+[[USA]]
+Frankrike
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+Sverige
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+
+
+
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+Finland
+USA
+[[Sverige]]
+[[Sverige]]
+
+[[Schweiz]]
+[[USA]]
+[[Italien]]
+[[USA]]
+[[USA]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+
+
+Sverige
+Sverige
+
+
+Sverige
+[[Sverige]]
+Sverige
+[[Sverige]]
+Sverige
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+Island
+Island
+
+[[Tyskland]]
+[[USA]]
+[[Danmark]], [[Norge]], [[Sverige]]
+[[USA]]
+Sverige
+Sverige
+Sverige
+Sverige
+[[Sverige]]
+
+
+USA
+[[Storbritannien]]
+[[Sverige]]
+Storbritannien
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+[[Finland]]
+[[Sverige]]
+[[Tjeckoslovakien]]
+[[USA]]
+
+
+[[Sverige]]
+
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+
+<br/><br/><br/><br/><br/><br/><br/>
+
+<br />
+[[Frankrike]]
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+Sverige
+Sverige
+
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Frankrike]], [[Spanien]], [[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+
+[[Sverige]]
+
+
+Italien
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+
+Sverige
+Sverige
+Iran
+[[Förenta staterna]]
+[[USA]]
+
+
+[[Sverige]]
+
+[[USA]]
+
+[[USA]]
+Sverige
+
+[[USA]]
+[[USA]]
+Sverige
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sovjetunionen]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Kanada]]
+[[Sverige]]
+[[USA]]
+[[Kanada]], [[USA]]
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+[[USA]]
+
+Sverige
+Sverige
+
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+Tjeckien
+
+Sverige
+
+[[USA]]
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]<br />[[USA]]
+Kina
+[[Sverige]]
+Sverige<br />Frankrike
+
+[[USA]]
+[[Sverige]]
+[[Italien]]
+Sverige
+
+[[Sverige]]
+
+[[Storbritannien]], [[USA]]
+
+
+[[Sverige]]
+[[Sverige]]
+
+
+
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+Färöarna
+Färöarna
+[[Sverige]]
+Anguilla
+[[USA]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]], [[Jugoslavien]], [[Danmark]]
+
+Sverige
+Sverige
+Sverige
+Sverige
+Sverige
+
+[[Sverige]]<br />[[Danmark]]<br />[[Jugoslavien]]
+[[Sverige]]
+[[USA]]
+
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+<br/>
+
+[[Sverige]]
+Sverige
+Tyskland
+Sverige
+Sverige
+
+[[Sverige]]
+[[USA]]
+[[Storbritannien]]
+[[Sverige]]
+
+[[Sverige]]
+USA
+[[USA]]
+[[Sverige]]
+[[USA]]
+
+[[USA]]
+<br />
+[[Sverige]]
+USA
+<br />
+<br />
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+[[Tyskland]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sovjetunionen]]
+[[Kanada]]/[[USA]]
+[[Sverige]]
+[[Sverige]], [[Frankrike]]
+
+[[Sverige]]
+[[Tyskland]]
+
+[[Tyskland]]
+[[Sverige]]
+
+[[Sverige]]
+[[Kanada]]
+[[Sverige]]
+[[Irland]], [[Storbritannien]]
+[[Sverige]]
+Sverige
+
+[[USA]]
+
+Sverige
+USA
+[[Sverige]]
+
+Sverige
+Sverige
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Danmark]], [[Sverige]]
+
+
+[[Sverige]]
+
+
+
+
+
+[[Sverige]]
+<br /> [[Storbritannien]]
+
+[[Sverige]]
+[[Sverige]], [[Tyskland]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Tyskland]]
+[[Amerikas Förenta Stater]]
+USA
+[[USA]]
+Italien
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Luxemburg]]
+[[Sverige]]
+[[USA]]
+Sverige
+[[Sverige]]
+
+
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Italien
+Sverige
+Spanien
+[[Sverige]]
+[[Italien]]
+Sverige
+
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+
+
+[[Sverige]]
+USA
+
+[[Danmark]]
+Kuba
+
+[[Sverige]]
+
+
+
+[[Sverige]]
+[[USA]]
+
+[[Danmark]]
+[[Island]]
+[[Danmark]]
+[[Sverige]]
+<br>
+[[Sverige]]
+
+
+[[Sverige]], [[Danmark]]
+
+
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+
+
+
+
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+
+
+Italien
+Italien
+Italien
+Italien
+Italien
+[[Sverige]]
+
+Sverige
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+USA
+
+[[Oberoende staten Kroatien]]
+[[Norge]], [[Sverige]]
+
+
+[[USA]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+[[Sverige]], [[Finland]], [[Danmark]], [[Norge]], [[Island]]
+
+
+
+
+
+
+
+
+
+
+[[Sverige]]
+
+
+<br />
+[[Sverige]], [[Lettland]]
+[[Sverige]], [[Finland]]
+
+[[Kanada]]
+[[Danmark]], [[Sverige]]
+
+[[Sverige]]
+[[Sverige]]<br>[[Norge]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[Sverige]]
+
+Sverige
+Sverige
+[[USA]]
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+Italien
+Sverige
+[[Sverige]]
+
+
+
+
+Sverige
+Sverige
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+[[Västtyskland]]
+[[Danmark]], [[Finland]], [[Island]], [[Norge]], [[Sverige]]
+[[Västtyskland]]
+
+
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Storbritannien]]
+[[Sverige]]
+[[USA]]
+[[Tyskland]]
+
+
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+Sverige/Förenta staterna
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[Förenta staterna|USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Nazityskland]]
+
+
+[[Sverige]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+
+[[Sverige]]
+
+
+Kazakstan
+
+
+Sverige
+[[Sverige]]
+[[Sverige]]
+USA
+
+Italien
+Italien
+[[Italien]]
+
+
+[[Sverige]]
+[[USA]]
+[[Frankrike]]
+[[USA]]
+Sverige
+[[Argentina]], [[Spanien]]
+[[USA]]
+[[USA]]
+<br />
+Italien
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Italien
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+
+
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+
+[[USA]]
+[[USA]]
+
+[[USA]]
+[[USA]]
+
+[[Sverige]]
+[[USA]]
+[[Frankrike]], [[USA]]
+[[USA]]
+[[Storbritannien]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+
+[[Italien]]
+[[USA]]
+[[USA]]
+USA
+
+[[Sverige]]
+Sverige
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]], [[Tyskland]]
+[[USA]]
+[[Sverige]]
+
+[[Italien]]
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+<br />
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+[[Tyskland]]<br />[[Sverige]]
+[[Sverige]], [[Tyskland]]
+Danmark
+[[Sverige]]
+[[Sverige]], [[Norge]], [[Finland]], [[Italien]], [[Tyskland]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+USA
+Filippinerna
+
+
+
+
+[[USA]]
+
+
+
+[[Sverige]]
+[[Sverige]]
+
+
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+[[Sverige]]
+
+Sverige
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Österrike]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]<br>[[Österrike]]<br>[[Västtyskland]]<br>[[Danmark]]
+
+
+
+[[USA]]
+[[USA]]
+Sverige
+
+USA
+
+
+[[USA]]
+[[Storbritannien]]
+[[Sverige]]
+
+
+
+[[Italien]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+
+Sverige
+Sverige
+
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+Österrike
+[[USA]]
+[[Sverige]]<br />[[Finland]]
+[[Japan]]
+[[Tyskland]], [[Frankrike]], [[Italien]]
+
+
+[[Sverige]]<br />[[Norge]]<br />[[Finland]]<br />[[Island]]
+[[Schweiz]]
+[[Finland]]
+[[Italien]]
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+
+Sverige
+Sverige
+[[USA]]
+
+
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+
+
+
+
+[[Sverige]]
+[[Sverige]]
+[[Japan]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[Sverige]], [[Danmark]], [[Sydafrika]], [[Island]], [[Finland]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+USA
+[[Sverige]]
+
+[[Sverige]]
+San Marino
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+Norge
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+
+Sverige
+Sverige
+[[Sverige]]
+[[USA]]
+Sverige
+[[USA]]
+[[USA]]
+[[Sverige]]
+[[USA]]
+[[Storbritannien]]
+
+
+[[USA]]
+Italien
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Storbritannien]]
+[[Frankrike]]<br />[[Tyskland]]<br />[[Österrike]]
+[[Danmark]], [[Sverige]]
+[[Sverige]]
+USA
+[[USA]]
+[[USA]]
+
+[[Sverige]]
+
+[[USA]]
+[[Storbritannien]]
+[[USA]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+[[USA]]
+[[USA]]
+[[USA]]
+[[USA]]
+
+[[Sverige]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+Sverige
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]], [[Tyskland]]
+[[Tyskland]], [[Sverige]]
+
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[Sverige]]
+USA, UK, Luxemburg
+[[Frankrike]], [[USA]]
+[[Sverige]]
+[[Sverige]]
+Sverige
+[[Sverige]]
+
+
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+
+[[USA]]
+[[Sverige]]
+[[Förenta staterna]]
+[[Mitanni]]riket (till ungefär 1200 f.Kr.)
+
+[[Sverige]]
+
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Sverige]]
+Guernsey
+Sverige
+<br />
+[[Sverige]]
+
+
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+[[Storbritannien]]
+[[Sverige]]
+[[USA]]
+[[USA]]
+[[Förenta staterna]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]], [[Danmark]]
+[[Sverige]]
+[[Sverige]]
+
+USA
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+[[Sverige]]
+
+
+
+[[Sverige]]
+[[Sverige]]
+
+[[Sverige]]
+USA
+Sverige
+[[Sverige]]
+
+[[Storbritannien]]
+
+
+

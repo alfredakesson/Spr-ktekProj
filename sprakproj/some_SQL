@@ -1,0 +1,17 @@
+SELECT Subject,
+	COUNT(Subject) AS Subjecto 
+	FROM type_tabel_3
+    GROUP BY Subject
+    ORDER BY Subjecto DESC
+    LIMIT 1000;
+
+	SELECT Object 
+		FROM TYPE
+		WHERE Subject = "genre"
+
+SELECT * FROM bornDate
+ORDER BY  random()
+LIMIT 25
+
+
+SELECT * FROM bornDate WHERE Subject = "genre"
