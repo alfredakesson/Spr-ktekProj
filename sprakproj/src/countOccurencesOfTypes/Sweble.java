@@ -1,14 +1,10 @@
 package countOccurencesOfTypes;
-import javax.management.MBeanServer;
-import java.lang.management.ManagementFactory;
-
 import info.bliki.wiki.dump.IArticleFilter;
 import info.bliki.wiki.dump.Siteinfo;
 import info.bliki.wiki.dump.WikiArticle;
 import info.bliki.wiki.dump.WikiXMLParser;
 
 import java.io.FileNotFoundException;
-import java.lang.management.ManagementFactory;
 
 import javax.xml.bind.JAXBException;
 
@@ -43,6 +39,7 @@ public class Sweble implements IArticleFilter {
 
 	private int num;
 
+	@Override
 	public void process(WikiArticle page, Siteinfo siteinfo)
 			throws SAXException {
 

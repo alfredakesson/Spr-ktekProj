@@ -45,7 +45,6 @@ import org.sweble.wikitext.lazy.utils.XmlCharRef;
 import org.sweble.wikitext.lazy.utils.XmlEntityRef;
 
 import sprakproj.Database;
-
 import de.fau.cs.osr.ptk.common.AstVisitor;
 import de.fau.cs.osr.ptk.common.ast.AstNode;
 import de.fau.cs.osr.ptk.common.ast.NodeList;
