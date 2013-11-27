@@ -15,7 +15,7 @@ public class TypeCounter implements PossibleMatch {
 	public void saveStringToDb(String wikiName, String wikiValue,
 			String pageTitle, TemplateArgument templateArgument) {
 			db.insertTriple(wikiName.trim(), pageTitle, wikiValue, "typeCounter");
-		
+			
 		
 
 	}
