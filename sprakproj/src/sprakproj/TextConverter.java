@@ -26,8 +26,9 @@ import java.util.regex.Pattern;
 
 import javax.xml.bind.JAXBException;
 import matcher.BornDateMatcher;
+import matcher.DeathDateMatcher;
 import matcher.PossibleMatch;
-import countOccurencesOfTypes.TypeCounter;
+import matcher.TypeCounter;
 
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageTitle;
@@ -116,11 +117,9 @@ public class TextConverter
 	}
 	
 	private void addObjectsToList() {
-		//listOfObjectsToMatch.add(new BornDateMatcher());
-	//	listOfObjectsToMatch.add(new BornLocationMatcher());
-		//listOfObjectsToMatch.add(new DeathMatcher());	
 		listOfObjectsToMatch.add(new BornDateMatcher());	
-		//listOfObjectsToMatch.add(new DeathDateMatcher());	
+		listOfObjectsToMatch.add(new DeathDateMatcher());	
+		//listOfObjectsToMatch.add(new BornLocationMatcher());
 		//listOfObjectsToMatch.add(new TypeCounter());
 	}
 

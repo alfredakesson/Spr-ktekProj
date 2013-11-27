@@ -65,4 +65,17 @@ i++;
 	
 	}
 
+	@Override
+	public void insertError(String pageTitle) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean saveDateConvertedString(String pageTitle, String dateInput,
+			String type) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 }

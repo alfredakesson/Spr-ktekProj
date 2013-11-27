@@ -17,25 +17,38 @@ import sprakproj.TextConverter;
 
 public class DateConverter extends TextConverter {
 	private StringBuilder dateStringBuilder;
-	private String pageTitle, savedString;
+	private String pageTitle, savedString, type;
 	
-	BornDateMatcher bornDateMatcher;
+	PossibleMatch bornDateMatcher;
 
 	public DateConverter(SimpleWikiConfiguration config, int wrapCol,
-			String pageTitle) {
+			String pageTitle, String type) {
 		super(config, wrapCol, pageTitle);
 		
 		dateStringBuilder = new StringBuilder();
 		this.pageTitle = pageTitle;
-		
-		bornDateMatcher = new BornDateMatcher();
+		this.type = type;
+		if(type.equals("bornDate")){
+			bornDateMatcher = new BornDateMatcher();			
+		}
+		else {
+			bornDateMatcher = new DeathDateMatcher();
+		}
 	}
 
 	
 	public void start(TemplateArgument n) {
 		
 		saveNodeListAsString(n);
-		visit(n.getValue());
+		try{
+			visit(n.getValue());
+		} catch(Exception e){
+			//För att kunna parsa texten ändå fångar vi dryga exceptions här!
+			//Eftersom ja inte orkar kolla på alla jävla fel så låter jag den bara fånga skiten
+		}
+		if(!insertTriple(dateStringBuilder.toString())){
+			findDateInSavedString();
+		}
 		
 	}
 	
@@ -49,9 +62,6 @@ public class DateConverter extends TextConverter {
 	public void visit(Template n)
 	{
 		visit(n.getArgs());
-		if(!insertTriple(dateStringBuilder.toString())){
-			findDateInSavedString();
-		}
 	}
 	
 
@@ -83,7 +93,9 @@ public class DateConverter extends TextConverter {
 				dateBuilder.append("-");	
 			}
 		}
-		insertTriple(dateBuilder.toString());
+		if(!insertTriple(dateBuilder.toString())){
+			bornDateMatcher.insertError(pageTitle);
+		}
 
 	}
 
@@ -97,7 +109,7 @@ public class DateConverter extends TextConverter {
 
 	
 	private boolean insertTriple(String dateInput) {
-		return bornDateMatcher.saveDateConvertedString(pageTitle, dateInput);
+		return bornDateMatcher.saveDateConvertedString(pageTitle, dateInput, type);
 	}
 	
 	private String getText(NodeList name) {
