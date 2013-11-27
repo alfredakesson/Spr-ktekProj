@@ -9,11 +9,10 @@ import org.sweble.wikitext.engine.utils.SimpleWikiConfiguration;
 import org.sweble.wikitext.lazy.preprocessor.Template;
 import org.sweble.wikitext.lazy.preprocessor.TemplateArgument;
 
+import sprakproj.TextConverter;
 import de.fau.cs.osr.ptk.common.ast.AstNode;
 import de.fau.cs.osr.ptk.common.ast.NodeList;
 import de.fau.cs.osr.ptk.common.ast.StringContentNode;
-
-import sprakproj.TextConverter;
 
 public class DateConverter extends TextConverter {
 	private StringBuilder dateStringBuilder;
@@ -53,12 +52,14 @@ public class DateConverter extends TextConverter {
 	}
 	
 	
+	@Override
 	public void visit(NodeList n)
 	{
 		iterate(n);
 	}
 
 	
+	@Override
 	public void visit(Template n)
 	{
 		visit(n.getArgs());
@@ -100,6 +101,7 @@ public class DateConverter extends TextConverter {
 	}
 
 
+	@Override
 	public void visit(TemplateArgument n)
 	{
 		dateStringBuilder.append(getText(n.getValue()));

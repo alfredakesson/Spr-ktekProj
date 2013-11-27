@@ -10,13 +10,10 @@ import org.openrdf.query.QueryEvaluationException;
 import org.openrdf.query.QueryLanguage;
 import org.openrdf.query.TupleQuery;
 import org.openrdf.query.TupleQueryResult;
-import org.openrdf.repository.Repository;
 import org.openrdf.repository.RepositoryConnection;
 import org.openrdf.repository.RepositoryException;
-import org.openrdf.repository.sail.SailRepository;
 import org.openrdf.rio.RDFFormat;
 import org.openrdf.rio.RDFParseException;
-import org.openrdf.sail.nativerdf.NativeStore;
 
 public class DbPediaQuestion {
 	private String beginNameArticle;
@@ -28,25 +25,49 @@ public class DbPediaQuestion {
 		this.conn = conn; 
 	}
 	
-	public String existArticle(String article) throws RepositoryException, MalformedQueryException, QueryEvaluationException{
+	public String existArticle(String article){
 		String articleAddr = beginNameArticle+article;
 		
+		//HÄR BLIR DE FEL
+		
+		
+		
 		String queryString = "SELECT ?v WHERE " + "{"
-				+ "<" + articleAddr + ">"
+				+ "<" + articleAddr + "> "
 				+ "<http://www.w3.org/2002/07/owl#sameAs> ?v. "
 				+ "FILTER (STRSTARTS(STR(?v), 'http://dbpedia.org'))"
-				+ "} ";
+				+ "}";
+		System.out.println(queryString);
 		
 		
 		
-		
-		TupleQuery tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
-				queryString);
-		TupleQueryResult result = tupleQuery.evaluate();
-		if(result.hasNext()){
-			BindingSet bindingSet = result.next();
-			Value valueOfY = bindingSet.getValue("v");
-			return valueOfY.toString();
+		TupleQuery tupleQuery = null;
+		try {
+			tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
+					queryString);
+		} catch (RepositoryException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (MalformedQueryException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		TupleQueryResult result = null;
+		try {
+			result = tupleQuery.evaluate();
+		} catch (QueryEvaluationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		try {
+			if(result.hasNext()){
+				BindingSet bindingSet = result.next();
+				Value valueOfY = bindingSet.getValue("v");
+				return valueOfY.toString();
+			}
+		} catch (QueryEvaluationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 		return null;
 	}

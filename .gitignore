@@ -12,3 +12,7 @@ sprakproj/txn-status
 *.hash
 
 *.id
+
+sprakproj/database_type_count_2
+
+*.zip

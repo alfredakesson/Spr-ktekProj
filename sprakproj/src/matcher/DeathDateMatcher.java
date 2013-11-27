@@ -3,7 +3,9 @@ package matcher;
 import java.io.FileNotFoundException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 import javax.xml.bind.JAXBException;
+
 import org.sweble.wikitext.lazy.preprocessor.TemplateArgument;
 
 public class DeathDateMatcher extends DateMatcher implements PossibleMatch {

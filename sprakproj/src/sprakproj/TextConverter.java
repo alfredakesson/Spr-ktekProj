@@ -23,12 +23,11 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.regex.Pattern;
 
-
 import javax.xml.bind.JAXBException;
+
 import matcher.BornDateMatcher;
 import matcher.DeathDateMatcher;
 import matcher.PossibleMatch;
-import matcher.TypeCounter;
 
 import org.sweble.wikitext.engine.Page;
 import org.sweble.wikitext.engine.PageTitle;

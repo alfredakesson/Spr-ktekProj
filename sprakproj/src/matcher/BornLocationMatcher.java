@@ -5,7 +5,6 @@ import java.util.regex.Pattern;
 
 import org.sweble.wikitext.lazy.preprocessor.TemplateArgument;
 
-
 import sprakproj.Database;
 
 public class BornLocationMatcher implements PossibleMatch {
