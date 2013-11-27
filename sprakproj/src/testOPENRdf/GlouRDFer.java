@@ -21,12 +21,14 @@ import org.openrdf.sail.nativerdf.NativeStore;
 
 public class GlouRDFer {
 	public static void main(String args[]) throws RepositoryException, RDFParseException, IOException, MalformedQueryException, QueryEvaluationException, SQLException {
+
 		File dataDir = new File(".");
 		Repository repo = new SailRepository(new NativeStore(dataDir));
 		repo.initialize();
 		RepositoryConnection conn = repo.getConnection();
+		
 		DbPediaQuestion dbQ =new DbPediaQuestion(conn);
-		//dbQ.addSameAsToDb();
+		
 		String exist = dbQ.existArticle("Sverige");
 		System.out.println(exist);
 		String[] kolla = testOpenRDF.getTypes(exist, conn);
