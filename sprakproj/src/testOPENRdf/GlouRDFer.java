@@ -5,6 +5,11 @@ import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+import org.apache.commons.collections.Factory;
+import org.openrdf.model.Literal;
+import org.openrdf.model.Statement;
+import org.openrdf.model.URI;
+import org.openrdf.model.ValueFactory;
 import org.openrdf.query.MalformedQueryException;
 import org.openrdf.query.QueryEvaluationException;
 import org.openrdf.repository.Repository;
@@ -39,5 +44,15 @@ public class GlouRDFer {
 		}
 		conn.close();
 
+	}
+
+	private static void inset_type_prop_lit(Repository repo,
+			RepositoryConnection conn, String type , String prop , String prop_val) throws RepositoryException {
+		ValueFactory factory = repo.getValueFactory();
+		URI type_URI = factory.createURI(type);
+		URI prop_URI = factory.createURI("http://scn.cs.lth.se/rawproperty/" + prop);
+		Literal prop_value_lit = factory.createLiteral(prop_val);
+		Statement type_prop_lit = factory.createStatement(type_URI, prop_URI, prop_value_lit);
+		conn.add(type_prop_lit);
 	}
 }
