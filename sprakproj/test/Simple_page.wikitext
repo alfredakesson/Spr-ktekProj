@@ -1,238 +1,33 @@
-{{Infobox musiker
-|namn                = Agnes
-|bild                = Agnes Carlsson Sommarkrysset 2012 By Daniel Åhs Karlsson.jpg
-|bildtext            = Agnes på [[Sommarkrysset]]
-|bildstorlek         = 225px
-|färg                = sångare
-|födelsenamn         = Agnes Emilia Karlsson<ref name="svbf">{{svBf|år=1990|namn=Karlsson, Agnes Emilia}}</ref>
-|pseudonym(er)       = 
-|född                = {{flaggbild|Sverige}} [[Vänersborg]], {{ålder|1988|3|6}}
-|död                 = 
-|bakgrund            = [[Blåsut, Vänersborg|Blåsut]], [[Vänersborg]]
-|instrument          = 
-|genre               = [[Electropop]], [[Popmusik|pop]], [[dance]], [[Contemporary R&B|R&B]]
-|roll                = [[Sång]]erska
-|aktiva_år           = [[2005]]-nutid
-|skivbolag           = [[Sony BMG]] <small>(2005–2007)</small><br>[[Roxy Recordings|Roxy]] <small>(2008–present)</small><br>[[All Around the World (record label)|AATW]]/[[Universal Music|Universal]] <small>(UK)</small><br>[[Geffen Records|Geffen]]/[[Universal Music|Universal]] <small>(US)</small><br>[[Warner Music|Warner]] <small>(DE, AU)</small>
-|associerade_akter   = 
-|medlemmar           = 
-|tidigare_medlemmar  = 
-|hemsida             =[http://www.agnescarlsson.se www.agnescarlsson.se]
+{{Infobox biografi
+| namn          = Jens Bergensten
+| bild          = Jens Bergensten Minecon.jpg
+| bildstorlek   = 200px
+| alt           = 
+| bildtext      = Jens Bergensten, 2011
+| födelsenamn   = Jens Peder Bergensten
+| födelsedatum  =  {{Ålder|1979|05|18}}
+| födelseort    = [[Örebro]]
+| nationalitet  = Svensk
+| andra_namn    = Jeb, jeb_
+| känd_för      = [[Minecraft]]
+| yrke          = Speldesigner
 }}
 
-'''Agnes Emilia Carlsson''', född [[6 mars]] [[1988]] i [[Vänersborg]],<ref name="svbf"></ref> är en [[svensk]] [[artist]] mest känd under artistnamnet '''Agnes'''. Carlsson kommer från [[Blåsut, Vänersborg|Blåsut]] i Vänersborg och blev känd genom sin medverkan, och seger, i [[Idol 2005]]. Efter segern fick hon släppa debutsingeln "[[Right Here, Right Now (My Heart Belongs To You)|Right Here, Right Now]]" som kom etta på singellistan i [[Sverige]]. Singeln sålde platina och den kom även etta på både [[Trackslistan]] och [[Svensktoppen]]. Albumet ''Agnes'' spelades in på två veckor. Hennes andra singel, "Stranded", blev inte en lika stor framgång som debutsingeln, men nådde en elfteplats på Trackslistan. Agnes påbörjade sin internationella karriär under 2009 med sin singel "Release Me", som har sålt i över 900&nbsp;000 exemplar i hela världen.<ref name=agnesinterviewscandipop>{{Webbref |url = http://www.scandipop.co.uk/?p=1801|titel = The Agnes interview|utgivare = scandipop.co.uk|hämtdatum = 14-11-2009}}</ref><ref name=snep>{{Webbref |url = http://www.chartsinfrance.net/Agnes/news-68464.html|titel = Release Me in France|utgivare = chartsinfrance.net|hämtdatum = 16-10-2009}}</ref><ref>{{Webbref |url = http://farojournalen.no/pages/nor/3296-fra_sverige_med_dance_love_pop|titel = Fra Sverige med Dance Love Pop|hämtdatum = 29 september 2009|författare = Silje Larsen Borgan|datum = 2009-09-24|verk = Farojournalen.no}}</ref><ref name="agnesguldidanmark">{{Webbref |författare = Copenhagen Records|url = http://cphrec.dk/da/Agnes/|titel = Agnes får guld i Danmark|utgivare = Copenhagen Records|datum = 2009-06-12|hämtdatum = 21 juni 2009}}</ref><ref name=yt>{{Webbref |url = http://www.youtube.com/watch?v=ZUe9lCkEpPk&feature=player_embedded#t=87|titel = Agnes klar med album|utgivare = TV2 GO|hämtdatum = 16-10-2009}}</ref> 
+'''Jens Peder Bergensten''', även kallad '''Jeb''' eller '''jeb_''', född [[18 maj]] [[1979]] i [[Örebro]], är en svensk speldesigner, som sedan 2010 har arbetat på [[Mojang]], främst kända för spelet [[Minecraft]].
 
-Hon uppträdde på [[kronprinsessan Victoria]]s bröllop tillsammans med [[Björn Skifs]]. De framförde låten "[[When You Tell the World You're Mine]]" skriven av [[Jörgen Elofsson]].
+Bergensten omnämdes, tillsammans med  [[Markus Persson|Markus "Notch" Persson]] av [[TIME Magazine]] som en av de 100 mest betydelsefulla personerna 2013.<ref name="time">{{webbref|url=http://time100.time.com/2013/04/18/time-100/slide/markus-persson-and-jens-bergensten/|titel=Markus Persson och Jens Bergensten|hämtdatum=2013-04-18|verk=TIME Magazine}}</ref>
 
-Agnes Carlsson är förlovad med [[Vincent Pontare]].<ref name=dt>{{Webbref |url = http://www.dt.se/noje/bling/article517683.ece|titel = Agnes dejtar Vincent Pontare|utgivare = Dalademokraten|hämtdatum = 16-10-2009}}</ref><ref>Allert, Terese (2013-04-17): [http://www.aftonbladet.se/nojesbladet/klick/article16616726.ab "Agnes och Vincent Pontare förlovade".] Aftonbladet.se. Läst 21 oktober 2013.</ref> Agnes är kusin med rapparen Simon Emanuel ([[Paragon]]) och medverkade även på tre av låtarna på hans skiva "Glöd" från 2008.
-
-Agnes medverkar i 2013 års upplaga av [[TV4]]:s ''[[Så mycket bättre]]''.<ref>[http://www.tv4.se/s%C3%A5-mycket-b%C3%A4ttre/avsnitt/avsnitt-3-165994 TV4]</ref>
-
-== Karriär ==
-===2005–2007: Arvet efter "Idol"===
-Våren år 2005 sökte den då 17-åriga Agnes till den [[Idol 2005|andra säsongen]] av tv-programmet och musiktävlingen [[Idol (Sverige)|Idol]] i [[Göteborg]] och sjöng "Varje gång jag ser dig" av [[Lisa Nilsson]]. De fyra domarna var alla imponerade och hon gick vidare till nästa rond av uttagningarna. Här fortsatte hon att imponera på juryn, men när det var duettsång riskerade Carlsson att åka ur tävlingen på grund av att hon tappade texten, men senare gjorde hon comeback och tog sig därmed vidare till semifinalerna. Där slutade dock juryns makt och tittarna tog över. Detta gjorde att Agnes misslyckades med att ta sig vidare till finalen. Hon fick även tävla i en speciell "wildcard"-uttagning men misslyckades med att ta sig vidare även där. Då bestämde sig juryn för att ge henne en finalplats ändå, som "juryns val".
-
-Trots den tidiga bristen på stöd från tittarna, så fortsatte Agnes att imponera under veckorna och tog sig ända till finalen utan att ha hamnat bland de tre sämsta en enda gång. Under tävlingen framförde hon en stor bredd av sånger i olika genrer: "[[What a Feeling]]" av [[Irene Cara]], "[[Wonderwall]]" av [[Oasis]], "[[Sk8er Boi]]" av [[Avril Lavigne]] och många fler. Med 57 procent av de en miljon röster som kom in under finalkvällen besegrade hon sin medtävlande och sedermera Idol-tvåan [[Sebastian Karlsson]] och blev utsedd till den andra vinnaren av "Idol", och även den första kvinnan att någonsin vinna.<ref>{{Webbref |författare = Söderström, Martin|url = http://www.aftonbladet.se/nojesbladet/article334470.ab|titel = Nu är Agnes Idol – på riktigt|utgivare = [[Aftonbladet]]|datum = 2005-12-02|hämtdatum = 11 juli 2010}}</ref>
-
-Omedelbart efter vinsten blev Agnes kontrakterad av [[Sony BMG]] och hennes debutsingel "[[Right Here, Right Now (My Heart Belongs To You)|Right Here Right Now (My Heart Belongs to You)]]" släpptes den 7 december 2005, och en vecka senare debuterade den på [[Sverigetopplistan]] på plats 1, där den stannade i sex veckor vilket resulterade i ett dubbelt platinacertifikat med över 40&nbsp;000 sålda exemplar. Den 19 december debuterade även hennes första album, det självbetitlade ''[[Agnes (musikalbum)|Agnes]]'', på första platsen på den officiella topplistan. Albumet fick positiva recensioner som hyllade hennes starka röst vid en så ung ålder som 18 år. Albumet såldes även det i över 40&nbsp;000 exemplar och certifierades platina.
-[[Fil:Agnes Carlsson By Daniel Åhs Karlsson.jpg|thumb|right|upright|Agnes på [[Sommarkrysset]]]]
-I mars 2006, medan Agnes turnerade efter framgångarna med sitt debutalbum, släpptes den andra singeln från albumet, "[[Stranded (Agnes sång)|Stranded]]". Singeln nådde inte samma kommersiella succé som debutsingeln och klättrade som högst till plats 27 på den officiella singellistan. Men albumet fortsatte att sälja bra och när det lämnade albumlistan så hade det sålt i över 90&nbsp;000 exemplar, vilket gör det till det bäst säljande debutalbumet för en Idol-deltagare någonsin.<ref name="sverigetopplistan.se">{{Webbref |url = http://www.sverigetopplistan.se|titel = Sverigetopplistan|utgivare = sverigetopplistan.se|hämtdatum = 31 mars 2010}}</ref>
-
-Den 22 augusti 2006, bara åtta månader efter Idolvinsten, hade Agnes tredje singel "[[Kick Back Relax]]" premiär för offentligheten när hon uppträdde i det populära programmet [[Sommarkrysset]] i [[TV4]]. Singeln klättrade till andra plats på den officiella topplistan och kom att bli den första av två singlar från hennes andra studioalbum, ''[[Stronger (album av Agnes)|Stronger]]'', som släpptes den 11 oktober 2006 och nådde som bäst förstaplatsen på Sverigetopplistan<ref>{{Webbref |url = http://swedishcharts.com/showitem.asp?interpret=Agnes&titel=Stronger&cat=a|titel = "Stronger" in swedish charts|utgivare = wedishcharts.com|hämtdatum = 31 mars 2010}}</ref>, och sålde över 50&nbsp;000 exemplar vilket gav det ett platina certifikat.<ref name="sverigetopplistan.se"/>
-
-Den [[10 oktober]] [[2006]] bekräftades det att Agnes skulle tävla i [[Melodifestivalen 2007]] med låten "More Than a Girl",<ref>{{tidningsref |url=http://www.gp.se/gp/jsp/Crosslink.jsp?d=286&a=301170 |rubrik=Agnes i schlagerdebut |hämtdatum=10 oktober 2006 |författare=Rylander, Johan |datum=26 oktober 2008 |tidning=[[Göteborgsposten]]}}</ref> men på grund av att hon försade sig i en intervju med [[Aftonbladet]] blev bidraget diskvalificerat. Det har efteråt framförts en hel del hård kritik från allmänheten mot [[SVT]] och den ansvarige [[Christer Björkman]]. Låtskrivarna anklagade Björkman för utpressning mot Agnes samtidigt som Björkman menade att man var tvungen att följa regelverket.<ref>{{tidningsref |url=http://www.aftonbladet.se/nojesliv/musik/article446484.ab |rubrik="Det stinker, Björkman" |hämtdatum=14 oktober 2006 |författare=Svensson, Ylwa |datum=26 oktober 2008 |tidning=[[Aftonbladet]]}}</ref>.
-
-Den [[15 november]] släpptes "[[Champion (Agnes sång)|Champion]]", den andra singeln från albumet ''Stronger''. Den nådde nummer 19 på Sverigetopplistan. Agnes framträdde med låten för första gången i finalen av Idol 2006. Hon påbörjade även sin andra Sverigeturné på mindre än ett år. I december kunde man se Agnes tillsammans med den forne konkurrenten från Idol 2005, [[Måns Zelmerlöw]] i klädkedjan [[MQ]]s julkampanj. I samband med detta släppte de tillsammans en cover av [[Mariah Carey]]s "[[All I Want For Christmas Is You]]". Den blev som bäst trea på singellistan och blev certifierad guld för 10&nbsp;000 sålda exemplar.<ref name="sverigetopplistan.se"/>
-
-===2008–2009: ''Dance Love Pop'', avsked från Sony BMG och internationell lansering===
-I början av 2008 blev det offentliggjort att Agnes hade lämnat skivbolaget [[Sony BMG]], med "kreativa skillnader" som den officiella bakomliggande orsaken. Hon blev kvickt kontrakterad av det lilla independentbolaget [[Roxy Recordings|King Island Roxystars Recordings]] (mer känt som Roxy Recordings, eller enbart Roxy). Den 11 augusti 2008 uppträdde Agnes återigen på [[Sommarkrysset]] med sin comeback singel "[[On and On]]", som släpptes för [[digital nedladdning]] samma dag.<ref name="ac">http://www.agnescarlsson.se/</ref><ref>{{Webbref |url = http://www.expressen.se/noje/1.1267616/agnes-gjorde-comback-i-sommarkrysset|titel = Agnes gjorde comeback i sommarkrysset|hämtdatum = 16 maj 2009|författare = Karin Skogh|datum = 2008-08-16|verk = [[Expressen]]}}</ref> Singeln närmade sig [[dance|dance-]] och [[Club music|club]]genren och skiljde sig från Agnes tidigare musikstil, som bestått mest av [[Popmusik|pop]] och [[RnB]]. "On and On" låg fyra veckor på plats nummer 8 på [[Sverigetopplistan]] och efter att ha lämnat listan efter 26 veckor hade den blivit en stor sommarhit med över 10&nbsp;000 sålda exemplar och ett guldcertifikat. Stilen i musiken skulle komma att återspeglas på Agnes tredje studioalbum ''[[Dance Love Pop]]'' som hon skrivit tillsammans med låtskrivaren och producenten [[Anders Hansson]]. Albumet släpptes den 29 oktober 2008 och debuterade på albumlistan på plats 5 och efter att ha lämnat listan kunde 100&nbsp;000 sålda exemplar räknas in. Den 24 november 2008 släpptes albumets andra singel, "[[Release Me (Agnes Carlsson-låt)|Release Me]]". Den lyckades inte åstadkomma samma succé som "On and On", men nådde ändå som bäst plats nio på Sverigetopplistan och blev under 2010 certifierad guld även den med 10&nbsp;000 sålda exemplar.<ref name=agnesmusic.com/bio >{{Webbref |url = http://www.agnesmusic.com/bio/|titel = Agnes - Bio|utgivare = Interscope Records|hämtdatum = 26-03-2010}}</ref>
-
-[[Fil:AgnesCarlssonSweden cropped.jpg|miniatyr|höger|upright|Agnes på [[RIX FM Festival]] i [[Kalmar]] 2009.]]
-I oktober 2008 spreds det rykten om att Agnes skulle tävla i [[Melodifestivalen 2009]], tävlingen som tar fram Sveriges representant i [[Eurovision Song Contest]].<ref>{{Webbref |url = http://www.esctoday.com/news/read/12567|titel = Second wildcard revealed tonight|efternamn = Viniker|förnamn = Barry|datum = 2008-11-26|utgivare = ''ESCToday''|hämtdatum = 26 november 2008}}</ref> Agnes bekräftade senare detta påstående i en intervju med [[Göteborgsposten]], och officiellt bekräftat den 2 december 2008, av [[Sveriges Television]].<ref>{{Webbref |url = http://www.expressen.se/noje/musik/1.1389177/de-ar-med-i-melodifestivalen-igen|titel = De är med i Melodifestivalen - igen|hämtdatum = 2 december 2008|författare = Carl Andersson|datum = 2008-12-02|verk = [[Expressen]]}}</ref> Bidraget "[[Love Love Love]]" var skrivet av Anders Hansson, som tidigare varit producent av Agnes tredje album ''[[Dance Love Pop]]'', och hade skrivit nästan hälften av låtarna, även hit-singlarna "On and On" och "Release Me". Från början var det tänkt att Agnes skulle framföra "Love Love Love" som en duett tillsammans med forna [[A-teens]]-medlemmen [[Marie Serneholt]], men denna idé skrotades senare.<ref>{{Webbref |url = http://www.aftonbladet.se/nojesbladet/melodifestivalen2009/article3898218.ab|titel = Lili och Susie till Melodifestivalen|hämtdatum = 16 maj 2009|författare = Susanne Nylén, Niklas Strömberg|datum = 2008-12-02|verk = [[Aftonbladet]]}}</ref> Den 28 februari 2009 gick Agnes vidare till finalen av [[Melodifestivalen 2009]] där hon slutade på åttonde plats.<ref>{{Webbref |url = http://svt.se/content/1/c8/01/44/24/54/Slutresultat%20FOLKET%20MElo%202009%20FINAL.pdf|titel = Votingresults Melodifestivalen|hämtdatum = 16 maj 2009|författare = SVT.se|år = 2009|verk = [[Sveriges Television|SVT]]}}</ref> Den 28 februari släpptes "Love Love Love" till försäljning och den klättrade till plats 4 på [[Sverigetopplistan]]. En deluxe-version av Agnes tredje album släpptes även, betitlat ''[[Dance Love Pop|Dance Love Pop: The Love Love Love Edition]]'', och innehöll Melodifestivalsbidraget "Love Love Love" samt remixer och musikvideor av "On and On" och "Release Me". Detta gjorde att "Dance Love Pop" återvände till Sverigetopplistan där den klättrade till plats 12. 
-
-Under våren 2009 när Agnes var upptagen med att göra promotion för Melodifestivalen, så hade hennes singel "[[Release Me (Agnes Carlsson-låt)|Release Me]]" fått en hel del uppmärksamhet utomlands. Det bekräftades att den skulle få en internationell lansering under det kommande året. Detta var första gången Agnes musik skulle distribueras utanför Sverige. Lanseringen startade med Danmark,<ref>{{Webbref |url = http://cphrec.dk/da/Video_ReleaseME|titel = Copenhagen Records - Agnes|hämtdatum = 31 mars 2010|författare = Cphrec.dk|år = 2009|verk =}}</ref> där den nådde en sjätteplats och sålde över 25&nbsp;000 exemplar, men viktigast av allt, så nådde "Release Me" enorma framgångar i Storbritannien, där den släpptes som singel den 31 maj 2009 och omedelbart gick in på plats 3 på den officiella topplistan och under sina veckor där sålde nära 400&nbsp;000 exemplar.<ref>{{Webbref |url = http://www.aftonbladet.se/nojesbladet/musik/article5253095.ab|titel = Agnes etta i England|hämtdatum = 31 mars 2010|författare = Martin Ekelund|datum = 2009-05-29|verk = [[Aftonbladet]]}}</ref> "Release Me" fortsatte att erövra Europa under hösten och släpptes i de flesta länder. Sången blev en stor succé i länder som [[Frankrike]], [[Belgien]], [[Italien]] och [[Tyskland]]. I juli blev hon även kontrakterad av Warner Music Australia och klättrade upp till en elfteplats på den officiella topplistan i [[Australien]].<ref name="ariadance">{{Webbref |url = http://www.ariacharts.com.au/pages/charts_display_dance.asp?chart=1D20|titel = "Release Me" in Australian ARIA charts|utgivare = ariacharts.com|hämtdatum = 11 november 2009}}</ref> 
-
-Agnes andra internationella singel var "[[On and On]]" som först släpptes i Nederländerna den 10 februari 2009 och senare i Polen. Den nådde där platserna 14 respektive 10. Senare under året började "On and on" att klättra på försäljningslistorna i de fransktalande delarna av Europa trots att den inte hade släppts där som singel ännu. Den debuterade på plats 27 i Belgien-[[Vallonien]] enbart på downloadförsäljning från albumet.<ref name=walloniaonandon>{{Webbref |url = http://www.ultratop.be/fr/showitem.asp?interpret=Agnes&titel=On+And+On&cat=s|titel = "On and On" in Beligium-Wallonian charts|utgivare = ultratop.be|hämtdatum = 31 december 2009}}</ref> och efter att den hade släpps officiellt på plats 17. I Belgien-[[Flandern]] nådde den plats åtta. En ny version blev inspelad för den franska releasen, kallad "On se Donne", och före dess release nådde den plats 14 på den officiella singellistan i Frankrike<ref name=frenchdownload>{{Webbref |url = http://lescharts.com/weekchart.asp?cat=si|titel = On and On in French charts|utgivare = lescharts.com|hämtdatum = 11 februari 2009}}</ref> och 37 i Schweiz.<ref name=swiss>{{Webbref |url = http://hitparade.ch/showitem.asp?interpret=Agnes&titel=On+And+On&cat=s|titel = "On and On" in Swiss charts|utgivare = hitparade.ch|hämtdatum = 11 november 2009}}</ref> "On and On" släpptes som den andra singeln i [[Tyskland]], [[Österrike]], [[Schweiz]] och [[Ungern]] i maj 2010, och som den tredje singeln i Storbritannien i juni.
-
-Den andra singeln i Storbritannien var "[[I Need You Now]]" som hade blivit remixad för singel-releasen. Den släpptes officiellt den 16 november 2009 och nådde som bäst plats 40. Den släpptes även i Sverige den 23 november 2009 och nådde omedelbart plats 10 på singellistan för att senare klättra till plats 8, vilket gjorde den till Agnes sjunde topp-tiohit i Sverige.<ref name=sverigetopplistan>{{Webbref |url = http://swedishcharts.com/showitem.asp?interpret=Agnes&titel=I+Need+You+Now&cat=s|titel = "I Need You Now" in Swedish charts|utgivare = swedishcharts.com|hämtdatum = 12 maj 2009}}</ref>
-
-=== 2009–2011: Internationell framgång ===
-I januari 2009 offentliggjorde Roxy Recordings att "[[Release Me (Agnes Carlsson-låt)|Release Me]]" lanseras internationellt. Det här markerade det första steget i Agnes strävan att nå en internationell karriär. Det första landet som fick stifta bekantskap med Agnes och "Release Me" var Danmark där låten släpptes under skivbolaget Copenhagen Records.<ref>{{Webbref |url = http://cphrec.dk/da/Video_ReleaseME|titel = Agnes- Release Me|hämtdatum = 6 februari 2009|författare = |datum = 2009-01-18|verk = Copenhagen Records}}</ref>. Den lyckades nå upp till nummer 6 på den nationella officiella singellistan, [[Trackslisten]]. Därefter nådde den nummer sju i [[Flandern]] och nummer sex i  [[Vallonien]]. Den 1 april 2009 påbörjades Agnes tredje konsertturné, "The Dance Love Pop Tour" i [[Skövde]]. Det blev så långt i karriären Agnes längsta turné med två stopp i Danmark och två i England.
-[[File:Agnescarlsson rixfmfestival.jpg|thumb|right|upright|Agnes uppträder på Rix Fm Festival i Kalmar 2009.]]
-"[[Release Me (Agnes Carlsson-låt)|Release Me]]" som släpptes i Storbritannien den 31 maj 2009, blev en stor hit och spelades på de flesta radiostationer och musiktv-kanaler, Carlsson uppträdde även på Storbritanniens största gayclub "G-A-Y" och även på GMTV, en av landets största frukostprogram. Release Me debuterade på plats tre på [[Storbritannien|UK Singles Chart]], där den stannade i flera veckor.<ref>http://www.aftonbladet.se/nojesbladet/musik/article5253095.ab</ref> Efter åtta veckor fick låten ett Silver-certificat med över 300&nbsp;000 sålda exemplar. 
-
-Agnes andra internationella singel blev "[[On and On]]", först i Nederländerna den 10 februari 2009 och sen i Polen där singeln som bäst nådde sjunde respektive tionde plats. "On and On" kom även att släppas som andra singel i resten av Europa under 2009 och 2010 med hjälp av en ny video som spelades in i [[Göteborg]] i juli 2009.<ref>http://web.archive.org/20090929000215/bylindag.blogspot.com/2009/07/bakom-kulisserna-till-agnes-nya-video.html</ref>
-
-Agnes första uppträdande utanför Europa gjordes under sensommaren 2009 då hon kontrakterades av [[Warner Music]] i Australien<ref>http://www.youtube.com/user/TVNeon</ref><ref>http://bigpondmusic.com/Album/Agnes1/Release-Me3.aspx</ref> och "Release Me" släpptes som den första singeln, där den gick in på "Australian Dance Chart" på plats elva under sin första vecka och senare nådde plats 26 på den officiella singellistan.<ref name="ariadance">[http://www.ariacharts.com.au/pages/charts_display_dance.asp?chart=1D20 Australian Dance Chart]</ref> I juli 2009 offentliggjorde det stora amerikanska skivbolaget [[Geffen Records]]/[[Universal Music]] att de hade kontrakterat Agnes inför hennes amerikanska release<ref>http://www.interscope.com/agnes</ref> och skulle släppa "[[Release Me (Agnes Carlsson-låt)|Release Me]]" i USA den 18 augusti 2009.<ref>http://interscope.com/artist/releases/detail.aspx?pid=2281&aid=1142</ref> Hon fick även en så kallad "signing-bonus" på 1 miljon dollar (ca 7 miljoner SEK).<ref name="aftonbladet">{{tidningsref|författare=Sundholm, Magnus |url=http://www.aftonbladet.se/nojesbladet/musik/article5710863.ab|rubrik=Agnes värvades av världens största bolag|tidning=[[Aftonbladet]] |datum=29 augusti 2009 |hämtdatum=30 augusti 2009}}</ref> Detta gjorde Agnes till den första och då hittills enda Idol-deltagaren som lanserats i USA. Innan Universal/Geffen fick hem kontraktet hade tre av USA:s största skivbolag slagits om att få kontraktera Agnes. Under 2010 åkte Agnes till USA för att starta sin promotion för "Release Me" tillsammans med ett team bestående av 35 personer som, 2009, arbetade tillsammans med [[Lady Gaga]] för att få henne att bli nästa stjärna.<ref name="hollywoodgrataaftonbladet">{{webbref|author=Joacim Persson|url=http://www.aftonbladet.se/nojesbladet/musik/article6320247.ab|titel=Agnes fick Hollywood att gråta|publisher=Aftonbladet|date=2009-12-20 |accessdate=2009-12-20}}</ref>
-
-Agnes gjorde sitt första uppträdande i USA den 27 augusti 2009 på en releasefest för hennes singel "Release Me". Bland gästerna fanns VD:n för [[Interscope Records]], Ron Fair, vilken kommenterade sitt nya fynd:"''She has it all. She is an amazing singer, looks good, is fearless and humble. She is a mix of Alanis Morissette, Gwen Stefani and Christina Aguilera''"<ref name="aftonbladet" />
-
-Agnes vann pris som Sveriges bästa artist på [[MTV Europe Music Awards 2009]].
-
-Under 2009/2010 släppte Agnes tre singlar i olika delar av världen. Release Me fortsatte att erövra USA och släpptes i Asien och Sydamerika, med en ny musikvideo släpptes även "On and On" som andra singel i Europa.<ref>[http://www.stark.se/ STARK Film & Event - On and On new music video]</ref> I Storbritannien släpps "[[I Need You Now]]" som andra singel som har blivit nyinspelad och remastrad till en remixad version av den ursprungliga balladen.<ref name="3beat">http://www.3beat.co.uk/</ref> "I Need You Now" släpptes den 16 november 2009 och klättrade till plats 40 på [[Storbritannien|UK Singles Chart]]. "I Need You Now" släpptes även i Sverige den 23 november, och gick direkt in på svenska iTunes-topplistan på plats 2 och utan någon promotion så lyckades den debutera på [[Sverigetopplistan]] på plats tio och nådde som bäst plats åtta, vilket gjorde den till Agnes sjunde top-tio-hit i Sverige.<ref name=sverigetopplistan>{{webbref
-| url=http://swedishcharts.com/showitem.asp?interpret=Agnes&titel=I+Need+You+Now&cat=s
-| titel="I Need You Now" in Swedish charts
-| publisher=swedishcharts.com
-| accessdate=05-12-2009}}</ref> "I Need You Now" kommer även att släppas i Danmark, Australien och Nederländerna.
-
-Under november 2009 började "On and On" att klättra på listorna runt om i Europa utan att ens ha släppts som singel. Dessa baserades endast på downloads från albumet som tidigare släppts. Den debuterade på plats 27 i [[Belgien]] (Vallonien)<ref name=walloniaonandon>{{webbref
-| url=http://www.ultratop.be/fr/showitem.asp?interpret=Agnes&titel=On+And+On&cat=s
-| titel="On and On" in Beligium-Wallonian charts
-| publisher=ultratop.be
-| accessdate=2009-12-31}}</ref> och nådde som bäst plats 17. I Flandern nådde den en åttondeplats. En ny version har blivit inspelad för det franska singelsläppet, "On Se Donne", men redan innan singeln släppts nådde den plats 14 på [[Frankrike|French Download Chart]]<ref name=frenchdownload>{{webbref
-| url=http://lescharts.com/weekchart.asp?cat=si
-| titel=On and On in French charts
-| publisher=lescharts.com
-| accessdate=02-11-2009}}</ref> och plats 37 på [[Schweiz|Swiss Singles Chart]].<ref name="swiss"/>
-
-Eftersom ''I Need You Now'' inte nådde upp till förväntningarna i Storbritannien så blev albumet ''Dance Love Pop'' uppskjutet till den 8 februari 2010 tillsammans med den tredje singeln ''On and On''.<ref name="amazondlp">{{webbref|url=http://www.amazon.co.uk/Dance-Love-Pop-Agnes/dp/B002W1GCXY|titel=Agnes - Dance Love Pop.}}</ref> Efter att ha släppt ''Dance Love Pop'' i två olika versioner i Sverige släpptes även en tredje version; ''International Edition'', vilken släpptes den 21 december exklusivt tillsammans med [[Aftonbladet]]. Den internationella editionen innehåller singlarna ''On and On'', ''Release Me'', ''Love Love Love'' och ''I Need You Now'' samt två nya spår: ''Secret Love'' och ''You Rain'' och några andra låtar.<ref name="internationaldlp">{{webbref|url=http://www.aftonbladet.se/nojesbladet/article6263103.ab|titel=Köp Agnes skiva - bara med Aftonbladet|publisher=aftonbladet.se|date=2009-12-16 |accessdate=2009-12-19}}</ref>
-
-I en intervju berättade Agnes att hon planerade att börja arbeta på nytt material tillsammans med Anders Hansson i januari 2010.
-<ref name="tteladecember">{{webbref|url=http://ttela.se/nojekultur/musik/1.680801|titel=Ett gyllene år för Agnes|publisher=ttela.se|date=2009-12-20 |accessdate=2009-12-21}}</ref>
-
-Den 21 september 2011 släppte Agnes singeln "[[Don't Go Breaking My Heart (Agnes Carlsson-låt)|Don't Go Breaking My Heart]]" som hon framförde för första gången på [[Mr Gay Sweden|Mr. Gay 2011]]. Låten är skriven av Agnes, Vincent Pontare, Magnus Lidehäll, [[The Nervo Twins]] och producerad av [[Vincent Pontare]] och Magnus Lidehäll.<ref name="producers">{{Webbref |url = http://agnescarlsson.se/2011/09/listen-to-dont-go-breaking-my-heart/ |titel = Listen to Don't Go Breaking My Heart |utgivare = agnescarlsson.se |hämtdatum = 28 september 2011}}</ref>
-
-=== 2012–framåt: ''Veritas'' ===
-Enligt kvällstidningen [[Expressen]], skulle Agnes fjärde studioalbum släppas någon gång under första halvåret av 2011,<ref name="nunstedt">{{Webbref |författare = Anders Nunstedt |url = http://www.expressen.se/noje/kronikorer/andersnunstedt/1.2274562/anders-nunstedt-musikaret-2011-kan-bli-superbra |titel = ANDERS NUNSTEDT: Musikåret 2011 kan bli superbra |verk = Express Entertainment |utgivare = Expressen |datum = 2011-01-01 |hämtdatum = 11 januari 2011 |språk = Swedish}}</ref>men blev senare uppskjutet för att släppas under våren 2012.<ref>{{cite journal |last=Hammar |first=Jennie |title=Grattis Världen!|journal=Café |year=2012 |month=February |pages=58–63}}</ref> I augusti 2011 släpptes singeln "[[Don't Go Breaking My Heart (Agnes Carlsson-låt) |Don't Go Breaking My Heart]]"<ref name="ultimatemusictweet">{{Webbref |url = https://twitter.com/#!/josepvinaixa/status/99852791207575552 |datum = 2011-08-06 |hämtdatum = 6 augusti 2011 |titel = Twitter - Stop everything in your f**king life! @agnescarlsson signs new single "Don't Go Breaking My Heart" at Mr. Gay Sweden http://t.co/n7dZSL6}}</ref> Singeln lyckades inte placera sig på Sverigetopplistan, trots hög digital försäljning och en tredjeplats på Digilistan.<ref name="digi">{{Webbref |url = http://sverigesradio.se/sida/topplista.aspx?programid=2697 |titel = Digilistan 2011-10-02 |utgivare = [[Sveriges Radio]] |hämtdatum = 2 oktober 2011}}</ref> Detta på grund av få strömningar på Spotify, som utgör Sverigetopplistan sedan 2010.<ref>{{Webbref |url = http://www.rixfm.se/rix-morronzoo/fr%C3%A5gan-som-gjorde-agnes-m%C3%A5ll%C3%B6s |titel = Frågan som gjorde Agnes mållös &#124; RIX MorronZoo &#124; RIXFM |utgivare = Rixfm.se |datum = 2012-06-20 |hämtdatum = 2 september 2012}}</ref> Utlandslanseringen av singeln stoppades därefter och Agnes fjärde album sköts upp ytterligare.
-
-Den 28 maj 2012 släppte Agnes första singeln från sitt kommande album, "[[One Last Time (Agnes Carlsson-låt)|One Last Time]]". Singeln blev, till skillnad från hennes tidigare singlar, endast släppt i Sverige. Senare släpptes den även i Belgien där den placerade sig på plats 72 på den officiella listan.<ref name=swecd>{{Webbref |titel = iTunes - Music - One Last Time - Single by Agnes |url = http://itunes.apple.com/se/album/one-last-time-single/id526828772 |utgivare = Apple |hämtdatum = 28 maj 2012}}</ref> Tidigare i maj läckte singeln på Spotify före det officiella releasedatumet, men togs snart bort. Under sin första dag klättrade den högt på iTunes top 10 chart, där den stannade länge och blev en av de mest spelade låtarna under 2012 på radio. Den nådde första platsen på Digilistan och plats 33 på Sverigetopplistan, samt sålde platina med över 20.000 sålda exemplar, vilket gjorde detta till en av Agnes största succéer i Sverige.<ref name="IFPI sweden">{{Webbref |url = http://hitlistan.se |titel = Hitlistan |datum = 2012-09-18 |utgivare = [[International Federation of the Phonographic Industry]] |språk =  |hämtdatum = 19 september 2012}}</ref>Agnes amerikanska skivbolag Interscope Universal ville att hon skulle flytta till USA för att skriva och spela in sitt album i deras studio, men Agnes kände sig inte hemma och lyckades inte hitta några människor hon kunde tänka sig att jobba med. Hon bestämde sig därför för att åka tillbaka till Sverige och spela in albumet där.<ref name="megapol">{{Webbref |url = http://sverigesradio.se/sida/ljud/3959429?play=3959429&playtype=Sändning&t=227 |titel = Megapol Stockholm - Agnes |utgivare = Sveriges Radio |datum = 2012-05-29 |hämtdatum = 30 maj 2012 |språk = Swedish}}</ref> Den fjortonde augusti 2012 släpptes de första bilderna på albumet, och albumet var officiellt bekräftat av skivbolaget. I en pressrelease samma datum offentliggjordes även namnet, Veritas. Agnes kommenterade själv namnvalet med: "Jag gillar hur ordet 'Veritas' klingar, estetiskt hur det ser ut och framför allt vad det står för. Ordet passar väldigt bra ihop med hela tanken bakom detta album. Jag vill alltid vara hundra procent sann mot mig själv i allt jag gör, och för mig har hela jobbet och tiden med den här plattan varit så mycket mer än bara spela in ett album. En massa frågor om både smått och stort har kommit upp i huvudet och det har verkligen varit en fantastiskt resa."<ref name="umgpress">{{Webbref |författare =  |url = http://www.mynewsdesk.com/se/pressroom/universalmusic/pressrelease/view/agnes-aentligen-tillbaka-med-nya-albumet-veritas-5-e-september-785241 |titel = Agnes – Äntligen tillbaka med nya albumet "Veritas" 5:e september! |verk = Universal Music Publishing 
-AB |utgivare = Mynewsdesk.com |datum = 2012-08-16 |hämtdatum = 21 augusti 2012 |språk = Swedish}}</ref>
-
-Agnes uppträdde under den andra semifinalen av  [[Eurovision Song Contest 2013]] i [[Malmö]] den 16 maj under mellanakten "Swedish Pop Voices" tillsammans med  [[Darin Zanyar]]. <ref>{{Webbref |titel = Se mellanakten med Darin Zanyar och Agnes Carlsson i Eurovision Song Contest 2013 |url = http://www.svt.se/melodifestivalen/se-mellanakten-med-darin-zanyar-och-agnes-carlsson-i-eurovision-song-contest-2013-1 |utgivare = [[Sveriges Television]] |hämtdatum = 29 juni 2013 |efternamn = Bokholm |förnamn = Mirja |datum = 17 maj 2013 |språk = Swedish}}</ref> Hon medverkar även i den fjärde säsongen av tv-programmet [[Så mycket bättre]].
-
-== Diskografi ==
-{{Huvudartikel|Agnes Carlssons diskografi}}
-Agnes debutalbum, ''[[Agnes (album)|Agnes]]'', släpptes i december 2005 i Sverige av [[Sony BMG]] där den toppade den svenska försäljningslistan och blev certifierad med dubbel platina. Den första singeln "[[Right Here, Right Now (My Heart Belongs To You)|Right Here Right Now]]", blev även den etta på försäljningslistan. Den andra, och sista, singeln från albumet var "[[Stranded (Agnes sång)|Stranded]]", nådde dock bara som bäst plats 27. Ett år senare släpptes hennes andra album ''[[Stronger (Agnes album)|Stronger]]'', som även den toppade försäljningslistan. De två följande singlarna följde ett liknande mönster som de två första, "[[Kick Back Relax]]" nådde som bäst en andraplats och "[[Champion (Agnes sång)|Champion]]" en nittondeplats.
-
-År 2009 släpptes Agnes tredje album och hennes första internationella, [[Dance Love Pop]]. Första singeln "[[Release Me (singel av Agnes)|Release Me]]", erövrade försäljningslistorna runt världen. I Sverige nådde den som högst en nionde plats men stannade på topplistan i över 30 veckor, i Storbritannien nådde den plats tre, och den nådde topp tio i många andra länder. "[[On and On]]" var den andra singeln i utvalda länder där den nådde en åttondeplats i Sverige och plats 16 i Danmark. "[[Love Love Love]]", "[[I Need You Now]]" och "[[Sometimes I Forget]]" släpptes även som singlar.
-
-== Priser och nomineringar ==
-{| class="wikitable"
-|----- bgcolor="#ebf5ff"
-|-
-!Tävling
-!Kategori
-!Om
-!Resultat
-|----- bgcolor="#bfd7ff"
-| colspan=5 align=center | '''2006'''
-|-
-|[[Grammis|Grammisgalan 2006]]
-|Årets låt
-|"Right Here, Right Now"
-|Nominerad 
-|-
-|[[Nickelodeon|Nickelodeon Kids Awards]]
-|Årets kvinnliga artist
-|
-|Vinnare
-|-
-|----- bgcolor="#bfd7ff"
-| colspan=5 align=center | '''2007'''
-|-
-|[[Rockbjörnen|Rockbjörnen 2007]]
-|Årets kvinnliga artist
-|
-|Nominerad
-|-
-|----- bgcolor="#bfd7ff"
-| colspan=5 align=center | '''2009'''
-|-
-|[[Grammis|Grammisgalan 2009]]
-|Årets låt
-|"On and On"
-|Nominerad
-|-
-|[[Gaygalan]] [[2009]]
-|Årets låt
-|"On and On"
-|Nominerad
-|-
-|[[Gaygalan]] [[2009]]
-|Årets artist
-|
-|Nominerad
-|-
-|[[MTV|MTV European Music Award]] [[2009]]
-|Årets svenska artist
-|
-|Vinnare
-|-
-|[[MTV|MTV European Music Award]] [[2009]]
-|Årets europeiska artist
-|
-|Nominerad
-|-
-|[[MP3|MP3 Music Awards]] [[2009]]
-|Årets House/Dance/Trance
-|
-|Vinnare
-|-
-|[[Svenska musikförläggareföreningen]] [[2009]]
-|Årets låt
-|"Release Me"
-|Vinnare
-|-
-|----- bgcolor="#bfd7ff"
-| colspan=5 align=center | '''2010'''
-|-
-|[[Grammis]]galan [[2010]]
-|Årets låt
-|"Release Me"
-|Nominerad
-|-
-|[[P3 Guld]] [[2010]]
-|Årets låt
-|"Release Me"
-|Nominerad
-|-
-|[[Finest Awards]] [[2010]]
-|Årets danslåt
-|"Release Me"
-|Nominerad
-|-
-|[[Gaygalan]] [[2010]]
-|Årets artist
-|
-|Vinnare
-|-
-|[[ELLE-galan]] [[2010]]
-|Årets bäst klädda artist
-|
-|Vinnare
-|}
-
-== Referenser ==
-<div class="references" style="-moz-column-count: 2; column-count: 2; font-size:95%;">
+Jens Bergensten är huvudutvecklare för spelet Minecraft.
+==Källor==
 <references/>
-</div>
 
-== Externa länkar ==
-{{Commonscat|Agnes Carlsson}}
-*[http://www.agnescarlsson.se/ Agnes Carlsson - Officiell svensk webbplats]
-*[http://www.agnescarlsson.de/ Agnes Carlsson - Officiell tysk webbplats]
-*[http://www.agnesmusic.com/ Agnes Carlsson - Officiell USA webbplats]
+{{spelpersonstub}}
+{{personstub-Sverige}}
 
-<br />
-{{Agnes Carlsson}}
-{{Idol (Sverige)}}
-{{körslaget}}
+{{STANDARDSORTERING:Bergensten, Jens}}
 
-{{rekommenderad}}
-
-{{STANDARDSORTERING:Carlsson, Agnes}}
-
-[[Kategori:Kvinnor]]
-[[Kategori:Födda 1988]]
-[[Kategori:Svenska Idol-deltagare]]
-[[Kategori:Svenska discosångare]]
-[[Kategori:Svenska popsångare]]
-[[Kategori:Svenska R&B-sångare]]
-[[Kategori:Svenska soulsångare]]
-[[Kategori:Idol 2005]]
-[[Kategori:Deltagare i Melodifestivalen]]
-[[Kategori:Körledare i Körslaget]]
+[[Kategori:Födda 1979]]
+[[Kategori:Datorspelsdesigner]]
+[[Kategori:Män]]
 [[Kategori:Levande personer]]
-[[Kategori:Agnes Carlsson| ]]
-[[Kategori:Personer från Vänersborg]]
-[[Kategori:Svenska musiker under 2000-talet]]
+[[Kategori:Personer från Örebro]]
