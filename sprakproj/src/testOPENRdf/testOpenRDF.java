@@ -5,8 +5,7 @@ import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.LinkedList;
-import java.util.LinkedList;
-import org.openrdf.console.Connect;
+
 import org.openrdf.model.Value;
 import org.openrdf.query.BindingSet;
 import org.openrdf.query.MalformedQueryException;
@@ -56,33 +55,25 @@ public class testOpenRDF {
 		
 		Database db = Database.getInstance();
 		ResultSet rs = db.getTable();
+		try{
 		while(rs.next()){
-			System.out.println(rs.getString("Subject") + "\t" + rs.getString("Predicate") + "\t" + rs.getString("Object") + "\t" );
+			System.out.println(rs.getString("Subject") + "\t" + rs.getString("Predicate").replaceAll(" ", "_") + "\t" + rs.getString("Object") + "\t" );
+			String existInDbPedia = dbQ.existArticle(rs.getString("Predicate"));
+			System.out.println(existInDbPedia);
+			//System.out.println(getTypes(existInDbPedia, conn));
 		}
-
-		
-//		File theFile = new
-//		 File("../../instance_types_en.ttl");
-//		 conn.add(theFile, "test", RDFFormat.TURTLE);
-//		conn.close();
-
-//		DbPediaQuestion dbQ =new DbPediaQuestion(conn);
-//		//dbQ.addSameAsToDb();
-//		
-//		String exist = dbQ.existArticle("Stockholm");
-//		if(exist != null){
-//			System.out.println(exist);
-//		}
-		
+		}catch(Exception e){
+			
+		}
 	}
 	
 
-	public static String[] getTypes(String entety,RepositoryConnection conn)throws RepositoryException,
+	public static String[] getTypes(String entity,RepositoryConnection conn)throws RepositoryException,
 		RDFParseException, IOException, MalformedQueryException,
 		QueryEvaluationException {
 		
 		String queryString = "SELECT ?type WHERE {"
-				+ "<"+entety+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type."
+				+ "<"+entity+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type."
 				+ " ?type <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> ."
 				+ "}";
 		TupleQuery tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
