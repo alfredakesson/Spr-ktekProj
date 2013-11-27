@@ -55,12 +55,19 @@ public class testOpenRDF {
 		
 		Database db = Database.getInstance();
 		ResultSet rs = db.getTable();
+		int i =0;
 		try{
 		while(rs.next()){
-			System.out.println(rs.getString("Subject") + "\t" + rs.getString("Predicate").replaceAll(" ", "_") + "\t" + rs.getString("Object") + "\t" );
-			String existInDbPedia = dbQ.existArticle(rs.getString("Predicate"));
-			System.out.println(existInDbPedia);
-			//System.out.println(getTypes(existInDbPedia, conn));
+	
+			String pred = rs.getString("Predicate").replaceAll(" ", "_");
+			String obj =  rs.getString("Object").replaceAll(" ", "_");
+			
+			String predExist = dbQ.existArticle(pred);
+			String objExist = dbQ.existArticle(obj);
+			
+			System.out.println(predExist);
+			System.out.println(objExist);
+			
 		}
 		}catch(Exception e){
 			
