@@ -2,7 +2,9 @@ package testOPENRdf;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.LinkedList;
 
+import org.openrdf.console.Connect;
 import org.openrdf.model.Value;
 import org.openrdf.query.BindingSet;
 import org.openrdf.query.MalformedQueryException;
@@ -21,8 +23,8 @@ import org.openrdf.sail.nativerdf.NativeStore;
 public class testOpenRDF {
 
 	public static void main(String[] args) throws RepositoryException,
-			RDFParseException, IOException, MalformedQueryException,
-			QueryEvaluationException {
+		RDFParseException, IOException, MalformedQueryException,
+		QueryEvaluationException {
 		File dataDir = new File(".");
 		Repository repo = new SailRepository(new NativeStore(dataDir));
 		repo.initialize();
@@ -45,21 +47,44 @@ public class testOpenRDF {
 //		conn.close();
 
 
-//		
+		
 //		File theFile = new
 //		 File("../../instance_types_en.ttl");
 //		 conn.add(theFile, "test", RDFFormat.TURTLE);
 //		conn.close();
 
-		DbPediaQuestion dbQ =new DbPediaQuestion(conn);
-		//dbQ.addSameAsToDb();
-		
-		String exist = dbQ.existArticle("Stockholm");
-		if(exist != null){
-			System.out.println(exist);
-		}
+//		DbPediaQuestion dbQ =new DbPediaQuestion(conn);
+//		//dbQ.addSameAsToDb();
+//		
+//		String exist = dbQ.existArticle("Stockholm");
+//		if(exist != null){
+//			System.out.println(exist);
+//		}
 		
 	}
+	
+	public static String[] getTypes(String entety,RepositoryConnection conn)throws RepositoryException,
+		RDFParseException, IOException, MalformedQueryException,
+		QueryEvaluationException {
+		
+		String queryString = "SELECT ?type WHERE {"
+				+ "<"+entety+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type."
+				+ " ?type <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> ."
+				+ "}";
+		TupleQuery tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
+				queryString);
+		TupleQueryResult result = tupleQuery.evaluate();
+		LinkedList<String> res = new LinkedList<String>(); 
+		while (result.hasNext()) {
+			BindingSet bindingSet = result.next();
+			Value valueOfY = bindingSet.getValue("type");
+			res.add(valueOfY.toString());
+		}
+		
+		String[] kalle = new String[res.size()];
+		return res.toArray(kalle);
+	}
+
 
 }
 
