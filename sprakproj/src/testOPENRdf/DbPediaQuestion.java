@@ -28,6 +28,10 @@ public class DbPediaQuestion {
 	public String existArticle(String article){
 		String articleAddr = beginNameArticle+article;
 		
+		//HÄR BLIR DE FEL
+		
+		
+		
 		String queryString = "SELECT ?v WHERE " + "{"
 				+ "<" + articleAddr + ">"
 				+ "<http://www.w3.org/2002/07/owl#sameAs> ?v. "

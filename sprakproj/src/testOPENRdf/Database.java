@@ -2,6 +2,7 @@ package testOPENRdf;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
@@ -49,8 +50,8 @@ public class Database {
 		try {
 			
 			stmt = c.createStatement();
-			String sql = "SELECT * FROM " + tableName + ";";
-		    ResultSet rs = stmt.executeQuery(sql);
+			PreparedStatement prepStmt = c.prepareStatement("SELECT * FROM " +tableName + ";");
+		    ResultSet rs = prepStmt.executeQuery();
 		    
 		    return rs;
 		    

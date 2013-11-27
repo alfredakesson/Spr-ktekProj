@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.LinkedList;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.openrdf.model.Value;
 import org.openrdf.query.BindingSet;
@@ -55,18 +57,25 @@ public class testOpenRDF {
 		
 		Database db = Database.getInstance();
 		ResultSet rs = db.getTable();
-		int i =0;
+
+		String getProp = "\\[\\[(.+?)(\\]\\]|\\|)";
+		Pattern objPattern = Pattern.compile(getProp);
+		
 		try{
 		while(rs.next()){
 	
-			String pred = rs.getString("Predicate").replaceAll(" ", "_");
-			String obj =  rs.getString("Object").replaceAll(" ", "_");
+			//String pred = rs.getString("Predicate").replaceAll(" ", "_").replaceAll("\"", "%22");
+			String obj = rs.getString("Object");
+			Matcher m = objPattern.matcher(obj);
+			if(m.find()){
+				obj = m.group(0);
+			}
+			System.out.println(obj);
+			//String predExist = dbQ.existArticle(pred);
+		
 			
-			String predExist = dbQ.existArticle(pred);
-			String objExist = dbQ.existArticle(obj);
-			
-			System.out.println(predExist);
-			System.out.println(objExist);
+			//System.out.println(predExist);
+			//System.out.println(objExist);
 			
 		}
 		}catch(Exception e){
