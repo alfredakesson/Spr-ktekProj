@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.LinkedList;
+import java.util.LinkedList;
 import org.openrdf.console.Connect;
 import org.openrdf.model.Value;
 import org.openrdf.query.BindingSet;
@@ -26,6 +27,7 @@ public class testOpenRDF {
 			RDFParseException, IOException, MalformedQueryException,
 			QueryEvaluationException, SQLException {
 		
+
 		File dataDir = new File(".");
 		Repository repo = new SailRepository(new NativeStore(dataDir));
 		repo.initialize();
@@ -43,7 +45,6 @@ public class testOpenRDF {
 			System.out.println(valueOfY.toString());
 		}
 
-
 		DbPediaQuestion dbQ =new DbPediaQuestion(conn);
 
 		String exist = dbQ.existArticle("Stockholm");
@@ -58,10 +59,24 @@ public class testOpenRDF {
 		while(rs.next()){
 			System.out.println(rs.getString("Subject") + "\t" + rs.getString("Predicate") + "\t" + rs.getString("Object") + "\t" );
 		}
-		
 
+		
+//		File theFile = new
+//		 File("../../instance_types_en.ttl");
+//		 conn.add(theFile, "test", RDFFormat.TURTLE);
+//		conn.close();
+
+//		DbPediaQuestion dbQ =new DbPediaQuestion(conn);
+//		//dbQ.addSameAsToDb();
+//		
+//		String exist = dbQ.existArticle("Stockholm");
+//		if(exist != null){
+//			System.out.println(exist);
+//		}
+		
 	}
 	
+
 	public static String[] getTypes(String entety,RepositoryConnection conn)throws RepositoryException,
 		RDFParseException, IOException, MalformedQueryException,
 		QueryEvaluationException {
@@ -83,6 +98,7 @@ public class testOpenRDF {
 		String[] kalle = new String[res.size()];
 		return res.toArray(kalle);
 	}
+
 
 
 }
