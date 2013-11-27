@@ -1,0 +1,47 @@
+package testOPENRdf;
+
+import java.io.File;
+import java.io.IOException;
+
+import org.openrdf.model.Value;
+import org.openrdf.query.BindingSet;
+import org.openrdf.query.MalformedQueryException;
+import org.openrdf.query.QueryEvaluationException;
+import org.openrdf.query.QueryLanguage;
+import org.openrdf.query.TupleQuery;
+import org.openrdf.query.TupleQueryResult;
+import org.openrdf.repository.Repository;
+import org.openrdf.repository.RepositoryConnection;
+import org.openrdf.repository.RepositoryException;
+import org.openrdf.repository.sail.SailRepository;
+import org.openrdf.rio.RDFFormat;
+import org.openrdf.rio.RDFParseException;
+import org.openrdf.sail.nativerdf.NativeStore;
+
+public class testOpenRDF {
+
+	public static void main(String[] args) throws RepositoryException,
+			RDFParseException, IOException, MalformedQueryException,
+			QueryEvaluationException {
+		File dataDir = new File(".");
+		Repository repo = new SailRepository(new NativeStore(dataDir));
+		repo.initialize();
+		RepositoryConnection conn = repo.getConnection();
+//		System.out.println();
+//		String queryString = "SELECT ?type WHERE {<http://dbpedia.org/resource/Astrid_Lindgren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type.}";
+//		TupleQuery tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
+//				queryString);
+//		TupleQueryResult result = tupleQuery.evaluate();
+//		while (result.hasNext()) {
+//			BindingSet bindingSet = result.next();
+//			Value valueOfY = bindingSet.getValue("type");
+//			System.out.println(valueOfY.toString());
+//		}
+		 File theFile = new
+		 File("../../instance_types_en.ttl");
+		 conn.add(theFile, "test", RDFFormat.TURTLE);
+		conn.close();
+
+	}
+
+}
