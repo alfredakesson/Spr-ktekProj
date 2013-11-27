@@ -44,6 +44,33 @@ public class testOpenRDF {
 //		 conn.add(theFile, "test", RDFFormat.RDFXML);
 //		conn.close();
 
+
+//		
+//		File theFile = new
+//		 File("../../instance_types_en.ttl");
+//		 conn.add(theFile, "test", RDFFormat.TURTLE);
+//		conn.close();
+
+		DbPediaQuestion dbQ =new DbPediaQuestion(conn);
+		//dbQ.addSameAsToDb();
+		
+		String exist = dbQ.existArticle("Stockholm");
+		if(exist != null){
+			System.out.println(exist);
+		}
+		
 	}
 
 }
+
+
+
+/*
+ * 	född föddplats = samma
+ * 	
+ * född_plats är ofta person plats
+ * född_datum är ofta person datum 
+ * 
+ * Vi kan bara kolla egenskaper som länkar från en entitet till en annan
+ * 
+ */

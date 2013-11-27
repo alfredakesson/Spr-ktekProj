@@ -1,2 +1,14 @@
 
 *.db
+
+*.dat
+
+*.alloc
+
+*.prop
+
+sprakproj/txn-status
+
+*.hash
+
+*.id
