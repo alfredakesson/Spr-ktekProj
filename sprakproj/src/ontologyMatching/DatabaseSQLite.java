@@ -44,7 +44,7 @@ public class DatabaseSQLite {
 	}
 
 	public ResultSet getTable() {
-		String tableName = "type_tabel_3";
+		String tableName = "props";
 		try {
 
 			PreparedStatement prepStmt = c.prepareStatement("SELECT * FROM " +tableName + ";");

@@ -42,14 +42,48 @@ public class SesameDb {
 		}
 		
 		try {
-			conn = repo.getConnection();
+			conn = repo.getConnection();	
 			return conn;
+			
 		} catch (RepositoryException e1) {
 			e1.printStackTrace();
 		}
 		return null;
 	}
 	
+	public void insertNewTypeTriple(String property, String article, String value){
+		try {
+			String articlePropertiesList[] = getTypes(article);
+			String valuePropertiesList[] = getTypes(value);
+			insert_type_prop_lit(articlePropertiesList, property, valuePropertiesList);
+			
+			//Innan vi sätter in dom: 
+			System.out.println("--------");
+			System.out.println("Article:\t" + article);
+			System.out.println("Property:\t" + property);
+			System.out.print("ArticleProperties:\t");
+			for(String p : articlePropertiesList){
+				System.out.print(p + "\t");
+			}
+			System.out.print("\n");
+			System.out.print("ArticleValues:\t");
+			for(String v : valuePropertiesList){
+				System.out.print(v + "\t");
+			}
+			System.out.println();
+			
+		} catch (RepositoryException e) {
+			e.printStackTrace();
+		} catch (RDFParseException e) {
+			e.printStackTrace();
+		} catch (MalformedQueryException e) {
+			e.printStackTrace();
+		} catch (QueryEvaluationException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
 	
 	
 	public ArrayList<String> askSesame(String queryString, String variable){
@@ -83,10 +117,10 @@ public class SesameDb {
 
 	}
 
-	public void insert_type_prop_lit(ArrayList<String> types, String prop, ArrayList<String> prop_vals) throws RepositoryException {
+	private void insert_type_prop_lit(String[] typesOfSubject, String prop, String[] typesOfObj) throws RepositoryException {
 		ValueFactory factory = repo.getValueFactory();
-		for (String prop_val : prop_vals) {
-			for (String type : types) {
+		for (String prop_val : typesOfObj) {
+			for (String type : typesOfSubject) {
 				URI type_URI = factory.createURI(type);
 				URI prop_URI = factory
 						.createURI("http://scn.cs.lth.se/rawproperty/" + prop);
@@ -141,7 +175,7 @@ public class SesameDb {
 				conn.close();
 	}
 	
-	public String[] getTypes(String entity)
+	private String[] getTypes(String entity)
 			throws RepositoryException, RDFParseException, IOException,
 			MalformedQueryException, QueryEvaluationException {
 

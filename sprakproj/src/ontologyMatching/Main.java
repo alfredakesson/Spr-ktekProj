@@ -8,14 +8,15 @@ import org.openrdf.repository.RepositoryException;
 public class Main {
 
 	public static void main(String[] args) throws RepositoryException {
-		SesameDb sesameDb = new SesameDb();
+		SesameDb sesameDb = new SesameDb();	
 		sesameDb.createDb();
 		
+	
 		String exist = sesameDb.existArticle("Stockholm");
 		if(exist != null){
 			System.out.println("English article exist, url: \t" + exist);
 		}
-		
+
 
 		DatabaseSQLite db = DatabaseSQLite.getInstance();
 		ResultSet rs = db.getTable();
@@ -23,49 +24,41 @@ public class Main {
 		String getProp = "\\[\\[(.+?)(\\]\\]|\\|)";
 		Pattern objPattern = Pattern.compile(getProp);
 		
-		try{
-		while(rs.next()){
-			String old; 
-			String current; 
-			
-			System.out.println("****SUBJECT****");
-			System.out.println(rs.getString("Subject"));
-			System.out.println("****PREDICATE****");
-			String pred = rs.getString("Predicate").replaceAll(" ", "_").replaceAll("\"", "%22");
-			String predExist = sesameDb.existArticle(pred);	
-			System.out.println("predicate_swedish:\t" + pred);
-			System.out.println("predicate_english:\t" + predExist);
-			
-			
-			System.out.println("****OBJECT****");
-			String obj = rs.getString("Object");
-			Matcher m = objPattern.matcher(obj);
-			while(m.find()){
-				obj = m.group(1);
-				obj = obj.replaceAll(" ", "_").replaceAll("\"", "%22");
-				String objExist = sesameDb.existArticle(obj);
-				
-				System.out.println("object_svenska:\t" + obj);
-				System.out.println("object_english:\t" + objExist);				
+		try {
+			while (rs.next()) {
+				String property;
+				String article;
+				String value;
+
+				property = rs.getString("prop");
+				article = rs.getString("art").replaceAll(" ", "_")
+						.replaceAll("\"", "%22");
+				article = sesameDb.existArticle(article);
+				if (article == null) {
+					continue;
+				}
+				value = rs.getString("val");
+				Matcher m = objPattern.matcher(value);
+				while (m.find()) {
+					value = m.group(1);
+					value = value.replaceAll(" ", "_").replaceAll("\"", "%22");
+					value = sesameDb.existArticle(value);
+					if (value != null) {
+						sesameDb.insertNewTypeTriple(property, article, value);
+					}
+				}
 			}
-			System.out.println("##################################");
-			
-		}
-		}catch(Exception e){
-			
+		} catch (Exception e) {
+
 		}
 	}
-	
 
 
 
 
 
 }
-//File theFile = new
-//File("../../dbpedia_3.9.owl");
-//conn.add(theFile, "test", RDFFormat.RDFXML);
-//conn.close();
+
 
 
 //
@@ -97,4 +90,27 @@ ArrayList<String> sesameRes = sesameDb.askSesame(queryString, variable);
 for(String s : sesameRes){
 	System.out.println(s);
 }
+*/
+/*
+System.out.println("****SUBJECT****");
+System.out.println(rs.getString("Subject"));
+System.out.println("****PREDICATE****");
+String pred = rs.getString("Predicate").replaceAll(" ", "_").replaceAll("\"", "%22");
+String predExist = sesameDb.existArticle(pred);	
+System.out.println("predicate_swedish:\t" + pred);
+System.out.println("predicate_english:\t" + predExist);
+
+
+System.out.println("****OBJECT****");
+String obj = rs.getString("Object");
+while(m.find()){
+	obj = m.group(1);
+	obj = obj.replaceAll(" ", "_").replaceAll("\"", "%22");
+	String objExist = sesameDb.existArticle(obj);
+	
+	System.out.println("object_svenska:\t" + obj);
+	System.out.println("object_english:\t" + objExist);				
+}
+System.out.println("##################################");
+
 */
