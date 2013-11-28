@@ -1,17 +1,17 @@
 package ontologyMatching;
 
 import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import org.openrdf.repository.RepositoryException;
 
 public class Main {
 
-	public static void main(String[] args) throws RepositoryException {
+	public static void main(String[] args){
 		SesameDb sesameDb = new SesameDb();	
 		sesameDb.createDb();
-		
-	
+		System.out.println("heap: " + Runtime.getRuntime().maxMemory() + " : " + Runtime.getRuntime().freeMemory());
+
 		String exist = sesameDb.existArticle("Stockholm");
 		if(exist != null){
 			System.out.println("English article exist, url: \t" + exist);
@@ -24,33 +24,56 @@ public class Main {
 		String getProp = "\\[\\[(.+?)(\\]\\]|\\|)";
 		Pattern objPattern = Pattern.compile(getProp);
 		
-		try {
-			while (rs.next()) {
-				String property;
-				String article;
-				String value;
 
-				property = rs.getString("prop");
-				article = rs.getString("art").replaceAll(" ", "_")
-						.replaceAll("\"", "%22");
-				article = sesameDb.existArticle(article);
-				if (article == null) {
-					continue;
-				}
-				value = rs.getString("val");
-				Matcher m = objPattern.matcher(value);
-				while (m.find()) {
-					value = m.group(1);
-					value = value.replaceAll(" ", "_").replaceAll("\"", "%22");
-					value = sesameDb.existArticle(value);
-					if (value != null) {
-						sesameDb.insertNewTypeTriple(property, article, value);
+			try {
+				while (rs.next()) {
+					String property = null;
+					String article = null;
+					String value = null;
+
+					try {
+						property = rs.getString("prop").replaceAll(" ", "_")
+								.replaceAll("\"", "%22");
+					} catch (SQLException e2) {
+						// TODO Auto-generated catch block
+						System.out.println("ERROR1");
+						e2.printStackTrace();
+					}
+					try {
+						article = rs.getString("art").replaceAll(" ", "_")
+								.replaceAll("\"", "%22");
+					} catch (SQLException e1) {
+						// TODO Auto-generated catch block
+						System.out.println("ERROR2");
+						e1.printStackTrace();
+					}
+					article = sesameDb.existArticle(article);
+					if (article == null) {
+						continue;
+					}
+					try {
+						value = rs.getString("val");
+					} catch (SQLException e) {
+						// TODO Auto-generated catch block
+						System.out.println("ERROR3");
+						e.printStackTrace();
+					}
+					Matcher m = objPattern.matcher(value);
+					while (m.find()) {
+						value = m.group(1);
+						value = value.replaceAll(" ", "_").replaceAll("\"", "%22");
+						value = sesameDb.existArticle(value);
+						if (value != null) {
+							sesameDb.insertNewTypeTriple(property, article, value);
+						}
 					}
 				}
+			} catch (SQLException e) {
+				// TODO Auto-generated catch block
+				System.out.println("ERROR4");
+				e.printStackTrace();
 			}
-		} catch (Exception e) {
 
-		}
 	}
 
 
