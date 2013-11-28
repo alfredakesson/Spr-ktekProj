@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedList;
-
 import org.openrdf.model.Statement;
 import org.openrdf.model.URI;
 import org.openrdf.model.Value;
@@ -155,6 +154,7 @@ public class SesameDb {
 			return null;
 		} catch (MalformedQueryException e) {
 			System.out.println("ERROR16");
+			System.out.println("article is:\t" + article);
 			e.printStackTrace();
 			return null;
 		}
