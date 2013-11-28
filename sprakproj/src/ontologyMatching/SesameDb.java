@@ -38,6 +38,7 @@ public class SesameDb {
 		try {
 			repo.initialize();
 		} catch (RepositoryException e1) {
+			System.out.println("ERROR20");
 			e1.printStackTrace();
 		}
 		
@@ -46,6 +47,7 @@ public class SesameDb {
 			return conn;
 			
 		} catch (RepositoryException e1) {
+			System.out.println("ERROR21");
 			e1.printStackTrace();
 		}
 		return null;
@@ -58,29 +60,27 @@ public class SesameDb {
 			insert_type_prop_lit(articlePropertiesList, property, valuePropertiesList);
 			
 			//Innan vi sätter in dom: 
-//			System.out.println("--------");
-//			System.out.println("Article:\t" + article);
-//			System.out.println("Property:\t" + property);
-//			System.out.print("ArticleProperties:\t");
-//			for(String p : articlePropertiesList){
-//				System.out.print(p + "\t");
-//			}
-//			System.out.print("\n");
-//			System.out.print("ArticleValues:\t");
-//			for(String v : valuePropertiesList){
-//				System.out.print(v + "\t");
-//			}
-//			System.out.println();
+
+
 			
 		} catch (RepositoryException e) {
+			System.out.println("ERROR22");
 			e.printStackTrace();
 		} catch (RDFParseException e) {
+			System.out.println("ERROR23");
 			e.printStackTrace();
 		} catch (MalformedQueryException e) {
+			System.out.println("--------");
+			System.out.println("Article:\t" + article);
+			System.out.println("Property:\t" + property);
+			System.out.println();	
+
 			e.printStackTrace();
 		} catch (QueryEvaluationException e) {
+			System.out.println("ERROR6");
 			e.printStackTrace();
 		} catch (IOException e) {
+			System.out.println("ERROR7");
 			e.printStackTrace();
 		}
 	}
@@ -94,14 +94,17 @@ public class SesameDb {
 			tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
 					queryString);
 		} catch (RepositoryException e1) {
+			System.out.println("ERROR8");
 			e1.printStackTrace();
 		} catch (MalformedQueryException e1) {
+			System.out.println("ERROR9");
 			e1.printStackTrace();
 		}
 		TupleQueryResult result = null;
 		try {
 			result = tupleQuery.evaluate();
 		} catch (QueryEvaluationException e1) {
+			System.out.println("ERROR10");
 			e1.printStackTrace();
 		}
 		try {
@@ -111,6 +114,7 @@ public class SesameDb {
 				resultList.add(valueOfY.toString());
 			}
 		} catch (QueryEvaluationException e1) {
+			System.out.println("ERROR11");
 			e1.printStackTrace();
 		}
 		return resultList;
@@ -146,14 +150,17 @@ public class SesameDb {
 			tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL,
 					queryString);
 		} catch (RepositoryException e) {
+			System.out.println("ERROR15");
 			e.printStackTrace();
 		} catch (MalformedQueryException e) {
+			System.out.println("ERROR16");
 			e.printStackTrace();
 		}
 		TupleQueryResult result = null;
 		try {
 			result = tupleQuery.evaluate();
 		} catch (QueryEvaluationException e) {
+			System.out.println("ERROR17");
 			e.printStackTrace();
 		}
 		try {
@@ -163,6 +170,7 @@ public class SesameDb {
 				return valueOfY.toString();
 			}
 		} catch (QueryEvaluationException e) {
+			System.out.println("ERROR18");
 			e.printStackTrace();
 		}
 		return null;
