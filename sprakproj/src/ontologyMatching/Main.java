@@ -1,7 +1,6 @@
 package ontologyMatching;
 
 import java.sql.ResultSet;
-import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import org.openrdf.repository.RepositoryException;
@@ -11,32 +10,13 @@ public class Main {
 	public static void main(String[] args) throws RepositoryException {
 		SesameDb sesameDb = new SesameDb();
 		sesameDb.createDb();
+		
 		String exist = sesameDb.existArticle("Stockholm");
 		if(exist != null){
 			System.out.println("English article exist, url: \t" + exist);
 		}
 		
-		
-		String queryString = "SELECT ?type WHERE {"
-				+ "<http://dbpedia.org/resource/Barack_Obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type."
-				//+ " ?type <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> ."
-				+ "}";
-		String variable = "type";
-		
-		ArrayList<String> sesameRes = sesameDb.askSesame(queryString, variable);
-		for(String s : sesameRes){
-			System.out.println(s);
-		}
-		
-		
-		RdfGlue glue = new RdfGlue();
-		try{			
-			glue.glue();
-		}catch(Exception e){
-			
-		}
-		
-		
+
 		DatabaseSQLite db = DatabaseSQLite.getInstance();
 		ResultSet rs = db.getTable();
 		
@@ -45,7 +25,9 @@ public class Main {
 		
 		try{
 		while(rs.next()){
-	
+			String old; 
+			String current; 
+			
 			System.out.println("****SUBJECT****");
 			System.out.println(rs.getString("Subject"));
 			System.out.println("****PREDICATE****");
@@ -103,3 +85,16 @@ public class Main {
  * Vi kan bara kolla egenskaper som länkar från en entitet till en annan
  * 
  */
+/*
+
+String queryString = "SELECT ?type WHERE {"
+		+ "<http://dbpedia.org/resource/Barack_Obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type."
+		//+ " ?type <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> ."
+		+ "}";
+String variable = "type";
+
+ArrayList<String> sesameRes = sesameDb.askSesame(queryString, variable);
+for(String s : sesameRes){
+	System.out.println(s);
+}
+*/

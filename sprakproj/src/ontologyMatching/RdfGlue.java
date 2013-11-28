@@ -4,9 +4,6 @@ import java.io.File;
 import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
-import org.apache.commons.collections.Factory;
-import org.openrdf.model.Literal;
 import org.openrdf.model.Statement;
 import org.openrdf.model.URI;
 import org.openrdf.model.ValueFactory;
@@ -20,9 +17,12 @@ import org.openrdf.rio.RDFParseException;
 import org.openrdf.sail.nativerdf.NativeStore;
 
 public class RdfGlue {
+	private Repository repo;
+	private RepositoryConnection conn;
 	
-	public RdfGlue(){
-		
+	public RdfGlue(Repository repo, RepositoryConnection conn){
+		this.repo = repo; 
+		this.conn = conn; 
 	}
 	
 	public void glue() throws RepositoryException,
@@ -56,9 +56,7 @@ public class RdfGlue {
 
 	}
 
-	private static void inset_type_prop_lit(Repository repo,
-			RepositoryConnection conn, String[] types, String prop,
-			String[] prop_vals) throws RepositoryException {
+	public void insert_type_prop_lit(String[] types, String prop, String[] prop_vals) throws RepositoryException {
 		ValueFactory factory = repo.getValueFactory();
 		for (String prop_val : prop_vals) {
 			for (String type : types) {

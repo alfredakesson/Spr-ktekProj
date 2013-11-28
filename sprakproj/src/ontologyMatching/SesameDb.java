@@ -5,7 +5,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
+import org.openrdf.model.Statement;
+import org.openrdf.model.URI;
 import org.openrdf.model.Value;
+import org.openrdf.model.ValueFactory;
 import org.openrdf.query.BindingSet;
 import org.openrdf.query.MalformedQueryException;
 import org.openrdf.query.QueryEvaluationException;
@@ -22,6 +25,7 @@ import org.openrdf.sail.nativerdf.NativeStore;
 
 public class SesameDb {
 	private RepositoryConnection conn;
+	private Repository repo;
 	private String beginNameArticle;
 	
 	public SesameDb() {
@@ -30,7 +34,7 @@ public class SesameDb {
 
 	public RepositoryConnection createDb() {
 		File dataDir = new File(".");
-		Repository repo = new SailRepository(new NativeStore(dataDir));
+		repo = new SailRepository(new NativeStore(dataDir));
 		try {
 			repo.initialize();
 		} catch (RepositoryException e1) {
@@ -79,7 +83,20 @@ public class SesameDb {
 
 	}
 
-	
+	public void insert_type_prop_lit(ArrayList<String> types, String prop, ArrayList<String> prop_vals) throws RepositoryException {
+		ValueFactory factory = repo.getValueFactory();
+		for (String prop_val : prop_vals) {
+			for (String type : types) {
+				URI type_URI = factory.createURI(type);
+				URI prop_URI = factory
+						.createURI("http://scn.cs.lth.se/rawproperty/" + prop);
+				URI prop_value_URI = factory.createURI(prop_val);
+				Statement type_prop_uri = factory.createStatement(type_URI,
+						prop_URI, prop_value_URI);
+				conn.add(type_prop_uri);
+			}
+		}
+	}
 
 	public String existArticle(String article){
 		String articleAddr = beginNameArticle+article;
