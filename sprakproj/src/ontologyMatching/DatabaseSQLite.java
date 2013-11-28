@@ -5,7 +5,6 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
 
 public class DatabaseSQLite {
 	private static DatabaseSQLite instance = null;
@@ -46,10 +45,8 @@ public class DatabaseSQLite {
 
 	public ResultSet getTable() {
 		String tableName = "type_tabel_3";
-		Statement stmt = null;
 		try {
-			
-			stmt = c.createStatement();
+
 			PreparedStatement prepStmt = c.prepareStatement("SELECT * FROM " +tableName + ";");
 		    ResultSet rs = prepStmt.executeQuery();
 		    
