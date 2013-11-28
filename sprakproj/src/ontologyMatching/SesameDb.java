@@ -26,9 +26,11 @@ public class SesameDb {
 	private RepositoryConnection conn;
 	private Repository repo;
 	private String beginNameArticle;
+	private int count;
 	
 	public SesameDb() {
 		this.beginNameArticle = "http://sv.dbpedia.org/resource/";
+		count = 0; 
 	}
 
 	public RepositoryConnection createDb() {
@@ -131,6 +133,7 @@ public class SesameDb {
 				Statement type_prop_uri = factory.createStatement(type_URI,
 						prop_URI, prop_value_URI);
 				conn.add(type_prop_uri);
+				System.out.println(count++);
 			}
 		}
 	}
