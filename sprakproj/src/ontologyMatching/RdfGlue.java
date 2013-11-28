@@ -1,4 +1,4 @@
-package testOPENRdf;
+package ontologyMatching;
 
 import java.io.File;
 import java.io.IOException;
@@ -19,8 +19,13 @@ import org.openrdf.repository.sail.SailRepository;
 import org.openrdf.rio.RDFParseException;
 import org.openrdf.sail.nativerdf.NativeStore;
 
-public class GlouRDFer {
-	public static void main(String args[]) throws RepositoryException,
+public class RdfGlue {
+	
+	public RdfGlue(){
+		
+	}
+	
+	public void glue() throws RepositoryException,
 			RDFParseException, IOException, MalformedQueryException,
 			QueryEvaluationException, SQLException {
 
@@ -29,15 +34,16 @@ public class GlouRDFer {
 		repo.initialize();
 		RepositoryConnection conn = repo.getConnection();
 
-		DbPediaQuestion dbQ = new DbPediaQuestion(conn);
-
-		String exist = dbQ.existArticle("Sverige");
+		SesameDb sesameDb = new SesameDb();
+		sesameDb.createDb();
+		
+		String exist = sesameDb.existArticle("Sverige");
 		System.out.println(exist);
-		String[] kolla = testOpenRDF.getTypes(exist, conn);
+		String[] kolla = sesameDb.getTypes(exist);
 		for (String s : kolla) {
 			System.out.println(s);
 		}
-		Database db = Database.getInstance();
+		DatabaseSQLite db = DatabaseSQLite.getInstance();
 		ResultSet rs = db.getTable();
 		int num = 0;
 		while (rs.next()) {
@@ -46,7 +52,6 @@ public class GlouRDFer {
 			}
 			num++;
 		}
-		String getProp = "\\[\\[(.+?)(\\]\\]|\\|)";
 		conn.close();
 
 	}

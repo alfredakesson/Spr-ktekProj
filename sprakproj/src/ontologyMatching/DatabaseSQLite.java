@@ -1,4 +1,4 @@
-package testOPENRdf;
+package ontologyMatching;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,11 +7,11 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class Database {
-	private static Database instance = null;
+public class DatabaseSQLite {
+	private static DatabaseSQLite instance = null;
 	private Connection c;
 
-	private Database() {
+	private DatabaseSQLite() {
 		startDb();
 	}
 
@@ -28,9 +28,9 @@ public class Database {
 		System.out.println("Opened database successfully");
 	}
 
-	public static Database getInstance() {
+	public static DatabaseSQLite getInstance() {
 		if (instance == null) {
-			instance = new Database();
+			instance = new DatabaseSQLite();
 		}
 		return instance;
 	}
