@@ -1,16 +1,18 @@
 package ontologyMatching;
 
+import java.io.IOException;
 import java.sql.ResultSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 import org.openrdf.repository.RepositoryException;
+import org.openrdf.rio.RDFParseException;
 
 public class Main {
 
 	public static void main(String[] args) throws RepositoryException {
 		SesameDb sesameDb = new SesameDb();
 		sesameDb.createDb();
-		
 		String exist = sesameDb.existArticle("Stockholm");
 		if(exist != null){
 			System.out.println("English article exist, url: \t" + exist);
