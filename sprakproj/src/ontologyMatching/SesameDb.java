@@ -58,19 +58,19 @@ public class SesameDb {
 			insert_type_prop_lit(articlePropertiesList, property, valuePropertiesList);
 			
 			//Innan vi sätter in dom: 
-			System.out.println("--------");
-			System.out.println("Article:\t" + article);
-			System.out.println("Property:\t" + property);
-			System.out.print("ArticleProperties:\t");
-			for(String p : articlePropertiesList){
-				System.out.print(p + "\t");
-			}
-			System.out.print("\n");
-			System.out.print("ArticleValues:\t");
-			for(String v : valuePropertiesList){
-				System.out.print(v + "\t");
-			}
-			System.out.println();
+//			System.out.println("--------");
+//			System.out.println("Article:\t" + article);
+//			System.out.println("Property:\t" + property);
+//			System.out.print("ArticleProperties:\t");
+//			for(String p : articlePropertiesList){
+//				System.out.print(p + "\t");
+//			}
+//			System.out.print("\n");
+//			System.out.print("ArticleValues:\t");
+//			for(String v : valuePropertiesList){
+//				System.out.print(v + "\t");
+//			}
+//			System.out.println();
 			
 		} catch (RepositoryException e) {
 			e.printStackTrace();
