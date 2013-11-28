@@ -152,9 +152,11 @@ public class SesameDb {
 		} catch (RepositoryException e) {
 			System.out.println("ERROR15");
 			e.printStackTrace();
+			return null;
 		} catch (MalformedQueryException e) {
 			System.out.println("ERROR16");
 			e.printStackTrace();
+			return null;
 		}
 		TupleQueryResult result = null;
 		try {
@@ -162,6 +164,7 @@ public class SesameDb {
 		} catch (QueryEvaluationException e) {
 			System.out.println("ERROR17");
 			e.printStackTrace();
+			return null;
 		}
 		try {
 			if(result.hasNext()){
@@ -172,6 +175,7 @@ public class SesameDb {
 		} catch (QueryEvaluationException e) {
 			System.out.println("ERROR18");
 			e.printStackTrace();
+			return null;
 		}
 		return null;
 	}
