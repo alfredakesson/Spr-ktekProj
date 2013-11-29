@@ -133,7 +133,7 @@ public class SesameDb {
 				Statement type_prop_uri = factory.createStatement(type_URI,
 						prop_URI, prop_value_URI);
 				conn.add(type_prop_uri);
-				System.out.println(count++);
+				//System.out.println(count++);
 			}
 		}
 	}
