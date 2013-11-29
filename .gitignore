@@ -16,3 +16,7 @@ sprakproj/txn-status
 sprakproj/database_type_count_2
 
 *.zip
+
+sprakproj/lock/process
+
+sprakproj/lock/locked

@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedList;
-
 import org.openrdf.model.Statement;
 import org.openrdf.model.URI;
 import org.openrdf.model.Value;
@@ -27,9 +26,11 @@ public class SesameDb {
 	private RepositoryConnection conn;
 	private Repository repo;
 	private String beginNameArticle;
+	private int count;
 	
 	public SesameDb() {
 		this.beginNameArticle = "http://sv.dbpedia.org/resource/";
+		count = 0; 
 	}
 
 	public RepositoryConnection createDb() {
@@ -132,6 +133,7 @@ public class SesameDb {
 				Statement type_prop_uri = factory.createStatement(type_URI,
 						prop_URI, prop_value_URI);
 				conn.add(type_prop_uri);
+				System.out.println(count++);
 			}
 		}
 	}
@@ -155,6 +157,7 @@ public class SesameDb {
 			return null;
 		} catch (MalformedQueryException e) {
 			System.out.println("ERROR16");
+			System.out.println("article is:\t" + article);
 			e.printStackTrace();
 			return null;
 		}

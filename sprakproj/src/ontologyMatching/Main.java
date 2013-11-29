@@ -1,6 +1,5 @@
 package ontologyMatching;
 
-import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.regex.Matcher;
@@ -42,6 +41,7 @@ public class Main {
 						// TODO Auto-generated catch block
 						System.out.println("ERROR1");
 						e2.printStackTrace();
+						continue;
 					}
 					try {
 						article = rs.getString("art").replaceAll(" ", "_")
@@ -50,6 +50,7 @@ public class Main {
 						// TODO Auto-generated catch block
 						System.out.println("ERROR2");
 						e1.printStackTrace();
+						continue;
 					}
 					article = sesameDb.existArticle(article);
 					if (article == null) {
@@ -61,6 +62,7 @@ public class Main {
 						// TODO Auto-generated catch block
 						System.out.println("ERROR3");
 						e.printStackTrace();
+						continue;
 					}
 					Matcher m = objPattern.matcher(value);
 					while (m.find()) {
