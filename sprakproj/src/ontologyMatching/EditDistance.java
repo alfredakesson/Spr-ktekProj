@@ -29,12 +29,12 @@ public class EditDistance {
 						distance[i - 1][j - 1]
 								+ ((str1.charAt(i - 1) == str2.charAt(j - 1)) ? 0
 										: getDis(i-1,j-1)));
-		for (int i = 0; i <= str1.length(); i++) {
-		    for (int j = 0; j <= str2.length(); j++) {
-		        System.out.print(distance[i][j] + "\t");
-		    }
-		    System.out.print("\n");
-		}
+//		for (int i = 0; i <= str1.length(); i++) {
+//		    for (int j = 0; j <= str2.length(); j++) {
+//		        System.out.print(distance[i][j] + "\t");
+//		    }
+//		    System.out.print("\n");
+//		}
 		return distance[str1.length()][str2.length()];
 	}
 	public static int getDis(int i, int j){
