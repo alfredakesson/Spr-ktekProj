@@ -3,10 +3,16 @@ package ontologyMatching;
 public class EditDistance {
 
 	public static void main(String[] args) {
-		System.out.println(computeLevenshteinDistance("död_datum", "född_datum"));
-		System.out.println(computeLevenshteinDistance("född", "född_datum"));
+		System.out.println("#### Edit Distance result:\n");
+		printDistance("född", "död_datum");
+		printDistance("född", "född_datum");
+	}
 
-
+	private static void printDistance(String string1, String string2) {
+		System.out.println("String1: \t" +  string1);
+		System.out.println("String2: \t"  + string2);
+		System.out.println("Result: \t" + computeLevenshteinDistance(string1, string2));
+		System.out.println("---------");
 	}
 
 	private static int minimum(int a, int b, int c) {
@@ -37,6 +43,10 @@ public class EditDistance {
 //		}
 		return distance[str1.length()][str2.length()];
 	}
+	
+	
+	
+	
 	public static int getDis(int i, int j){
 		int max = (i+j)/2;
 		if(max >= 5){
