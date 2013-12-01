@@ -1,5 +1,10 @@
 package ontologyMatching;
 
+import org.openrdf.repository.RepositoryException;
+
+
+
+
 public class ToBeAShell {
 
 	public static void main(String[] args) {
@@ -8,12 +13,14 @@ public class ToBeAShell {
 				+"<http://dbpedia.org/ontology/Artist>" + " ?type " + "<http://dbpedia.org/ontology/PopulatedPlace> ." 
 				//+ " ?type <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> ."
 				+ "}";
-		SesameDb db = new SesameDb();
-		db.createDb();
-
-		for( String s:db.askSesame(queryString, "type", "")){
-			System.out.println();
+		ConnectToSchool db = new ConnectToSchool();
+		try {
+			db.connect();
+		} catch (RepositoryException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
+		db.question();
 	}
 
 }
