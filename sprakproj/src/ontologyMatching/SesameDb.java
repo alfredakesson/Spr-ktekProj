@@ -87,7 +87,7 @@ public class SesameDb {
 	}
 	
 	
-	public ArrayList<String> askSesame(String queryString, String variable){
+	public ArrayList<String> askSesame(String queryString, String variable, String variable2){
 		ArrayList<String> resultList = new ArrayList<String>();
 
 		TupleQuery tupleQuery = null;
@@ -112,7 +112,9 @@ public class SesameDb {
 			while (result.hasNext()) {
 				BindingSet bindingSet = result.next();
 				Value valueOfY = bindingSet.getValue(variable);
+				Value valueOfX = bindingSet.getValue(variable2);
 				resultList.add(valueOfY.toString());
+				resultList.add(valueOfX.toString());
 			}
 		} catch (QueryEvaluationException e1) {
 			System.out.println("ERROR11");
@@ -133,7 +135,11 @@ public class SesameDb {
 				Statement type_prop_uri = factory.createStatement(type_URI,
 						prop_URI, prop_value_URI);
 				conn.add(type_prop_uri);
-				System.out.println(count++);
+				if(count % 1000 == 0){
+					System.out.println("sesame:\t" + count);					
+				}
+				count++;
+
 			}
 		}
 	}
@@ -212,6 +218,12 @@ public class SesameDb {
 
 		String[] resultList = new String[res.size()];
 		return res.toArray(resultList);
+	}
+
+	public void insertManyTriples(String[] tmpListArt,
+			String[] tmpListProp, String[] tmpListVal) {
+		// TODO Auto-generated method stub
+		
 	}
 
 }
