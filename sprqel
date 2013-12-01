@@ -1,0 +1,20 @@
+SELECT ?type1 ?type2 ?art ?value 
+FROM <file://C:/fakepath/theDb.nt.txt>
+WHERE{
+	?art ?type1 ?value .
+	?art ?type2 ?value .
+
+}
+
+FROM <file://C:/fakepath/theDb.nt.txt>
+
+<http://scn.cs.lth.se/rawproperty/kommun>
+
+select ?type1 ?art ?value where{
+	?art ?type1 ?value .
+	FILTER regex(?type1, ".*scn.*") .
+}
+
+select ?type1 ?art ?value where{
+	?art ?type1 ?value .
+}

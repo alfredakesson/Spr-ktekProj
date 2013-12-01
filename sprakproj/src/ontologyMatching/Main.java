@@ -1,8 +1,5 @@
 package ontologyMatching;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -11,19 +8,16 @@ import java.util.regex.Pattern;
 
 public class Main {
 	
+	
 	public static void main(String[] args) throws IOException {
-		File file = new File("./props_a.nt");
-
-		// if file doesnt exists, then create it
-		if (!file.exists()) {
-			file.createNewFile();
-		}
-
-		FileWriter fw = new FileWriter(file.getAbsoluteFile());
-		BufferedWriter bw = new BufferedWriter(fw);
+		
 		SesameDb sesameDb = new SesameDb();
 		sesameDb.createDb();
 		int numArt = 0;
+		long propdur = 0;
+		long valdur = 0;
+		long artdur = 0;
+		long insdur = 0;
 
 		System.out.println("heap: " + Runtime.getRuntime().maxMemory() + " : "
 				+ Runtime.getRuntime().freeMemory());
@@ -36,21 +30,27 @@ public class Main {
 		DatabaseSQLite db = DatabaseSQLite.getInstance();
 		ResultSet rs = db.getTable();
 
-
 		String getProp = "\\[\\[(.+?)(\\]\\]|\\|)";
 		Pattern objPattern = Pattern.compile(getProp);
-
 
 		try {
 			while (rs.next()) {
 				numArt++;
-				if (numArt % 1000 == 0) {
-					System.out.println(numArt);
+				if (numArt % 10000 == 0) {
+					sesameDb.closeDb();
+					sesameDb.createDb();
+					System.out.println("Num art: " + numArt);
+					System.out.println("Dur prop: " + propdur);
+					System.out.println("Val prop: " + valdur);
+					System.out.println("Art prop: " + artdur);
+					System.out.println("Ins prop: " + insdur);
+					System.out.println("------------------------");
 				}
-				
 				String property = null;
 				String article = null;
 				String value = null;
+				
+				long startTime = System.nanoTime();
 
 				try {
 					property = rs.getString("prop").replaceAll(" ", "_")
@@ -61,6 +61,12 @@ public class Main {
 					e2.printStackTrace();
 					continue;
 				}
+
+				long endTime = System.nanoTime();
+				long duration = endTime - startTime;
+				propdur+=duration;
+				startTime = System.nanoTime();
+
 				try {
 					article = rs.getString("art").replaceAll(" ", "_")
 							.replaceAll("\"", "%22");
@@ -74,6 +80,12 @@ public class Main {
 				if (article == null) {
 					continue;
 				}
+
+				endTime = System.nanoTime();
+				duration = endTime - startTime;
+				artdur+=duration;
+				startTime = System.nanoTime();
+
 				try {
 					value = rs.getString("val");
 				} catch (SQLException e) {
@@ -83,32 +95,32 @@ public class Main {
 					continue;
 				}
 
-				
 				Matcher m = objPattern.matcher(value);
+				endTime = System.nanoTime();
+				duration = endTime - startTime;
+				valdur+=duration;
+				startTime = System.nanoTime();
+
 				while (m.find()) {
 					value = m.group(1);
 					value = value.replaceAll(" ", "_").replaceAll("\"", "%22");
 					value = sesameDb.existArticle(value);
 					if (value != null) {
-						bw.append("<" + article
-								+ "> <http://scn.cs.lth.se/rawproperty/"
-								+ property + "> <" + value + "> . \n");
-						// sesameDb.insertNewTypeTriple(property, article,
-						// value);
+						 sesameDb.insertNewTypeTriple(property, article,
+						 value);
 					}
 				}
-				if(numArt % 100000 == 0){
-					bw.flush();	
-					bw.close();
-					
-				}
+				endTime = System.nanoTime();
+				duration = endTime - startTime;
+				insdur+=duration;
 			}
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			System.out.println("ERROR4");
 			e.printStackTrace();
 		}
-		bw.close();
+		sesameDb.closeDb();
+
 	}
 
 }
@@ -118,6 +130,7 @@ public class Main {
 // File("../../instance_types_en.ttl");
 // conn.add(theFile, "test", RDFFormat.TURTLE);
 // conn.close();
+
 
 /*
  * född föddplats = samma

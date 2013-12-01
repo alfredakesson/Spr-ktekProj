@@ -10,16 +10,10 @@ public class ToBeAShell {
 				+ "}";
 		SesameDb db = new SesameDb();
 		db.createDb();
-		int i = 0; 
-		for( String s:db.askSesame(queryString, "type", "type")){
-			if(i % 2 == 0){
-				System.out.print(s +"\t");
-			}
-			else{
-				System.out.println(s);
-			}
-			i++;
-		};
+
+		for( String s:db.askSesame(queryString, "type", "")){
+			System.out.println();
+		}
 	}
 
 }
