@@ -1,9 +1,12 @@
 package ontologyMatching;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedList;
+
 import org.openrdf.model.Statement;
 import org.openrdf.model.URI;
 import org.openrdf.model.Value;
@@ -27,13 +30,35 @@ public class SesameDb {
 	private Repository repo;
 	private String beginNameArticle;
 	private int count;
+	private BufferedWriter bw;
 	
 	public SesameDb() {
 		this.beginNameArticle = "http://sv.dbpedia.org/resource/";
 		count = 0; 
 	}
+	public void closeDb() {
+		try {
+			bw.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		try {
+			conn.close();
+		} catch (RepositoryException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		try {
+			repo.shutDown();
+		} catch (RepositoryException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
 
-	public RepositoryConnection createDb() {
+	public void createDb() {
 		File dataDir = new File(".");
 		repo = new SailRepository(new NativeStore(dataDir));
 		try {
@@ -45,13 +70,32 @@ public class SesameDb {
 		
 		try {
 			conn = repo.getConnection();	
-			return conn;
+			
 			
 		} catch (RepositoryException e1) {
 			System.out.println("ERROR21");
 			e1.printStackTrace();
 		}
-		return null;
+		File file = new File("./theDb.txt");
+
+		// if file doesnt exists, then create it
+		if (!file.exists()) {
+			try {
+				file.createNewFile();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+
+		FileWriter fw = null;
+		try {
+			fw = new FileWriter(file.getAbsoluteFile(),true);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		bw = new BufferedWriter(fw);
 	}
 	
 	public void insertNewTypeTriple(String property, String article, String value){
@@ -126,14 +170,22 @@ public class SesameDb {
 		ValueFactory factory = repo.getValueFactory();
 		for (String prop_val : typesOfObj) {
 			for (String type : typesOfSubject) {
-				URI type_URI = factory.createURI(type);
-				URI prop_URI = factory
-						.createURI("http://scn.cs.lth.se/rawproperty/" + prop);
-				URI prop_value_URI = factory.createURI(prop_val);
-				Statement type_prop_uri = factory.createStatement(type_URI,
-						prop_URI, prop_value_URI);
-				conn.add(type_prop_uri);
+//				URI type_URI = factory.createURI(type);
+//				URI prop_URI = factory
+//						.createURI("http://scn.cs.lth.se/rawproperty/" + prop);
+//				URI prop_value_URI = factory.createURI(prop_val);
+//				Statement type_prop_uri = factory.createStatement(type_URI,
+//						prop_URI, prop_value_URI);
+//				conn.add(type_prop_uri);
 				//System.out.println(count++);
+				try {
+					bw.append("<" + type
+					+ "> <http://scn.cs.lth.se/rawproperty/"
+					+ prop + "> <" + prop_val + "> . \n");
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 			}
 		}
 	}
