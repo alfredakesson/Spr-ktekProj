@@ -53,5 +53,6 @@ public class EditDistance {
 			return 1;
 		}
 		return 2*(5-max);
+		
 	}
 }

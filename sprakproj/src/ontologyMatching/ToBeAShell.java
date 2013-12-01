@@ -1,30 +1,41 @@
 package ontologyMatching;
 
+import org.openrdf.repository.RepositoryException;
+
+
+
 public class ToBeAShell {
 
 	public static void main(String[] args) {
-		String queryString = "SELECT ?type WHERE {"
-				//+ "?v <http://scn.cs.lth.se/rawproperty/län> ?type."
-				+"<http://dbpedia.org/ontology/Artist>" + " ?type " + "<http://dbpedia.org/ontology/PopulatedPlace> ." 
-				//+ " ?type <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> ."
-				+ "}";
-		SesameDb db = new SesameDb();
-		db.createDb();
 
-		for( String s:db.askSesame(queryString, "type", "")){
-			System.out.println();
+		ConnectToSchool db = new ConnectToSchool();
+		try {
+			db.connect();
+		} catch (RepositoryException e) {
+			e.printStackTrace();
 		}
+		
+		String query = "select ?type1 ?art ?value where{ " +
+				"?art ?type1 ?value ." +
+				"}";
+		
+		String[] queryVars = new String[3];
+		queryVars[0] = "type1";
+		queryVars[1] = "art";
+		queryVars[2] = "value";
+		
+		String query2 = "select ?type where{" +
+				"<http://dbpedia.org/ontology/Place> ?type <http://dbpedia.org/ontology/Place> . " +
+				"}";
+		
+		String[] queryVars2 = new String[1];
+		queryVars2[0] = "type";
+		
+
+		System.out.println("### Query till sesame: ");
+		//db.question(query, queryVars);
+		db.question(query2, queryVars2);
+		
 	}
 
 }
-/*
-
-
-
-
-
-		String queryString = "SELECT ?v ?type WHERE {"
-				+ "?v <http://scn.cs.lth.se/rawproperty/född> ?type."
-				//+ " ?type <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> ."
-				+ "}";
-*/
