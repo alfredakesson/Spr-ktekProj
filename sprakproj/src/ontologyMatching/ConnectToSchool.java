@@ -19,6 +19,7 @@ import org.openrdf.repository.http.HTTPRepository;
 
 public class ConnectToSchool {
 	private Repository repo;
+	
 
 	public void connect() throws RepositoryException{
 		String sesameServer = "http://semantica.cs.lth.se:8080/openrdf-sesame";
