@@ -19,18 +19,22 @@ public class ToBeAShell {
 				"?art ?type1 ?value ." +
 				"}";
 		
-		String query2 = "select ?type where{" +
-				"<http://dbpedia.org/ontology/Place> ?type <http://dbpedia.org/ontology/Place> . " +
-				"}";
-		
-		
 		String[] queryVars = new String[3];
 		queryVars[0] = "type1";
 		queryVars[1] = "art";
 		queryVars[2] = "value";
 		
+		String query2 = "select ?type where{" +
+				"<http://dbpedia.org/ontology/Place> ?type <http://dbpedia.org/ontology/Place> . " +
+				"}";
+		
+		String[] queryVars2 = new String[1];
+		queryVars2[0] = "type";
+		
+
 		System.out.println("### Query till sesame: ");
-		db.question(query, queryVars);
+		//db.question(query, queryVars);
+		db.question(query2, queryVars2);
 		
 	}
 
