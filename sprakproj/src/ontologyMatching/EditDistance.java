@@ -52,7 +52,7 @@ public class EditDistance {
 		if(max >= 5){
 			return 1;
 		}
-		return 2*(5-max);
+		return 3*(5-max);
 		
 	}
 }
