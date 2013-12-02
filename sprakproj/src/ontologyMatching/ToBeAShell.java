@@ -27,7 +27,7 @@ public class ToBeAShell {
 		queryVars[2] = "value";
 		
 		String query2 = "select REDUCED ?type where{" +
-				"<http://dbpedia.org/ontology/Place> ?type <http://dbpedia.org/ontology/Place> . " +
+				"<http://dbpedia.org/ontology/Person> ?type <http://dbpedia.org/ontology/Place> . " +
 				"}";
 		
 		String[] queryVars2 = new String[1];
@@ -35,8 +35,8 @@ public class ToBeAShell {
 		
 
 		System.out.println("### Query till sesame: ");
-		ArrayList<String[]> res = db.question(query, queryVars);
-		//ArrayList<String[]> res = db.question(query2, queryVars2);
+		//ArrayList<String[]> res = db.question(query, queryVars);
+		db.questionSyso(query2, queryVars2);
 		
 	}
 
