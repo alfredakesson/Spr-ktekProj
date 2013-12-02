@@ -24,7 +24,7 @@ public class ToBeAShell {
 		queryVars[1] = "art";
 		queryVars[2] = "value";
 		
-		String query2 = "select ?type where{" +
+		String query2 = "select REDUCED ?type where{" +
 				"<http://dbpedia.org/ontology/Place> ?type <http://dbpedia.org/ontology/Place> . " +
 				"}";
 		
