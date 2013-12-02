@@ -1,5 +1,7 @@
 package ontologyMatching;
 
+import java.util.ArrayList;
+
 import org.openrdf.repository.RepositoryException;
 
 
@@ -33,8 +35,8 @@ public class ToBeAShell {
 		
 
 		System.out.println("### Query till sesame: ");
-		//db.question(query, queryVars);
-		db.question(query2, queryVars2);
+		ArrayList<String[]> res = db.question(query, queryVars);
+		//ArrayList<String[]> res = db.question(query2, queryVars2);
 		
 	}
 
