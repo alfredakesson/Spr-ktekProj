@@ -1,6 +1,8 @@
 package ontologyMatching;
 
 
+import java.util.ArrayList;
+
 import org.openrdf.model.Value;
 import org.openrdf.query.BindingSet;
 import org.openrdf.query.QueryLanguage;
@@ -24,7 +26,7 @@ public class ConnectToSchool {
 	}
 	
 
-	public void question(String queryString, String[] variable) {
+	public void questionSyso(String queryString, String[] variable) {
 		try {
 			RepositoryConnection con = repo.getConnection();
 			try {
@@ -36,8 +38,8 @@ public class ConnectToSchool {
 					Value val1, val2, val3, val4;
 					while (result.hasNext()) {
 						BindingSet bindingSet = result.next();
-						switch (variable.length){
-						case 1:	
+						switch (variable.length) {
+						case 1:
 							val1 = bindingSet.getValue(variable[0]);
 							System.out.println(variable[0] + "\t" + val1);
 							break;
@@ -46,7 +48,7 @@ public class ConnectToSchool {
 							val2 = bindingSet.getValue(variable[1]);
 							System.out.println(variable[0] + "\t" + val1);
 							System.out.println(variable[1] + "\t" + val2);
-							break; 
+							break;
 						case 3:
 							val1 = bindingSet.getValue(variable[0]);
 							val2 = bindingSet.getValue(variable[1]);
@@ -54,7 +56,7 @@ public class ConnectToSchool {
 							System.out.println(variable[0] + "\t" + val1);
 							System.out.println(variable[1] + "\t" + val2);
 							System.out.println(variable[2] + "\t" + val3);
-							break; 
+							break;
 						case 4:
 							val1 = bindingSet.getValue(variable[0]);
 							val2 = bindingSet.getValue(variable[1]);
@@ -64,15 +66,12 @@ public class ConnectToSchool {
 							System.out.println(variable[1] + "\t" + val2);
 							System.out.println(variable[2] + "\t" + val3);
 							System.out.println(variable[3] + "\t" + val4);
-							break; 
+							break;
 						}
-						
+
 					}
-				}
-				// finally {
-				// result.close();
-				catch (Exception e) {
-					System.out.println("ERRROERRRR");
+				} finally {
+					result.close();
 				}
 			} finally {
 				con.close();
@@ -82,6 +81,67 @@ public class ConnectToSchool {
 			e.printStackTrace();
 			System.out.println("eeee");
 		}
+	}
+	
+	public ArrayList<String[]> question(String queryString, String[] variable) {
+		ArrayList<String[]> returnList = new ArrayList<String[]>();
+		try {
+			RepositoryConnection con = repo.getConnection();
+			try {
+
+				TupleQuery tupleQuery = con.prepareTupleQuery(
+						QueryLanguage.SPARQL, queryString);
+				TupleQueryResult result = tupleQuery.evaluate();
+				try {
+					Value val1, val2, val3, val4;
+					String[] types;
+					while (result.hasNext()) {
+						BindingSet bindingSet = result.next();
+						switch (variable.length) {
+						case 1:
+							val1 = bindingSet.getValue(variable[0]);
+							types = new String[] { val1.toString() };
+							returnList.add(types);
+							break;
+						case 2:
+							val1 = bindingSet.getValue(variable[0]);
+							val2 = bindingSet.getValue(variable[1]);
+							types = new String[] { val1.toString(),
+									val2.toString() };
+							returnList.add(types);
+							break;
+						case 3:
+							val1 = bindingSet.getValue(variable[0]);
+							val2 = bindingSet.getValue(variable[1]);
+							val3 = bindingSet.getValue(variable[2]);
+							types = new String[] { val1.toString(),
+									val2.toString(), val3.toString() };
+							returnList.add(types);
+							break;
+						case 4:
+							val1 = bindingSet.getValue(variable[0]);
+							val2 = bindingSet.getValue(variable[1]);
+							val3 = bindingSet.getValue(variable[2]);
+							val4 = bindingSet.getValue(variable[3]);
+							types = new String[] { val1.toString(),
+									val2.toString(), val3.toString(),
+									val4.toString() };
+							returnList.add(types);
+							break;
+						}
+
+					}
+				} finally {
+					result.close();
+				}
+			} finally {
+				con.close();
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return returnList; 
 	}
 }
 
