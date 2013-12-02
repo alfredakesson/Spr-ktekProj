@@ -108,6 +108,11 @@ public class Database {
 	
 	
 	private String fixDate(String object) {
+		
+		//<http://www.w3.org/2001/XMLSchema#date>
+		//"322"^^<http://www.w3.org/2001/XMLSchema#integer> 
+		//"322"^^<http://www.w3.org/2001/XMLSchema#integer>
+		
 		String[] list = object.split("-");
 		int toAdd = 4 -list[0].length();
 		for(int i = 0;i<toAdd;i++){
