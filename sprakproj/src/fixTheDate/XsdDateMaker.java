@@ -56,7 +56,7 @@ public class XsdDateMaker {
 			while (rs.next()) {
 				numArt++;
 				
-				String property = "bornDate";
+				String property = "birthDate";
 				String article = null;
 				String value = null;
 
@@ -75,31 +75,37 @@ public class XsdDateMaker {
 					value = rs.getString("val");
 					if(value.substring(5).equals("00-00")){
 						//Year
-						value = "\"" + value + "\"" + "^^xsd:gYear";
+						value = "\"" + value.substring(0, 4) + "\"" + "^^<http://www.w3.org/TR/xmlschema-2#gYear>";
 					}
 					else if(value.substring(8).equals("00")){
 						//Year-month
-						value = "\"" + value + "\"" + "^^xsd:gYearMonth";
+						value = "\"" + value.substring(0, 7) + "\"" + "^^<http://www.w3.org/TR/xmlschema-2#gYearMonth>";
 					}
 					else{
 						//Year-month-day
-						value = "\"" + value + "\"" + "^^xsd:date";
+						value = "\"" + value + "\"" + "^^<http://www.w3.org/2001/XMLSchema#date>";
 					}
 					
 				} catch (SQLException e) {
 					e.printStackTrace();
 					continue;
 				}
-				
 				try {
 					bw.append("<http://semantica.cs.lth.se/scns/article/" + article
-					+ "> <http://semantica.cs.lth.se/scns/rawProperty/"
+					+ "> <http://semantica.cs.lth.se/scns/date/"
 					+ property + "> " + value + " . \n");
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
 				
 			}
+			try {
+				bw.close();
+				fw.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			
 			System.out.println(numArt);
 		} catch (SQLException e) {
 			e.printStackTrace();
