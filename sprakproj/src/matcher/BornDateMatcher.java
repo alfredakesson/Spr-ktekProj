@@ -40,17 +40,16 @@ public class BornDateMatcher extends DateMatcher implements PossibleMatch{
 			bcMatcher = bcPattern.matcher(wikiValue);
 			acMatcher = acPattern.matcher(wikiValue);
 			
-			try{
-				
-			if(bcMatcher.find()){
-				db.insertTriple(pageTitle.replaceAll(" ", "_"), "kristus", bcMatcher.group(0), "kristus");		
+		try {
+
+			// /lägga till "-" här!?
+			if (bcMatcher.find()) {
+				db.insertTriple(pageTitle.replaceAll(" ", "_"), "kristus",
+						bcMatcher.group(0), "kristus");
 			}
-			if(acMatcher.find()){
-				db.insertTriple(pageTitle.replaceAll(" ", "_"), "kristus", acMatcher.group(0), "kristus");
-			}
-			} catch(Exception e){
-				
-			}
+		} catch (Exception e) {
+
+		}
 			//END OF TMP
 			
 			

@@ -75,11 +75,11 @@ public class XsdDateMaker {
 					value = rs.getString("val");
 					if(value.substring(5).equals("00-00")){
 						//Year
-						value = "\"" + value.substring(0, 4) + "\"" + "^^<http://www.w3.org/TR/xmlschema-2#gYear>";
+						value = "\"" + value.substring(0, 4) + "\"" + "^^<http://www.w3.org/2001/XMLSchema#gYear>";
 					}
 					else if(value.substring(8).equals("00")){
 						//Year-month
-						value = "\"" + value.substring(0, 7) + "\"" + "^^<http://www.w3.org/TR/xmlschema-2#gYearMonth>";
+						value = "\"" + value.substring(0, 7) + "\"" + "^^<http://www.w3.org/2001/XMLSchema#gYearMonth>";
 					}
 					else{
 						//Year-month-day
@@ -91,7 +91,7 @@ public class XsdDateMaker {
 					continue;
 				}
 				try {
-					bw.append("<http://semantica.cs.lth.se/scns/article/" + article
+					bw.append("<http://sv.dbpedia.org/resource/" + article
 					+ "> <http://semantica.cs.lth.se/scns/date/"
 					+ property + "> " + value + " . \n");
 				} catch (IOException e) {
